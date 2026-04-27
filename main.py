@@ -2,13 +2,12 @@ import json, os, random, datetime, sqlite3, asyncio, glob, logging
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
     Application, CommandHandler, CallbackQueryHandler, ContextTypes,
-    ConversationHandler, MessageHandler, filters
+    ConversationHandler
 )
 from telegram.constants import ParseMode
-from telegram.request import HTTPXRequest
 from telegram.error import NetworkError
 
-# Logging for debugging proxy issues
+# Logging
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -87,11 +86,9 @@ def main_menu_kb():
 def get_quiz_kb(q, mode):
     opts = q["_shuffled_opts"]
     kb = []
-    # Grid layout for options
     for i in range(0, len(opts), 2):
         row = [InlineKeyboardButton(f"{chr(65+j)}", callback_data=f"ans_{mode}_{j}") for j in range(i, min(i+2, len(opts)))]
         kb.append(row)
-    # Control Bar
     kb.append([
         InlineKeyboardButton("⬅️ Prev", callback_data=f"prev_{mode}"),
         InlineKeyboardButton("⏭️ Skip", callback_data=f"skip_{mode}"),
@@ -101,13 +98,13 @@ def get_quiz_kb(q, mode):
 
 # ------------------------- RESILIENCE WRAPPER -------------------------
 async def safe_edit(query, text, reply_markup=None):
-    """Retries editing a message multiple times to bypass 503 proxy errors."""
-    for i in range(5):
+    """Retries editing a message to handle minor network blips gracefully."""
+    for _ in range(3):
         try:
             return await query.edit_message_text(text, parse_mode=ParseMode.MARKDOWN, reply_markup=reply_markup)
         except NetworkError:
-            await asyncio.sleep(1) # Wait for proxy to clear
-    logger.warning("Safe edit failed after 5 retries.")
+            await asyncio.sleep(0.5)
+    logger.warning("Safe edit failed after 3 retries.")
 
 # ------------------------- HANDLERS -------------------------
 async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -122,6 +119,9 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     data = query.data
     if data == "practice":
         chapters = sorted({q.get("chapter", "Gen") for q in load_all_questions()})
+        if not chapters:
+            await safe_edit(query, "❌ No questions found. Please add JSON files to the folder.", main_menu_kb())
+            return ConversationHandler.END
         kb = [[InlineKeyboardButton(f"📂 {ch}", callback_data=f"pchap_{ch}")] for ch in chapters]
         kb.append([InlineKeyboardButton("« Back", callback_data="main")])
         await safe_edit(query, "🎯 *Select Subject:*", InlineKeyboardMarkup(kb))
@@ -135,13 +135,17 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     elif data.startswith("pdiff_"):
         context.user_data["p_diff"] = data[6:]
-        kb = [[InlineKeyboardButton(str(n), callback_data=f"pnum_{n}")] for n in [10, 20, 50]]
+        kb = [[InlineKeyboardButton(str(n), callback_data=f"pnum_{n}")] for n in [10, 20, 50, 100]]
         await safe_edit(query, "🔢 *Questions:*", InlineKeyboardMarkup(kb))
         return PRACTICE_CHOOSE_NUM
 
     elif data.startswith("pnum_"):
         num = int(data[5:])
         qs = get_unseen_questions(update.effective_user.id, {"chapter": context.user_data["p_chapter"]}, num)
+        if not qs:
+            await safe_edit(query, "⚠️ No matching questions found.", main_menu_kb())
+            return ConversationHandler.END
+            
         for q in qs:
             o = q["options"][:]
             random.shuffle(o)
@@ -152,6 +156,10 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     elif data == "mock_start":
         qs = get_unseen_questions(update.effective_user.id, {}, 100)
+        if not qs:
+            await safe_edit(query, "⚠️ Question database is empty.", main_menu_kb())
+            return ConversationHandler.END
+            
         for q in qs:
             o = q["options"][:]
             random.shuffle(o)
@@ -165,11 +173,14 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return ConversationHandler.END
 
 async def send_q(query, context):
-    idx, qs, mode = context.user_data["idx"], context.user_data["qs"], context.user_data["mode"]
-    if idx >= len(qs): return await finish(query, context)
-    q = qs[idx]
+    idx = context.user_data.get("idx", 0)
+    qs = context.user_data.get("qs", [])
+    mode = context.user_data.get("mode", "practice")
     
-    # Format options list for the message body
+    if idx >= len(qs): 
+        return await finish(query, context)
+        
+    q = qs[idx]
     opts_text = "\n".join([f"*{chr(65+i)}.* {opt}" for i, opt in enumerate(q["_shuffled_opts"])])
     txt = f"📝 *Question {idx+1}/{len(qs)}*\n\n{q['question']}\n\n{opts_text}"
     
@@ -180,11 +191,10 @@ async def quiz_logic(update: Update, context: ContextTypes.DEFAULT_TYPE):
     data_parts = query.data.split("_")
     action, mode = data_parts[0], data_parts[1]
     
-    # Safely get current index and questions list
     idx = context.user_data.get("idx", 0)
     qs = context.user_data.get("qs", [])
     
-    # 🛡️ SAFETY CHECK: If index somehow exceeds the list, end the quiz immediately to prevent IndexError
+    # Safety Check: Prevent IndexError
     if idx >= len(qs):
         await finish(query, context)
         return ConversationHandler.END
@@ -194,7 +204,6 @@ async def quiz_logic(update: Update, context: ContextTypes.DEFAULT_TYPE):
         q = qs[idx]
         is_cor = q["_shuffled_opts"][ans_idx] == q["answer"]
         
-        # Immediate feedback via pop-up alert
         feedback = "✅ Correct!" if is_cor else f"❌ Wrong! Ans: {q['answer']}"
         try: await query.answer(feedback, show_alert=False) 
         except: pass
@@ -202,12 +211,10 @@ async def quiz_logic(update: Update, context: ContextTypes.DEFAULT_TYPE):
         if is_cor: context.user_data["correct"] += 1
         
         if mode == "practice":
-            # Show detailed result + explanation in Practice mode
             res_txt = f"{feedback}\n\n📖 *Explanation:*\n{q.get('explanation', 'Not provided.')}"
             kb = InlineKeyboardMarkup([[InlineKeyboardButton("Next Question ➡️", callback_data=f"skip_{mode}")]])
             await safe_edit(query, res_txt, kb)
         else:
-            # Auto-advance in Mock mode for speed
             context.user_data["idx"] += 1
             await send_q(query, context)
             
@@ -224,7 +231,7 @@ async def quiz_logic(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def finish(query, context):
     mode = context.user_data.get("mode", "practice")
     total_attempted = context.user_data.get("idx", 0)
-    if total_attempted == 0: total_attempted = 1 # Avoid div by zero
+    if total_attempted == 0: total_attempted = 1 
     perc = save_session(query.from_user.id, mode, context.user_data.get("correct", 0), total_attempted)
     
     txt = f"🏁 *Test Finished!*\n\n✅ Correct: `{context.user_data.get('correct', 0)}`\n📊 Accuracy: `{perc}%`"
@@ -233,9 +240,9 @@ async def finish(query, context):
 # ------------------------- MAIN -------------------------
 def main():
     init_db()
-    # Corrected proxy config and high-latency settings
-    t_req = HTTPXRequest(proxy="http://proxy.server:3128", connect_timeout=60.0, read_timeout=60.0)
-    app = Application.builder().token(BOT_TOKEN).request(t_req).build()
+    
+    # Direct connection for Pella (No proxy needed)
+    app = Application.builder().token(BOT_TOKEN).build()
 
     conv = ConversationHandler(
         entry_points=[CallbackQueryHandler(button_handler, pattern="^(practice|mock_start|main)$")],
@@ -251,8 +258,10 @@ def main():
     app.add_handler(CommandHandler("start", start_cmd))
     app.add_handler(conv)
     
-    print("Bot starting with Safe-Edit technology and Index Armor...")
-    app.run_polling(poll_interval=3.0)
+    print("Bot starting on Pella with Direct Connection...")
+    # Fast polling interval for instant responses
+    app.run_polling(poll_interval=1.0)
 
 if __name__ == "__main__":
     main()
+        
