@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "MS_001",
+    "question": "Most common symptom of myocardial infarction is:",
+    "options": [
+      "Headache",
+      "Chest pain",
+      "Fever",
+      "Vomiting"
+    ],
+    "answer": "Chest pain",
+    "difficulty": "easy",
+    "explanation": "Severe chest pain is classic MI symptom.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_002",
+    "question": "Myocardial infarction is caused by:",
+    "options": [
+      "Infection",
+      "Coronary artery blockage",
+      "Fever",
+      "Allergy"
+    ],
+    "answer": "Coronary artery blockage",
+    "difficulty": "medium",
+    "explanation": "Reduced blood flow to heart muscle.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_003",
+    "question": "Normal adult blood pressure is:",
+    "options": [
+      "90/60 mmHg",
+      "120/80 mmHg",
+      "140/90 mmHg",
+      "160/100 mmHg"
+    ],
+    "answer": "120/80 mmHg",
+    "difficulty": "easy",
+    "explanation": "Standard normal BP.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_004",
+    "question": "Hypertension means:",
+    "options": [
+      "Low BP",
+      "High BP",
+      "Normal BP",
+      "Irregular pulse"
+    ],
+    "answer": "High BP",
+    "difficulty": "easy",
+    "explanation": "Persistent elevated blood pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_005",
+    "question": "First-line drug for hypertension often includes:",
+    "options": [
+      "Antibiotics",
+      "ACE inhibitors",
+      "Antifungals",
+      "Antivirals"
+    ],
+    "answer": "ACE inhibitors",
+    "difficulty": "medium",
+    "explanation": "Common antihypertensive class.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_006",
+    "question": "Asthma is characterized by:",
+    "options": [
+      "Bone pain",
+      "Airway narrowing",
+      "Skin rash",
+      "Fever"
+    ],
+    "answer": "Airway narrowing",
+    "difficulty": "easy",
+    "explanation": "Bronchoconstriction causes asthma.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_007",
+    "question": "Emergency drug for asthma attack is:",
+    "options": [
+      "Insulin",
+      "Salbutamol",
+      "Digoxin",
+      "Heparin"
+    ],
+    "answer": "Salbutamol",
+    "difficulty": "medium",
+    "explanation": "Bronchodilator used in acute attack.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_008",
+    "question": "COPD stands for:",
+    "options": [
+      "Chronic Obstructive Pulmonary Disease",
+      "Cardiac Output Pressure Disorder",
+      "Chronic Oxygen Problem Disease",
+      "None"
+    ],
+    "answer": "Chronic Obstructive Pulmonary Disease",
+    "difficulty": "medium",
+    "explanation": "Chronic lung disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_009",
+    "question": "Most common cause of COPD is:",
+    "options": [
+      "Smoking",
+      "Fever",
+      "Injury",
+      "Virus"
+    ],
+    "answer": "Smoking",
+    "difficulty": "easy",
+    "explanation": "Primary risk factor.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_010",
+    "question": "Tuberculosis mainly affects:",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Kidney",
+      "Liver"
+    ],
+    "answer": "Lungs",
+    "difficulty": "easy",
+    "explanation": "Pulmonary infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_011",
+    "question": "TB spreads through:",
+    "options": [
+      "Water",
+      "Air droplets",
+      "Food",
+      "Touch"
+    ],
+    "answer": "Air droplets",
+    "difficulty": "easy",
+    "explanation": "Airborne transmission.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_012",
+    "question": "Most common symptom of TB is:",
+    "options": [
+      "Cough",
+      "Headache",
+      "Skin rash",
+      "Vomiting"
+    ],
+    "answer": "Cough",
+    "difficulty": "easy",
+    "explanation": "Persistent cough with sputum.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_013",
+    "question": "Diabetes mellitus is disorder of:",
+    "options": [
+      "Protein",
+      "Carbohydrate metabolism",
+      "Fat only",
+      "Calcium"
+    ],
+    "answer": "Carbohydrate metabolism",
+    "difficulty": "easy",
+    "explanation": "Insulin-related disorder.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_014",
+    "question": "Normal fasting blood sugar is:",
+    "options": [
+      "70–100 mg/dL",
+      "120–160 mg/dL",
+      "200–300 mg/dL",
+      "50–60 mg/dL"
+    ],
+    "answer": "70–100 mg/dL",
+    "difficulty": "medium",
+    "explanation": "Normal glucose range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_015",
+    "question": "Insulin is produced by:",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Kidney",
+      "Heart"
+    ],
+    "answer": "Pancreas",
+    "difficulty": "easy",
+    "explanation": "Beta cells secrete insulin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_016",
+    "question": "Hypoglycemia means:",
+    "options": [
+      "High sugar",
+      "Low sugar",
+      "Normal sugar",
+      "No sugar"
+    ],
+    "answer": "Low sugar",
+    "difficulty": "easy",
+    "explanation": "Dangerously low glucose level.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_017",
+    "question": "Hyperglycemia means:",
+    "options": [
+      "Low sugar",
+      "High sugar",
+      "Normal sugar",
+      "No sugar"
+    ],
+    "answer": "High sugar",
+    "difficulty": "easy",
+    "explanation": "Elevated blood glucose.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_018",
+    "question": "Stroke is also called:",
+    "options": [
+      "MI",
+      "CVA",
+      "TB",
+      "COPD"
+    ],
+    "answer": "CVA",
+    "difficulty": "medium",
+    "explanation": "Cerebrovascular accident.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_019",
+    "question": "Stroke affects:",
+    "options": [
+      "Heart",
+      "Brain",
+      "Kidney",
+      "Liver"
+    ],
+    "answer": "Brain",
+    "difficulty": "easy",
+    "explanation": "Brain blood supply loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_020",
+    "question": "Most common cause of stroke is:",
+    "options": [
+      "Infection",
+      "Hypertension",
+      "Allergy",
+      "Fever"
+    ],
+    "answer": "Hypertension",
+    "difficulty": "medium",
+    "explanation": "Major risk factor.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_021",
+    "question": "Heart failure means:",
+    "options": [
+      "Heart stops",
+      "Heart cannot pump effectively",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Heart cannot pump effectively",
+    "difficulty": "medium",
+    "explanation": "Reduced cardiac output.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_022",
+    "question": "Edema in heart failure is due to:",
+    "options": [
+      "Fluid overload",
+      "Infection",
+      "Cancer",
+      "Allergy"
+    ],
+    "answer": "Fluid overload",
+    "difficulty": "medium",
+    "explanation": "Poor circulation causes fluid retention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_023",
+    "question": "Angina pectoris is:",
+    "options": [
+      "Lung infection",
+      "Chest pain due to ischemia",
+      "Fever",
+      "Stroke"
+    ],
+    "answer": "Chest pain due to ischemia",
+    "difficulty": "medium",
+    "explanation": "Reduced coronary blood flow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_024",
+    "question": "Nitroglycerin is used in:",
+    "options": [
+      "Diabetes",
+      "Angina",
+      "Asthma",
+      "TB"
+    ],
+    "answer": "Angina",
+    "difficulty": "medium",
+    "explanation": "Vasodilator for chest pain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_025",
+    "question": "Arrhythmia means:",
+    "options": [
+      "Normal rhythm",
+      "Irregular heartbeat",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Irregular heartbeat",
+    "difficulty": "easy",
+    "explanation": "Abnormal heart rhythm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_026",
+    "question": "ECG is used to check:",
+    "options": [
+      "Brain activity",
+      "Heart activity",
+      "Liver function",
+      "Kidney function"
+    ],
+    "answer": "Heart activity",
+    "difficulty": "easy",
+    "explanation": "Electrical activity of heart.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_027",
+    "question": "Normal heart rate is:",
+    "options": [
+      "40–60 bpm",
+      "60–100 bpm",
+      "100–140 bpm",
+      "140–180 bpm"
+    ],
+    "answer": "60–100 bpm",
+    "difficulty": "easy",
+    "explanation": "Normal adult pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_028",
+    "question": "Bradycardia means:",
+    "options": [
+      "Fast heart rate",
+      "Slow heart rate",
+      "No heartbeat",
+      "Irregular breathing"
+    ],
+    "answer": "Slow heart rate",
+    "difficulty": "easy",
+    "explanation": "Below 60 bpm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_029",
+    "question": "Tachycardia means:",
+    "options": [
+      "Slow heart rate",
+      "Fast heart rate",
+      "No pulse",
+      "Chest pain"
+    ],
+    "answer": "Fast heart rate",
+    "difficulty": "easy",
+    "explanation": "Above 100 bpm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_030",
+    "question": "Pulmonary edema affects:",
+    "options": [
+      "Brain",
+      "Lungs",
+      "Kidney",
+      "Skin"
+    ],
+    "answer": "Lungs",
+    "difficulty": "medium",
+    "explanation": "Fluid in lungs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_031",
+    "question": "Most common cause of pulmonary edema:",
+    "options": [
+      "Heart failure",
+      "Fever",
+      "Infection",
+      "Allergy"
+    ],
+    "answer": "Heart failure",
+    "difficulty": "medium",
+    "explanation": "Back pressure in lungs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_032",
+    "question": "Asthma attack treatment includes:",
+    "options": [
+      "Salbutamol",
+      "Insulin",
+      "Paracetamol",
+      "Digoxin"
+    ],
+    "answer": "Salbutamol",
+    "difficulty": "medium",
+    "explanation": "Bronchodilator.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_033",
+    "question": "Oxygen therapy is given in:",
+    "options": [
+      "Fever",
+      "Hypoxia",
+      "Diabetes",
+      "Allergy"
+    ],
+    "answer": "Hypoxia",
+    "difficulty": "easy",
+    "explanation": "Low oxygen levels.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_034",
+    "question": "Normal oxygen saturation is:",
+    "options": [
+      "70–80%",
+      "80–85%",
+      "95–100%",
+      "60–70%"
+    ],
+    "answer": "95–100%",
+    "difficulty": "easy",
+    "explanation": "SpO2 normal range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_035",
+    "question": "Pulse oximeter measures:",
+    "options": [
+      "BP",
+      "Oxygen saturation",
+      "Sugar",
+      "Temperature"
+    ],
+    "answer": "Oxygen saturation",
+    "difficulty": "easy",
+    "explanation": "SpO2 measurement device.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_036",
+    "question": "Hemoptysis means:",
+    "options": [
+      "Vomiting",
+      "Coughing blood",
+      "Fever",
+      "Headache"
+    ],
+    "answer": "Coughing blood",
+    "difficulty": "medium",
+    "explanation": "Blood in sputum.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_037",
+    "question": "Hematuria means:",
+    "options": [
+      "Blood in urine",
+      "Blood in stool",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Blood in urine",
+    "difficulty": "easy",
+    "explanation": "Urinary bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_038",
+    "question": "Melena means:",
+    "options": [
+      "Blood in urine",
+      "Black stool due to blood",
+      "Vomiting",
+      "Fever"
+    ],
+    "answer": "Black stool due to blood",
+    "difficulty": "medium",
+    "explanation": "Upper GI bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_039",
+    "question": "Jaundice is caused by:",
+    "options": [
+      "Glucose",
+      "Bilirubin",
+      "Protein",
+      "Calcium"
+    ],
+    "answer": "Bilirubin",
+    "difficulty": "easy",
+    "explanation": "Liver dysfunction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_040",
+    "question": "Ascites is fluid in:",
+    "options": [
+      "Chest",
+      "Abdomen",
+      "Brain",
+      "Skin"
+    ],
+    "answer": "Abdomen",
+    "difficulty": "easy",
+    "explanation": "Peritoneal fluid accumulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_041",
+    "question": "Cirrhosis affects:",
+    "options": [
+      "Heart",
+      "Liver",
+      "Kidney",
+      "Brain"
+    ],
+    "answer": "Liver",
+    "difficulty": "medium",
+    "explanation": "Chronic liver disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_042",
+    "question": "Hepatitis is:",
+    "options": [
+      "Lung infection",
+      "Liver inflammation",
+      "Heart disease",
+      "Kidney failure"
+    ],
+    "answer": "Liver inflammation",
+    "difficulty": "easy",
+    "explanation": "Viral liver infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_043",
+    "question": "Appendicitis affects:",
+    "options": [
+      "Heart",
+      "Appendix",
+      "Liver",
+      "Kidney"
+    ],
+    "answer": "Appendix",
+    "difficulty": "easy",
+    "explanation": "Inflammation of appendix.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_044",
+    "question": "Most common symptom of appendicitis:",
+    "options": [
+      "Chest pain",
+      "Right lower abdominal pain",
+      "Cough",
+      "Headache"
+    ],
+    "answer": "Right lower abdominal pain",
+    "difficulty": "medium",
+    "explanation": "Classic RLQ pain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_045",
+    "question": "Peptic ulcer affects:",
+    "options": [
+      "Stomach/duodenum",
+      "Heart",
+      "Liver",
+      "Brain"
+    ],
+    "answer": "Stomach/duodenum",
+    "difficulty": "medium",
+    "explanation": "Mucosal erosion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_046",
+    "question": "Most common cause of peptic ulcer:",
+    "options": [
+      "H. pylori",
+      "Virus",
+      "Fungus",
+      "Stress only"
+    ],
+    "answer": "H. pylori",
+    "difficulty": "medium",
+    "explanation": "Bacterial infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_047",
+    "question": "Vomiting blood is called:",
+    "options": [
+      "Hematuria",
+      "Hematemesis",
+      "Melena",
+      "Epistaxis"
+    ],
+    "answer": "Hematemesis",
+    "difficulty": "easy",
+    "explanation": "Upper GI bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_048",
+    "question": "Diarrhea causes:",
+    "options": [
+      "Dehydration",
+      "Weight gain",
+      "Hypertension",
+      "Fever only"
+    ],
+    "answer": "Dehydration",
+    "difficulty": "easy",
+    "explanation": "Fluid loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_049",
+    "question": "Most dangerous complication of diarrhea:",
+    "options": [
+      "Dehydration",
+      "Hair loss",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Dehydration",
+    "difficulty": "easy",
+    "explanation": "Life-threatening fluid loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_050",
+    "question": "IV fluids are used to treat:",
+    "options": [
+      "Dehydration",
+      "Fever",
+      "Cough",
+      "Headache"
+    ],
+    "answer": "Dehydration",
+    "difficulty": "easy",
+    "explanation": "Fluid replacement therapy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_051",
+    "question": "Sepsis means:",
+    "options": [
+      "Fever",
+      "Severe infection in blood",
+      "Pain",
+      "Allergy"
+    ],
+    "answer": "Severe infection in blood",
+    "difficulty": "medium",
+    "explanation": "Systemic infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_052",
+    "question": "Shock is:",
+    "options": [
+      "High BP",
+      "Low tissue perfusion",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Low tissue perfusion",
+    "difficulty": "medium",
+    "explanation": "Organ hypoperfusion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_053",
+    "question": "Anaphylaxis is treated with:",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Paracetamol",
+      "Aspirin"
+    ],
+    "answer": "Adrenaline",
+    "difficulty": "medium",
+    "explanation": "Emergency allergy treatment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_054",
+    "question": "Burns are classified by:",
+    "options": [
+      "Depth",
+      "Color",
+      "Shape",
+      "Age"
+    ],
+    "answer": "Depth",
+    "difficulty": "easy",
+    "explanation": "Degree of tissue damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_055",
+    "question": "First-degree burn affects:",
+    "options": [
+      "Skin only",
+      "Muscle",
+      "Bone",
+      "Fat"
+    ],
+    "answer": "Skin only",
+    "difficulty": "easy",
+    "explanation": "Superficial burn.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_056",
+    "question": "Second-degree burn affects:",
+    "options": [
+      "Epidermis only",
+      "Epidermis + dermis",
+      "Bone",
+      "Muscle only"
+    ],
+    "answer": "Epidermis + dermis",
+    "difficulty": "medium",
+    "explanation": "Partial thickness burn.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_057",
+    "question": "Third-degree burn affects:",
+    "options": [
+      "Skin only",
+      "All skin layers",
+      "Muscle only",
+      "Bone only"
+    ],
+    "answer": "All skin layers",
+    "difficulty": "medium",
+    "explanation": "Full thickness burn.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_058",
+    "question": "Burn shock is due to:",
+    "options": [
+      "Fluid loss",
+      "Fever",
+      "Allergy",
+      "Infection"
+    ],
+    "answer": "Fluid loss",
+    "difficulty": "medium",
+    "explanation": "Plasma loss from burns.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_059",
+    "question": "Fracture is:",
+    "options": [
+      "Bone break",
+      "Muscle pain",
+      "Skin rash",
+      "Infection"
+    ],
+    "answer": "Bone break",
+    "difficulty": "easy",
+    "explanation": "Bone discontinuity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_060",
+    "question": "Most common symptom of fracture:",
+    "options": [
+      "Fever",
+      "Pain",
+      "Cough",
+      "Vomiting"
+    ],
+    "answer": "Pain",
+    "difficulty": "easy",
+    "explanation": "Severe localized pain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_061",
+    "question": "Normal adult urine output per day is:",
+    "options": [
+      "100–200 ml",
+      "500–800 ml",
+      "1000–2000 ml",
+      "2500–3000 ml"
+    ],
+    "answer": "1000–2000 ml",
+    "difficulty": "easy",
+    "explanation": "Normal urine output is about 1–2 liters/day.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_062",
+    "question": "Oliguria means:",
+    "options": [
+      "Increased urine output",
+      "Decreased urine output",
+      "No urine",
+      "Normal urine"
+    ],
+    "answer": "Decreased urine output",
+    "difficulty": "easy",
+    "explanation": "Less than 400 ml/day.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_063",
+    "question": "Anuria means:",
+    "options": [
+      "Normal urine",
+      "No urine output",
+      "Excess urine",
+      "Painful urination"
+    ],
+    "answer": "No urine output",
+    "difficulty": "easy",
+    "explanation": "Severe kidney failure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_064",
+    "question": "Polyuria means:",
+    "options": [
+      "Low urine",
+      "Excess urine",
+      "No urine",
+      "Blood urine"
+    ],
+    "answer": "Excess urine",
+    "difficulty": "easy",
+    "explanation": "Common in diabetes mellitus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_065",
+    "question": "Hemodialysis is used in:",
+    "options": [
+      "Heart failure",
+      "Kidney failure",
+      "Lung disease",
+      "Liver disease"
+    ],
+    "answer": "Kidney failure",
+    "difficulty": "medium",
+    "explanation": "Removes waste from blood.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_066",
+    "question": "Dialysis works as a replacement for:",
+    "options": [
+      "Lungs",
+      "Kidneys",
+      "Heart",
+      "Liver"
+    ],
+    "answer": "Kidneys",
+    "difficulty": "easy",
+    "explanation": "Artificial filtration system.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_067",
+    "question": "UTI stands for:",
+    "options": [
+      "Urinary Tract Infection",
+      "Upper Tissue Infection",
+      "Uterine Tube Infection",
+      "Urine Toxic Injury"
+    ],
+    "answer": "Urinary Tract Infection",
+    "difficulty": "easy",
+    "explanation": "Infection of urinary system.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_068",
+    "question": "Most common organism causing UTI:",
+    "options": [
+      "E. coli",
+      "Staphylococcus",
+      "Virus",
+      "Fungus"
+    ],
+    "answer": "E. coli",
+    "difficulty": "medium",
+    "explanation": "Bacteria from intestine.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_069",
+    "question": "Dysuria means:",
+    "options": [
+      "Painful urination",
+      "Frequent urination",
+      "No urination",
+      "Blood urine"
+    ],
+    "answer": "Painful urination",
+    "difficulty": "easy",
+    "explanation": "Burning sensation while urinating.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_070",
+    "question": "Renal failure affects:",
+    "options": [
+      "Heart",
+      "Kidneys",
+      "Lungs",
+      "Brain"
+    ],
+    "answer": "Kidneys",
+    "difficulty": "easy",
+    "explanation": "Loss of kidney function.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_071",
+    "question": "Acute renal failure is:",
+    "options": [
+      "Sudden kidney loss",
+      "Chronic infection",
+      "Heart disease",
+      "Liver failure"
+    ],
+    "answer": "Sudden kidney loss",
+    "difficulty": "medium",
+    "explanation": "Rapid decline in kidney function.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_072",
+    "question": "Chronic kidney disease develops over:",
+    "options": [
+      "Hours",
+      "Days",
+      "Months/years",
+      "Minutes"
+    ],
+    "answer": "Months/years",
+    "difficulty": "easy",
+    "explanation": "Slow progressive failure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_073",
+    "question": "Uremia means:",
+    "options": [
+      "High sugar",
+      "Waste in blood due to kidney failure",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Waste in blood due to kidney failure",
+    "difficulty": "medium",
+    "explanation": "Toxin accumulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_074",
+    "question": "Most common symptom of kidney failure:",
+    "options": [
+      "Cough",
+      "Edema",
+      "Rash",
+      "Headache"
+    ],
+    "answer": "Edema",
+    "difficulty": "easy",
+    "explanation": "Fluid retention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_075",
+    "question": "Dialysis access is called:",
+    "options": [
+      "Shunt",
+      "Stent",
+      "Tube",
+      "Catheter only"
+    ],
+    "answer": "Shunt",
+    "difficulty": "medium",
+    "explanation": "AV fistula/shunt used.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_076",
+    "question": "Hematuria indicates:",
+    "options": [
+      "Sugar in urine",
+      "Blood in urine",
+      "Protein only",
+      "Pus only"
+    ],
+    "answer": "Blood in urine",
+    "difficulty": "easy",
+    "explanation": "Urinary bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_077",
+    "question": "Proteinuria means:",
+    "options": [
+      "Protein in urine",
+      "Sugar in urine",
+      "Blood in urine",
+      "No urine"
+    ],
+    "answer": "Protein in urine",
+    "difficulty": "easy",
+    "explanation": "Kidney damage sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_078",
+    "question": "Edema in nephrotic syndrome is due to:",
+    "options": [
+      "Protein loss",
+      "Sugar excess",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Protein loss",
+    "difficulty": "medium",
+    "explanation": "Low albumin causes swelling.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_079",
+    "question": "Nephritic syndrome primarily affects:",
+    "options": [
+      "Liver",
+      "Glomeruli",
+      "Heart",
+      "Lungs"
+    ],
+    "answer": "Glomeruli",
+    "difficulty": "hard",
+    "explanation": "Inflammation of kidney filters.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_080",
+    "question": "Most important function of kidneys:",
+    "options": [
+      "Digestion",
+      "Filtration of blood",
+      "Hormone production only",
+      "Breathing"
+    ],
+    "answer": "Filtration of blood",
+    "difficulty": "easy",
+    "explanation": "Waste removal organ.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_081",
+    "question": "Electrolyte imbalance affects:",
+    "options": [
+      "Nerves & muscles",
+      "Skin only",
+      "Hair",
+      "Bones only"
+    ],
+    "answer": "Nerves & muscles",
+    "difficulty": "medium",
+    "explanation": "Affects conduction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_082",
+    "question": "Hyponatremia means:",
+    "options": [
+      "High sodium",
+      "Low sodium",
+      "High potassium",
+      "Low calcium"
+    ],
+    "answer": "Low sodium",
+    "difficulty": "easy",
+    "explanation": "Na deficiency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_083",
+    "question": "Hyperkalemia is dangerous for:",
+    "options": [
+      "Brain",
+      "Heart",
+      "Skin",
+      "Liver"
+    ],
+    "answer": "Heart",
+    "difficulty": "medium",
+    "explanation": "Causes arrhythmia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_084",
+    "question": "Calcium is important for:",
+    "options": [
+      "Vision",
+      "Bone & muscle contraction",
+      "Breathing",
+      "Digestion"
+    ],
+    "answer": "Bone & muscle contraction",
+    "difficulty": "easy",
+    "explanation": "Structural mineral.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_085",
+    "question": "Magnesium deficiency causes:",
+    "options": [
+      "Arrhythmia",
+      "Hair growth",
+      "Fever",
+      "Weight gain"
+    ],
+    "answer": "Arrhythmia",
+    "difficulty": "medium",
+    "explanation": "Neuromuscular issue.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_086",
+    "question": "Seizure is caused by:",
+    "options": [
+      "Brain abnormal activity",
+      "Heart attack",
+      "Fever only",
+      "Liver failure"
+    ],
+    "answer": "Brain abnormal activity",
+    "difficulty": "easy",
+    "explanation": "Electrical discharge.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_087",
+    "question": "Epilepsy is:",
+    "options": [
+      "Single seizure",
+      "Recurrent seizures",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Recurrent seizures",
+    "difficulty": "easy",
+    "explanation": "Chronic neurological disorder.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_088",
+    "question": "Status epilepticus is:",
+    "options": [
+      "Short seizure",
+      "Continuous seizure emergency",
+      "Fever",
+      "Headache"
+    ],
+    "answer": "Continuous seizure emergency",
+    "difficulty": "hard",
+    "explanation": "Life-threatening condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_089",
+    "question": "Drug for seizures is:",
+    "options": [
+      "Insulin",
+      "Diazepam",
+      "Paracetamol",
+      "Aspirin"
+    ],
+    "answer": "Diazepam",
+    "difficulty": "medium",
+    "explanation": "Anticonvulsant.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_090",
+    "question": "Meningitis affects:",
+    "options": [
+      "Heart",
+      "Brain membranes",
+      "Liver",
+      "Kidney"
+    ],
+    "answer": "Brain membranes",
+    "difficulty": "medium",
+    "explanation": "Inflammation of meninges.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_091",
+    "question": "Classic sign of meningitis:",
+    "options": [
+      "Neck stiffness",
+      "Cough",
+      "Rash",
+      "Vomiting only"
+    ],
+    "answer": "Neck stiffness",
+    "difficulty": "easy",
+    "explanation": "Meningeal irritation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_092",
+    "question": "CT scan is used for:",
+    "options": [
+      "Heart only",
+      "Brain imaging",
+      "Skin test",
+      "Urine test"
+    ],
+    "answer": "Brain imaging",
+    "difficulty": "easy",
+    "explanation": "Cross-sectional imaging.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_093",
+    "question": "MRI uses:",
+    "options": [
+      "X-ray",
+      "Magnetic field",
+      "Sound only",
+      "Heat"
+    ],
+    "answer": "Magnetic field",
+    "difficulty": "easy",
+    "explanation": "No radiation imaging.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_094",
+    "question": "X-ray is used for:",
+    "options": [
+      "Blood test",
+      "Bone imaging",
+      "Urine test",
+      "Heart rhythm"
+    ],
+    "answer": "Bone imaging",
+    "difficulty": "easy",
+    "explanation": "Radiographic imaging.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_095",
+    "question": "Endoscopy is used for:",
+    "options": [
+      "Brain",
+      "Internal organs",
+      "Bones",
+      "Skin"
+    ],
+    "answer": "Internal organs",
+    "difficulty": "easy",
+    "explanation": "Visual internal exam.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_096",
+    "question": "Colonoscopy examines:",
+    "options": [
+      "Stomach",
+      "Large intestine",
+      "Heart",
+      "Brain"
+    ],
+    "answer": "Large intestine",
+    "difficulty": "medium",
+    "explanation": "Colon visualization.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_097",
+    "question": "Gastroscopy examines:",
+    "options": [
+      "Stomach",
+      "Lungs",
+      "Kidney",
+      "Heart"
+    ],
+    "answer": "Stomach",
+    "difficulty": "medium",
+    "explanation": "Upper GI tract.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_098",
+    "question": "Biopsy confirms:",
+    "options": [
+      "Fever",
+      "Cancer",
+      "Pain",
+      "BP"
+    ],
+    "answer": "Cancer",
+    "difficulty": "easy",
+    "explanation": "Definitive diagnosis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_099",
+    "question": "Inflammation shows:",
+    "options": [
+      "Redness & swelling",
+      "Hair loss",
+      "Weight gain",
+      "Normal tissue"
+    ],
+    "answer": "Redness & swelling",
+    "difficulty": "easy",
+    "explanation": "Classic signs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_100",
+    "question": "Fever is body response to:",
+    "options": [
+      "Heat",
+      "Infection",
+      "Cold",
+      "Exercise only"
+    ],
+    "answer": "Infection",
+    "difficulty": "easy",
+    "explanation": "Immune response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_101",
+    "question": "Most important nursing priority in emergency is:",
+    "options": [
+      "Medication",
+      "Airway",
+      "Diet",
+      "Exercise"
+    ],
+    "answer": "Airway",
+    "difficulty": "easy",
+    "explanation": "A in ABC = Airway first priority.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_102",
+    "question": "ABC in emergency stands for:",
+    "options": [
+      "Airway, Breathing, Circulation",
+      "Alert, BP, Care",
+      "Air, Blood, Comfort",
+      "None"
+    ],
+    "answer": "Airway, Breathing, Circulation",
+    "difficulty": "easy",
+    "explanation": "Basic life support principle.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_103",
+    "question": "CPR is used in:",
+    "options": [
+      "Fever",
+      "Cardiac arrest",
+      "Diabetes",
+      "Headache"
+    ],
+    "answer": "Cardiac arrest",
+    "difficulty": "easy",
+    "explanation": "Cardiopulmonary resuscitation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_104",
+    "question": "Chest compression rate in CPR is:",
+    "options": [
+      "60–80/min",
+      "100–120/min",
+      "140–160/min",
+      "50/min"
+    ],
+    "answer": "100–120/min",
+    "difficulty": "medium",
+    "explanation": "Recommended CPR rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_105",
+    "question": "Defibrillator is used in:",
+    "options": [
+      "Fever",
+      "Arrhythmia",
+      "Diabetes",
+      "Infection"
+    ],
+    "answer": "Arrhythmia",
+    "difficulty": "medium",
+    "explanation": "Restores heart rhythm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_106",
+    "question": "Shock position is:",
+    "options": [
+      "Head elevated",
+      "Supine with legs elevated",
+      "Prone",
+      "Sitting"
+    ],
+    "answer": "Supine with legs elevated",
+    "difficulty": "easy",
+    "explanation": "Improves blood flow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_107",
+    "question": "Anaphylactic shock requires immediate:",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Paracetamol",
+      "Antibiotics"
+    ],
+    "answer": "Adrenaline",
+    "difficulty": "medium",
+    "explanation": "Life-saving drug.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_108",
+    "question": "Normal adult respiratory rate is:",
+    "options": [
+      "8–10",
+      "12–20",
+      "20–30",
+      "30–40"
+    ],
+    "answer": "12–20",
+    "difficulty": "easy",
+    "explanation": "Normal breathing rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_109",
+    "question": "Hypoxia means:",
+    "options": [
+      "High oxygen",
+      "Low oxygen",
+      "High sugar",
+      "Pain"
+    ],
+    "answer": "Low oxygen",
+    "difficulty": "easy",
+    "explanation": "Oxygen deficiency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_110",
+    "question": "Oxygen therapy is given in:",
+    "options": [
+      "Hypertension",
+      "Hypoxia",
+      "Diabetes",
+      "Fever"
+    ],
+    "answer": "Hypoxia",
+    "difficulty": "easy",
+    "explanation": "Low oxygen saturation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_111",
+    "question": "Most common route for oxygen delivery is:",
+    "options": [
+      "IV",
+      "Nasal cannula",
+      "Oral",
+      "IM"
+    ],
+    "answer": "Nasal cannula",
+    "difficulty": "easy",
+    "explanation": "Simple oxygen delivery device.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_112",
+    "question": "Normal SpO2 is:",
+    "options": [
+      "70–80%",
+      "80–90%",
+      "95–100%",
+      "60–70%"
+    ],
+    "answer": "95–100%",
+    "difficulty": "easy",
+    "explanation": "Normal oxygen saturation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_113",
+    "question": "Shock causes:",
+    "options": [
+      "Increased perfusion",
+      "Decreased perfusion",
+      "Weight gain",
+      "Fever"
+    ],
+    "answer": "Decreased perfusion",
+    "difficulty": "medium",
+    "explanation": "Reduced blood flow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_114",
+    "question": "Most common type of shock in trauma:",
+    "options": [
+      "Cardiogenic",
+      "Hypovolemic",
+      "Neurogenic",
+      "Septic"
+    ],
+    "answer": "Hypovolemic",
+    "difficulty": "medium",
+    "explanation": "Blood/fluid loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_115",
+    "question": "Septic shock is caused by:",
+    "options": [
+      "Infection",
+      "Bleeding",
+      "Trauma",
+      "Allergy"
+    ],
+    "answer": "Infection",
+    "difficulty": "easy",
+    "explanation": "Systemic infection response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_116",
+    "question": "Cardiogenic shock is due to:",
+    "options": [
+      "Heart failure",
+      "Infection",
+      "Allergy",
+      "Fever"
+    ],
+    "answer": "Heart failure",
+    "difficulty": "medium",
+    "explanation": "Pump failure of heart.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_117",
+    "question": "Neurogenic shock is due to:",
+    "options": [
+      "Spinal injury",
+      "Infection",
+      "Bleeding",
+      "Diabetes"
+    ],
+    "answer": "Spinal injury",
+    "difficulty": "hard",
+    "explanation": "Loss of sympathetic tone.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_118",
+    "question": "Burn shock is mainly due to:",
+    "options": [
+      "Fluid loss",
+      "Fever",
+      "Infection",
+      "Pain"
+    ],
+    "answer": "Fluid loss",
+    "difficulty": "medium",
+    "explanation": "Plasma leakage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_119",
+    "question": "First aid for burns includes:",
+    "options": [
+      "Ice directly",
+      "Cool running water",
+      "Oil application",
+      "Massage"
+    ],
+    "answer": "Cool running water",
+    "difficulty": "easy",
+    "explanation": "Prevents tissue damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_120",
+    "question": "Third-degree burn affects:",
+    "options": [
+      "Only skin surface",
+      "Full skin thickness",
+      "Muscle only",
+      "Bone only"
+    ],
+    "answer": "Full skin thickness",
+    "difficulty": "easy",
+    "explanation": "Deep tissue destruction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_121",
+    "question": "Fracture is:",
+    "options": [
+      "Bone break",
+      "Muscle pain",
+      "Skin rash",
+      "Fever"
+    ],
+    "answer": "Bone break",
+    "difficulty": "easy",
+    "explanation": "Loss of bone continuity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_122",
+    "question": "Open fracture means:",
+    "options": [
+      "Bone inside skin",
+      "Bone exposed outside skin",
+      "No fracture",
+      "Pain only"
+    ],
+    "answer": "Bone exposed outside skin",
+    "difficulty": "medium",
+    "explanation": "Compound fracture.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_123",
+    "question": "Closed fracture means:",
+    "options": [
+      "Bone exposed",
+      "Skin intact",
+      "Infection",
+      "Fever"
+    ],
+    "answer": "Skin intact",
+    "difficulty": "easy",
+    "explanation": "No skin break.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_124",
+    "question": "Most common symptom of fracture:",
+    "options": [
+      "Pain",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Pain",
+    "difficulty": "easy",
+    "explanation": "Severe localized pain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_125",
+    "question": "Splint is used to:",
+    "options": [
+      "Increase movement",
+      "Immobilize fracture",
+      "Reduce fever",
+      "Stop infection"
+    ],
+    "answer": "Immobilize fracture",
+    "difficulty": "easy",
+    "explanation": "Prevents bone movement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_126",
+    "question": "Traction is used for:",
+    "options": [
+      "Weight gain",
+      "Bone alignment",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Bone alignment",
+    "difficulty": "medium",
+    "explanation": "Realigns fractures.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_127",
+    "question": "Most common complication of immobility:",
+    "options": [
+      "Bed sores",
+      "Hair growth",
+      "Weight gain",
+      "Cough"
+    ],
+    "answer": "Bed sores",
+    "difficulty": "easy",
+    "explanation": "Pressure ulcers.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_128",
+    "question": "Bed sore prevention includes:",
+    "options": [
+      "Frequent repositioning",
+      "Immobilization",
+      "Dehydration",
+      "Heat"
+    ],
+    "answer": "Frequent repositioning",
+    "difficulty": "easy",
+    "explanation": "Pressure relief.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_129",
+    "question": "Deep vein thrombosis occurs due to:",
+    "options": [
+      "Immobilization",
+      "Exercise",
+      "Fever",
+      "Allergy"
+    ],
+    "answer": "Immobilization",
+    "difficulty": "medium",
+    "explanation": "Blood clot formation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_130",
+    "question": "DVT can lead to:",
+    "options": [
+      "Stroke",
+      "Pulmonary embolism",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Pulmonary embolism",
+    "difficulty": "medium",
+    "explanation": "Clot travels to lungs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_131",
+    "question": "Pulmonary embolism affects:",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Kidney",
+      "Liver"
+    ],
+    "answer": "Lungs",
+    "difficulty": "easy",
+    "explanation": "Blockage in pulmonary artery.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_132",
+    "question": "Most common symptom of PE:",
+    "options": [
+      "Chest pain",
+      "Headache",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Chest pain",
+    "difficulty": "medium",
+    "explanation": "Sudden chest pain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_133",
+    "question": "Anticoagulant used in DVT:",
+    "options": [
+      "Heparin",
+      "Insulin",
+      "Paracetamol",
+      "Aspirin only"
+    ],
+    "answer": "Heparin",
+    "difficulty": "medium",
+    "explanation": "Prevents clot formation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_134",
+    "question": "Stroke symptoms include:",
+    "options": [
+      "Face drooping",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Face drooping",
+    "difficulty": "easy",
+    "explanation": "Neurological deficit.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_135",
+    "question": "FAST in stroke stands for:",
+    "options": [
+      "Face, Arms, Speech, Time",
+      "Fever, Air, Sugar, Temp",
+      "Fluid, Air, Stroke, Treatment",
+      "None"
+    ],
+    "answer": "Face, Arms, Speech, Time",
+    "difficulty": "medium",
+    "explanation": "Stroke recognition tool.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_136",
+    "question": "Time is critical in:",
+    "options": [
+      "Stroke",
+      "Diabetes",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Stroke",
+    "difficulty": "easy",
+    "explanation": "Brain tissue dies fast.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_137",
+    "question": "Golden hour refers to:",
+    "options": [
+      "First hour after injury",
+      "Sleep time",
+      "Meal time",
+      "Exercise time"
+    ],
+    "answer": "First hour after injury",
+    "difficulty": "medium",
+    "explanation": "Critical emergency period.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_138",
+    "question": "Emergency trolley is used for:",
+    "options": [
+      "Food",
+      "Resuscitation",
+      "Cleaning",
+      "Medication storage only"
+    ],
+    "answer": "Resuscitation",
+    "difficulty": "easy",
+    "explanation": "Emergency equipment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_139",
+    "question": "Defibrillator shock is used in:",
+    "options": [
+      "Fever",
+      "Ventricular fibrillation",
+      "Diabetes",
+      "Pain"
+    ],
+    "answer": "Ventricular fibrillation",
+    "difficulty": "hard",
+    "explanation": "Life-threatening arrhythmia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_140",
+    "question": "Pulse is checked at:",
+    "options": [
+      "Ear",
+      "Radial artery",
+      "Foot only",
+      "Chest only"
+    ],
+    "answer": "Radial artery",
+    "difficulty": "easy",
+    "explanation": "Common pulse site.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_141",
+    "question": "Normal heart rate is:",
+    "options": [
+      "40–60",
+      "60–100",
+      "100–140",
+      "140–160"
+    ],
+    "answer": "60–100",
+    "difficulty": "easy",
+    "explanation": "Normal adult pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_142",
+    "question": "Tachycardia means:",
+    "options": [
+      "Slow pulse",
+      "Fast pulse",
+      "No pulse",
+      "Irregular breathing"
+    ],
+    "answer": "Fast pulse",
+    "difficulty": "easy",
+    "explanation": "Increased heart rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_143",
+    "question": "Bradycardia means:",
+    "options": [
+      "Fast pulse",
+      "Slow pulse",
+      "No pulse",
+      "Pain"
+    ],
+    "answer": "Slow pulse",
+    "difficulty": "easy",
+    "explanation": "Decreased heart rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_144",
+    "question": "ECG records:",
+    "options": [
+      "Brain waves",
+      "Heart electrical activity",
+      "Lung function",
+      "Kidney function"
+    ],
+    "answer": "Heart electrical activity",
+    "difficulty": "easy",
+    "explanation": "Cardiac rhythm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_145",
+    "question": "Cardiac arrest means:",
+    "options": [
+      "Heart failure",
+      "Heart stops beating",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Heart stops beating",
+    "difficulty": "easy",
+    "explanation": "No cardiac output.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_146",
+    "question": "CPR compressions are done on:",
+    "options": [
+      "Head",
+      "Chest",
+      "Abdomen",
+      "Leg"
+    ],
+    "answer": "Chest",
+    "difficulty": "easy",
+    "explanation": "Sternal compressions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_147",
+    "question": "CPR ratio (adult) is:",
+    "options": [
+      "15:2",
+      "30:2",
+      "10:1",
+      "20:2"
+    ],
+    "answer": "30:2",
+    "difficulty": "medium",
+    "explanation": "Standard guideline.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_148",
+    "question": "Most important step in CPR:",
+    "options": [
+      "Compression",
+      "Breathing",
+      "Medication",
+      "Monitoring"
+    ],
+    "answer": "Compression",
+    "difficulty": "medium",
+    "explanation": "Maintains circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_149",
+    "question": "Shock management includes:",
+    "options": [
+      "Oxygen + fluids",
+      "Food",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Oxygen + fluids",
+    "difficulty": "medium",
+    "explanation": "Restores perfusion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_150",
+    "question": "Primary goal of emergency care is:",
+    "options": [
+      "Delay treatment",
+      "Save life",
+      "Increase pain",
+      "Ignore symptoms"
+    ],
+    "answer": "Save life",
+    "difficulty": "easy",
+    "explanation": "Immediate life support priority.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_151",
+    "question": "Most important sign of internal bleeding is:",
+    "options": [
+      "High BP",
+      "Tachycardia",
+      "Weight gain",
+      "Fever"
+    ],
+    "answer": "Tachycardia",
+    "difficulty": "medium",
+    "explanation": "Compensatory response to blood loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_152",
+    "question": "Pale, cold, clammy skin indicates:",
+    "options": [
+      "Shock",
+      "Fever",
+      "Obesity",
+      "Allergy"
+    ],
+    "answer": "Shock",
+    "difficulty": "easy",
+    "explanation": "Poor perfusion sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_153",
+    "question": "Normal capillary refill time is:",
+    "options": [
+      "<2 seconds",
+      "<5 seconds",
+      "<10 seconds",
+      "<1 second"
+    ],
+    "answer": "<2 seconds",
+    "difficulty": "medium",
+    "explanation": "Indicates good perfusion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_154",
+    "question": "Delayed capillary refill indicates:",
+    "options": [
+      "Good circulation",
+      "Poor circulation",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Poor circulation",
+    "difficulty": "easy",
+    "explanation": "Shock or dehydration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_155",
+    "question": "Most common cause of hypovolemic shock:",
+    "options": [
+      "Bleeding",
+      "Infection",
+      "Allergy",
+      "Heart failure"
+    ],
+    "answer": "Bleeding",
+    "difficulty": "easy",
+    "explanation": "Fluid/blood loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_156",
+    "question": "First action in bleeding patient is:",
+    "options": [
+      "IV fluids",
+      "Control bleeding",
+      "Food",
+      "Exercise"
+    ],
+    "answer": "Control bleeding",
+    "difficulty": "medium",
+    "explanation": "Stop blood loss first.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_157",
+    "question": "Normal blood pressure is:",
+    "options": [
+      "90/60",
+      "120/80",
+      "140/100",
+      "160/110"
+    ],
+    "answer": "120/80",
+    "difficulty": "easy",
+    "explanation": "Normal adult BP.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_158",
+    "question": "Hypertension means:",
+    "options": [
+      "Low BP",
+      "High BP",
+      "Normal BP",
+      "No BP"
+    ],
+    "answer": "High BP",
+    "difficulty": "easy",
+    "explanation": "Above 140/90 mmHg.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_159",
+    "question": "Most common symptom of hypertension:",
+    "options": [
+      "Headache",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Headache",
+    "difficulty": "easy",
+    "explanation": "Often asymptomatic but headache common.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_160",
+    "question": "Stroke is caused by:",
+    "options": [
+      "Brain blood flow interruption",
+      "Lung infection",
+      "Kidney failure",
+      "Fever"
+    ],
+    "answer": "Brain blood flow interruption",
+    "difficulty": "easy",
+    "explanation": "Ischemia or hemorrhage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_161",
+    "question": "Ischemic stroke is due to:",
+    "options": [
+      "Clot blockage",
+      "Bleeding",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Clot blockage",
+    "difficulty": "medium",
+    "explanation": "Blockage of cerebral artery.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_162",
+    "question": "Hemorrhagic stroke is due to:",
+    "options": [
+      "Bleeding in brain",
+      "Clot",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Bleeding in brain",
+    "difficulty": "medium",
+    "explanation": "Rupture of blood vessel.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_163",
+    "question": "Most important risk factor for stroke:",
+    "options": [
+      "Hypertension",
+      "Fever",
+      "Cold",
+      "Allergy"
+    ],
+    "answer": "Hypertension",
+    "difficulty": "easy",
+    "explanation": "Major modifiable risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_164",
+    "question": "Brain injury leads to:",
+    "options": [
+      "Permanent disability",
+      "Hair growth",
+      "Weight gain",
+      "Fever only"
+    ],
+    "answer": "Permanent disability",
+    "difficulty": "easy",
+    "explanation": "Neural damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_165",
+    "question": "Most important nursing intervention in stroke:",
+    "options": [
+      "Airway management",
+      "Exercise",
+      "Food intake",
+      "Massage"
+    ],
+    "answer": "Airway management",
+    "difficulty": "medium",
+    "explanation": "Prevent aspiration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_166",
+    "question": "Aspiration risk is high in:",
+    "options": [
+      "Stroke patient",
+      "Healthy person",
+      "Child only",
+      "Athlete"
+    ],
+    "answer": "Stroke patient",
+    "difficulty": "medium",
+    "explanation": "Swallowing difficulty.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_167",
+    "question": "Position for unconscious patient is:",
+    "options": [
+      "Supine",
+      "Recovery position",
+      "Sitting",
+      "Standing"
+    ],
+    "answer": "Recovery position",
+    "difficulty": "easy",
+    "explanation": "Prevents aspiration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_168",
+    "question": "Most common complication of immobility:",
+    "options": [
+      "Bed sore",
+      "Fever",
+      "Cough",
+      "Headache"
+    ],
+    "answer": "Bed sore",
+    "difficulty": "easy",
+    "explanation": "Pressure ulcer formation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_169",
+    "question": "Prevention of DVT includes:",
+    "options": [
+      "Early ambulation",
+      "Bed rest",
+      "Fasting",
+      "Cold compress"
+    ],
+    "answer": "Early ambulation",
+    "difficulty": "easy",
+    "explanation": "Improves circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_170",
+    "question": "Most important sign of DVT:",
+    "options": [
+      "Leg swelling",
+      "Cough",
+      "Headache",
+      "Fever"
+    ],
+    "answer": "Leg swelling",
+    "difficulty": "easy",
+    "explanation": "Venous obstruction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_171",
+    "question": "Pulmonary embolism is life-threatening because:",
+    "options": [
+      "Blocks lung circulation",
+      "Blocks digestion",
+      "Causes fever",
+      "Causes rash"
+    ],
+    "answer": "Blocks lung circulation",
+    "difficulty": "medium",
+    "explanation": "Stops oxygen exchange.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_172",
+    "question": "Chest pain + dyspnea indicates:",
+    "options": [
+      "PE",
+      "Fever",
+      "Cold",
+      "Headache"
+    ],
+    "answer": "PE",
+    "difficulty": "medium",
+    "explanation": "Classic sign of embolism.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_173",
+    "question": "First aid in fracture is:",
+    "options": [
+      "Massage",
+      "Immobilization",
+      "Heat",
+      "Exercise"
+    ],
+    "answer": "Immobilization",
+    "difficulty": "easy",
+    "explanation": "Prevent further injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_174",
+    "question": "Bone healing requires:",
+    "options": [
+      "Rest",
+      "Exercise",
+      "Heat only",
+      "Cold only"
+    ],
+    "answer": "Rest",
+    "difficulty": "easy",
+    "explanation": "Stability promotes healing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_175",
+    "question": "Most important vitamin for bone healing:",
+    "options": [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin B"
+    ],
+    "answer": "Vitamin D",
+    "difficulty": "medium",
+    "explanation": "Calcium absorption.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_176",
+    "question": "Calcium deficiency causes:",
+    "options": [
+      "Weak bones",
+      "Hair growth",
+      "Fever",
+      "Pain only"
+    ],
+    "answer": "Weak bones",
+    "difficulty": "easy",
+    "explanation": "Osteoporosis risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_177",
+    "question": "Osteoporosis means:",
+    "options": [
+      "Weak bones",
+      "Strong bones",
+      "Infection",
+      "Fever"
+    ],
+    "answer": "Weak bones",
+    "difficulty": "easy",
+    "explanation": "Bone density loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_178",
+    "question": "Arthritis affects:",
+    "options": [
+      "Joints",
+      "Heart",
+      "Lungs",
+      "Kidney"
+    ],
+    "answer": "Joints",
+    "difficulty": "easy",
+    "explanation": "Joint inflammation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_179",
+    "question": "Rheumatoid arthritis is:",
+    "options": [
+      "Autoimmune disease",
+      "Infection",
+      "Trauma",
+      "Fever"
+    ],
+    "answer": "Autoimmune disease",
+    "difficulty": "medium",
+    "explanation": "Immune system attacks joints.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  },
+  {
+    "id": "MS_180",
+    "question": "Final priority in nursing care is:",
+    "options": [
+      "Safety",
+      "Comfort",
+      "Medication",
+      "Diet"
+    ],
+    "answer": "Safety",
+    "difficulty": "easy",
+    "explanation": "Patient safety always first.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MEDICAL_SURGICAL_NURSING"
+  }
+]

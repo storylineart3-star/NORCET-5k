@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "PN_001",
+    "question": "A newborn is defined as a baby up to:",
+    "options": [
+      "7 days",
+      "14 days",
+      "28 days",
+      "1 month"
+    ],
+    "answer": "28 days",
+    "difficulty": "easy",
+    "explanation": "Neonatal period is first 28 days of life.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_002",
+    "question": "Normal birth weight of a full-term newborn is:",
+    "options": [
+      "1–2 kg",
+      "2.5–4 kg",
+      "4–5 kg",
+      "5–6 kg"
+    ],
+    "answer": "2.5–4 kg",
+    "difficulty": "easy",
+    "explanation": "Average normal weight range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_003",
+    "question": "First vaccine given to newborn is:",
+    "options": [
+      "OPV",
+      "BCG",
+      "Hepatitis B",
+      "DPT"
+    ],
+    "answer": "Hepatitis B",
+    "difficulty": "medium",
+    "explanation": "Given within 24 hours of birth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_004",
+    "question": "BCG vaccine is given for:",
+    "options": [
+      "Polio",
+      "Tuberculosis",
+      "Measles",
+      "Hepatitis"
+    ],
+    "answer": "Tuberculosis",
+    "difficulty": "easy",
+    "explanation": "Prevents TB.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_005",
+    "question": "OPV vaccine protects against:",
+    "options": [
+      "Polio",
+      "Measles",
+      "TB",
+      "Hepatitis"
+    ],
+    "answer": "Polio",
+    "difficulty": "easy",
+    "explanation": "Oral polio vaccine.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_006",
+    "question": "Infant period is:",
+    "options": [
+      "0–1 year",
+      "0–2 years",
+      "1–5 years",
+      "5–10 years"
+    ],
+    "answer": "0–1 year",
+    "difficulty": "easy",
+    "explanation": "First year of life.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_007",
+    "question": "Most important reflex in newborn for feeding:",
+    "options": [
+      "Grasp reflex",
+      "Rooting reflex",
+      "Babinski reflex",
+      "Moro reflex"
+    ],
+    "answer": "Rooting reflex",
+    "difficulty": "medium",
+    "explanation": "Helps baby find nipple.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_008",
+    "question": "Moro reflex is also called:",
+    "options": [
+      "Startle reflex",
+      "Walking reflex",
+      "Sucking reflex",
+      "Blink reflex"
+    ],
+    "answer": "Startle reflex",
+    "difficulty": "medium",
+    "explanation": "Sudden noise response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_009",
+    "question": "Fontanelle is:",
+    "options": [
+      "Soft spot on skull",
+      "Bone",
+      "Muscle",
+      "Joint"
+    ],
+    "answer": "Soft spot on skull",
+    "difficulty": "easy",
+    "explanation": "Gap between skull bones.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_010",
+    "question": "Anterior fontanelle closes by:",
+    "options": [
+      "6 months",
+      "12–18 months",
+      "2 years",
+      "3 years"
+    ],
+    "answer": "12–18 months",
+    "difficulty": "medium",
+    "explanation": "Normal closure time.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_011",
+    "question": "Most common cause of infant mortality:",
+    "options": [
+      "Diarrhea",
+      "Heart disease",
+      "Cancer",
+      "Trauma"
+    ],
+    "answer": "Diarrhea",
+    "difficulty": "easy",
+    "explanation": "Dehydration is major risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_012",
+    "question": "Best feeding for newborn is:",
+    "options": [
+      "Formula",
+      "Cow milk",
+      "Breast milk",
+      "Juice"
+    ],
+    "answer": "Breast milk",
+    "difficulty": "easy",
+    "explanation": "Complete nutrition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_013",
+    "question": "Exclusive breastfeeding is up to:",
+    "options": [
+      "3 months",
+      "6 months",
+      "9 months",
+      "1 year"
+    ],
+    "answer": "6 months",
+    "difficulty": "easy",
+    "explanation": "WHO recommendation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_014",
+    "question": "Colostrum is:",
+    "options": [
+      "First milk",
+      "Water",
+      "Formula",
+      "Fat only"
+    ],
+    "answer": "First milk",
+    "difficulty": "easy",
+    "explanation": "Rich in antibodies.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_015",
+    "question": "Most important antibody in breast milk:",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgM",
+      "IgE"
+    ],
+    "answer": "IgA",
+    "difficulty": "medium",
+    "explanation": "Protects gut infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_016",
+    "question": "Weaning starts at:",
+    "options": [
+      "3 months",
+      "6 months",
+      "9 months",
+      "1 year"
+    ],
+    "answer": "6 months",
+    "difficulty": "easy",
+    "explanation": "Introduction of solid food.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_017",
+    "question": "First solid food for baby is usually:",
+    "options": [
+      "Spicy food",
+      "Cereal/khichdi",
+      "Chocolate",
+      "Fried food"
+    ],
+    "answer": "Cereal/khichdi",
+    "difficulty": "easy",
+    "explanation": "Soft and digestible food.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_018",
+    "question": "Most common pediatric infection:",
+    "options": [
+      "Diarrhea",
+      "Cancer",
+      "Stroke",
+      "Heart attack"
+    ],
+    "answer": "Diarrhea",
+    "difficulty": "easy",
+    "explanation": "Water-borne infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_019",
+    "question": "Sign of dehydration in child:",
+    "options": [
+      "Sunken eyes",
+      "High BP",
+      "Weight gain",
+      "Hair growth"
+    ],
+    "answer": "Sunken eyes",
+    "difficulty": "easy",
+    "explanation": "Fluid loss indicator.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_020",
+    "question": "ORS is used for:",
+    "options": [
+      "Fever",
+      "Diarrhea",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Diarrhea",
+    "difficulty": "easy",
+    "explanation": "Prevents dehydration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_021",
+    "question": "Most important complication of diarrhea:",
+    "options": [
+      "Dehydration",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Dehydration",
+    "difficulty": "easy",
+    "explanation": "Fluid loss risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_022",
+    "question": "Immunization schedule is started at:",
+    "options": [
+      "Birth",
+      "1 month",
+      "6 months",
+      "1 year"
+    ],
+    "answer": "Birth",
+    "difficulty": "easy",
+    "explanation": "First vaccines at birth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_023",
+    "question": "DPT vaccine protects against:",
+    "options": [
+      "TB",
+      "Diphtheria, Pertussis, Tetanus",
+      "Polio",
+      "Measles"
+    ],
+    "answer": "Diphtheria, Pertussis, Tetanus",
+    "difficulty": "medium",
+    "explanation": "Triple vaccine.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_024",
+    "question": "Measles vaccine is given at:",
+    "options": [
+      "6 weeks",
+      "9 months",
+      "1 year",
+      "5 years"
+    ],
+    "answer": "9 months",
+    "difficulty": "medium",
+    "explanation": "Standard schedule.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_025",
+    "question": "Most common symptom of measles:",
+    "options": [
+      "Rash",
+      "Cough",
+      "Fever only",
+      "Pain"
+    ],
+    "answer": "Rash",
+    "difficulty": "easy",
+    "explanation": "Maculopapular rash.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_026",
+    "question": "Growth monitoring is done using:",
+    "options": [
+      "BP chart",
+      "Growth chart",
+      "ECG",
+      "MRI"
+    ],
+    "answer": "Growth chart",
+    "difficulty": "easy",
+    "explanation": "Weight-for-age tracking.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_027",
+    "question": "Failure to thrive means:",
+    "options": [
+      "Normal growth",
+      "Poor growth",
+      "High weight",
+      "Fever"
+    ],
+    "answer": "Poor growth",
+    "difficulty": "medium",
+    "explanation": "Inadequate weight gain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_028",
+    "question": "Most important nutrient for child growth:",
+    "options": [
+      "Protein",
+      "Sugar",
+      "Fat only",
+      "Salt"
+    ],
+    "answer": "Protein",
+    "difficulty": "easy",
+    "explanation": "Tissue building.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_029",
+    "question": "Kwashiorkor is due to:",
+    "options": [
+      "Protein deficiency",
+      "Vitamin excess",
+      "Sugar deficiency",
+      "Water excess"
+    ],
+    "answer": "Protein deficiency",
+    "difficulty": "medium",
+    "explanation": "Severe malnutrition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_030",
+    "question": "Marasmus is due to:",
+    "options": [
+      "Protein deficiency only",
+      "Total calorie deficiency",
+      "Vitamin excess",
+      "Fat excess"
+    ],
+    "answer": "Total calorie deficiency",
+    "difficulty": "medium",
+    "explanation": "Severe wasting.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_031",
+    "question": "Most common deficiency in children:",
+    "options": [
+      "Iron",
+      "Protein",
+      "Calcium",
+      "Sugar"
+    ],
+    "answer": "Iron",
+    "difficulty": "easy",
+    "explanation": "Causes anemia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_032",
+    "question": "Iron deficiency leads to:",
+    "options": [
+      "Anemia",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Anemia",
+    "difficulty": "easy",
+    "explanation": "Low hemoglobin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_033",
+    "question": "Most common pediatric respiratory disease:",
+    "options": [
+      "Asthma",
+      "Diabetes",
+      "Stroke",
+      "Cancer"
+    ],
+    "answer": "Asthma",
+    "difficulty": "easy",
+    "explanation": "Airway inflammation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_034",
+    "question": "Asthma affects:",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Kidney",
+      "Brain"
+    ],
+    "answer": "Lungs",
+    "difficulty": "easy",
+    "explanation": "Airway narrowing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_035",
+    "question": "Wheeze is seen in:",
+    "options": [
+      "Asthma",
+      "Fever",
+      "Diabetes",
+      "Stroke"
+    ],
+    "answer": "Asthma",
+    "difficulty": "easy",
+    "explanation": "Bronchospasm sound.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_036",
+    "question": "Most important trigger of asthma:",
+    "options": [
+      "Allergens",
+      "Food only",
+      "Water",
+      "Exercise only"
+    ],
+    "answer": "Allergens",
+    "difficulty": "medium",
+    "explanation": "Dust, pollen etc.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_037",
+    "question": "Nebulization is used for:",
+    "options": [
+      "Fever",
+      "Asthma",
+      "Diabetes",
+      "Pain"
+    ],
+    "answer": "Asthma",
+    "difficulty": "easy",
+    "explanation": "Drug delivery to lungs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_038",
+    "question": "Most important sign of respiratory distress in child:",
+    "options": [
+      "Chest retractions",
+      "Weight gain",
+      "Hair growth",
+      "Fever only"
+    ],
+    "answer": "Chest retractions",
+    "difficulty": "medium",
+    "explanation": "Increased effort breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_039",
+    "question": "Cyanosis indicates:",
+    "options": [
+      "High oxygen",
+      "Low oxygen",
+      "High sugar",
+      "Pain"
+    ],
+    "answer": "Low oxygen",
+    "difficulty": "easy",
+    "explanation": "Blue discoloration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_040",
+    "question": "Most important emergency in pediatrics:",
+    "options": [
+      "Airway obstruction",
+      "Hair loss",
+      "Fever",
+      "Weight gain"
+    ],
+    "answer": "Airway obstruction",
+    "difficulty": "easy",
+    "explanation": "Immediate life threat.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_041",
+    "question": "Foreign body aspiration is common in:",
+    "options": [
+      "Adults",
+      "Children",
+      "Elderly only",
+      "Pregnant women"
+    ],
+    "answer": "Children",
+    "difficulty": "easy",
+    "explanation": "Small objects ingestion risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_042",
+    "question": "Choking child first step:",
+    "options": [
+      "Back blows",
+      "Food",
+      "Water",
+      "Sleep"
+    ],
+    "answer": "Back blows",
+    "difficulty": "medium",
+    "explanation": "Airway clearance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_043",
+    "question": "Most common congenital disease:",
+    "options": [
+      "Heart defect",
+      "Diabetes",
+      "Asthma",
+      "Fever"
+    ],
+    "answer": "Heart defect",
+    "difficulty": "medium",
+    "explanation": "Congenital heart disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_044",
+    "question": "Blue baby syndrome is due to:",
+    "options": [
+      "Cyanotic heart disease",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Cyanotic heart disease",
+    "difficulty": "medium",
+    "explanation": "Low oxygen circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_045",
+    "question": "Most important nursing care in congenital heart disease:",
+    "options": [
+      "Oxygen support",
+      "Exercise",
+      "Diet only",
+      "Massage"
+    ],
+    "answer": "Oxygen support",
+    "difficulty": "medium",
+    "explanation": "Improve oxygenation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_046",
+    "question": "Most common gastrointestinal issue in children:",
+    "options": [
+      "Diarrhea",
+      "Cancer",
+      "Stroke",
+      "Hypertension"
+    ],
+    "answer": "Diarrhea",
+    "difficulty": "easy",
+    "explanation": "Water loss disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_047",
+    "question": "Constipation means:",
+    "options": [
+      "Loose stools",
+      "Hard stools",
+      "No urine",
+      "Fever"
+    ],
+    "answer": "Hard stools",
+    "difficulty": "easy",
+    "explanation": "Difficult bowel movement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_048",
+    "question": "Most important sign of infection in child:",
+    "options": [
+      "Fever",
+      "Hair loss",
+      "Weight gain",
+      "Sleep"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "explanation": "Body defense response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_049",
+    "question": "Most important pediatric emergency drug:",
+    "options": [
+      "Adrenaline",
+      "Paracetamol",
+      "Iron",
+      "Vitamin C"
+    ],
+    "answer": "Adrenaline",
+    "difficulty": "medium",
+    "explanation": "Used in anaphylaxis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_050",
+    "question": "Anaphylaxis is:",
+    "options": [
+      "Severe allergy",
+      "Fever",
+      "Cold",
+      "Pain"
+    ],
+    "answer": "Severe allergy",
+    "difficulty": "easy",
+    "explanation": "Life-threatening reaction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_051",
+    "question": "Normal respiratory rate in infant:",
+    "options": [
+      "10–20",
+      "30–60",
+      "60–80",
+      "80–100"
+    ],
+    "answer": "30–60",
+    "difficulty": "medium",
+    "explanation": "Higher than adults.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_052",
+    "question": "Most important sign of dehydration:",
+    "options": [
+      "Dry mouth",
+      "Hair growth",
+      "Weight gain",
+      "Rash"
+    ],
+    "answer": "Dry mouth",
+    "difficulty": "easy",
+    "explanation": "Fluid loss indicator.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_053",
+    "question": "Sunken fontanelle indicates:",
+    "options": [
+      "Dehydration",
+      "Fever",
+      "Obesity",
+      "Infection"
+    ],
+    "answer": "Dehydration",
+    "difficulty": "medium",
+    "explanation": "Fluid deficit sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_054",
+    "question": "Best method of fever control in child:",
+    "options": [
+      "Cold sponge",
+      "Hot bath",
+      "Oil massage",
+      "Exercise"
+    ],
+    "answer": "Cold sponge",
+    "difficulty": "easy",
+    "explanation": "Reduces body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_055",
+    "question": "Most important complication of fever:",
+    "options": [
+      "Seizure",
+      "Hair loss",
+      "Weight gain",
+      "Rash"
+    ],
+    "answer": "Seizure",
+    "difficulty": "medium",
+    "explanation": "Febrile seizures in children.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_056",
+    "question": "Febrile seizure occurs due to:",
+    "options": [
+      "High fever",
+      "Low BP",
+      "Diabetes",
+      "Pain"
+    ],
+    "answer": "High fever",
+    "difficulty": "easy",
+    "explanation": "Rapid temperature rise.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_057",
+    "question": "Best position during seizure:",
+    "options": [
+      "Side lying",
+      "Standing",
+      "Sitting",
+      "Prone"
+    ],
+    "answer": "Side lying",
+    "difficulty": "easy",
+    "explanation": "Prevents aspiration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_058",
+    "question": "Most important nursing action in seizure:",
+    "options": [
+      "Protect airway",
+      "Give food",
+      "Give water",
+      "Run"
+    ],
+    "answer": "Protect airway",
+    "difficulty": "medium",
+    "explanation": "Safety first priority.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_059",
+    "question": "Development milestone refers to:",
+    "options": [
+      "Growth stages",
+      "Weight only",
+      "Fever cycle",
+      "Sleep pattern"
+    ],
+    "answer": "Growth stages",
+    "difficulty": "easy",
+    "explanation": "Physical + mental development.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_060",
+    "question": "Most important factor in child development:",
+    "options": [
+      "Nutrition",
+      "TV",
+      "Sleep only",
+      "Games only"
+    ],
+    "answer": "Nutrition",
+    "difficulty": "easy",
+    "explanation": "Essential for growth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_061",
+    "question": "Most important sign of respiratory distress in child is:",
+    "options": [
+      "Chest retractions",
+      "Hair growth",
+      "Weight gain",
+      "Fever only"
+    ],
+    "answer": "Chest retractions",
+    "difficulty": "medium",
+    "explanation": "Indicates increased work of breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_062",
+    "question": "Stridor indicates:",
+    "options": [
+      "Lower airway obstruction",
+      "Upper airway obstruction",
+      "Heart failure",
+      "Fever"
+    ],
+    "answer": "Upper airway obstruction",
+    "difficulty": "medium",
+    "explanation": "Noisy breathing due to upper airway narrowing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_063",
+    "question": "Most common cause of stridor in children:",
+    "options": [
+      "Croup",
+      "Asthma",
+      "Pneumonia",
+      "Bronchitis"
+    ],
+    "answer": "Croup",
+    "difficulty": "medium",
+    "explanation": "Laryngotracheobronchitis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_064",
+    "question": "Croup affects mainly:",
+    "options": [
+      "Larynx",
+      "Heart",
+      "Kidney",
+      "Liver"
+    ],
+    "answer": "Larynx",
+    "difficulty": "easy",
+    "explanation": "Upper airway inflammation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_065",
+    "question": "Most important treatment for croup:",
+    "options": [
+      "Humidified oxygen",
+      "Antibiotics only",
+      "Surgery",
+      "Fasting"
+    ],
+    "answer": "Humidified oxygen",
+    "difficulty": "medium",
+    "explanation": "Reduces airway swelling.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_066",
+    "question": "Pneumonia in children affects:",
+    "options": [
+      "Lungs",
+      "Heart",
+      "Brain",
+      "Kidney"
+    ],
+    "answer": "Lungs",
+    "difficulty": "easy",
+    "explanation": "Infection of lung tissue.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_067",
+    "question": "Most common sign of pneumonia:",
+    "options": [
+      "Fever and cough",
+      "Hair loss",
+      "Weight gain",
+      "Rash only"
+    ],
+    "answer": "Fever and cough",
+    "difficulty": "easy",
+    "explanation": "Respiratory infection symptoms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_068",
+    "question": "Bronchiolitis is common in:",
+    "options": [
+      "Infants",
+      "Adults",
+      "Elderly",
+      "Pregnant women"
+    ],
+    "answer": "Infants",
+    "difficulty": "medium",
+    "explanation": "Viral lower respiratory infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_069",
+    "question": "Most common virus causing bronchiolitis:",
+    "options": [
+      "RSV",
+      "HIV",
+      "HBV",
+      "Influenza only"
+    ],
+    "answer": "RSV",
+    "difficulty": "hard",
+    "explanation": "Respiratory syncytial virus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_070",
+    "question": "Wheezing in infants is commonly due to:",
+    "options": [
+      "Bronchiolitis",
+      "Fever",
+      "Diabetes",
+      "Stroke"
+    ],
+    "answer": "Bronchiolitis",
+    "difficulty": "medium",
+    "explanation": "Airway inflammation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_071",
+    "question": "Most important sign of severe dehydration:",
+    "options": [
+      "Lethargy",
+      "Hair growth",
+      "Weight gain",
+      "Rash"
+    ],
+    "answer": "Lethargy",
+    "difficulty": "medium",
+    "explanation": "Reduced consciousness due to fluid loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_072",
+    "question": "Best fluid for dehydration in children:",
+    "options": [
+      "ORS",
+      "Milk",
+      "Juice",
+      "Soda"
+    ],
+    "answer": "ORS",
+    "difficulty": "easy",
+    "explanation": "Rehydration solution.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_073",
+    "question": "Most dangerous complication of diarrhea:",
+    "options": [
+      "Dehydration",
+      "Hair loss",
+      "Weight gain",
+      "Cough"
+    ],
+    "answer": "Dehydration",
+    "difficulty": "easy",
+    "explanation": "Fluid and electrolyte loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_074",
+    "question": "Electrolyte imbalance mainly affects:",
+    "options": [
+      "Heart and brain",
+      "Hair",
+      "Skin only",
+      "Nails"
+    ],
+    "answer": "Heart and brain",
+    "difficulty": "medium",
+    "explanation": "Vital organ function disruption.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_075",
+    "question": "Most common electrolyte lost in diarrhea:",
+    "options": [
+      "Potassium",
+      "Calcium",
+      "Iron",
+      "Zinc only"
+    ],
+    "answer": "Potassium",
+    "difficulty": "medium",
+    "explanation": "Causes weakness.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_076",
+    "question": "Rickets is caused by deficiency of:",
+    "options": [
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin A",
+      "Iron"
+    ],
+    "answer": "Vitamin D",
+    "difficulty": "easy",
+    "explanation": "Affects bone formation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_077",
+    "question": "Rickets affects mainly:",
+    "options": [
+      "Bones",
+      "Heart",
+      "Liver",
+      "Kidney"
+    ],
+    "answer": "Bones",
+    "difficulty": "easy",
+    "explanation": "Bone softening disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_078",
+    "question": "Most common sign of rickets:",
+    "options": [
+      "Bow legs",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Bow legs",
+    "difficulty": "easy",
+    "explanation": "Bone deformity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_079",
+    "question": "Most important nutrient for bone health:",
+    "options": [
+      "Calcium",
+      "Sugar",
+      "Fat",
+      "Salt"
+    ],
+    "answer": "Calcium",
+    "difficulty": "easy",
+    "explanation": "Bone strength.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_080",
+    "question": "Best source of Vitamin D:",
+    "options": [
+      "Sunlight",
+      "Water",
+      "Fruit",
+      "Milk only"
+    ],
+    "answer": "Sunlight",
+    "difficulty": "easy",
+    "explanation": "UV rays synthesis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_081",
+    "question": "Most common pediatric endocrine disorder:",
+    "options": [
+      "Diabetes mellitus",
+      "Asthma",
+      "Cancer",
+      "Stroke"
+    ],
+    "answer": "Diabetes mellitus",
+    "difficulty": "medium",
+    "explanation": "Insulin deficiency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_082",
+    "question": "Type 1 diabetes is:",
+    "options": [
+      "Insulin dependent",
+      "Diet controlled",
+      "Temporary",
+      "No treatment needed"
+    ],
+    "answer": "Insulin dependent",
+    "difficulty": "medium",
+    "explanation": "Autoimmune destruction of pancreas.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_083",
+    "question": "Most common symptom of diabetes in child:",
+    "options": [
+      "Excess thirst",
+      "Hair growth",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Excess thirst",
+    "difficulty": "easy",
+    "explanation": "Polydipsia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_084",
+    "question": "Insulin is given by:",
+    "options": [
+      "Oral route",
+      "Injection",
+      "Inhalation",
+      "Skin only"
+    ],
+    "answer": "Injection",
+    "difficulty": "easy",
+    "explanation": "Subcutaneous route.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_085",
+    "question": "Hypoglycemia means:",
+    "options": [
+      "Low sugar",
+      "High sugar",
+      "Low BP",
+      "High BP"
+    ],
+    "answer": "Low sugar",
+    "difficulty": "easy",
+    "explanation": "Blood glucose drop.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_086",
+    "question": "Most important sign of hypoglycemia:",
+    "options": [
+      "Sweating",
+      "Hair growth",
+      "Rash",
+      "Cough"
+    ],
+    "answer": "Sweating",
+    "difficulty": "medium",
+    "explanation": "Adrenergic response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_087",
+    "question": "Treatment of hypoglycemia:",
+    "options": [
+      "Glucose",
+      "Insulin",
+      "Water",
+      "Antibiotics"
+    ],
+    "answer": "Glucose",
+    "difficulty": "easy",
+    "explanation": "Immediate sugar replacement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_088",
+    "question": "Most common pediatric emergency drug:",
+    "options": [
+      "Adrenaline",
+      "Paracetamol",
+      "Vitamin C",
+      "Iron"
+    ],
+    "answer": "Adrenaline",
+    "difficulty": "medium",
+    "explanation": "Used in anaphylaxis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_089",
+    "question": "Anaphylactic shock is:",
+    "options": [
+      "Severe allergy",
+      "Fever",
+      "Cold",
+      "Cough"
+    ],
+    "answer": "Severe allergy",
+    "difficulty": "easy",
+    "explanation": "Life-threatening reaction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_090",
+    "question": "Most important action in anaphylaxis:",
+    "options": [
+      "Adrenaline injection",
+      "Food",
+      "Sleep",
+      "Massage"
+    ],
+    "answer": "Adrenaline injection",
+    "difficulty": "medium",
+    "explanation": "Life-saving treatment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_091",
+    "question": "Most important pediatric nursing priority is:",
+    "options": [
+      "Safety",
+      "Diet only",
+      "Sleep",
+      "Exercise"
+    ],
+    "answer": "Safety",
+    "difficulty": "easy",
+    "explanation": "Prevent injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_092",
+    "question": "Play is important for:",
+    "options": [
+      "Child development",
+      "Adult health",
+      "Only sleep",
+      "None"
+    ],
+    "answer": "Child development",
+    "difficulty": "easy",
+    "explanation": "Physical and mental growth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_093",
+    "question": "Most common injury in children:",
+    "options": [
+      "Falls",
+      "Cancer",
+      "Stroke",
+      "Diabetes"
+    ],
+    "answer": "Falls",
+    "difficulty": "easy",
+    "explanation": "Accidental trauma.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_094",
+    "question": "Poisoning is common due to:",
+    "options": [
+      "Household chemicals",
+      "Food only",
+      "Water",
+      "Air"
+    ],
+    "answer": "Household chemicals",
+    "difficulty": "medium",
+    "explanation": "Accidental ingestion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_095",
+    "question": "Most important action in poisoning:",
+    "options": [
+      "Call emergency",
+      "Sleep",
+      "Eat",
+      "Exercise"
+    ],
+    "answer": "Call emergency",
+    "difficulty": "easy",
+    "explanation": "Immediate treatment needed.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_096",
+    "question": "Most common pediatric neurological emergency:",
+    "options": [
+      "Seizure",
+      "Stroke",
+      "Cancer",
+      "Asthma"
+    ],
+    "answer": "Seizure",
+    "difficulty": "easy",
+    "explanation": "Febrile seizures common.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_097",
+    "question": "Status epilepticus is:",
+    "options": [
+      "Continuous seizure",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Continuous seizure",
+    "difficulty": "medium",
+    "explanation": "Medical emergency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_098",
+    "question": "Most important seizure drug:",
+    "options": [
+      "Diazepam",
+      "Paracetamol",
+      "Insulin",
+      "Iron"
+    ],
+    "answer": "Diazepam",
+    "difficulty": "medium",
+    "explanation": "Stops seizures.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_099",
+    "question": "Most important monitoring in seizure:",
+    "options": [
+      "Airway",
+      "Hair growth",
+      "Weight",
+      "Skin color only"
+    ],
+    "answer": "Airway",
+    "difficulty": "easy",
+    "explanation": "Prevent aspiration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_100",
+    "question": "Fever in children is most commonly due to:",
+    "options": [
+      "Infection",
+      "Exercise",
+      "Sleep",
+      "Food"
+    ],
+    "answer": "Infection",
+    "difficulty": "easy",
+    "explanation": "Body response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_101",
+    "question": "Normal pulse rate in newborn is:",
+    "options": [
+      "60–100",
+      "100–160",
+      "160–200",
+      "40–60"
+    ],
+    "answer": "100–160",
+    "difficulty": "medium",
+    "explanation": "Higher than adults.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_102",
+    "question": "Normal respiratory rate in newborn is:",
+    "options": [
+      "10–20",
+      "30–60",
+      "60–80",
+      "80–100"
+    ],
+    "answer": "30–60",
+    "difficulty": "medium",
+    "explanation": "Fast breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_103",
+    "question": "Most important indicator of growth:",
+    "options": [
+      "Weight",
+      "Height only",
+      "Hair",
+      "Teeth"
+    ],
+    "answer": "Weight",
+    "difficulty": "easy",
+    "explanation": "Growth monitoring.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_104",
+    "question": "Failure to thrive means:",
+    "options": [
+      "Poor weight gain",
+      "High weight",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Poor weight gain",
+    "difficulty": "easy",
+    "explanation": "Growth delay.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_105",
+    "question": "Most important vitamin for immunity:",
+    "options": [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin A",
+      "Iron"
+    ],
+    "answer": "Vitamin C",
+    "difficulty": "easy",
+    "explanation": "Boosts immunity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_106",
+    "question": "Iron deficiency causes:",
+    "options": [
+      "Anemia",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Anemia",
+    "difficulty": "easy",
+    "explanation": "Low hemoglobin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_107",
+    "question": "Most common pediatric blood disorder:",
+    "options": [
+      "Anemia",
+      "Cancer",
+      "Stroke",
+      "Asthma"
+    ],
+    "answer": "Anemia",
+    "difficulty": "easy",
+    "explanation": "Iron deficiency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_108",
+    "question": "Most important nursing care in anemia:",
+    "options": [
+      "Iron supplementation",
+      "Exercise",
+      "Fasting",
+      "Cold bath"
+    ],
+    "answer": "Iron supplementation",
+    "difficulty": "medium",
+    "explanation": "Corrects deficiency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_109",
+    "question": "Best food for iron:",
+    "options": [
+      "Green leafy vegetables",
+      "Sugar",
+      "Oil",
+      "Salt"
+    ],
+    "answer": "Green leafy vegetables",
+    "difficulty": "easy",
+    "explanation": "Rich iron source.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_110",
+    "question": "Most important nursing principle in pediatrics:",
+    "options": [
+      "Safety",
+      "Speed only",
+      "Diet only",
+      "Sleep only"
+    ],
+    "answer": "Safety",
+    "difficulty": "easy",
+    "explanation": "Prevent harm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_111",
+    "question": "Most important emotional need of child:",
+    "options": [
+      "Love and care",
+      "Money",
+      "Medicine",
+      "Food only"
+    ],
+    "answer": "Love and care",
+    "difficulty": "easy",
+    "explanation": "Psychological development.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_112",
+    "question": "Hospitalization causes:",
+    "options": [
+      "Anxiety",
+      "Happiness only",
+      "Weight gain",
+      "Hair growth"
+    ],
+    "answer": "Anxiety",
+    "difficulty": "easy",
+    "explanation": "Separation stress.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_113",
+    "question": "Most important nursing intervention in hospitalized child:",
+    "options": [
+      "Play therapy",
+      "Isolation",
+      "Starvation",
+      "Exercise only"
+    ],
+    "answer": "Play therapy",
+    "difficulty": "medium",
+    "explanation": "Reduces stress.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_114",
+    "question": "Best way to reduce fear in child:",
+    "options": [
+      "Explain procedure",
+      "Ignore child",
+      "Force treatment",
+      "No communication"
+    ],
+    "answer": "Explain procedure",
+    "difficulty": "easy",
+    "explanation": "Builds trust.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_115",
+    "question": "Most important nursing goal:",
+    "options": [
+      "Healthy growth",
+      "Money saving",
+      "Fast discharge",
+      "Bed rest"
+    ],
+    "answer": "Healthy growth",
+    "difficulty": "easy",
+    "explanation": "Child development focus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_116",
+    "question": "Most common congenital infection:",
+    "options": [
+      "TORCH",
+      "Malaria",
+      "Flu",
+      "Cold"
+    ],
+    "answer": "TORCH",
+    "difficulty": "medium",
+    "explanation": "Group of infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_117",
+    "question": "Most important prevention in pediatrics:",
+    "options": [
+      "Immunization",
+      "Exercise",
+      "Sleep",
+      "Massage"
+    ],
+    "answer": "Immunization",
+    "difficulty": "easy",
+    "explanation": "Prevents diseases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_118",
+    "question": "Cold chain is used for:",
+    "options": [
+      "Vaccine storage",
+      "Food storage",
+      "Medicine only",
+      "Water"
+    ],
+    "answer": "Vaccine storage",
+    "difficulty": "medium",
+    "explanation": "Maintains vaccine potency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_119",
+    "question": "Most important complication of measles:",
+    "options": [
+      "Pneumonia",
+      "Hair loss",
+      "Weight gain",
+      "Cough only"
+    ],
+    "answer": "Pneumonia",
+    "difficulty": "medium",
+    "explanation": "Respiratory complication.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_120",
+    "question": "Final goal of pediatric nursing is:",
+    "options": [
+      "Healthy adult",
+      "Hospital stay",
+      "Medication only",
+      "Rest only"
+    ],
+    "answer": "Healthy adult",
+    "difficulty": "easy",
+    "explanation": "Proper development outcome.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_121",
+    "question": "Most important sign of meningitis in children is:",
+    "options": [
+      "Neck rigidity",
+      "Cough",
+      "Diarrhea",
+      "Rash only"
+    ],
+    "answer": "Neck rigidity",
+    "difficulty": "medium",
+    "explanation": "Classic sign of meningitis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_122",
+    "question": "Most common cause of meningitis in children:",
+    "options": [
+      "Bacteria",
+      "Fungus",
+      "Virus",
+      "Parasite"
+    ],
+    "answer": "Bacteria",
+    "difficulty": "medium",
+    "explanation": "Bacterial infection is most severe.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_123",
+    "question": "Lumbar puncture is done to:",
+    "options": [
+      "Check CSF",
+      "Check blood sugar",
+      "Check urine",
+      "Check BP"
+    ],
+    "answer": "Check CSF",
+    "difficulty": "easy",
+    "explanation": "Diagnosis of meningitis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_124",
+    "question": "Most important nursing care in meningitis:",
+    "options": [
+      "Maintain quiet environment",
+      "Exercise",
+      "Massage",
+      "Food only"
+    ],
+    "answer": "Maintain quiet environment",
+    "difficulty": "medium",
+    "explanation": "Reduces brain stimulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_125",
+    "question": "Bulging fontanelle indicates:",
+    "options": [
+      "Increased intracranial pressure",
+      "Dehydration",
+      "Fever only",
+      "Hair growth"
+    ],
+    "answer": "Increased intracranial pressure",
+    "difficulty": "medium",
+    "explanation": "Brain pressure sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_126",
+    "question": "Hydrocephalus means:",
+    "options": [
+      "Fluid in brain",
+      "Air in lungs",
+      "Blood in urine",
+      "Fever"
+    ],
+    "answer": "Fluid in brain",
+    "difficulty": "easy",
+    "explanation": "CSF accumulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_127",
+    "question": "Most common treatment for hydrocephalus:",
+    "options": [
+      "Shunt surgery",
+      "Antibiotics",
+      "Fever control",
+      "Massage"
+    ],
+    "answer": "Shunt surgery",
+    "difficulty": "medium",
+    "explanation": "CSF drainage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_128",
+    "question": "Most important sign of increased ICP:",
+    "options": [
+      "Vomiting",
+      "Hair growth",
+      "Weight gain",
+      "Rash"
+    ],
+    "answer": "Vomiting",
+    "difficulty": "medium",
+    "explanation": "Projectile vomiting common.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_129",
+    "question": "Most common pediatric neurological disorder:",
+    "options": [
+      "Epilepsy",
+      "Diabetes",
+      "Asthma",
+      "Cancer"
+    ],
+    "answer": "Epilepsy",
+    "difficulty": "easy",
+    "explanation": "Seizure disorder.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_130",
+    "question": "Febrile seizure occurs in:",
+    "options": [
+      "Children",
+      "Adults",
+      "Elderly",
+      "Pregnant women"
+    ],
+    "answer": "Children",
+    "difficulty": "easy",
+    "explanation": "Due to high fever.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_131",
+    "question": "Most important step during seizure:",
+    "options": [
+      "Protect airway",
+      "Give food",
+      "Run",
+      "Drink water"
+    ],
+    "answer": "Protect airway",
+    "difficulty": "easy",
+    "explanation": "Prevent aspiration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_132",
+    "question": "Status epilepticus is:",
+    "options": [
+      "Continuous seizure",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Continuous seizure",
+    "difficulty": "medium",
+    "explanation": "Medical emergency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_133",
+    "question": "Drug of choice in acute seizure:",
+    "options": [
+      "Diazepam",
+      "Paracetamol",
+      "Insulin",
+      "Iron"
+    ],
+    "answer": "Diazepam",
+    "difficulty": "medium",
+    "explanation": "Stops seizure activity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_134",
+    "question": "Most important long-term seizure drug:",
+    "options": [
+      "Phenytoin",
+      "Paracetamol",
+      "Iron",
+      "Vitamin C"
+    ],
+    "answer": "Phenytoin",
+    "difficulty": "medium",
+    "explanation": "Antiepileptic drug.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_135",
+    "question": "Most important nursing diagnosis in seizure:",
+    "options": [
+      "Risk of injury",
+      "Weight gain",
+      "Hair loss",
+      "Fever"
+    ],
+    "answer": "Risk of injury",
+    "difficulty": "easy",
+    "explanation": "Safety priority.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_136",
+    "question": "Most common congenital heart disease symptom:",
+    "options": [
+      "Cyanosis",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Cyanosis",
+    "difficulty": "medium",
+    "explanation": "Blue discoloration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_137",
+    "question": "Blue baby syndrome is due to:",
+    "options": [
+      "Low oxygen",
+      "High sugar",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Low oxygen",
+    "difficulty": "easy",
+    "explanation": "Cyanotic heart disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_138",
+    "question": "Most important care in congenital heart disease:",
+    "options": [
+      "Oxygen therapy",
+      "Exercise",
+      "Massage",
+      "Fasting"
+    ],
+    "answer": "Oxygen therapy",
+    "difficulty": "medium",
+    "explanation": "Improves oxygenation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_139",
+    "question": "Most common pediatric GI emergency:",
+    "options": [
+      "Diarrhea",
+      "Cancer",
+      "Stroke",
+      "Asthma"
+    ],
+    "answer": "Diarrhea",
+    "difficulty": "easy",
+    "explanation": "Fluid loss disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_140",
+    "question": "Most important complication of diarrhea:",
+    "options": [
+      "Dehydration",
+      "Hair growth",
+      "Weight gain",
+      "Cough"
+    ],
+    "answer": "Dehydration",
+    "difficulty": "easy",
+    "explanation": "Fluid loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_141",
+    "question": "Most important ORS component:",
+    "options": [
+      "Glucose and salts",
+      "Fat only",
+      "Protein only",
+      "Vitamin only"
+    ],
+    "answer": "Glucose and salts",
+    "difficulty": "medium",
+    "explanation": "Electrolyte replacement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_142",
+    "question": "Most dangerous sign of dehydration:",
+    "options": [
+      "Lethargy",
+      "Hair growth",
+      "Rash",
+      "Cough"
+    ],
+    "answer": "Lethargy",
+    "difficulty": "medium",
+    "explanation": "Severe fluid loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_143",
+    "question": "Most common pediatric endocrine disorder:",
+    "options": [
+      "Diabetes mellitus",
+      "Asthma",
+      "Cancer",
+      "Stroke"
+    ],
+    "answer": "Diabetes mellitus",
+    "difficulty": "easy",
+    "explanation": "Insulin deficiency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_144",
+    "question": "Type 1 diabetes is:",
+    "options": [
+      "Insulin dependent",
+      "Diet controlled",
+      "Temporary",
+      "No treatment"
+    ],
+    "answer": "Insulin dependent",
+    "difficulty": "medium",
+    "explanation": "Autoimmune condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_145",
+    "question": "Most common symptom of diabetes:",
+    "options": [
+      "Excess thirst",
+      "Cough",
+      "Hair growth",
+      "Fever"
+    ],
+    "answer": "Excess thirst",
+    "difficulty": "easy",
+    "explanation": "Polydipsia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_146",
+    "question": "Hypoglycemia means:",
+    "options": [
+      "Low sugar",
+      "High sugar",
+      "Low BP",
+      "High BP"
+    ],
+    "answer": "Low sugar",
+    "difficulty": "easy",
+    "explanation": "Blood glucose drop.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_147",
+    "question": "Most important symptom of hypoglycemia:",
+    "options": [
+      "Sweating",
+      "Hair growth",
+      "Rash",
+      "Cough"
+    ],
+    "answer": "Sweating",
+    "difficulty": "medium",
+    "explanation": "Adrenergic response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_148",
+    "question": "Treatment of hypoglycemia:",
+    "options": [
+      "Glucose",
+      "Insulin",
+      "Water",
+      "Antibiotics"
+    ],
+    "answer": "Glucose",
+    "difficulty": "easy",
+    "explanation": "Immediate sugar replacement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_149",
+    "question": "Most important pediatric nursing priority:",
+    "options": [
+      "Safety",
+      "Diet only",
+      "Sleep",
+      "Exercise"
+    ],
+    "answer": "Safety",
+    "difficulty": "easy",
+    "explanation": "Prevent injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_150",
+    "question": "Most important pediatric goal:",
+    "options": [
+      "Healthy growth",
+      "Hospital stay",
+      "Medication only",
+      "Rest only"
+    ],
+    "answer": "Healthy growth",
+    "difficulty": "easy",
+    "explanation": "Normal development.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_151",
+    "question": "Most common cause of pediatric anemia:",
+    "options": [
+      "Iron deficiency",
+      "Vitamin D",
+      "Calcium",
+      "Protein"
+    ],
+    "answer": "Iron deficiency",
+    "difficulty": "easy",
+    "explanation": "Low hemoglobin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_152",
+    "question": "Most important food for iron:",
+    "options": [
+      "Green leafy vegetables",
+      "Sugar",
+      "Oil",
+      "Salt"
+    ],
+    "answer": "Green leafy vegetables",
+    "difficulty": "easy",
+    "explanation": "Rich iron source.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_153",
+    "question": "Most common pediatric infection:",
+    "options": [
+      "Respiratory infection",
+      "Cancer",
+      "Stroke",
+      "Diabetes"
+    ],
+    "answer": "Respiratory infection",
+    "difficulty": "easy",
+    "explanation": "Upper respiratory infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_154",
+    "question": "Most important sign of infection:",
+    "options": [
+      "Fever",
+      "Hair growth",
+      "Weight gain",
+      "Rash only"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "explanation": "Immune response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_155",
+    "question": "Most important vaccine principle:",
+    "options": [
+      "Cold chain maintenance",
+      "Heat exposure",
+      "No storage",
+      "Freezing only"
+    ],
+    "answer": "Cold chain maintenance",
+    "difficulty": "medium",
+    "explanation": "Maintains vaccine effectiveness.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_156",
+    "question": "BCG vaccine prevents:",
+    "options": [
+      "Tuberculosis",
+      "Polio",
+      "Measles",
+      "Hepatitis"
+    ],
+    "answer": "Tuberculosis",
+    "difficulty": "easy",
+    "explanation": "TB prevention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_157",
+    "question": "DPT vaccine protects against:",
+    "options": [
+      "Diphtheria, Pertussis, Tetanus",
+      "TB only",
+      "Polio",
+      "Measles"
+    ],
+    "answer": "Diphtheria, Pertussis, Tetanus",
+    "difficulty": "medium",
+    "explanation": "Triple vaccine.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_158",
+    "question": "Most important pediatric emergency:",
+    "options": [
+      "Airway obstruction",
+      "Hair growth",
+      "Fever",
+      "Weight gain"
+    ],
+    "answer": "Airway obstruction",
+    "difficulty": "easy",
+    "explanation": "Life-threatening.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_159",
+    "question": "Most important action in choking:",
+    "options": [
+      "Back blows",
+      "Food",
+      "Water",
+      "Sleep"
+    ],
+    "answer": "Back blows",
+    "difficulty": "medium",
+    "explanation": "Clears airway.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_160",
+    "question": "Most important pediatric nursing principle:",
+    "options": [
+      "Safety",
+      "Speed",
+      "Cost",
+      "Diet only"
+    ],
+    "answer": "Safety",
+    "difficulty": "easy",
+    "explanation": "Prevent harm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_161",
+    "question": "Most important emotional need of child:",
+    "options": [
+      "Love and care",
+      "Money",
+      "Medicine",
+      "Exercise"
+    ],
+    "answer": "Love and care",
+    "difficulty": "easy",
+    "explanation": "Psychological growth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_162",
+    "question": "Hospitalization causes in child:",
+    "options": [
+      "Anxiety",
+      "Happiness",
+      "Weight gain",
+      "Hair growth"
+    ],
+    "answer": "Anxiety",
+    "difficulty": "easy",
+    "explanation": "Separation stress.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_163",
+    "question": "Best way to reduce hospital fear:",
+    "options": [
+      "Explain procedure",
+      "Ignore child",
+      "Force treatment",
+      "No talk"
+    ],
+    "answer": "Explain procedure",
+    "difficulty": "easy",
+    "explanation": "Builds trust.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_164",
+    "question": "Most important pediatric goal:",
+    "options": [
+      "Healthy adult",
+      "Hospital stay",
+      "Medication only",
+      "Rest only"
+    ],
+    "answer": "Healthy adult",
+    "difficulty": "easy",
+    "explanation": "Proper development.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_165",
+    "question": "Play therapy is used for:",
+    "options": [
+      "Child stress reduction",
+      "Adults",
+      "Elderly",
+      "None"
+    ],
+    "answer": "Child stress reduction",
+    "difficulty": "medium",
+    "explanation": "Psychological care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_166",
+    "question": "Most common pediatric injury:",
+    "options": [
+      "Falls",
+      "Cancer",
+      "Stroke",
+      "Asthma"
+    ],
+    "answer": "Falls",
+    "difficulty": "easy",
+    "explanation": "Accidents.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_167",
+    "question": "Poisoning is common due to:",
+    "options": [
+      "Household chemicals",
+      "Food only",
+      "Water",
+      "Air"
+    ],
+    "answer": "Household chemicals",
+    "difficulty": "medium",
+    "explanation": "Accidental ingestion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_168",
+    "question": "Most important poisoning action:",
+    "options": [
+      "Emergency call",
+      "Sleep",
+      "Food",
+      "Exercise"
+    ],
+    "answer": "Emergency call",
+    "difficulty": "easy",
+    "explanation": "Immediate help needed.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_169",
+    "question": "Most important seizure care:",
+    "options": [
+      "Airway protection",
+      "Food",
+      "Water",
+      "Running"
+    ],
+    "answer": "Airway protection",
+    "difficulty": "easy",
+    "explanation": "Safety first.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_170",
+    "question": "Most important milestone:",
+    "options": [
+      "Development stages",
+      "Weight only",
+      "Fever",
+      "Sleep"
+    ],
+    "answer": "Development stages",
+    "difficulty": "easy",
+    "explanation": "Growth tracking.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_171",
+    "question": "Most important pediatric vitamin:",
+    "options": [
+      "Vitamin A",
+      "Sugar",
+      "Salt",
+      "Oil"
+    ],
+    "answer": "Vitamin A",
+    "difficulty": "easy",
+    "explanation": "Vision and immunity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_172",
+    "question": "Vitamin A deficiency causes:",
+    "options": [
+      "Night blindness",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Night blindness",
+    "difficulty": "easy",
+    "explanation": "Vision loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_173",
+    "question": "Most important pediatric diet:",
+    "options": [
+      "Balanced diet",
+      "Only milk",
+      "Only sugar",
+      "Only fat"
+    ],
+    "answer": "Balanced diet",
+    "difficulty": "easy",
+    "explanation": "Proper nutrition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_174",
+    "question": "Most important nursing intervention:",
+    "options": [
+      "Prevention",
+      "Treatment only",
+      "Ignore",
+      "Delay"
+    ],
+    "answer": "Prevention",
+    "difficulty": "easy",
+    "explanation": "Prevent disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_175",
+    "question": "Cold chain is essential for:",
+    "options": [
+      "Vaccines",
+      "Food",
+      "Water",
+      "Drugs only"
+    ],
+    "answer": "Vaccines",
+    "difficulty": "medium",
+    "explanation": "Temperature control.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_176",
+    "question": "Most important pediatric outcome:",
+    "options": [
+      "Healthy adult",
+      "Hospital stay",
+      "Medication",
+      "Rest"
+    ],
+    "answer": "Healthy adult",
+    "difficulty": "easy",
+    "explanation": "Proper development.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_177",
+    "question": "Most important neonatal care:",
+    "options": [
+      "Thermoregulation",
+      "Exercise",
+      "Diet only",
+      "Massage"
+    ],
+    "answer": "Thermoregulation",
+    "difficulty": "medium",
+    "explanation": "Maintain body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_178",
+    "question": "Kangaroo mother care is for:",
+    "options": [
+      "Preterm baby",
+      "Adults",
+      "Elderly",
+      "Teenagers"
+    ],
+    "answer": "Preterm baby",
+    "difficulty": "medium",
+    "explanation": "Skin-to-skin care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_179",
+    "question": "Most important benefit of breastfeeding:",
+    "options": [
+      "Immunity",
+      "Hair growth",
+      "Weight loss",
+      "Sleep only"
+    ],
+    "answer": "Immunity",
+    "difficulty": "easy",
+    "explanation": "Protects against infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  },
+  {
+    "id": "PN_180",
+    "question": "Final goal of pediatric nursing:",
+    "options": [
+      "Healthy growth & development",
+      "Hospital dependency",
+      "Medication use",
+      "Bed rest"
+    ],
+    "answer": "Healthy growth & development",
+    "difficulty": "easy",
+    "explanation": "Normal child development.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PEDIATRIC_NURSING"
+  }
+]

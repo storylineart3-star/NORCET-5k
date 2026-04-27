@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "IC_001",
+    "question": "The most important method to prevent hospital infection is:",
+    "options": [
+      "Mask use",
+      "Hand hygiene",
+      "Isolation",
+      "Antibiotics"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Hand hygiene is the single most effective measure to prevent infection transmission.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_002",
+    "question": "The most common route of infection transmission in hospitals is:",
+    "options": [
+      "Airborne",
+      "Droplet",
+      "Contact",
+      "Vector-borne"
+    ],
+    "answer": "Contact",
+    "difficulty": "easy",
+    "explanation": "Direct or indirect contact is the most frequent mode of transmission.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_003",
+    "question": "Standard precautions apply to:",
+    "options": [
+      "Only infected patients",
+      "All patients",
+      "Only ICU patients",
+      "Only surgical patients"
+    ],
+    "answer": "All patients",
+    "difficulty": "easy",
+    "explanation": "Standard precautions are used for every patient regardless of diagnosis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_004",
+    "question": "Alcohol-based hand rub is effective against:",
+    "options": [
+      "All spores",
+      "Most bacteria and viruses",
+      "Only fungi",
+      "Only parasites"
+    ],
+    "answer": "Most bacteria and viruses",
+    "difficulty": "medium",
+    "explanation": "Alcohol hand rub is effective against many pathogens but not spores.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_005",
+    "question": "Hand hygiene should be performed for how long?",
+    "options": [
+      "5–10 sec",
+      "10–15 sec",
+      "20–30 sec",
+      "1 min"
+    ],
+    "answer": "20–30 sec",
+    "difficulty": "easy",
+    "explanation": "WHO recommends 20–30 seconds for effective hand rub.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_006",
+    "question": "Which organism forms spores and is highly resistant?",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Protozoa"
+    ],
+    "answer": "Bacteria",
+    "difficulty": "medium",
+    "explanation": "Some bacteria like Clostridium form resistant spores.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_007",
+    "question": "Droplet infection spreads through:",
+    "options": [
+      "Blood",
+      "Air over long distance",
+      "Cough and sneeze",
+      "Food only"
+    ],
+    "answer": "Cough and sneeze",
+    "difficulty": "easy",
+    "explanation": "Droplets spread via respiratory secretions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_008",
+    "question": "Airborne infection spreads through:",
+    "options": [
+      "Large droplets",
+      "Small droplet nuclei",
+      "Blood contact",
+      "Touch only"
+    ],
+    "answer": "Small droplet nuclei",
+    "difficulty": "medium",
+    "explanation": "Airborne particles remain suspended in air.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_009",
+    "question": "PPE stands for:",
+    "options": [
+      "Patient Protection Equipment",
+      "Personal Protective Equipment",
+      "Primary Protection Equipment",
+      "Public Protective Equipment"
+    ],
+    "answer": "Personal Protective Equipment",
+    "difficulty": "easy",
+    "explanation": "PPE protects healthcare workers from infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_010",
+    "question": "Which PPE is used to protect eyes?",
+    "options": [
+      "Mask",
+      "Gown",
+      "Goggles",
+      "Gloves"
+    ],
+    "answer": "Goggles",
+    "difficulty": "easy",
+    "explanation": "Goggles protect eyes from droplets and fluids.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_011",
+    "question": "Most effective sterilization method is:",
+    "options": [
+      "Boiling",
+      "Autoclave",
+      "Sunlight",
+      "Detergent"
+    ],
+    "answer": "Autoclave",
+    "difficulty": "medium",
+    "explanation": "Autoclaving uses steam under pressure for sterilization.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_012",
+    "question": "Autoclave uses:",
+    "options": [
+      "Dry heat",
+      "Moist heat under pressure",
+      "Radiation",
+      "Chemical gas"
+    ],
+    "answer": "Moist heat under pressure",
+    "difficulty": "medium",
+    "explanation": "Steam under pressure kills all microorganisms including spores.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_013",
+    "question": "Boiling kills:",
+    "options": [
+      "All spores",
+      "Most bacteria",
+      "Only viruses",
+      "Only fungi"
+    ],
+    "answer": "Most bacteria",
+    "difficulty": "medium",
+    "explanation": "Boiling does not destroy spores.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_014",
+    "question": "Disinfection means:",
+    "options": [
+      "Removal of all organisms",
+      "Killing pathogens except spores",
+      "Sterilization",
+      "Cleaning only"
+    ],
+    "answer": "Killing pathogens except spores",
+    "difficulty": "easy",
+    "explanation": "Disinfection reduces microbial load but not all spores.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_015",
+    "question": "Sterilization means:",
+    "options": [
+      "Removal of dirt",
+      "Killing all microorganisms including spores",
+      "Washing hands",
+      "Antibiotic use"
+    ],
+    "answer": "Killing all microorganisms including spores",
+    "difficulty": "easy",
+    "explanation": "Sterilization destroys all microbial life.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_016",
+    "question": "Most commonly used antiseptic is:",
+    "options": [
+      "Alcohol",
+      "Water",
+      "Saline",
+      "Sugar solution"
+    ],
+    "answer": "Alcohol",
+    "difficulty": "easy",
+    "explanation": "Alcohol is widely used for skin disinfection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_017",
+    "question": "Isolation is used to prevent:",
+    "options": [
+      "Bleeding",
+      "Infection spread",
+      "Pain",
+      "Fever"
+    ],
+    "answer": "Infection spread",
+    "difficulty": "easy",
+    "explanation": "Isolation prevents transmission of infectious agents.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_018",
+    "question": "Reverse isolation is used for:",
+    "options": [
+      "Infected patients",
+      "Immunocompromised patients",
+      "Surgical patients",
+      "Healthy patients"
+    ],
+    "answer": "Immunocompromised patients",
+    "difficulty": "medium",
+    "explanation": "Protects vulnerable patients from infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_019",
+    "question": "Medical asepsis means:",
+    "options": [
+      "Sterile technique",
+      "Clean technique",
+      "No cleaning",
+      "Surgical removal"
+    ],
+    "answer": "Clean technique",
+    "difficulty": "medium",
+    "explanation": "Reduces number of pathogens.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_020",
+    "question": "Surgical asepsis means:",
+    "options": [
+      "Clean technique",
+      "Sterile technique",
+      "Hand washing only",
+      "Mask only"
+    ],
+    "answer": "Sterile technique",
+    "difficulty": "medium",
+    "explanation": "Complete absence of microorganisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_021",
+    "question": "Sharps should be disposed in:",
+    "options": [
+      "Yellow bin",
+      "Blue bin",
+      "White puncture-proof container",
+      "Black bin"
+    ],
+    "answer": "White puncture-proof container",
+    "difficulty": "medium",
+    "explanation": "Sharps require safe disposal containers.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_022",
+    "question": "Biomedical waste color coding for infectious waste is:",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Black",
+      "Green"
+    ],
+    "answer": "Yellow",
+    "difficulty": "medium",
+    "explanation": "Yellow bags are used for infectious waste.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_023",
+    "question": "Most effective method to break chain of infection is:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Isolation only",
+      "Vaccination only"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Interrupts transmission at multiple points.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_024",
+    "question": "Fomite is:",
+    "options": [
+      "Living vector",
+      "Non-living object transmitting infection",
+      "Virus",
+      "Bacteria"
+    ],
+    "answer": "Non-living object transmitting infection",
+    "difficulty": "medium",
+    "explanation": "Objects like stethoscopes can carry infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_025",
+    "question": "Vector-borne disease is spread by:",
+    "options": [
+      "Air",
+      "Water",
+      "Insects",
+      "Food"
+    ],
+    "answer": "Insects",
+    "difficulty": "easy",
+    "explanation": "Mosquitoes and insects transmit infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_026",
+    "question": "Nosocomial infection means:",
+    "options": [
+      "Community infection",
+      "Hospital acquired infection",
+      "Food infection",
+      "Air infection"
+    ],
+    "answer": "Hospital acquired infection",
+    "difficulty": "easy",
+    "explanation": "Infection acquired in hospital setting.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_027",
+    "question": "Best time for hand hygiene is:",
+    "options": [
+      "Before patient contact",
+      "After patient contact",
+      "Both A and B",
+      "Only after glove use"
+    ],
+    "answer": "Both A and B",
+    "difficulty": "easy",
+    "explanation": "WHO 5 moments include both times.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_028",
+    "question": "Mask mainly protects against:",
+    "options": [
+      "Contact infection",
+      "Droplet infection",
+      "Blood infection",
+      "Fungal infection"
+    ],
+    "answer": "Droplet infection",
+    "difficulty": "easy",
+    "explanation": "Masks block respiratory droplets.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_029",
+    "question": "Gloves are used to prevent:",
+    "options": [
+      "Airborne infection",
+      "Contact transmission",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Contact transmission",
+    "difficulty": "easy",
+    "explanation": "Gloves prevent contamination via touch.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_030",
+    "question": "Chain of infection has how many links?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6",
+    "difficulty": "medium",
+    "explanation": "There are 6 links in infection chain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_031",
+    "question": "Portal of entry means:",
+    "options": [
+      "Exit of pathogen",
+      "Entry site of pathogen",
+      "Host immunity",
+      "Treatment site"
+    ],
+    "answer": "Entry site of pathogen",
+    "difficulty": "medium",
+    "explanation": "Pathogen enters through portal of entry.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_032",
+    "question": "Reservoir of infection is:",
+    "options": [
+      "Host only",
+      "Source where pathogen lives",
+      "Medicine",
+      "Hospital"
+    ],
+    "answer": "Source where pathogen lives",
+    "difficulty": "medium",
+    "explanation": "Environment where microorganisms survive.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_033",
+    "question": "Portal of exit is:",
+    "options": [
+      "Entry of pathogen",
+      "Exit of pathogen",
+      "Host defense",
+      "Drug route"
+    ],
+    "answer": "Exit of pathogen",
+    "difficulty": "medium",
+    "explanation": "Pathogen leaves host through exit portal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_034",
+    "question": "Transmission means:",
+    "options": [
+      "Entry of disease",
+      "Spread of infection",
+      "Treatment",
+      "Recovery"
+    ],
+    "answer": "Spread of infection",
+    "difficulty": "easy",
+    "explanation": "Movement of pathogen between hosts.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_035",
+    "question": "Susceptible host means:",
+    "options": [
+      "Strong immunity",
+      "Weak immunity",
+      "No disease",
+      "Vaccinated only"
+    ],
+    "answer": "Weak immunity",
+    "difficulty": "medium",
+    "explanation": "Host prone to infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_036",
+    "question": "Alcohol hand rub is ineffective against:",
+    "options": [
+      "Bacteria",
+      "Viruses",
+      "Spores",
+      "Fungi"
+    ],
+    "answer": "Spores",
+    "difficulty": "medium",
+    "explanation": "Spores resist alcohol-based disinfectants.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_037",
+    "question": "Best protection against airborne infection is:",
+    "options": [
+      "Mask only",
+      "N95 respirator",
+      "Gloves",
+      "Hand wash"
+    ],
+    "answer": "N95 respirator",
+    "difficulty": "medium",
+    "explanation": "N95 filters airborne particles.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_038",
+    "question": "Sterilization kills:",
+    "options": [
+      "Only bacteria",
+      "All microorganisms including spores",
+      "Only viruses",
+      "Only fungi"
+    ],
+    "answer": "All microorganisms including spores",
+    "difficulty": "easy",
+    "explanation": "Complete destruction of microbial life.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_039",
+    "question": "Disinfection does NOT kill:",
+    "options": [
+      "Bacteria",
+      "Viruses",
+      "Spores",
+      "Fungi"
+    ],
+    "answer": "Spores",
+    "difficulty": "medium",
+    "explanation": "Spores are resistant to disinfection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_040",
+    "question": "Best method to prevent cross infection is:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Mask only",
+      "Steroids"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Breaks transmission chain effectively.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_041",
+    "question": "The 5 moments of hand hygiene were introduced by:",
+    "options": [
+      "CDC",
+      "WHO",
+      "ICMR",
+      "NMC"
+    ],
+    "answer": "WHO",
+    "difficulty": "medium",
+    "explanation": "WHO introduced 5 moments for hand hygiene in healthcare.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_042",
+    "question": "Moment 1 of hand hygiene is:",
+    "options": [
+      "Before patient contact",
+      "After body fluid exposure",
+      "After patient contact",
+      "Before aseptic task"
+    ],
+    "answer": "Before patient contact",
+    "difficulty": "medium",
+    "explanation": "First WHO moment is before touching the patient.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_043",
+    "question": "Moment 2 of hand hygiene is:",
+    "options": [
+      "After patient contact",
+      "Before patient contact",
+      "Before aseptic task",
+      "After contact with surroundings"
+    ],
+    "answer": "Before aseptic task",
+    "difficulty": "medium",
+    "explanation": "Clean hands before sterile/aseptic procedures.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_044",
+    "question": "Moment 3 of hand hygiene is:",
+    "options": [
+      "After body fluid exposure",
+      "Before patient contact",
+      "Before procedure",
+      "After medication"
+    ],
+    "answer": "After body fluid exposure",
+    "difficulty": "medium",
+    "explanation": "Hand hygiene after exposure to blood or fluids.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_045",
+    "question": "Moment 4 of hand hygiene is:",
+    "options": [
+      "After patient contact",
+      "Before patient contact",
+      "Before surgery",
+      "After injection"
+    ],
+    "answer": "After patient contact",
+    "difficulty": "medium",
+    "explanation": "Hand hygiene after touching a patient.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_046",
+    "question": "Moment 5 of hand hygiene is:",
+    "options": [
+      "After touching patient surroundings",
+      "Before aseptic task",
+      "After injection",
+      "Before surgery"
+    ],
+    "answer": "After touching patient surroundings",
+    "difficulty": "medium",
+    "explanation": "Includes contact with patient environment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_047",
+    "question": "Best antiseptic for surgical hand scrub is:",
+    "options": [
+      "Alcohol",
+      "Chlorhexidine",
+      "Saline",
+      "Water"
+    ],
+    "answer": "Chlorhexidine",
+    "difficulty": "medium",
+    "explanation": "Chlorhexidine provides long-lasting antimicrobial action.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_048",
+    "question": "PPE should be removed in which order?",
+    "options": [
+      "Gloves first",
+      "Mask first",
+      "Gown first",
+      "Shoes first"
+    ],
+    "answer": "Gloves first",
+    "difficulty": "hard",
+    "explanation": "Gloves are most contaminated and removed first.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_049",
+    "question": "Most contaminated PPE item is:",
+    "options": [
+      "Mask",
+      "Gown",
+      "Gloves",
+      "Goggles"
+    ],
+    "answer": "Gloves",
+    "difficulty": "easy",
+    "explanation": "Gloves directly contact infectious material.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_050",
+    "question": "Airborne infection isolation requires:",
+    "options": [
+      "Standard room",
+      "Negative pressure room",
+      "Positive pressure room",
+      "Open room"
+    ],
+    "answer": "Negative pressure room",
+    "difficulty": "hard",
+    "explanation": "Prevents contaminated air from escaping.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_051",
+    "question": "Droplet precautions require distance of:",
+    "options": [
+      "1 meter",
+      "2 meters",
+      "3 meters",
+      "No distance"
+    ],
+    "answer": "1 meter",
+    "difficulty": "medium",
+    "explanation": "Droplets travel short distance (~1 meter).",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_052",
+    "question": "Most effective sterilization indicator is:",
+    "options": [
+      "Color change",
+      "Biological indicator",
+      "Smell",
+      "Temperature reading"
+    ],
+    "answer": "Biological indicator",
+    "difficulty": "hard",
+    "explanation": "Spore-based biological indicators confirm sterilization.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_053",
+    "question": "Autoclave temperature is:",
+    "options": [
+      "100°C",
+      "121°C",
+      "150°C",
+      "180°C"
+    ],
+    "answer": "121°C",
+    "difficulty": "medium",
+    "explanation": "Standard autoclave temp at pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_054",
+    "question": "Autoclave pressure is:",
+    "options": [
+      "5 psi",
+      "10 psi",
+      "15 psi",
+      "20 psi"
+    ],
+    "answer": "15 psi",
+    "difficulty": "medium",
+    "explanation": "Standard pressure for sterilization.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_055",
+    "question": "Sterilization time in autoclave is:",
+    "options": [
+      "5 min",
+      "10 min",
+      "15–20 min",
+      "1 hour"
+    ],
+    "answer": "15–20 min",
+    "difficulty": "medium",
+    "explanation": "Standard exposure time.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_056",
+    "question": "Dry heat sterilization is done using:",
+    "options": [
+      "Autoclave",
+      "Hot air oven",
+      "Boiling water",
+      "UV light"
+    ],
+    "answer": "Hot air oven",
+    "difficulty": "medium",
+    "explanation": "Dry heat uses hot air oven.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_057",
+    "question": "Most resistant microbial form is:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Spore",
+      "Fungi"
+    ],
+    "answer": "Spore",
+    "difficulty": "easy",
+    "explanation": "Spores are highly resistant.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_058",
+    "question": "Biomedical waste yellow bag contains:",
+    "options": [
+      "Glass",
+      "Infectious waste",
+      "Plastic",
+      "Metal"
+    ],
+    "answer": "Infectious waste",
+    "difficulty": "medium",
+    "explanation": "Yellow bags are for infectious materials.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_059",
+    "question": "Sharps disposal container color is:",
+    "options": [
+      "Yellow",
+      "Blue",
+      "White",
+      "Black"
+    ],
+    "answer": "White",
+    "difficulty": "medium",
+    "explanation": "White puncture-proof container is used.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_060",
+    "question": "Nosocomial infection occurs in:",
+    "options": [
+      "Community",
+      "Hospital",
+      "Home",
+      "School"
+    ],
+    "answer": "Hospital",
+    "difficulty": "easy",
+    "explanation": "Hospital-acquired infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_061",
+    "question": "Fomite is:",
+    "options": [
+      "Living vector",
+      "Non-living object",
+      "Virus",
+      "Bacteria"
+    ],
+    "answer": "Non-living object",
+    "difficulty": "medium",
+    "explanation": "Objects that transmit infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_062",
+    "question": "Vector-borne diseases are spread by:",
+    "options": [
+      "Air",
+      "Water",
+      "Insects",
+      "Food"
+    ],
+    "answer": "Insects",
+    "difficulty": "easy",
+    "explanation": "Mosquitoes and insects act as vectors.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_063",
+    "question": "Isolation prevents:",
+    "options": [
+      "Bleeding",
+      "Infection spread",
+      "Pain",
+      "Fever"
+    ],
+    "answer": "Infection spread",
+    "difficulty": "easy",
+    "explanation": "Prevents transmission of pathogens.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_064",
+    "question": "Reverse isolation is for:",
+    "options": [
+      "Infected patients",
+      "Immunocompromised patients",
+      "Healthy patients",
+      "Visitors"
+    ],
+    "answer": "Immunocompromised patients",
+    "difficulty": "medium",
+    "explanation": "Protects vulnerable patients.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_065",
+    "question": "Surgical asepsis means:",
+    "options": [
+      "Clean technique",
+      "Sterile technique",
+      "Basic hygiene",
+      "Mask use"
+    ],
+    "answer": "Sterile technique",
+    "difficulty": "easy",
+    "explanation": "No microorganisms present.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_066",
+    "question": "Medical asepsis means:",
+    "options": [
+      "Sterile field",
+      "Clean technique",
+      "No cleaning",
+      "Only gloves"
+    ],
+    "answer": "Clean technique",
+    "difficulty": "easy",
+    "explanation": "Reduces microbial load.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_067",
+    "question": "Chain of infection has:",
+    "options": [
+      "4 links",
+      "5 links",
+      "6 links",
+      "7 links"
+    ],
+    "answer": "6 links",
+    "difficulty": "medium",
+    "explanation": "Standard infection chain model.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_068",
+    "question": "Best method to break infection chain:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Surgery",
+      "Mask only"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Most effective preventive step.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_069",
+    "question": "Portal of entry is:",
+    "options": [
+      "Exit site",
+      "Entry site of pathogen",
+      "Host defense",
+      "Drug site"
+    ],
+    "answer": "Entry site of pathogen",
+    "difficulty": "medium",
+    "explanation": "Pathogen enters host through this route.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_070",
+    "question": "Reservoir of infection means:",
+    "options": [
+      "Drug store",
+      "Source of pathogen",
+      "Hospital room",
+      "Host immunity"
+    ],
+    "answer": "Source of pathogen",
+    "difficulty": "medium",
+    "explanation": "Where microorganism lives.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_071",
+    "question": "Portal of exit is:",
+    "options": [
+      "Entry of pathogen",
+      "Exit of pathogen",
+      "Treatment site",
+      "Immune site"
+    ],
+    "answer": "Exit of pathogen",
+    "difficulty": "medium",
+    "explanation": "Pathogen leaves host here.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_072",
+    "question": "Transmission means:",
+    "options": [
+      "Spread of infection",
+      "Treatment",
+      "Diagnosis",
+      "Recovery"
+    ],
+    "answer": "Spread of infection",
+    "difficulty": "easy",
+    "explanation": "Movement between hosts.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_073",
+    "question": "Susceptible host means:",
+    "options": [
+      "Strong immunity",
+      "Weak immunity",
+      "Vaccinated",
+      "Healthy only"
+    ],
+    "answer": "Weak immunity",
+    "difficulty": "medium",
+    "explanation": "Prone to infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_074",
+    "question": "Alcohol hand rub does NOT kill:",
+    "options": [
+      "Bacteria",
+      "Viruses",
+      "Spores",
+      "Fungi"
+    ],
+    "answer": "Spores",
+    "difficulty": "medium",
+    "explanation": "Spores resist alcohol.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_075",
+    "question": "Best protection against airborne infection:",
+    "options": [
+      "Mask",
+      "Gloves",
+      "N95 respirator",
+      "Cap"
+    ],
+    "answer": "N95 respirator",
+    "difficulty": "medium",
+    "explanation": "Filters airborne particles.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_076",
+    "question": "Sterilization kills:",
+    "options": [
+      "Only bacteria",
+      "All microorganisms including spores",
+      "Only viruses",
+      "Only fungi"
+    ],
+    "answer": "All microorganisms including spores",
+    "difficulty": "easy",
+    "explanation": "Complete destruction of microbes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_077",
+    "question": "Disinfection does NOT kill:",
+    "options": [
+      "Bacteria",
+      "Viruses",
+      "Spores",
+      "Fungi"
+    ],
+    "answer": "Spores",
+    "difficulty": "medium",
+    "explanation": "Spores are resistant.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_078",
+    "question": "Cross infection is prevented by:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Surgery",
+      "Injection"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Interrupts transmission.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_079",
+    "question": "Droplet infection spreads through:",
+    "options": [
+      "Air over long distance",
+      "Cough and sneeze",
+      "Water",
+      "Food"
+    ],
+    "answer": "Cough and sneeze",
+    "difficulty": "easy",
+    "explanation": "Respiratory droplets.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_080",
+    "question": "Airborne infection spreads through:",
+    "options": [
+      "Large droplets",
+      "Small droplet nuclei",
+      "Blood",
+      "Touch"
+    ],
+    "answer": "Small droplet nuclei",
+    "difficulty": "medium",
+    "explanation": "Particles remain suspended in air.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_081",
+    "question": "The most effective way to prevent nosocomial infections is:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Vaccination",
+      "Isolation only"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Hand hygiene breaks transmission chain effectively.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_082",
+    "question": "Which organism is most commonly responsible for hospital infections?",
+    "options": [
+      "E. coli",
+      "Staphylococcus aureus",
+      "Influenza virus",
+      "Malaria parasite"
+    ],
+    "answer": "Staphylococcus aureus",
+    "difficulty": "medium",
+    "explanation": "Common cause of hospital-acquired infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_083",
+    "question": "The term 'asepsis' means:",
+    "options": [
+      "Presence of infection",
+      "Absence of infection",
+      "Pain control",
+      "Fever control"
+    ],
+    "answer": "Absence of infection",
+    "difficulty": "easy",
+    "explanation": "Asepsis means free from microorganisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_084",
+    "question": "Which disinfectant is used for instruments?",
+    "options": [
+      "Alcohol only",
+      "Glutaraldehyde",
+      "Water",
+      "Saline"
+    ],
+    "answer": "Glutaraldehyde",
+    "difficulty": "medium",
+    "explanation": "High-level disinfectant for instruments.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_085",
+    "question": "UV light is mainly used for:",
+    "options": [
+      "Sterilization of hands",
+      "Air disinfection",
+      "Wound cleaning",
+      "Injection"
+    ],
+    "answer": "Air disinfection",
+    "difficulty": "medium",
+    "explanation": "UV helps reduce airborne pathogens.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_086",
+    "question": "The most resistant form of bacteria is:",
+    "options": [
+      "Vegetative cell",
+      "Spore",
+      "Capsule",
+      "Flagella"
+    ],
+    "answer": "Spore",
+    "difficulty": "easy",
+    "explanation": "Spores resist heat and chemicals.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_087",
+    "question": "Hand washing with soap removes:",
+    "options": [
+      "Only spores",
+      "Transient flora",
+      "All viruses completely",
+      "Only fungi"
+    ],
+    "answer": "Transient flora",
+    "difficulty": "easy",
+    "explanation": "Soap removes temporary microorganisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_088",
+    "question": "Standard precautions include:",
+    "options": [
+      "Only gloves",
+      "Hand hygiene, PPE, safe injection",
+      "Only masks",
+      "Only isolation"
+    ],
+    "answer": "Hand hygiene, PPE, safe injection",
+    "difficulty": "medium",
+    "explanation": "Basic infection prevention measures.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_089",
+    "question": "Transmission-based precautions are used for:",
+    "options": [
+      "All patients",
+      "Specific infections",
+      "Healthy patients",
+      "Visitors"
+    ],
+    "answer": "Specific infections",
+    "difficulty": "medium",
+    "explanation": "Used for known infectious diseases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_090",
+    "question": "Contact precautions include:",
+    "options": [
+      "Mask only",
+      "Gloves and gown",
+      "No PPE",
+      "Only hand wash"
+    ],
+    "answer": "Gloves and gown",
+    "difficulty": "medium",
+    "explanation": "Prevents direct contact spread.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_091",
+    "question": "Droplet precautions require:",
+    "options": [
+      "N95 mask",
+      "Surgical mask",
+      "No mask",
+      "Face shield only"
+    ],
+    "answer": "Surgical mask",
+    "difficulty": "medium",
+    "explanation": "Droplets are blocked by surgical mask.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_092",
+    "question": "Airborne precautions require:",
+    "options": [
+      "Surgical mask",
+      "N95 respirator",
+      "No PPE",
+      "Gloves only"
+    ],
+    "answer": "N95 respirator",
+    "difficulty": "medium",
+    "explanation": "Filters small airborne particles.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_093",
+    "question": "Sharps injury prevention includes:",
+    "options": [
+      "Recapping needles",
+      "No recapping",
+      "Manual bending",
+      "Reuse needles"
+    ],
+    "answer": "No recapping",
+    "difficulty": "medium",
+    "explanation": "Prevents needle-stick injuries.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_094",
+    "question": "Biomedical waste color for plastic waste is:",
+    "options": [
+      "Yellow",
+      "Red",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Red",
+    "difficulty": "medium",
+    "explanation": "Red bag is used for contaminated plastics.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_095",
+    "question": "Autoclave kills microorganisms by:",
+    "options": [
+      "Dry heat",
+      "Moist heat under pressure",
+      "Radiation",
+      "Chemicals"
+    ],
+    "answer": "Moist heat under pressure",
+    "difficulty": "medium",
+    "explanation": "Steam under pressure destroys microbes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_096",
+    "question": "Sterilization is monitored using:",
+    "options": [
+      "Temperature only",
+      "Biological indicators",
+      "Color change",
+      "Smell"
+    ],
+    "answer": "Biological indicators",
+    "difficulty": "hard",
+    "explanation": "Spore tests confirm sterilization.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_097",
+    "question": "Disinfection kills:",
+    "options": [
+      "All organisms",
+      "Pathogens except spores",
+      "Only spores",
+      "Only viruses"
+    ],
+    "answer": "Pathogens except spores",
+    "difficulty": "medium",
+    "explanation": "Spores survive disinfection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_098",
+    "question": "Hand rub is preferred when:",
+    "options": [
+      "Hands are visibly dirty",
+      "No visible dirt",
+      "After surgery only",
+      "Before eating only"
+    ],
+    "answer": "No visible dirt",
+    "difficulty": "medium",
+    "explanation": "Alcohol rub works on clean hands.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_099",
+    "question": "Most important PPE in ICU is:",
+    "options": [
+      "Cap",
+      "Gloves",
+      "Mask",
+      "Gown"
+    ],
+    "answer": "Gloves",
+    "difficulty": "easy",
+    "explanation": "Gloves prevent direct contamination.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_100",
+    "question": "Sterile field means:",
+    "options": [
+      "Clean area",
+      "Free of microorganisms",
+      "Dirty area",
+      "Open area"
+    ],
+    "answer": "Free of microorganisms",
+    "difficulty": "easy",
+    "explanation": "No microbes allowed in sterile field.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_101",
+    "question": "Hospital infection is also called:",
+    "options": [
+      "Community infection",
+      "Nosocomial infection",
+      "Food infection",
+      "Water infection"
+    ],
+    "answer": "Nosocomial infection",
+    "difficulty": "easy",
+    "explanation": "Infection acquired in hospital.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_102",
+    "question": "The main reservoir of infection is:",
+    "options": [
+      "Air",
+      "Humans",
+      "Soil only",
+      "Medicine"
+    ],
+    "answer": "Humans",
+    "difficulty": "medium",
+    "explanation": "Humans are primary reservoir.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_103",
+    "question": "Chain of infection includes:",
+    "options": [
+      "One step",
+      "Two steps",
+      "Six steps",
+      "Ten steps"
+    ],
+    "answer": "Six steps",
+    "difficulty": "medium",
+    "explanation": "Standard infection chain model.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_104",
+    "question": "Best method to prevent cross contamination is:",
+    "options": [
+      "Hand hygiene",
+      "Antibiotics",
+      "Surgery",
+      "IV fluids"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Most effective prevention method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_105",
+    "question": "Fever spreads infection by:",
+    "options": [
+      "Direct contact",
+      "No spread",
+      "Vector only",
+      "Air only"
+    ],
+    "answer": "No spread",
+    "difficulty": "easy",
+    "explanation": "Fever is symptom, not transmission mode.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_106",
+    "question": "Isolation room pressure is:",
+    "options": [
+      "Positive",
+      "Negative",
+      "Neutral",
+      "No pressure"
+    ],
+    "answer": "Negative",
+    "difficulty": "hard",
+    "explanation": "Prevents contaminated air escape.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_107",
+    "question": "Most common PPE failure is:",
+    "options": [
+      "Mask misuse",
+      "Hand hygiene failure",
+      "Gown use",
+      "Cap use"
+    ],
+    "answer": "Hand hygiene failure",
+    "difficulty": "medium",
+    "explanation": "Main cause of infection spread.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_108",
+    "question": "Needle stick injury prevention includes:",
+    "options": [
+      "Recapping",
+      "No recapping",
+      "Reuse needles",
+      "Hand touch"
+    ],
+    "answer": "No recapping",
+    "difficulty": "medium",
+    "explanation": "Avoids accidental injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_109",
+    "question": "Most effective barrier against infection:",
+    "options": [
+      "Mask",
+      "Gloves",
+      "Hand hygiene",
+      "Gown"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Breaks infection chain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_110",
+    "question": "UV rays are used for:",
+    "options": [
+      "Sterilization",
+      "Air disinfection",
+      "Injection",
+      "Surgery"
+    ],
+    "answer": "Air disinfection",
+    "difficulty": "medium",
+    "explanation": "Kills airborne microbes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_111",
+    "question": "Alcohol hand rub contact time is:",
+    "options": [
+      "5 sec",
+      "10 sec",
+      "20–30 sec",
+      "1 min"
+    ],
+    "answer": "20–30 sec",
+    "difficulty": "easy",
+    "explanation": "Effective disinfection time.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_112",
+    "question": "Best PPE for surgery is:",
+    "options": [
+      "Cap only",
+      "Full sterile PPE",
+      "Mask only",
+      "Gloves only"
+    ],
+    "answer": "Full sterile PPE",
+    "difficulty": "medium",
+    "explanation": "Complete barrier protection required.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_113",
+    "question": "Infection control breaks:",
+    "options": [
+      "Chain of infection",
+      "Healing process",
+      "Drug action",
+      "Pain cycle"
+    ],
+    "answer": "Chain of infection",
+    "difficulty": "easy",
+    "explanation": "Interrupts transmission cycle.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_114",
+    "question": "Sterilization is required for:",
+    "options": [
+      "Bed sheets",
+      "Surgical instruments",
+      "Floor cleaning",
+      "Food"
+    ],
+    "answer": "Surgical instruments",
+    "difficulty": "easy",
+    "explanation": "Must be completely sterile.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_115",
+    "question": "Disposal of infectious waste is done in:",
+    "options": [
+      "Green bin",
+      "Yellow bin",
+      "Blue bin",
+      "Black bin"
+    ],
+    "answer": "Yellow bin",
+    "difficulty": "medium",
+    "explanation": "Standard biomedical waste system.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_116",
+    "question": "Most infectious body fluid is:",
+    "options": [
+      "Saliva",
+      "Blood",
+      "Sweat",
+      "Tears"
+    ],
+    "answer": "Blood",
+    "difficulty": "easy",
+    "explanation": "Highest risk of infection transmission.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_117",
+    "question": "Hand hygiene removes:",
+    "options": [
+      "All spores",
+      "Transient flora",
+      "All bacteria permanently",
+      "Viruses completely"
+    ],
+    "answer": "Transient flora",
+    "difficulty": "easy",
+    "explanation": "Temporary microorganisms are removed.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_118",
+    "question": "Infection prevention starts with:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Isolation",
+      "Vaccination"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "First and most important step.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_119",
+    "question": "Hospital infection increases due to:",
+    "options": [
+      "Clean environment",
+      "Poor hygiene",
+      "Good care",
+      "Vaccination"
+    ],
+    "answer": "Poor hygiene",
+    "difficulty": "easy",
+    "explanation": "Main contributing factor.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_120",
+    "question": "Best method to control infection spread is:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Painkillers",
+      "Surgery"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Most effective preventive measure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_121",
+    "question": "The most effective method to destroy spores is:",
+    "options": [
+      "Alcohol",
+      "Boiling",
+      "Autoclaving",
+      "UV light"
+    ],
+    "answer": "Autoclaving",
+    "difficulty": "easy",
+    "explanation": "Autoclave uses steam under pressure to kill spores.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_122",
+    "question": "Boiling water kills:",
+    "options": [
+      "All spores",
+      "Most vegetative bacteria",
+      "Viruses only",
+      "Fungi only"
+    ],
+    "answer": "Most vegetative bacteria",
+    "difficulty": "medium",
+    "explanation": "Boiling does not destroy spores.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_123",
+    "question": "Sterile gloves are used in:",
+    "options": [
+      "Bed making",
+      "Surgical procedures",
+      "Cleaning floor",
+      "Feeding patients"
+    ],
+    "answer": "Surgical procedures",
+    "difficulty": "easy",
+    "explanation": "Sterile gloves maintain aseptic field.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_124",
+    "question": "Non-sterile gloves are used for:",
+    "options": [
+      "Surgery",
+      "Routine patient care",
+      "Open wounds surgery",
+      "Implants"
+    ],
+    "answer": "Routine patient care",
+    "difficulty": "easy",
+    "explanation": "Used for general contact precautions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_125",
+    "question": "The main purpose of PPE is to protect:",
+    "options": [
+      "Patient only",
+      "Healthcare worker only",
+      "Both patient and healthcare worker",
+      "Hospital only"
+    ],
+    "answer": "Both patient and healthcare worker",
+    "difficulty": "medium",
+    "explanation": "PPE prevents cross-contamination.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_126",
+    "question": "Most common site for hospital infection is:",
+    "options": [
+      "Skin",
+      "Urinary tract",
+      "Brain",
+      "Heart"
+    ],
+    "answer": "Urinary tract",
+    "difficulty": "medium",
+    "explanation": "Catheter-associated UTIs are common.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_127",
+    "question": "Urinary catheter infection is called:",
+    "options": [
+      "CLABSI",
+      "CAUTI",
+      "SSI",
+      "VAP"
+    ],
+    "answer": "CAUTI",
+    "difficulty": "medium",
+    "explanation": "Catheter-associated urinary tract infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_128",
+    "question": "Ventilator-associated pneumonia is:",
+    "options": [
+      "CAUTI",
+      "VAP",
+      "SSI",
+      "BSI"
+    ],
+    "answer": "VAP",
+    "difficulty": "medium",
+    "explanation": "Pneumonia related to mechanical ventilation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_129",
+    "question": "Surgical site infection occurs in:",
+    "options": [
+      "Heart",
+      "Operated wound",
+      "Brain only",
+      "Skin only"
+    ],
+    "answer": "Operated wound",
+    "difficulty": "easy",
+    "explanation": "Infection at surgical incision site.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_130",
+    "question": "Central line infection is called:",
+    "options": [
+      "CAUTI",
+      "CLABSI",
+      "VAP",
+      "SSI"
+    ],
+    "answer": "CLABSI",
+    "difficulty": "hard",
+    "explanation": "Central line-associated bloodstream infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_131",
+    "question": "Most effective way to prevent CAUTI is:",
+    "options": [
+      "Antibiotics",
+      "Avoid unnecessary catheterization",
+      "Mask use",
+      "IV fluids"
+    ],
+    "answer": "Avoid unnecessary catheterization",
+    "difficulty": "medium",
+    "explanation": "Reduce catheter use to prevent infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_132",
+    "question": "Hand hygiene before and after catheter care prevents:",
+    "options": [
+      "VAP",
+      "CAUTI",
+      "SSI",
+      "CLABSI"
+    ],
+    "answer": "CAUTI",
+    "difficulty": "medium",
+    "explanation": "Prevents urinary tract infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_133",
+    "question": "Alcohol hand rub is effective when hands are:",
+    "options": [
+      "Visibly dirty",
+      "Not visibly dirty",
+      "Covered with blood",
+      "Greasy and dirty"
+    ],
+    "answer": "Not visibly dirty",
+    "difficulty": "easy",
+    "explanation": "Works on clean hands only.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_134",
+    "question": "Best barrier protection during surgery:",
+    "options": [
+      "Mask only",
+      "Full sterile gown and gloves",
+      "Cap only",
+      "Shoes only"
+    ],
+    "answer": "Full sterile gown and gloves",
+    "difficulty": "easy",
+    "explanation": "Provides complete sterile barrier.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_135",
+    "question": "Instrument sterilization is confirmed by:",
+    "options": [
+      "Smell",
+      "Color change indicator",
+      "Biological spore test",
+      "Visual inspection"
+    ],
+    "answer": "Biological spore test",
+    "difficulty": "hard",
+    "explanation": "Most reliable sterilization confirmation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_136",
+    "question": "Incineration is used for:",
+    "options": [
+      "Food waste",
+      "Biomedical waste",
+      "Water purification",
+      "Air cleaning"
+    ],
+    "answer": "Biomedical waste",
+    "difficulty": "medium",
+    "explanation": "Burning infectious waste safely.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_137",
+    "question": "Most infectious hospital pathogen is:",
+    "options": [
+      "Staphylococcus aureus",
+      "E. coli",
+      "HIV",
+      "Malaria parasite"
+    ],
+    "answer": "Staphylococcus aureus",
+    "difficulty": "medium",
+    "explanation": "Common hospital-acquired pathogen.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_138",
+    "question": "Sterilization destroys:",
+    "options": [
+      "Only bacteria",
+      "All microorganisms including spores",
+      "Only viruses",
+      "Only fungi"
+    ],
+    "answer": "All microorganisms including spores",
+    "difficulty": "easy",
+    "explanation": "Complete microbial destruction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_139",
+    "question": "Disinfection is used for:",
+    "options": [
+      "Surgical instruments",
+      "Non-critical surfaces",
+      "Blood transfusion",
+      "Implants"
+    ],
+    "answer": "Non-critical surfaces",
+    "difficulty": "medium",
+    "explanation": "Used on surfaces, not sterile tools.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_140",
+    "question": "Most effective disinfectant for surfaces:",
+    "options": [
+      "Alcohol",
+      "Chlorine solution",
+      "Water",
+      "Saline"
+    ],
+    "answer": "Chlorine solution",
+    "difficulty": "medium",
+    "explanation": "Strong surface disinfectant.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_141",
+    "question": "Airborne isolation room is:",
+    "options": [
+      "Positive pressure",
+      "Negative pressure",
+      "Open room",
+      "No ventilation"
+    ],
+    "answer": "Negative pressure",
+    "difficulty": "hard",
+    "explanation": "Prevents contaminated air escape.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_142",
+    "question": "Most important PPE during COVID-like infection:",
+    "options": [
+      "Cap",
+      "N95 mask",
+      "Gloves only",
+      "Shoes"
+    ],
+    "answer": "N95 mask",
+    "difficulty": "easy",
+    "explanation": "Protects from airborne droplets.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_143",
+    "question": "Contact precautions require:",
+    "options": [
+      "No PPE",
+      "Gloves and gown",
+      "Only mask",
+      "Only cap"
+    ],
+    "answer": "Gloves and gown",
+    "difficulty": "medium",
+    "explanation": "Prevents direct contact spread.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_144",
+    "question": "Droplet precautions require:",
+    "options": [
+      "N95 mask",
+      "Surgical mask",
+      "No mask",
+      "Only gloves"
+    ],
+    "answer": "Surgical mask",
+    "difficulty": "medium",
+    "explanation": "Blocks large droplets.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_145",
+    "question": "Airborne precautions require:",
+    "options": [
+      "Surgical mask",
+      "N95 respirator",
+      "No PPE",
+      "Gloves only"
+    ],
+    "answer": "N95 respirator",
+    "difficulty": "medium",
+    "explanation": "Filters airborne particles.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_146",
+    "question": "Most common hospital infection route is:",
+    "options": [
+      "Air",
+      "Contact",
+      "Water",
+      "Food"
+    ],
+    "answer": "Contact",
+    "difficulty": "easy",
+    "explanation": "Most infections spread via contact.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_147",
+    "question": "Fomite means:",
+    "options": [
+      "Living vector",
+      "Non-living object",
+      "Virus",
+      "Bacteria"
+    ],
+    "answer": "Non-living object",
+    "difficulty": "medium",
+    "explanation": "Objects that carry infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_148",
+    "question": "Vector is:",
+    "options": [
+      "Non-living object",
+      "Living carrier",
+      "Drug",
+      "Virus"
+    ],
+    "answer": "Living carrier",
+    "difficulty": "easy",
+    "explanation": "Mosquito acts as vector.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_149",
+    "question": "Hand hygiene before aseptic procedure prevents:",
+    "options": [
+      "CAUTI",
+      "SSI",
+      "CLABSI",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "difficulty": "medium",
+    "explanation": "Prevents multiple infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_150",
+    "question": "Biomedical waste is categorized into:",
+    "options": [
+      "2 types",
+      "3 types",
+      "4 types",
+      "Multiple color codes"
+    ],
+    "answer": "Multiple color codes",
+    "difficulty": "medium",
+    "explanation": "Different colors for different waste types.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_151",
+    "question": "Sterile field contamination leads to:",
+    "options": [
+      "Healing",
+      "Infection",
+      "Recovery",
+      "Immunity"
+    ],
+    "answer": "Infection",
+    "difficulty": "easy",
+    "explanation": "Break in sterility causes infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_152",
+    "question": "Best protection against infection transmission:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Painkillers",
+      "IV fluids"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Most effective preventive step.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_153",
+    "question": "Chain of infection starts with:",
+    "options": [
+      "Portal of exit",
+      "Infectious agent",
+      "Host",
+      "Transmission"
+    ],
+    "answer": "Infectious agent",
+    "difficulty": "medium",
+    "explanation": "Pathogen is first link.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_154",
+    "question": "Most important infection control practice:",
+    "options": [
+      "Mask use",
+      "Hand hygiene",
+      "Gloves",
+      "Isolation"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Core infection prevention measure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_155",
+    "question": "Sterilization is required for:",
+    "options": [
+      "Bedsheets",
+      "Surgical instruments",
+      "Curtains",
+      "Clothes"
+    ],
+    "answer": "Surgical instruments",
+    "difficulty": "easy",
+    "explanation": "Must be completely sterile.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_156",
+    "question": "Disinfection kills:",
+    "options": [
+      "All spores",
+      "Most pathogens except spores",
+      "Only viruses",
+      "Only bacteria"
+    ],
+    "answer": "Most pathogens except spores",
+    "difficulty": "medium",
+    "explanation": "Spores survive disinfection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_157",
+    "question": "Hospital infection is also called:",
+    "options": [
+      "Community infection",
+      "Nosocomial infection",
+      "Food infection",
+      "Air infection"
+    ],
+    "answer": "Nosocomial infection",
+    "difficulty": "easy",
+    "explanation": "Hospital-acquired infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_158",
+    "question": "Most effective PPE for surgery:",
+    "options": [
+      "Mask only",
+      "Sterile gown and gloves",
+      "Cap only",
+      "Shoes"
+    ],
+    "answer": "Sterile gown and gloves",
+    "difficulty": "medium",
+    "explanation": "Provides full barrier protection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_159",
+    "question": "Sharps injury prevention includes:",
+    "options": [
+      "Recapping needles",
+      "No recapping",
+      "Reusing needles",
+      "Touching needles"
+    ],
+    "answer": "No recapping",
+    "difficulty": "medium",
+    "explanation": "Prevents needle-stick injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_160",
+    "question": "Most effective infection control measure is:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Vaccination only",
+      "Isolation only"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Gold standard prevention method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_161",
+    "question": "The most effective method to prevent hospital acquired infection is:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Mask use",
+      "Isolation"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Hand hygiene is the single most effective preventive measure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_162",
+    "question": "The first link in chain of infection is:",
+    "options": [
+      "Portal of exit",
+      "Infectious agent",
+      "Susceptible host",
+      "Transmission"
+    ],
+    "answer": "Infectious agent",
+    "difficulty": "medium",
+    "explanation": "Pathogen is the starting point of infection chain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_163",
+    "question": "Which of the following is a susceptible host?",
+    "options": [
+      "Healthy adult",
+      "Immunocompromised patient",
+      "Vaccinated person",
+      "Hospital staff"
+    ],
+    "answer": "Immunocompromised patient",
+    "difficulty": "medium",
+    "explanation": "Weak immunity increases infection risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_164",
+    "question": "Portal of exit means:",
+    "options": [
+      "Entry of microorganism",
+      "Exit of microorganism",
+      "Host defense",
+      "Drug route"
+    ],
+    "answer": "Exit of microorganism",
+    "difficulty": "medium",
+    "explanation": "Pathogen leaves host via portal of exit.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_165",
+    "question": "Transmission of infection occurs through:",
+    "options": [
+      "Only air",
+      "Direct or indirect contact",
+      "Only food",
+      "Only water"
+    ],
+    "answer": "Direct or indirect contact",
+    "difficulty": "easy",
+    "explanation": "Contact is most common transmission mode.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_166",
+    "question": "The most resistant microbial form is:",
+    "options": [
+      "Virus",
+      "Spore",
+      "Fungi",
+      "Bacteria"
+    ],
+    "answer": "Spore",
+    "difficulty": "easy",
+    "explanation": "Spores resist heat and chemicals.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_167",
+    "question": "Sterilization means:",
+    "options": [
+      "Reduction of microbes",
+      "Complete destruction including spores",
+      "Cleaning only",
+      "Disinfection only"
+    ],
+    "answer": "Complete destruction including spores",
+    "difficulty": "easy",
+    "explanation": "Sterilization removes all microbial life.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_168",
+    "question": "Disinfection kills:",
+    "options": [
+      "All microorganisms",
+      "Pathogens except spores",
+      "Only viruses",
+      "Only bacteria"
+    ],
+    "answer": "Pathogens except spores",
+    "difficulty": "medium",
+    "explanation": "Spores survive disinfection process.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_169",
+    "question": "Autoclaving uses:",
+    "options": [
+      "Dry heat",
+      "Moist heat under pressure",
+      "Radiation",
+      "Chemical gas"
+    ],
+    "answer": "Moist heat under pressure",
+    "difficulty": "medium",
+    "explanation": "Steam under pressure sterilizes equipment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_170",
+    "question": "UV light is mainly used for:",
+    "options": [
+      "Hand sterilization",
+      "Air disinfection",
+      "Wound cleaning",
+      "Injection sterilization"
+    ],
+    "answer": "Air disinfection",
+    "difficulty": "medium",
+    "explanation": "Used for environmental microbial control.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_171",
+    "question": "PPE stands for:",
+    "options": [
+      "Patient Protection Equipment",
+      "Personal Protective Equipment",
+      "Public Protection Equipment",
+      "Primary Protection Equipment"
+    ],
+    "answer": "Personal Protective Equipment",
+    "difficulty": "easy",
+    "explanation": "Protects healthcare workers from infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_172",
+    "question": "Most contaminated PPE item is:",
+    "options": [
+      "Mask",
+      "Gown",
+      "Gloves",
+      "Cap"
+    ],
+    "answer": "Gloves",
+    "difficulty": "easy",
+    "explanation": "Direct contact with infectious material.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_173",
+    "question": "Isolation is used to prevent:",
+    "options": [
+      "Pain",
+      "Infection spread",
+      "Bleeding",
+      "Fever"
+    ],
+    "answer": "Infection spread",
+    "difficulty": "easy",
+    "explanation": "Prevents transmission of pathogens.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_174",
+    "question": "Reverse isolation is for:",
+    "options": [
+      "Infected patients",
+      "Immunocompromised patients",
+      "Healthy patients",
+      "Visitors"
+    ],
+    "answer": "Immunocompromised patients",
+    "difficulty": "medium",
+    "explanation": "Protects weak immunity patients.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_175",
+    "question": "Droplet infection spreads through:",
+    "options": [
+      "Blood",
+      "Cough and sneeze",
+      "Water",
+      "Food"
+    ],
+    "answer": "Cough and sneeze",
+    "difficulty": "easy",
+    "explanation": "Respiratory droplets transmit infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_176",
+    "question": "Airborne infection spreads through:",
+    "options": [
+      "Large droplets",
+      "Small droplet nuclei",
+      "Blood only",
+      "Contact only"
+    ],
+    "answer": "Small droplet nuclei",
+    "difficulty": "medium",
+    "explanation": "Particles remain suspended in air.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_177",
+    "question": "Sharps should be disposed in:",
+    "options": [
+      "Yellow bag",
+      "White puncture proof container",
+      "Blue bag",
+      "Black bag"
+    ],
+    "answer": "White puncture proof container",
+    "difficulty": "medium",
+    "explanation": "Safe disposal of needles and blades.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_178",
+    "question": "Nosocomial infection means:",
+    "options": [
+      "Community infection",
+      "Hospital acquired infection",
+      "Food infection",
+      "Water infection"
+    ],
+    "answer": "Hospital acquired infection",
+    "difficulty": "easy",
+    "explanation": "Occurs during hospital stay.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_179",
+    "question": "Most effective method to break infection chain is:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Surgery",
+      "Steroids"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Interrupts transmission at multiple points.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  },
+  {
+    "id": "IC_180",
+    "question": "Standard precautions apply to:",
+    "options": [
+      "Only infected patients",
+      "All patients",
+      "ICU only",
+      "Emergency only"
+    ],
+    "answer": "All patients",
+    "difficulty": "easy",
+    "explanation": "Universal infection prevention approach.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "INFECTION_CONTROL"
+  }
+]

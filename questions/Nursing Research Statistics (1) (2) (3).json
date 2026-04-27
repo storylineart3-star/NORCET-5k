@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "NRS_001",
+    "question": "Research is best defined as a:",
+    "options": [
+      "Systematic investigation to generate knowledge",
+      "Random collection of facts",
+      "Routine ward report",
+      "Clinical gossip"
+    ],
+    "answer": "Systematic investigation to generate knowledge",
+    "topic": "Basics of Research",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_002",
+    "question": "The first step in the research process is usually:",
+    "options": [
+      "Identify the problem",
+      "Data analysis",
+      "Prepare bibliography",
+      "Draw graph"
+    ],
+    "answer": "Identify the problem",
+    "topic": "Research Process",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_003",
+    "question": "A statement predicting relationship between variables is called:",
+    "options": [
+      "Hypothesis",
+      "Assumption",
+      "Theory",
+      "Framework"
+    ],
+    "answer": "Hypothesis",
+    "topic": "Hypothesis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_004",
+    "question": "Null hypothesis generally states:",
+    "options": [
+      "No significant relationship/difference exists",
+      "Strong relationship exists",
+      "All data are correct",
+      "Study is complete"
+    ],
+    "answer": "No significant relationship/difference exists",
+    "topic": "Hypothesis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_005",
+    "question": "Independent variable is the variable that is:",
+    "options": [
+      "Manipulated or presumed cause",
+      "Measured outcome",
+      "Always constant",
+      "Always qualitative"
+    ],
+    "answer": "Manipulated or presumed cause",
+    "topic": "Variables",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_006",
+    "question": "Dependent variable is the variable that:",
+    "options": [
+      "Changes as effect/outcome",
+      "Never changes",
+      "Is controlled by sample size",
+      "Is demographic only"
+    ],
+    "answer": "Changes as effect/outcome",
+    "topic": "Variables",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_007",
+    "question": "A variable that may influence both independent and dependent variables is:",
+    "options": [
+      "Confounding variable",
+      "Dummy variable",
+      "Nominal variable",
+      "Discrete variable"
+    ],
+    "answer": "Confounding variable",
+    "topic": "Variables",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_008",
+    "question": "Operational definition means definition of a variable in terms of:",
+    "options": [
+      "How it will be measured",
+      "Dictionary meaning only",
+      "Historical use",
+      "Legal rule"
+    ],
+    "answer": "How it will be measured",
+    "topic": "Definitions",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_009",
+    "question": "Review of literature is mainly done to:",
+    "options": [
+      "Understand existing evidence and gaps",
+      "Increase sample automatically",
+      "Avoid references",
+      "Replace analysis"
+    ],
+    "answer": "Understand existing evidence and gaps",
+    "topic": "Literature Review",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_010",
+    "question": "A pilot study is conducted to:",
+    "options": [
+      "Test feasibility of main study",
+      "Publish final results",
+      "Increase population size",
+      "Avoid consent"
+    ],
+    "answer": "Test feasibility of main study",
+    "topic": "Pilot Study",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_011",
+    "question": "Population in research refers to:",
+    "options": [
+      "Entire group of interest",
+      "Only selected participants",
+      "Hospital staff only",
+      "Questionnaire items"
+    ],
+    "answer": "Entire group of interest",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_012",
+    "question": "Sample refers to:",
+    "options": [
+      "Subset selected from population",
+      "All people in city",
+      "Only males",
+      "Only nurses"
+    ],
+    "answer": "Subset selected from population",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_013",
+    "question": "Sampling technique giving every subject equal chance is:",
+    "options": [
+      "Simple random sampling",
+      "Convenience sampling",
+      "Purposive sampling",
+      "Quota sampling"
+    ],
+    "answer": "Simple random sampling",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_014",
+    "question": "Selecting subjects who are easily available is:",
+    "options": [
+      "Convenience sampling",
+      "Stratified sampling",
+      "Cluster sampling",
+      "Systematic sampling"
+    ],
+    "answer": "Convenience sampling",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_015",
+    "question": "Dividing population into subgroups then sampling from each is:",
+    "options": [
+      "Stratified sampling",
+      "Snowball sampling",
+      "Accidental sampling",
+      "Purposive sampling"
+    ],
+    "answer": "Stratified sampling",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_016",
+    "question": "Selecting every 5th patient from a list is:",
+    "options": [
+      "Systematic sampling",
+      "Cluster sampling",
+      "Quota sampling",
+      "Judgment sampling"
+    ],
+    "answer": "Systematic sampling",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_017",
+    "question": "Research involving numerical data is:",
+    "options": [
+      "Quantitative research",
+      "Qualitative research",
+      "Historical research",
+      "Grounded theory only"
+    ],
+    "answer": "Quantitative research",
+    "topic": "Research Types",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_018",
+    "question": "Research exploring experiences and meanings is:",
+    "options": [
+      "Qualitative research",
+      "Experimental research",
+      "Correlational only",
+      "Meta-analysis only"
+    ],
+    "answer": "Qualitative research",
+    "topic": "Research Types",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_019",
+    "question": "True experimental design must include randomization and:",
+    "options": [
+      "Control group",
+      "Only interview",
+      "Only observation",
+      "Only case report"
+    ],
+    "answer": "Control group",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_020",
+    "question": "Study measuring association between two variables is:",
+    "options": [
+      "Correlational study",
+      "Ethnography",
+      "Phenomenology",
+      "Case series"
+    ],
+    "answer": "Correlational study",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_021",
+    "question": "If researcher observes without intervention, design is usually:",
+    "options": [
+      "Observational study",
+      "Experimental study",
+      "RCT",
+      "Crossover trial"
+    ],
+    "answer": "Observational study",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_022",
+    "question": "Validity of a tool means it measures:",
+    "options": [
+      "What it is intended to measure",
+      "Very quickly",
+      "Only one item",
+      "Without scoring"
+    ],
+    "answer": "What it is intended to measure",
+    "topic": "Measurement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_023",
+    "question": "Reliability means the tool gives:",
+    "options": [
+      "Consistent results",
+      "Higher scores always",
+      "Low cost only",
+      "Long answers"
+    ],
+    "answer": "Consistent results",
+    "topic": "Measurement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_024",
+    "question": "Inter-rater reliability checks consistency between:",
+    "options": [
+      "Different observers",
+      "Different hospitals",
+      "Different years",
+      "Different variables"
+    ],
+    "answer": "Different observers",
+    "topic": "Measurement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_025",
+    "question": "Bias in research means:",
+    "options": [
+      "Systematic error affecting results",
+      "Random chance only",
+      "Correct conclusion",
+      "Perfect neutrality"
+    ],
+    "answer": "Systematic error affecting results",
+    "topic": "Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_026",
+    "question": "Blinding is mainly used to reduce:",
+    "options": [
+      "Bias",
+      "Sample size",
+      "Ethics approval",
+      "Literature review"
+    ],
+    "answer": "Bias",
+    "topic": "Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_027",
+    "question": "In double-blind study, blinded persons are usually:",
+    "options": [
+      "Participant and investigator/assessor",
+      "Only statistician",
+      "Only principal",
+      "Only sample"
+    ],
+    "answer": "Participant and investigator/assessor",
+    "topic": "Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_028",
+    "question": "Informed consent is essential because it protects:",
+    "options": [
+      "Participant autonomy",
+      "Research budget",
+      "Hospital building",
+      "Graphs"
+    ],
+    "answer": "Participant autonomy",
+    "topic": "Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_029",
+    "question": "Confidentiality means:",
+    "options": [
+      "Keeping participant information private",
+      "Sharing data publicly",
+      "Skipping records",
+      "Changing results"
+    ],
+    "answer": "Keeping participant information private",
+    "topic": "Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_030",
+    "question": "Ethics committee primarily reviews:",
+    "options": [
+      "Participant safety and ethics",
+      "Exam results",
+      "Hospital menu",
+      "Salary scale"
+    ],
+    "answer": "Participant safety and ethics",
+    "topic": "Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_031",
+    "question": "Arithmetic mean is calculated by:",
+    "options": [
+      "Sum of values / number of values",
+      "Middle value only",
+      "Most frequent value",
+      "Highest minus lowest"
+    ],
+    "answer": "Sum of values / number of values",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_032",
+    "question": "Median is the:",
+    "options": [
+      "Middle value after arranging data",
+      "Average of extremes",
+      "Most common value",
+      "Difference of values"
+    ],
+    "answer": "Middle value after arranging data",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_033",
+    "question": "Mode is the value that occurs:",
+    "options": [
+      "Most frequently",
+      "Least frequently",
+      "Exactly twice",
+      "At midpoint"
+    ],
+    "answer": "Most frequently",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_034",
+    "question": "Which measure is most affected by extreme values?",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Percentile"
+    ],
+    "answer": "Mean",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_035",
+    "question": "Range is calculated as:",
+    "options": [
+      "Highest value - lowest value",
+      "Mean + median",
+      "Total frequency",
+      "Middle score"
+    ],
+    "answer": "Highest value - lowest value",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_036",
+    "question": "Standard deviation measures:",
+    "options": [
+      "Dispersion around mean",
+      "Central tendency",
+      "Sample size",
+      "Bias only"
+    ],
+    "answer": "Dispersion around mean",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_037",
+    "question": "If SD is small, data are:",
+    "options": [
+      "Closely clustered around mean",
+      "Highly scattered",
+      "Always invalid",
+      "Always skewed"
+    ],
+    "answer": "Closely clustered around mean",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_038",
+    "question": "Nominal data example is:",
+    "options": [
+      "Blood group",
+      "Temperature",
+      "Weight",
+      "Height"
+    ],
+    "answer": "Blood group",
+    "topic": "Data Types",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_039",
+    "question": "Ordinal data example is:",
+    "options": [
+      "Pain scale mild/moderate/severe",
+      "Pulse rate",
+      "Age in years",
+      "Hemoglobin"
+    ],
+    "answer": "Pain scale mild/moderate/severe",
+    "topic": "Data Types",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_040",
+    "question": "Interval/ratio data example is:",
+    "options": [
+      "Weight in kg",
+      "Religion",
+      "Gender",
+      "Marital status"
+    ],
+    "answer": "Weight in kg",
+    "topic": "Data Types",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_041",
+    "question": "p-value less than 0.05 usually indicates:",
+    "options": [
+      "Statistical significance",
+      "No data",
+      "100% truth",
+      "No bias"
+    ],
+    "answer": "Statistical significance",
+    "topic": "Inferential Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_042",
+    "question": "Type I error means:",
+    "options": [
+      "Rejecting true null hypothesis",
+      "Accepting false null always",
+      "Calculation mistake only",
+      "Sampling done well"
+    ],
+    "answer": "Rejecting true null hypothesis",
+    "topic": "Errors",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_043",
+    "question": "Type II error means:",
+    "options": [
+      "Failing to reject false null hypothesis",
+      "Rejecting true null",
+      "Wrong mean value",
+      "Wrong graph label"
+    ],
+    "answer": "Failing to reject false null hypothesis",
+    "topic": "Errors",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_044",
+    "question": "Power of study increases with larger:",
+    "options": [
+      "Sample size",
+      "Bias",
+      "Dropouts",
+      "Missing data"
+    ],
+    "answer": "Sample size",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_045",
+    "question": "Correlation coefficient ranges between:",
+    "options": [
+      "-1 to +1",
+      "0 to 100",
+      "-100 to +100",
+      "1 to 10"
+    ],
+    "answer": "-1 to +1",
+    "topic": "Correlation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_046",
+    "question": "A correlation of +0.90 suggests:",
+    "options": [
+      "Strong positive relationship",
+      "Strong negative relationship",
+      "No relationship",
+      "Perfect bias"
+    ],
+    "answer": "Strong positive relationship",
+    "topic": "Correlation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_047",
+    "question": "A correlation of 0 indicates:",
+    "options": [
+      "No linear relationship",
+      "Perfect positive relation",
+      "Perfect negative relation",
+      "Same values"
+    ],
+    "answer": "No linear relationship",
+    "topic": "Correlation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_048",
+    "question": "Best graph to display parts of a whole is:",
+    "options": [
+      "Pie chart",
+      "Histogram",
+      "Scatter plot",
+      "Line graph"
+    ],
+    "answer": "Pie chart",
+    "topic": "Data Presentation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_049",
+    "question": "Best graph to show trend over time is:",
+    "options": [
+      "Line graph",
+      "Pie chart",
+      "Bar chart only",
+      "Flowchart"
+    ],
+    "answer": "Line graph",
+    "topic": "Data Presentation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_050",
+    "question": "Most important principle in interpreting research findings is:",
+    "options": [
+      "Clinical relevance + statistical evidence",
+      "Only p-value matters",
+      "Only sample size matters",
+      "Only title matters"
+    ],
+    "answer": "Clinical relevance + statistical evidence",
+    "topic": "Interpretation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_051",
+    "question": "The degree to which study findings can be generalized to other populations is called:",
+    "options": [
+      "External validity",
+      "Internal validity",
+      "Reliability",
+      "Objectivity"
+    ],
+    "answer": "External validity",
+    "topic": "Validity",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_052",
+    "question": "Internal validity is mainly threatened by:",
+    "options": [
+      "Confounding variables",
+      "Large sample size",
+      "Randomization",
+      "Blinding"
+    ],
+    "answer": "Confounding variables",
+    "topic": "Validity",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_053",
+    "question": "Random assignment in an experimental study mainly helps to:",
+    "options": [
+      "Equalize unknown confounders",
+      "Increase response rate",
+      "Reduce publication bias",
+      "Guarantee significance"
+    ],
+    "answer": "Equalize unknown confounders",
+    "topic": "Experimental Design",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_054",
+    "question": "A variable kept constant to avoid influence on outcome is called:",
+    "options": [
+      "Control variable",
+      "Dependent variable",
+      "Extraneous variable",
+      "Nominal variable"
+    ],
+    "answer": "Control variable",
+    "topic": "Variables",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_055",
+    "question": "When participants drop out unequally between groups, it may cause:",
+    "options": [
+      "Attrition bias",
+      "Recall bias",
+      "Selection bias",
+      "Observer bias"
+    ],
+    "answer": "Attrition bias",
+    "topic": "Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_056",
+    "question": "Recall bias is most common in:",
+    "options": [
+      "Case-control studies",
+      "Randomized trials",
+      "Meta-analysis",
+      "Cross-over trials"
+    ],
+    "answer": "Case-control studies",
+    "topic": "Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_057",
+    "question": "Selection bias occurs when:",
+    "options": [
+      "Participants are chosen non-randomly affecting representativeness",
+      "Data are analyzed correctly",
+      "Tool is reliable",
+      "p-value is low"
+    ],
+    "answer": "Participants are chosen non-randomly affecting representativeness",
+    "topic": "Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_058",
+    "question": "Hawthorne effect means subjects change behavior because they:",
+    "options": [
+      "Know they are being observed",
+      "Received placebo",
+      "Were randomized",
+      "Signed consent"
+    ],
+    "answer": "Know they are being observed",
+    "topic": "Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_059",
+    "question": "Placebo effect refers to improvement due to:",
+    "options": [
+      "Expectation rather than active treatment",
+      "Measurement error",
+      "Large sample",
+      "True cure only"
+    ],
+    "answer": "Expectation rather than active treatment",
+    "topic": "Experimental Design",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_060",
+    "question": "Gold standard design for testing intervention effectiveness is:",
+    "options": [
+      "Randomized controlled trial",
+      "Case report",
+      "Cross-sectional study",
+      "Narrative review"
+    ],
+    "answer": "Randomized controlled trial",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_061",
+    "question": "Cross-sectional study measures exposure and outcome at:",
+    "options": [
+      "Same point in time",
+      "Two different years only",
+      "After intervention only",
+      "At death only"
+    ],
+    "answer": "Same point in time",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_062",
+    "question": "Prospective cohort study starts with:",
+    "options": [
+      "Exposure status and follows outcomes forward",
+      "Disease cases only",
+      "Completed outcomes",
+      "Random drug allocation"
+    ],
+    "answer": "Exposure status and follows outcomes forward",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_063",
+    "question": "Case-control study starts with:",
+    "options": [
+      "Cases with disease and controls without disease",
+      "Random population only",
+      "Exposed workers only",
+      "Healthy volunteers only"
+    ],
+    "answer": "Cases with disease and controls without disease",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_064",
+    "question": "Best design for rare diseases is often:",
+    "options": [
+      "Case-control study",
+      "RCT",
+      "Cohort only",
+      "Ecological study"
+    ],
+    "answer": "Case-control study",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_065",
+    "question": "Best design to study incidence of disease is:",
+    "options": [
+      "Cohort study",
+      "Case report",
+      "Case-control",
+      "Qualitative interview"
+    ],
+    "answer": "Cohort study",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_066",
+    "question": "Incidence refers to number of:",
+    "options": [
+      "New cases in a period",
+      "Existing cases only",
+      "Deaths only",
+      "Hospital beds"
+    ],
+    "answer": "New cases in a period",
+    "topic": "Epidemiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_067",
+    "question": "Prevalence refers to:",
+    "options": [
+      "All existing cases at a given time",
+      "Only new admissions",
+      "Deaths per year",
+      "Birth rate"
+    ],
+    "answer": "All existing cases at a given time",
+    "topic": "Epidemiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_068",
+    "question": "Which measure is most useful for chronic disease burden?",
+    "options": [
+      "Prevalence",
+      "Incidence only",
+      "Case fatality",
+      "Attack rate only"
+    ],
+    "answer": "Prevalence",
+    "topic": "Epidemiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_069",
+    "question": "Case fatality rate indicates:",
+    "options": [
+      "Severity of disease among cases",
+      "Birth trend",
+      "Hospital occupancy",
+      "Sampling error"
+    ],
+    "answer": "Severity of disease among cases",
+    "topic": "Epidemiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_070",
+    "question": "Attack rate is commonly used in:",
+    "options": [
+      "Outbreak investigations",
+      "Meta-analysis",
+      "Laboratory calibration",
+      "Qualitative studies"
+    ],
+    "answer": "Outbreak investigations",
+    "topic": "Epidemiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_071",
+    "question": "Standard error mainly reflects variability of:",
+    "options": [
+      "Sample mean estimates",
+      "Raw scores only",
+      "Question wording",
+      "Population size"
+    ],
+    "answer": "Sample mean estimates",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_072",
+    "question": "As sample size increases, standard error generally:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Becomes zero always",
+      "Remains fixed"
+    ],
+    "answer": "Decreases",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_073",
+    "question": "95% confidence interval indicates a range likely containing the:",
+    "options": [
+      "True population parameter",
+      "All raw data",
+      "Only outliers",
+      "Sample names"
+    ],
+    "answer": "True population parameter",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_074",
+    "question": "A narrow confidence interval usually suggests:",
+    "options": [
+      "Greater precision",
+      "More bias",
+      "Lower validity always",
+      "Wrong analysis"
+    ],
+    "answer": "Greater precision",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_075",
+    "question": "Skewed data are often better summarized by:",
+    "options": [
+      "Median and IQR",
+      "Mean only",
+      "Mode only",
+      "Range only"
+    ],
+    "answer": "Median and IQR",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_076",
+    "question": "Normal distribution has mean, median and mode that are:",
+    "options": [
+      "Equal",
+      "All different",
+      "Always zero",
+      "Negative"
+    ],
+    "answer": "Equal",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_077",
+    "question": "Positive skew means tail extends to the:",
+    "options": [
+      "Right side",
+      "Left side",
+      "Both equally",
+      "No tail"
+    ],
+    "answer": "Right side",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_078",
+    "question": "Negative skew means tail extends to the:",
+    "options": [
+      "Left side",
+      "Right side",
+      "No tail",
+      "Center only"
+    ],
+    "answer": "Left side",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_079",
+    "question": "Chi-square test is commonly used for:",
+    "options": [
+      "Association between categorical variables",
+      "Comparing means only",
+      "Correlation of intervals only",
+      "Regression slope only"
+    ],
+    "answer": "Association between categorical variables",
+    "topic": "Inferential Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_080",
+    "question": "Student t-test is commonly used to compare:",
+    "options": [
+      "Means of two groups",
+      "Modes of groups",
+      "Proportions only",
+      "Medians only always"
+    ],
+    "answer": "Means of two groups",
+    "topic": "Inferential Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_081",
+    "question": "ANOVA is used when comparing means of:",
+    "options": [
+      "Three or more groups",
+      "Only two groups",
+      "Categorical labels",
+      "One person repeatedly only"
+    ],
+    "answer": "Three or more groups",
+    "topic": "Inferential Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_082",
+    "question": "Pearson correlation is most suitable for:",
+    "options": [
+      "Two continuous normally distributed variables",
+      "Two nominal variables",
+      "One text variable",
+      "Ordinal only always"
+    ],
+    "answer": "Two continuous normally distributed variables",
+    "topic": "Correlation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_083",
+    "question": "Spearman correlation is preferred for:",
+    "options": [
+      "Ordinal or non-normal data",
+      "Only binary data",
+      "Nominal data only",
+      "Perfect normal data only"
+    ],
+    "answer": "Ordinal or non-normal data",
+    "topic": "Correlation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_084",
+    "question": "Regression analysis mainly helps to:",
+    "options": [
+      "Predict outcome from predictors",
+      "Randomize groups",
+      "Blind observers",
+      "Reduce sample directly"
+    ],
+    "answer": "Predict outcome from predictors",
+    "topic": "Regression",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_085",
+    "question": "Multivariate analysis is useful to:",
+    "options": [
+      "Adjust for multiple confounders",
+      "Replace ethics review",
+      "Avoid sampling",
+      "Remove all bias automatically"
+    ],
+    "answer": "Adjust for multiple confounders",
+    "topic": "Regression",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_086",
+    "question": "Cronbach alpha assesses:",
+    "options": [
+      "Internal consistency reliability",
+      "External validity",
+      "Sampling ratio",
+      "Observer bias"
+    ],
+    "answer": "Internal consistency reliability",
+    "topic": "Measurement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_087",
+    "question": "Content validity is usually judged by:",
+    "options": [
+      "Experts reviewing relevance of items",
+      "p-value only",
+      "Randomization",
+      "Histogram shape"
+    ],
+    "answer": "Experts reviewing relevance of items",
+    "topic": "Measurement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_088",
+    "question": "Construct validity assesses whether tool truly measures the:",
+    "options": [
+      "Underlying concept",
+      "Hospital census",
+      "Budget size",
+      "Sample age"
+    ],
+    "answer": "Underlying concept",
+    "topic": "Measurement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_089",
+    "question": "A questionnaire with ambiguous wording mainly threatens:",
+    "options": [
+      "Reliability and validity",
+      "Only sample size",
+      "Only ethics",
+      "Only funding"
+    ],
+    "answer": "Reliability and validity",
+    "topic": "Measurement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_090",
+    "question": "Leading questions in survey may produce:",
+    "options": [
+      "Response bias",
+      "Randomization",
+      "Blinding",
+      "Normality"
+    ],
+    "answer": "Response bias",
+    "topic": "Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_091",
+    "question": "Meta-analysis combines results of:",
+    "options": [
+      "Multiple studies statistically",
+      "One case report only",
+      "Interviews only",
+      "One hospital census"
+    ],
+    "answer": "Multiple studies statistically",
+    "topic": "Evidence Based Practice",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_092",
+    "question": "Systematic review differs from narrative review because it uses:",
+    "options": [
+      "Structured explicit methodology",
+      "Personal opinion only",
+      "No search strategy",
+      "No inclusion criteria"
+    ],
+    "answer": "Structured explicit methodology",
+    "topic": "Evidence Based Practice",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_093",
+    "question": "Publication bias occurs when studies with positive results are:",
+    "options": [
+      "More likely to be published",
+      "Never analyzed",
+      "Always false",
+      "Always blinded"
+    ],
+    "answer": "More likely to be published",
+    "topic": "Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_094",
+    "question": "Evidence-based nursing integrates best evidence with clinical expertise and:",
+    "options": [
+      "Patient preferences",
+      "Only textbooks",
+      "Only tradition",
+      "Only management orders"
+    ],
+    "answer": "Patient preferences",
+    "topic": "EBP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_095",
+    "question": "Plagiarism means:",
+    "options": [
+      "Using others' work without proper credit",
+      "Citing correctly",
+      "Publishing negative results",
+      "Using statistics"
+    ],
+    "answer": "Using others' work without proper credit",
+    "topic": "Research Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_096",
+    "question": "Primary purpose of referencing in research writing is to:",
+    "options": [
+      "Acknowledge sources and support claims",
+      "Increase sample size",
+      "Reduce SD",
+      "Blind reviewers"
+    ],
+    "answer": "Acknowledge sources and support claims",
+    "topic": "Research Writing",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_097",
+    "question": "A scatter plot is best used to display:",
+    "options": [
+      "Relationship between two quantitative variables",
+      "Parts of whole",
+      "Single category counts only",
+      "Text themes"
+    ],
+    "answer": "Relationship between two quantitative variables",
+    "topic": "Data Presentation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_098",
+    "question": "Histogram is mainly used for:",
+    "options": [
+      "Frequency distribution of continuous data",
+      "Comparing countries on map",
+      "Showing citations",
+      "Displaying themes"
+    ],
+    "answer": "Frequency distribution of continuous data",
+    "topic": "Data Presentation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_099",
+    "question": "The strongest single protection against random error is often:",
+    "options": [
+      "Adequate sample size",
+      "Changing hypothesis later",
+      "Ignoring outliers",
+      "Convenience sample"
+    ],
+    "answer": "Adequate sample size",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_100",
+    "question": "Best overall interpretation of study results requires significance, precision, validity and:",
+    "options": [
+      "Clinical applicability",
+      "Fancy graphs",
+      "Long title",
+      "Large appendix only"
+    ],
+    "answer": "Clinical applicability",
+    "topic": "Interpretation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_101",
+    "question": "A study reports p = 0.03. This most commonly means:",
+    "options": [
+      "Observed result is unlikely under null hypothesis",
+      "Null hypothesis is proven false",
+      "Study is clinically important",
+      "No bias exists"
+    ],
+    "answer": "Observed result is unlikely under null hypothesis",
+    "topic": "Inferential Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_102",
+    "question": "Statistical significance does NOT necessarily imply:",
+    "options": [
+      "Clinical significance",
+      "Low p-value",
+      "Probability testing",
+      "Null comparison"
+    ],
+    "answer": "Clinical significance",
+    "topic": "Interpretation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_103",
+    "question": "Increasing sample size while effect remains same often causes p-value to:",
+    "options": [
+      "Decrease",
+      "Increase always",
+      "Become exactly zero",
+      "Become negative"
+    ],
+    "answer": "Decrease",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_104",
+    "question": "Power of a study equals 1 minus:",
+    "options": [
+      "Type II error (β)",
+      "Type I error (α)",
+      "Standard deviation",
+      "Confidence interval"
+    ],
+    "answer": "Type II error (β)",
+    "topic": "Errors",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_105",
+    "question": "If confidence interval for mean difference includes zero, result is often:",
+    "options": [
+      "Not statistically significant",
+      "Always clinically important",
+      "Proof of equivalence",
+      "Biased automatically"
+    ],
+    "answer": "Not statistically significant",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_106",
+    "question": "If confidence interval for relative risk includes 1, association is often:",
+    "options": [
+      "Not statistically significant",
+      "Definitely causal",
+      "Perfectly protective",
+      "Always biased"
+    ],
+    "answer": "Not statistically significant",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_107",
+    "question": "A bimodal distribution has:",
+    "options": [
+      "Two peaks",
+      "Two means",
+      "No variance",
+      "Negative skew only"
+    ],
+    "answer": "Two peaks",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_108",
+    "question": "The most resistant measure of central tendency to outliers is:",
+    "options": [
+      "Median",
+      "Mean",
+      "Range",
+      "Variance"
+    ],
+    "answer": "Median",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_109",
+    "question": "Variance is the square of:",
+    "options": [
+      "Standard deviation",
+      "Mean",
+      "Median",
+      "Correlation"
+    ],
+    "answer": "Standard deviation",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_110",
+    "question": "Coefficient of variation is most useful to compare:",
+    "options": [
+      "Relative variability of datasets with different means",
+      "Only nominal data",
+      "Only sample sizes",
+      "Only p-values"
+    ],
+    "answer": "Relative variability of datasets with different means",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_111",
+    "question": "Cluster sampling selects:",
+    "options": [
+      "Groups/clusters rather than individuals first",
+      "Every 2nd person",
+      "Only volunteers",
+      "Only experts"
+    ],
+    "answer": "Groups/clusters rather than individuals first",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_112",
+    "question": "Multistage sampling is commonly used when population is:",
+    "options": [
+      "Large and geographically dispersed",
+      "Very small only",
+      "Homogeneous only",
+      "Unavailable"
+    ],
+    "answer": "Large and geographically dispersed",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_113",
+    "question": "Snowball sampling is especially useful for:",
+    "options": [
+      "Hidden or hard-to-reach populations",
+      "Randomized trials",
+      "Laboratory animals only",
+      "All hospital admissions"
+    ],
+    "answer": "Hidden or hard-to-reach populations",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_114",
+    "question": "Sampling error generally decreases with:",
+    "options": [
+      "Larger sample size",
+      "Smaller sample size",
+      "More bias",
+      "More missing data"
+    ],
+    "answer": "Larger sample size",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_115",
+    "question": "Non-response bias occurs when:",
+    "options": [
+      "Responders differ meaningfully from non-responders",
+      "Everyone participates",
+      "Randomization is used",
+      "Tool is validated"
+    ],
+    "answer": "Responders differ meaningfully from non-responders",
+    "topic": "Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_116",
+    "question": "In a crossover trial, each participant usually receives:",
+    "options": [
+      "More than one intervention in sequence",
+      "Only placebo",
+      "No treatment ever",
+      "Different sample size"
+    ],
+    "answer": "More than one intervention in sequence",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_117",
+    "question": "Major concern in crossover studies is:",
+    "options": [
+      "Carryover effect",
+      "Publication bias",
+      "Case fatality",
+      "Recall bias only"
+    ],
+    "answer": "Carryover effect",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_118",
+    "question": "Washout period in crossover study aims to reduce:",
+    "options": [
+      "Carryover effect",
+      "Sample size",
+      "Blinding",
+      "Attrition always"
+    ],
+    "answer": "Carryover effect",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_119",
+    "question": "Quasi-experimental design lacks full:",
+    "options": [
+      "Randomization and/or control",
+      "Data collection",
+      "Variables",
+      "Hypothesis"
+    ],
+    "answer": "Randomization and/or control",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_120",
+    "question": "Time-series design repeatedly measures outcome:",
+    "options": [
+      "Over multiple time points",
+      "Only once",
+      "Only before consent",
+      "After publication only"
+    ],
+    "answer": "Over multiple time points",
+    "topic": "Designs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_121",
+    "question": "Phenomenology mainly studies:",
+    "options": [
+      "Lived experiences",
+      "Drug efficacy",
+      "Disease incidence",
+      "Mortality ratios"
+    ],
+    "answer": "Lived experiences",
+    "topic": "Qualitative Research",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_122",
+    "question": "Grounded theory aims to generate:",
+    "options": [
+      "Theory from data",
+      "Only percentages",
+      "Random samples",
+      "Lab reports"
+    ],
+    "answer": "Theory from data",
+    "topic": "Qualitative Research",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_123",
+    "question": "Ethnography primarily focuses on:",
+    "options": [
+      "Culture and social patterns",
+      "Drug trials",
+      "Numerical modeling",
+      "Case fatality"
+    ],
+    "answer": "Culture and social patterns",
+    "topic": "Qualitative Research",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_124",
+    "question": "Data saturation in qualitative research means:",
+    "options": [
+      "No new themes emerging",
+      "Maximum sample size reached",
+      "All data numeric",
+      "Analysis completed early"
+    ],
+    "answer": "No new themes emerging",
+    "topic": "Qualitative Research",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_125",
+    "question": "Triangulation improves qualitative study credibility by using:",
+    "options": [
+      "Multiple methods/sources",
+      "Only one observer",
+      "Only statistics",
+      "Only p-values"
+    ],
+    "answer": "Multiple methods/sources",
+    "topic": "Qualitative Research",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_126",
+    "question": "Cronbach alpha value closer to 1 generally suggests:",
+    "options": [
+      "Higher internal consistency",
+      "Lower validity always",
+      "More bias",
+      "Smaller sample"
+    ],
+    "answer": "Higher internal consistency",
+    "topic": "Measurement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_127",
+    "question": "Test-retest reliability assesses consistency:",
+    "options": [
+      "Across time",
+      "Across genders only",
+      "Across hospitals only",
+      "Across variables only"
+    ],
+    "answer": "Across time",
+    "topic": "Measurement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_128",
+    "question": "Sensitivity of a screening test is ability to correctly identify:",
+    "options": [
+      "Those with disease",
+      "Those without disease",
+      "False positives only",
+      "Healthy volunteers"
+    ],
+    "answer": "Those with disease",
+    "topic": "Diagnostic Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_129",
+    "question": "Specificity of a screening test is ability to correctly identify:",
+    "options": [
+      "Those without disease",
+      "Those with disease",
+      "False negatives only",
+      "All admissions"
+    ],
+    "answer": "Those without disease",
+    "topic": "Diagnostic Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_130",
+    "question": "Highly sensitive tests are useful to:",
+    "options": [
+      "Rule out disease when negative",
+      "Confirm disease when positive only",
+      "Measure variance",
+      "Find median"
+    ],
+    "answer": "Rule out disease when negative",
+    "topic": "Diagnostic Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_131",
+    "question": "Highly specific tests are useful to:",
+    "options": [
+      "Rule in disease when positive",
+      "Rule out disease when negative",
+      "Increase prevalence",
+      "Reduce SD"
+    ],
+    "answer": "Rule in disease when positive",
+    "topic": "Diagnostic Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_132",
+    "question": "Positive predictive value depends strongly on:",
+    "options": [
+      "Disease prevalence",
+      "Only sample code",
+      "Only title",
+      "Only alpha level"
+    ],
+    "answer": "Disease prevalence",
+    "topic": "Diagnostic Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_133",
+    "question": "Relative risk is most directly calculated in:",
+    "options": [
+      "Cohort studies",
+      "Case-control studies",
+      "Case reports",
+      "Qualitative interviews"
+    ],
+    "answer": "Cohort studies",
+    "topic": "Epidemiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_134",
+    "question": "Odds ratio is commonly used in:",
+    "options": [
+      "Case-control studies",
+      "RCT only",
+      "Cross-over trials",
+      "Phenomenology"
+    ],
+    "answer": "Case-control studies",
+    "topic": "Epidemiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_135",
+    "question": "An odds ratio less than 1 suggests:",
+    "options": [
+      "Possible protective association",
+      "Certain harm",
+      "No precision",
+      "No sample"
+    ],
+    "answer": "Possible protective association",
+    "topic": "Epidemiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_136",
+    "question": "Ecological fallacy arises when:",
+    "options": [
+      "Group-level data are wrongly applied to individuals",
+      "Sample too large",
+      "Study is blinded",
+      "Questionnaire is valid"
+    ],
+    "answer": "Group-level data are wrongly applied to individuals",
+    "topic": "Epidemiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_137",
+    "question": "Intention-to-treat analysis preserves benefits of:",
+    "options": [
+      "Randomization",
+      "Confounding",
+      "Recall",
+      "Publication bias"
+    ],
+    "answer": "Randomization",
+    "topic": "Experimental Design",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_138",
+    "question": "Per-protocol analysis includes mainly participants who:",
+    "options": [
+      "Completed study as planned",
+      "Refused consent",
+      "Were excluded before trial",
+      "Never enrolled"
+    ],
+    "answer": "Completed study as planned",
+    "topic": "Experimental Design",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_139",
+    "question": "Interim analysis during trial may be done for:",
+    "options": [
+      "Safety or overwhelming benefit/harm",
+      "Changing title only",
+      "Increasing plagiarism",
+      "Reducing references"
+    ],
+    "answer": "Safety or overwhelming benefit/harm",
+    "topic": "Clinical Trials",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_140",
+    "question": "Data monitoring committee in trials mainly oversees:",
+    "options": [
+      "Participant safety and trial integrity",
+      "Hospital food",
+      "Nurse attendance",
+      "Building repairs"
+    ],
+    "answer": "Participant safety and trial integrity",
+    "topic": "Clinical Trials",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_141",
+    "question": "Multiple testing without correction increases risk of:",
+    "options": [
+      "Type I error",
+      "Type II error only",
+      "No error",
+      "Higher specificity always"
+    ],
+    "answer": "Type I error",
+    "topic": "Errors",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_142",
+    "question": "Bonferroni correction is used to control:",
+    "options": [
+      "False positives in multiple comparisons",
+      "Sampling frame",
+      "Attrition bias",
+      "Median shift"
+    ],
+    "answer": "False positives in multiple comparisons",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_143",
+    "question": "A forest plot is commonly seen in:",
+    "options": [
+      "Meta-analysis",
+      "Case report",
+      "Phenomenology",
+      "Ward census"
+    ],
+    "answer": "Meta-analysis",
+    "topic": "Evidence Based Practice",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_144",
+    "question": "A funnel plot is often used to assess:",
+    "options": [
+      "Publication bias",
+      "Heart size",
+      "Lung function",
+      "Nurse staffing"
+    ],
+    "answer": "Publication bias",
+    "topic": "Evidence Based Practice",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_145",
+    "question": "Heterogeneity in meta-analysis means:",
+    "options": [
+      "Variation among study results",
+      "Same result everywhere",
+      "No confidence interval",
+      "No references"
+    ],
+    "answer": "Variation among study results",
+    "topic": "Evidence Based Practice",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_146",
+    "question": "A surrogate endpoint is:",
+    "options": [
+      "Indirect marker used instead of true clinical outcome",
+      "Final mortality result",
+      "Sample frame",
+      "Qualitative theme"
+    ],
+    "answer": "Indirect marker used instead of true clinical outcome",
+    "topic": "Clinical Trials",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_147",
+    "question": "Generalizability may be reduced if study sample is:",
+    "options": [
+      "Highly selective and unrepresentative",
+      "Random and broad",
+      "Large and diverse",
+      "Multicenter"
+    ],
+    "answer": "Highly selective and unrepresentative",
+    "topic": "Validity",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_148",
+    "question": "The best evidence for intervention efficacy usually comes from:",
+    "options": [
+      "Systematic review of RCTs",
+      "Single case report",
+      "Expert opinion alone",
+      "Cross-sectional survey"
+    ],
+    "answer": "Systematic review of RCTs",
+    "topic": "EBP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_149",
+    "question": "A statistically non-significant result with wide CI often suggests:",
+    "options": [
+      "Imprecision / insufficient data",
+      "Definite no effect",
+      "Perfect evidence",
+      "Guaranteed bias"
+    ],
+    "answer": "Imprecision / insufficient data",
+    "topic": "Interpretation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_150",
+    "question": "Best final appraisal of any study should integrate methods, results, bias, and:",
+    "options": [
+      "Applicability to patient care",
+      "Journal cover design",
+      "Author popularity",
+      "Number of tables only"
+    ],
+    "answer": "Applicability to patient care",
+    "topic": "Interpretation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_151",
+    "question": "A researcher selects every 10th OPD patient after a random start. This is:",
+    "options": [
+      "Systematic random sampling",
+      "Convenience sampling",
+      "Quota sampling",
+      "Snowball sampling"
+    ],
+    "answer": "Systematic random sampling",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_152",
+    "question": "Sampling frame refers to:",
+    "options": [
+      "List of accessible population units",
+      "Research budget",
+      "Questionnaire draft",
+      "Graph scale"
+    ],
+    "answer": "List of accessible population units",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_153",
+    "question": "If a sampling frame excludes night-shift nurses, this mainly causes:",
+    "options": [
+      "Coverage bias",
+      "Recall bias",
+      "Observer bias",
+      "Regression to mean"
+    ],
+    "answer": "Coverage bias",
+    "topic": "Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_154",
+    "question": "Quota sampling is classified as:",
+    "options": [
+      "Non-probability sampling",
+      "Probability sampling",
+      "Random cluster sampling",
+      "Multistage random sampling"
+    ],
+    "answer": "Non-probability sampling",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_155",
+    "question": "The major advantage of probability sampling is improved:",
+    "options": [
+      "Representativeness",
+      "Publication rate",
+      "Blinding",
+      "Attrition"
+    ],
+    "answer": "Representativeness",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_156",
+    "question": "A census means:",
+    "options": [
+      "Study of entire population",
+      "Study of 10% sample",
+      "Study of cases only",
+      "Study using randomization"
+    ],
+    "answer": "Study of entire population",
+    "topic": "Sampling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_157",
+    "question": "The best measure of average for nominal data is:",
+    "options": [
+      "Mode",
+      "Mean",
+      "Median",
+      "Standard deviation"
+    ],
+    "answer": "Mode",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_158",
+    "question": "For open-ended upper class intervals, mean may be less reliable because of:",
+    "options": [
+      "Unknown exact values",
+      "Too many decimals",
+      "High validity",
+      "Randomization"
+    ],
+    "answer": "Unknown exact values",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_159",
+    "question": "The sum of deviations from arithmetic mean is always:",
+    "options": [
+      "Zero",
+      "One",
+      "Equal to SD",
+      "Negative always"
+    ],
+    "answer": "Zero",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_160",
+    "question": "The square root of average squared deviations from mean gives:",
+    "options": [
+      "Standard deviation",
+      "Variance ratio",
+      "Median",
+      "Coefficient of correlation"
+    ],
+    "answer": "Standard deviation",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_161",
+    "question": "Leptokurtic distribution is characterized by:",
+    "options": [
+      "More peaked than normal",
+      "Flat distribution",
+      "Bimodal only",
+      "Perfectly skew-free"
+    ],
+    "answer": "More peaked than normal",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_162",
+    "question": "Platykurtic distribution is characterized by:",
+    "options": [
+      "Flatter than normal",
+      "Very peaked",
+      "No mean",
+      "Always symmetric with zero variance"
+    ],
+    "answer": "Flatter than normal",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_163",
+    "question": "Z-score indicates how many standard deviations a value is from the:",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Range"
+    ],
+    "answer": "Mean",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_164",
+    "question": "A z-score of +2 means the value is:",
+    "options": [
+      "Two SD above mean",
+      "Two SD below mean",
+      "Equal to mean",
+      "Two units below median"
+    ],
+    "answer": "Two SD above mean",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_165",
+    "question": "Percentile rank indicates percentage of scores:",
+    "options": [
+      "At or below a given score",
+      "Above mean only",
+      "Between quartiles only",
+      "With p<0.05"
+    ],
+    "answer": "At or below a given score",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_166",
+    "question": "The 50th percentile equals the:",
+    "options": [
+      "Median",
+      "Mean",
+      "Mode",
+      "Variance"
+    ],
+    "answer": "Median",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_167",
+    "question": "Interquartile range is calculated as:",
+    "options": [
+      "Q3 - Q1",
+      "Highest - Lowest",
+      "Mean / SD",
+      "Q1 + Q3"
+    ],
+    "answer": "Q3 - Q1",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_168",
+    "question": "Which graph best displays median, quartiles and outliers?",
+    "options": [
+      "Box plot",
+      "Pie chart",
+      "Flow chart",
+      "Line graph"
+    ],
+    "answer": "Box plot",
+    "topic": "Data Presentation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_169",
+    "question": "Scatter plot showing upward trend indicates:",
+    "options": [
+      "Positive correlation",
+      "Negative correlation",
+      "No relationship",
+      "Causation proven"
+    ],
+    "answer": "Positive correlation",
+    "topic": "Correlation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_170",
+    "question": "Correlation does NOT imply:",
+    "options": [
+      "Causation",
+      "Association",
+      "Relationship",
+      "Trend"
+    ],
+    "answer": "Causation",
+    "topic": "Correlation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_171",
+    "question": "When one variable increases and another decreases, correlation is:",
+    "options": [
+      "Negative",
+      "Positive",
+      "Zero always",
+      "Perfectly causal"
+    ],
+    "answer": "Negative",
+    "topic": "Correlation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_172",
+    "question": "Regression line is estimated by minimizing:",
+    "options": [
+      "Squared residual errors",
+      "Mean only",
+      "Mode only",
+      "Sample size"
+    ],
+    "answer": "Squared residual errors",
+    "topic": "Regression",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_173",
+    "question": "Coefficient of determination is represented by:",
+    "options": [
+      "R²",
+      "α",
+      "β only",
+      "SD"
+    ],
+    "answer": "R²",
+    "topic": "Regression",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_174",
+    "question": "R² = 0.64 suggests outcome variability explained by model is:",
+    "options": [
+      "64%",
+      "36%",
+      "0.64%",
+      "6.4%"
+    ],
+    "answer": "64%",
+    "topic": "Regression",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_175",
+    "question": "Multicollinearity refers to predictors that are:",
+    "options": [
+      "Highly correlated with each other",
+      "Randomized",
+      "Independent of outcome",
+      "Categorical only"
+    ],
+    "answer": "Highly correlated with each other",
+    "topic": "Regression",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_176",
+    "question": "Logistic regression is mainly used when outcome variable is:",
+    "options": [
+      "Binary/categorical",
+      "Continuous normal only",
+      "Time series only",
+      "Ordinal rank only always"
+    ],
+    "answer": "Binary/categorical",
+    "topic": "Regression",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_177",
+    "question": "Survival analysis commonly uses:",
+    "options": [
+      "Kaplan-Meier curve",
+      "Pie chart",
+      "Histogram only",
+      "Box plot only"
+    ],
+    "answer": "Kaplan-Meier curve",
+    "topic": "Advanced Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_178",
+    "question": "Hazard ratio compares:",
+    "options": [
+      "Event rates over time between groups",
+      "Means only",
+      "Modes only",
+      "Questionnaire scores"
+    ],
+    "answer": "Event rates over time between groups",
+    "topic": "Advanced Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_179",
+    "question": "A hazard ratio below 1 generally suggests:",
+    "options": [
+      "Lower hazard in treatment group",
+      "Higher hazard always",
+      "No data",
+      "Zero variance"
+    ],
+    "answer": "Lower hazard in treatment group",
+    "topic": "Advanced Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_180",
+    "question": "Repeated measures ANOVA is used when same subjects are measured:",
+    "options": [
+      "At multiple time points",
+      "Only once",
+      "By different hospitals",
+      "Using nominal data only"
+    ],
+    "answer": "At multiple time points",
+    "topic": "Inferential Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_181",
+    "question": "Parametric tests generally assume:",
+    "options": [
+      "Approximate normal distribution",
+      "No sample",
+      "Only ordinal data",
+      "No variance"
+    ],
+    "answer": "Approximate normal distribution",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_182",
+    "question": "Mann-Whitney U test is a non-parametric alternative to:",
+    "options": [
+      "Independent t-test",
+      "Chi-square",
+      "ANOVA repeated",
+      "Pearson correlation"
+    ],
+    "answer": "Independent t-test",
+    "topic": "Inferential Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_183",
+    "question": "Wilcoxon signed-rank test is used for:",
+    "options": [
+      "Paired non-parametric comparisons",
+      "Three independent means",
+      "Nominal association",
+      "Regression slope"
+    ],
+    "answer": "Paired non-parametric comparisons",
+    "topic": "Inferential Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_184",
+    "question": "Kruskal-Wallis test is non-parametric alternative to:",
+    "options": [
+      "One-way ANOVA",
+      "Paired t-test",
+      "Pearson r",
+      "Chi-square goodness"
+    ],
+    "answer": "One-way ANOVA",
+    "topic": "Inferential Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_185",
+    "question": "If expected frequencies are very low in 2x2 table, preferred test may be:",
+    "options": [
+      "Fisher exact test",
+      "Paired t-test",
+      "ANOVA",
+      "Linear regression"
+    ],
+    "answer": "Fisher exact test",
+    "topic": "Inferential Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_186",
+    "question": "A Type I error means concluding there is an effect when:",
+    "options": [
+      "None truly exists",
+      "Effect truly exists",
+      "Sample too large",
+      "CI is narrow"
+    ],
+    "answer": "None truly exists",
+    "topic": "Errors",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_187",
+    "question": "A Type II error means missing a true:",
+    "options": [
+      "Effect",
+      "Mean",
+      "Median",
+      "Graph"
+    ],
+    "answer": "Effect",
+    "topic": "Errors",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_188",
+    "question": "Increasing significance level from 0.01 to 0.05 usually:",
+    "options": [
+      "Raises Type I error risk",
+      "Eliminates Type II error",
+      "Reduces bias",
+      "Changes sample to census"
+    ],
+    "answer": "Raises Type I error risk",
+    "topic": "Errors",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_189",
+    "question": "Effect size primarily reflects:",
+    "options": [
+      "Magnitude of difference/association",
+      "p-value only",
+      "Sample count only",
+      "Questionnaire length"
+    ],
+    "answer": "Magnitude of difference/association",
+    "topic": "Statistics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_190",
+    "question": "Large sample can make trivial effects statistically significant because of:",
+    "options": [
+      "High power",
+      "Low validity",
+      "No variance",
+      "No bias"
+    ],
+    "answer": "High power",
+    "topic": "Interpretation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_191",
+    "question": "The CONSORT guideline is mainly for reporting:",
+    "options": [
+      "Randomized controlled trials",
+      "Qualitative interviews",
+      "Case reports only",
+      "Lab audits"
+    ],
+    "answer": "Randomized controlled trials",
+    "topic": "Research Reporting",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_192",
+    "question": "PRISMA guideline is mainly used for:",
+    "options": [
+      "Systematic reviews/meta-analyses",
+      "Drug prescriptions",
+      "Ward management",
+      "Cross-sectional surveys only"
+    ],
+    "answer": "Systematic reviews/meta-analyses",
+    "topic": "Research Reporting",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_193",
+    "question": "STROBE guideline relates to reporting of:",
+    "options": [
+      "Observational studies",
+      "Animal surgery",
+      "RCT only",
+      "Qualitative ethnography only"
+    ],
+    "answer": "Observational studies",
+    "topic": "Research Reporting",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_194",
+    "question": "Duplicate publication is unethical because it may:",
+    "options": [
+      "Distort evidence base",
+      "Increase validity",
+      "Reduce bias",
+      "Improve blinding"
+    ],
+    "answer": "Distort evidence base",
+    "topic": "Research Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_195",
+    "question": "Data dredging / p-hacking refers to:",
+    "options": [
+      "Searching analyses until significant result appears",
+      "Proper prespecified analysis",
+      "Double blinding",
+      "Random sampling"
+    ],
+    "answer": "Searching analyses until significant result appears",
+    "topic": "Research Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_196",
+    "question": "Conflict of interest should be:",
+    "options": [
+      "Disclosed transparently",
+      "Always hidden",
+      "Ignored if funded",
+      "Removed from references only"
+    ],
+    "answer": "Disclosed transparently",
+    "topic": "Research Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_197",
+    "question": "The strongest protection of participant rights is:",
+    "options": [
+      "Ethics review + informed consent",
+      "Large sample",
+      "Low p-value",
+      "Colorful graphs"
+    ],
+    "answer": "Ethics review + informed consent",
+    "topic": "Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_198",
+    "question": "Translating research into bedside nursing care is best described as:",
+    "options": [
+      "Evidence-based practice",
+      "Sampling theory",
+      "Regression analysis",
+      "Attrition control"
+    ],
+    "answer": "Evidence-based practice",
+    "topic": "EBP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_199",
+    "question": "Best single reason to critically appraise literature is to judge:",
+    "options": [
+      "Trustworthiness and applicability",
+      "Author fame",
+      "Journal font size",
+      "Number of pages"
+    ],
+    "answer": "Trustworthiness and applicability",
+    "topic": "Critical Appraisal",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NRS_200",
+    "question": "Highest principle in nursing research utilization is to improve:",
+    "options": [
+      "Patient outcomes and quality of care",
+      "Only publication count",
+      "Only nurse promotions",
+      "Only statistics knowledge"
+    ],
+    "answer": "Patient outcomes and quality of care",
+    "topic": "Research Utilization",
+    "chapter": "GENERAL"
+  }
+]

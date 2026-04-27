@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "HP_001",
+    "question": "Hand hygiene is performed to:",
+    "options": [
+      "Decorate hands",
+      "Prevent infection",
+      "Increase strength",
+      "Improve circulation"
+    ],
+    "answer": "Prevent infection",
+    "difficulty": "easy",
+    "explanation": "Main method to prevent hospital infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_002",
+    "question": "Best method of hand hygiene in hospital:",
+    "options": [
+      "Water only",
+      "Soap and water",
+      "Alcohol rub",
+      "Towel wiping"
+    ],
+    "answer": "Soap and water",
+    "difficulty": "easy",
+    "explanation": "Removes visible dirt and microbes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_003",
+    "question": "Sterilization means:",
+    "options": [
+      "Removing dirt",
+      "Removing all microorganisms",
+      "Cooling instruments",
+      "Drying instruments"
+    ],
+    "answer": "Removing all microorganisms",
+    "difficulty": "medium",
+    "explanation": "Includes spores too.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_004",
+    "question": "Disinfection kills:",
+    "options": [
+      "All spores",
+      "Most pathogens",
+      "Only viruses",
+      "Only bacteria"
+    ],
+    "answer": "Most pathogens",
+    "difficulty": "medium",
+    "explanation": "Not all spores are killed.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_005",
+    "question": "Autoclave uses:",
+    "options": [
+      "Dry heat",
+      "Steam under pressure",
+      "UV light",
+      "Chemicals only"
+    ],
+    "answer": "Steam under pressure",
+    "difficulty": "easy",
+    "explanation": "121°C for sterilization.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_006",
+    "question": "Infection control includes:",
+    "options": [
+      "Eating hygiene",
+      "Hand hygiene",
+      "Sleeping",
+      "Exercise"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Primary preventive step.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_007",
+    "question": "PPE stands for:",
+    "options": [
+      "Personal Patient Equipment",
+      "Personal Protective Equipment",
+      "Public Protection Equipment",
+      "Patient Protection Entry"
+    ],
+    "answer": "Personal Protective Equipment",
+    "difficulty": "easy",
+    "explanation": "Used for safety.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_008",
+    "question": "Gloves are used to:",
+    "options": [
+      "Improve grip",
+      "Prevent contamination",
+      "Increase speed",
+      "Warm hands"
+    ],
+    "answer": "Prevent contamination",
+    "difficulty": "easy",
+    "explanation": "Barrier protection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_009",
+    "question": "Mask is used to prevent:",
+    "options": [
+      "Skin infection",
+      "Airborne infection",
+      "Bone disease",
+      "Eye disease"
+    ],
+    "answer": "Airborne infection",
+    "difficulty": "easy",
+    "explanation": "Droplet protection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_010",
+    "question": "Isolation technique is used for:",
+    "options": [
+      "Healthy patients",
+      "Infected patients",
+      "Visitors",
+      "Doctors only"
+    ],
+    "answer": "Infected patients",
+    "difficulty": "easy",
+    "explanation": "Prevents spread of infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_011",
+    "question": "Medical asepsis means:",
+    "options": [
+      "Sterile environment",
+      "Clean technique",
+      "Dirty technique",
+      "No hygiene"
+    ],
+    "answer": "Clean technique",
+    "difficulty": "medium",
+    "explanation": "Reduces microorganisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_012",
+    "question": "Surgical asepsis means:",
+    "options": [
+      "Clean technique",
+      "Sterile technique",
+      "Dirty technique",
+      "Basic hygiene"
+    ],
+    "answer": "Sterile technique",
+    "difficulty": "medium",
+    "explanation": "No microorganisms present.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_013",
+    "question": "Dressing of wound is done to:",
+    "options": [
+      "Increase pain",
+      "Promote healing",
+      "Delay healing",
+      "Stop blood flow only"
+    ],
+    "answer": "Promote healing",
+    "difficulty": "easy",
+    "explanation": "Protects wound.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_014",
+    "question": "Normal saline is used for:",
+    "options": [
+      "Injection only",
+      "Wound cleaning",
+      "Food",
+      "Blood test"
+    ],
+    "answer": "Wound cleaning",
+    "difficulty": "easy",
+    "explanation": "Isotonic solution.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_015",
+    "question": "IV therapy means:",
+    "options": [
+      "Injection in muscle",
+      "Fluid in vein",
+      "Tablet intake",
+      "Skin application"
+    ],
+    "answer": "Fluid in vein",
+    "difficulty": "easy",
+    "explanation": "Intravenous infusion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_016",
+    "question": "Intramuscular injection is given in:",
+    "options": [
+      "Vein",
+      "Muscle",
+      "Skin surface",
+      "Bone"
+    ],
+    "answer": "Muscle",
+    "difficulty": "easy",
+    "explanation": "Deep tissue injection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_017",
+    "question": "Subcutaneous injection is given in:",
+    "options": [
+      "Muscle",
+      "Skin fat layer",
+      "Vein",
+      "Bone"
+    ],
+    "answer": "Skin fat layer",
+    "difficulty": "medium",
+    "explanation": "Under skin layer.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_018",
+    "question": "IV cannula is inserted into:",
+    "options": [
+      "Artery",
+      "Vein",
+      "Muscle",
+      "Skin"
+    ],
+    "answer": "Vein",
+    "difficulty": "easy",
+    "explanation": "Direct bloodstream access.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_019",
+    "question": "Foley catheter is used for:",
+    "options": [
+      "Blood transfusion",
+      "Urine drainage",
+      "IV fluids",
+      "Injection"
+    ],
+    "answer": "Urine drainage",
+    "difficulty": "easy",
+    "explanation": "Bladder catheterization.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_020",
+    "question": "Nasogastric tube is inserted through:",
+    "options": [
+      "Ear",
+      "Nose",
+      "Mouth",
+      "Skin"
+    ],
+    "answer": "Nose",
+    "difficulty": "easy",
+    "explanation": "To stomach.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_021",
+    "question": "Suctioning is done to remove:",
+    "options": [
+      "Blood",
+      "Secretions",
+      "Bones",
+      "Urine"
+    ],
+    "answer": "Secretions",
+    "difficulty": "medium",
+    "explanation": "Clears airway.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_022",
+    "question": "Oxygen therapy is given to treat:",
+    "options": [
+      "Fever",
+      "Hypoxia",
+      "Pain",
+      "Diabetes"
+    ],
+    "answer": "Hypoxia",
+    "difficulty": "easy",
+    "explanation": "Low oxygen levels.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_023",
+    "question": "Pulse oximeter measures:",
+    "options": [
+      "BP",
+      "Oxygen saturation",
+      "Temperature",
+      "Pulse only"
+    ],
+    "answer": "Oxygen saturation",
+    "difficulty": "easy",
+    "explanation": "SpO2 level.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_024",
+    "question": "Normal SpO2 level:",
+    "options": [
+      "80–85%",
+      "85–90%",
+      "95–100%",
+      "70–75%"
+    ],
+    "answer": "95–100%",
+    "difficulty": "easy",
+    "explanation": "Normal oxygen level.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_025",
+    "question": "Blood transfusion is given to:",
+    "options": [
+      "Increase sugar",
+      "Replace blood loss",
+      "Reduce fever",
+      "Treat infection"
+    ],
+    "answer": "Replace blood loss",
+    "difficulty": "easy",
+    "explanation": "Restores blood volume.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_026",
+    "question": "Cross matching is done before:",
+    "options": [
+      "Injection",
+      "Blood transfusion",
+      "IV fluid",
+      "X-ray"
+    ],
+    "answer": "Blood transfusion",
+    "difficulty": "medium",
+    "explanation": "Ensures compatibility.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_027",
+    "question": "Bed sore prevention includes:",
+    "options": [
+      "Immobilization",
+      "Frequent turning",
+      "No movement",
+      "High sugar diet"
+    ],
+    "answer": "Frequent turning",
+    "difficulty": "medium",
+    "explanation": "Prevents pressure injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_028",
+    "question": "Pressure points are common in:",
+    "options": [
+      "Active patients",
+      "Bedridden patients",
+      "Athletes",
+      "Children only"
+    ],
+    "answer": "Bedridden patients",
+    "difficulty": "easy",
+    "explanation": "Prolonged pressure areas.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_029",
+    "question": "Range of motion exercises prevent:",
+    "options": [
+      "Fever",
+      "Joint stiffness",
+      "Infection",
+      "Bleeding"
+    ],
+    "answer": "Joint stiffness",
+    "difficulty": "medium",
+    "explanation": "Maintains mobility.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_030",
+    "question": "Physiotherapy helps in:",
+    "options": [
+      "Infection control",
+      "Movement recovery",
+      "Blood transfusion",
+      "Diagnosis only"
+    ],
+    "answer": "Movement recovery",
+    "difficulty": "easy",
+    "explanation": "Rehabilitation support.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_031",
+    "question": "Vital signs include:",
+    "options": [
+      "BP, Pulse, Temp, Respiration",
+      "Sugar only",
+      "Height only",
+      "Weight only"
+    ],
+    "answer": "BP, Pulse, Temp, Respiration",
+    "difficulty": "easy",
+    "explanation": "Basic monitoring signs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_032",
+    "question": "Defibrillator is used in:",
+    "options": [
+      "Fever",
+      "Cardiac arrest",
+      "Cough",
+      "Fracture"
+    ],
+    "answer": "Cardiac arrest",
+    "difficulty": "medium",
+    "explanation": "Restores heart rhythm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_033",
+    "question": "CPR stands for:",
+    "options": [
+      "Cardiac Pulmonary Recovery",
+      "Cardiopulmonary Resuscitation",
+      "Central Pulse Regulation",
+      "Cardiac Pressure Response"
+    ],
+    "answer": "Cardiopulmonary Resuscitation",
+    "difficulty": "medium",
+    "explanation": "Emergency life saving technique.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_034",
+    "question": "CPR compression site:",
+    "options": [
+      "Head",
+      "Chest",
+      "Abdomen",
+      "Leg"
+    ],
+    "answer": "Chest",
+    "difficulty": "easy",
+    "explanation": "Middle of sternum.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_035",
+    "question": "CPR compression rate per minute:",
+    "options": [
+      "60–80",
+      "100–120",
+      "140–160",
+      "40–60"
+    ],
+    "answer": "100–120",
+    "difficulty": "medium",
+    "explanation": "Standard guideline.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_036",
+    "question": "Emergency trolley contains:",
+    "options": [
+      "Food items",
+      "Life-saving drugs",
+      "Books",
+      "Clothes"
+    ],
+    "answer": "Life-saving drugs",
+    "difficulty": "easy",
+    "explanation": "For emergencies.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_037",
+    "question": "Shock position is:",
+    "options": [
+      "Head up",
+      "Leg elevated",
+      "Sitting",
+      "Standing"
+    ],
+    "answer": "Leg elevated",
+    "difficulty": "medium",
+    "explanation": "Improves circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_038",
+    "question": "First aid means:",
+    "options": [
+      "Final treatment",
+      "Immediate care",
+      "Surgery",
+      "Diagnosis"
+    ],
+    "answer": "Immediate care",
+    "difficulty": "easy",
+    "explanation": "Before hospital care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_039",
+    "question": "Bandage is used to:",
+    "options": [
+      "Increase pain",
+      "Support wound",
+      "Stop breathing",
+      "Increase fever"
+    ],
+    "answer": "Support wound",
+    "difficulty": "easy",
+    "explanation": "Protect injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_040",
+    "question": "Splint is used for:",
+    "options": [
+      "Burns",
+      "Fracture support",
+      "Fever",
+      "Injection"
+    ],
+    "answer": "Fracture support",
+    "difficulty": "easy",
+    "explanation": "Immobilizes bone.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_041",
+    "question": "Burn dressing is done with:",
+    "options": [
+      "Cold water only",
+      "Sterile dressing",
+      "Oil",
+      "Salt"
+    ],
+    "answer": "Sterile dressing",
+    "difficulty": "medium",
+    "explanation": "Prevents infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_042",
+    "question": "Cold compress reduces:",
+    "options": [
+      "Bleeding",
+      "Heat and swelling",
+      "Oxygen",
+      "BP"
+    ],
+    "answer": "Heat and swelling",
+    "difficulty": "easy",
+    "explanation": "Vasoconstriction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_043",
+    "question": "Hot compress is used for:",
+    "options": [
+      "Swelling only",
+      "Pain relief",
+      "Bleeding",
+      "Fever"
+    ],
+    "answer": "Pain relief",
+    "difficulty": "easy",
+    "explanation": "Improves circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_044",
+    "question": "Wound infection signs include:",
+    "options": [
+      "Pink skin",
+      "Redness and pus",
+      "Dry skin",
+      "Cold skin"
+    ],
+    "answer": "Redness and pus",
+    "difficulty": "medium",
+    "explanation": "Inflammation signs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_045",
+    "question": "Sutures are used to:",
+    "options": [
+      "Open wound",
+      "Close wound",
+      "Clean wound",
+      "Burn wound"
+    ],
+    "answer": "Close wound",
+    "difficulty": "easy",
+    "explanation": "Surgical stitching.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_046",
+    "question": "Suture removal is done after:",
+    "options": [
+      "1 day",
+      "5–10 days",
+      "1 month",
+      "1 year"
+    ],
+    "answer": "5–10 days",
+    "difficulty": "medium",
+    "explanation": "Depends on healing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_047",
+    "question": "Hospital waste is classified into:",
+    "options": [
+      "1 type",
+      "2 types",
+      "4 types",
+      "10 types"
+    ],
+    "answer": "4 types",
+    "difficulty": "medium",
+    "explanation": "Color-coded system.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_048",
+    "question": "Yellow bin is for:",
+    "options": [
+      "Glass waste",
+      "Infectious waste",
+      "Plastic only",
+      "Food waste"
+    ],
+    "answer": "Infectious waste",
+    "difficulty": "medium",
+    "explanation": "Biohazard disposal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_049",
+    "question": "Red bin is for:",
+    "options": [
+      "Plastic waste",
+      "Food waste",
+      "Paper only",
+      "Sharp items"
+    ],
+    "answer": "Plastic waste",
+    "difficulty": "medium",
+    "explanation": "Contaminated recyclable items.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_050",
+    "question": "Sharps are disposed in:",
+    "options": [
+      "Yellow bin",
+      "Black bin",
+      "White puncture-proof container",
+      "Blue bin"
+    ],
+    "answer": "White puncture-proof container",
+    "difficulty": "medium",
+    "explanation": "Needle safety.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_051",
+    "question": "Biomedical waste disposal is important to prevent:",
+    "options": [
+      "Infection spread",
+      "Weight loss",
+      "Fever",
+      "BP increase"
+    ],
+    "answer": "Infection spread",
+    "difficulty": "easy",
+    "explanation": "Protects public health.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_052",
+    "question": "Needle stick injury risk:",
+    "options": [
+      "Low infection risk",
+      "High infection risk",
+      "No risk",
+      "Only pain"
+    ],
+    "answer": "High infection risk",
+    "difficulty": "easy",
+    "explanation": "Bloodborne diseases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_053",
+    "question": "Post exposure prophylaxis is for:",
+    "options": [
+      "Fever",
+      "Infection prevention after exposure",
+      "Pain relief",
+      "Wound closure"
+    ],
+    "answer": "Infection prevention after exposure",
+    "difficulty": "medium",
+    "explanation": "After needle injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_054",
+    "question": "Hospital infection is called:",
+    "options": [
+      "Community infection",
+      "Nosocomial infection",
+      "Skin infection",
+      "Food infection"
+    ],
+    "answer": "Nosocomial infection",
+    "difficulty": "medium",
+    "explanation": "Hospital-acquired infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_055",
+    "question": "Incubator is used for:",
+    "options": [
+      "Adults",
+      "Newborn babies",
+      "Plants",
+      "Equipment"
+    ],
+    "answer": "Newborn babies",
+    "difficulty": "easy",
+    "explanation": "Maintains temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_056",
+    "question": "Nebulization is used for:",
+    "options": [
+      "Fever",
+      "Respiratory drug delivery",
+      "Injection",
+      "Surgery"
+    ],
+    "answer": "Respiratory drug delivery",
+    "difficulty": "easy",
+    "explanation": "Inhaled medication.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_057",
+    "question": "Syringe is used for:",
+    "options": [
+      "Eating",
+      "Injection",
+      "Breathing",
+      "Sleeping"
+    ],
+    "answer": "Injection",
+    "difficulty": "easy",
+    "explanation": "Drug administration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_058",
+    "question": "IV drip rate is measured in:",
+    "options": [
+      "Liters",
+      "Drops per minute",
+      "Kg",
+      "Seconds"
+    ],
+    "answer": "Drops per minute",
+    "difficulty": "medium",
+    "explanation": "Flow control.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_059",
+    "question": "Sterile gloves are used in:",
+    "options": [
+      "Cooking",
+      "Surgery",
+      "Walking",
+      "Eating"
+    ],
+    "answer": "Surgery",
+    "difficulty": "easy",
+    "explanation": "Aseptic procedure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_060",
+    "question": "Final aim of nursing procedures:",
+    "options": [
+      "Decoration",
+      "Patient safety and recovery",
+      "Speed only",
+      "Cost reduction only"
+    ],
+    "answer": "Patient safety and recovery",
+    "difficulty": "easy",
+    "explanation": "Core nursing goal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_061",
+    "question": "Sterile field means:",
+    "options": [
+      "Clean area",
+      "Area free of microorganisms",
+      "Dirty area",
+      "Wet area"
+    ],
+    "answer": "Area free of microorganisms",
+    "difficulty": "medium",
+    "explanation": "Used in surgical procedures.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_062",
+    "question": "Breaking sterile field leads to:",
+    "options": [
+      "Faster healing",
+      "Infection risk",
+      "Better results",
+      "No effect"
+    ],
+    "answer": "Infection risk",
+    "difficulty": "easy",
+    "explanation": "Contamination occurs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_063",
+    "question": "IV cannula dressing should be changed every:",
+    "options": [
+      "6 hours",
+      "24 hours",
+      "48–72 hours",
+      "1 week"
+    ],
+    "answer": "48–72 hours",
+    "difficulty": "medium",
+    "explanation": "Prevents infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_064",
+    "question": "IV site infection sign:",
+    "options": [
+      "Cold skin",
+      "Redness and swelling",
+      "Dry skin",
+      "Normal color"
+    ],
+    "answer": "Redness and swelling",
+    "difficulty": "easy",
+    "explanation": "Inflammation signs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_065",
+    "question": "Phlebitis is:",
+    "options": [
+      "Artery infection",
+      "Vein inflammation",
+      "Lung disease",
+      "Skin rash"
+    ],
+    "answer": "Vein inflammation",
+    "difficulty": "medium",
+    "explanation": "Common IV complication.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_066",
+    "question": "IV fluid flow depends on:",
+    "options": [
+      "Color of fluid",
+      "Gravity and rate control",
+      "Room temperature",
+      "Patient age only"
+    ],
+    "answer": "Gravity and rate control",
+    "difficulty": "easy",
+    "explanation": "Drip set regulates flow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_067",
+    "question": "Blood transfusion reaction sign:",
+    "options": [
+      "Fever and chills",
+      "Hunger",
+      "Sleepiness",
+      "Weight gain"
+    ],
+    "answer": "Fever and chills",
+    "difficulty": "medium",
+    "explanation": "Stop transfusion immediately.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_068",
+    "question": "First step in transfusion reaction:",
+    "options": [
+      "Increase rate",
+      "Stop transfusion",
+      "Ignore symptoms",
+      "Continue infusion"
+    ],
+    "answer": "Stop transfusion",
+    "difficulty": "easy",
+    "explanation": "Emergency response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_069",
+    "question": "Suction pressure for adults:",
+    "options": [
+      "20–40 mmHg",
+      "80–120 mmHg",
+      "200–300 mmHg",
+      "500 mmHg"
+    ],
+    "answer": "80–120 mmHg",
+    "difficulty": "medium",
+    "explanation": "Safe suction range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_070",
+    "question": "Oral suctioning is used for:",
+    "options": [
+      "Food intake",
+      "Airway clearance",
+      "Injection",
+      "Sleeping"
+    ],
+    "answer": "Airway clearance",
+    "difficulty": "easy",
+    "explanation": "Removes secretions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_071",
+    "question": "Tracheostomy care prevents:",
+    "options": [
+      "Skin dryness",
+      "Infection",
+      "Weight loss",
+      "Fever"
+    ],
+    "answer": "Infection",
+    "difficulty": "medium",
+    "explanation": "Airway hygiene is critical.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_072",
+    "question": "Oxygen flow is measured in:",
+    "options": [
+      "Kg",
+      "Liters per minute",
+      "Degrees",
+      "mmHg"
+    ],
+    "answer": "Liters per minute",
+    "difficulty": "easy",
+    "explanation": "Flow rate unit.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_073",
+    "question": "Normal oxygen flow via nasal cannula:",
+    "options": [
+      "1–2 L/min",
+      "2–6 L/min",
+      "10–15 L/min",
+      "20 L/min"
+    ],
+    "answer": "2–6 L/min",
+    "difficulty": "medium",
+    "explanation": "Standard range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_074",
+    "question": "Ventilator is used for:",
+    "options": [
+      "Fever",
+      "Breathing support",
+      "Digestion",
+      "BP control"
+    ],
+    "answer": "Breathing support",
+    "difficulty": "easy",
+    "explanation": "Assists respiration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_075",
+    "question": "Fowler’s position is used for:",
+    "options": [
+      "Sleeping",
+      "Breathing comfort",
+      "Surgery only",
+      "Walking"
+    ],
+    "answer": "Breathing comfort",
+    "difficulty": "easy",
+    "explanation": "Head elevated position.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_076",
+    "question": "Supine position means:",
+    "options": [
+      "Lying on back",
+      "Lying on stomach",
+      "Sitting",
+      "Standing"
+    ],
+    "answer": "Lying on back",
+    "difficulty": "easy",
+    "explanation": "Face upward.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_077",
+    "question": "Prone position means:",
+    "options": [
+      "Lying on back",
+      "Lying on stomach",
+      "Sitting",
+      "Standing"
+    ],
+    "answer": "Lying on stomach",
+    "difficulty": "easy",
+    "explanation": "Face downward.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_078",
+    "question": "Lateral position is:",
+    "options": [
+      "On back",
+      "On side",
+      "On stomach",
+      "Standing"
+    ],
+    "answer": "On side",
+    "difficulty": "easy",
+    "explanation": "Side lying position.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_079",
+    "question": "Semi-Fowler position angle:",
+    "options": [
+      "0–10°",
+      "15–30°",
+      "30–45°",
+      "90°"
+    ],
+    "answer": "30–45°",
+    "difficulty": "medium",
+    "explanation": "Partial sitting position.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_080",
+    "question": "High Fowler position is:",
+    "options": [
+      "0°",
+      "15°",
+      "45°",
+      "90°"
+    ],
+    "answer": "90°",
+    "difficulty": "medium",
+    "explanation": "Fully sitting.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_081",
+    "question": "Bed bath is given to:",
+    "options": [
+      "Mobile patients",
+      "Bedridden patients",
+      "Doctors",
+      "Visitors"
+    ],
+    "answer": "Bedridden patients",
+    "difficulty": "easy",
+    "explanation": "Hygiene care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_082",
+    "question": "Perineal care is for:",
+    "options": [
+      "Head",
+      "Genital area",
+      "Hands",
+      "Feet"
+    ],
+    "answer": "Genital area",
+    "difficulty": "easy",
+    "explanation": "Personal hygiene.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_083",
+    "question": "Back care prevents:",
+    "options": [
+      "Fever",
+      "Bed sores",
+      "Cough",
+      "Headache"
+    ],
+    "answer": "Bed sores",
+    "difficulty": "easy",
+    "explanation": "Improves circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_084",
+    "question": "Oral care should be given:",
+    "options": [
+      "Once a week",
+      "Daily",
+      "Monthly",
+      "Never"
+    ],
+    "answer": "Daily",
+    "difficulty": "easy",
+    "explanation": "Prevents infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_085",
+    "question": "Foley catheter balloon is filled with:",
+    "options": [
+      "Air",
+      "Sterile water",
+      "Saline only",
+      "Alcohol"
+    ],
+    "answer": "Sterile water",
+    "difficulty": "medium",
+    "explanation": "Secures catheter.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_086",
+    "question": "Catheter care prevents:",
+    "options": [
+      "Infection",
+      "Weight gain",
+      "Fever",
+      "Pain only"
+    ],
+    "answer": "Infection",
+    "difficulty": "easy",
+    "explanation": "Maintains hygiene.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_087",
+    "question": "NG tube feeding is given through:",
+    "options": [
+      "Mouth",
+      "Nose",
+      "Ear",
+      "Skin"
+    ],
+    "answer": "Nose",
+    "difficulty": "easy",
+    "explanation": "To stomach.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_088",
+    "question": "Gastric lavage means:",
+    "options": [
+      "Injection",
+      "Stomach washing",
+      "Blood transfusion",
+      "IV therapy"
+    ],
+    "answer": "Stomach washing",
+    "difficulty": "medium",
+    "explanation": "Emergency procedure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_089",
+    "question": "Enema is used for:",
+    "options": [
+      "Digestion",
+      "Bowel clearance",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Bowel clearance",
+    "difficulty": "easy",
+    "explanation": "Rectal procedure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_090",
+    "question": "Suppository is given:",
+    "options": [
+      "Orally",
+      "Rectally",
+      "IV",
+      "IM"
+    ],
+    "answer": "Rectally",
+    "difficulty": "medium",
+    "explanation": "Absorbed via rectum.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_091",
+    "question": "Cold chain is used for:",
+    "options": [
+      "Food storage",
+      "Vaccines",
+      "Blood pressure",
+      "Wounds"
+    ],
+    "answer": "Vaccines",
+    "difficulty": "medium",
+    "explanation": "Maintains vaccine potency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_092",
+    "question": "Vaccine storage temperature:",
+    "options": [
+      "0–2°C",
+      "2–8°C",
+      "10–15°C",
+      "20–25°C"
+    ],
+    "answer": "2–8°C",
+    "difficulty": "medium",
+    "explanation": "Standard refrigeration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_093",
+    "question": "Sharps injury prevention includes:",
+    "options": [
+      "Recapping needles",
+      "No recapping",
+      "Reuse needles",
+      "Manual cleaning"
+    ],
+    "answer": "No recapping",
+    "difficulty": "easy",
+    "explanation": "Prevents injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_094",
+    "question": "Universal precautions mean:",
+    "options": [
+      "Care for doctors only",
+      "Treat all blood as infectious",
+      "Ignore infection",
+      "No PPE needed"
+    ],
+    "answer": "Treat all blood as infectious",
+    "difficulty": "medium",
+    "explanation": "Safety protocol.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_095",
+    "question": "Hand rub is effective for:",
+    "options": [
+      "Visible dirt",
+      "Quick disinfection",
+      "Food preparation",
+      "Surgery only"
+    ],
+    "answer": "Quick disinfection",
+    "difficulty": "easy",
+    "explanation": "Alcohol-based rub.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_096",
+    "question": "Biohazard symbol indicates:",
+    "options": [
+      "Safe area",
+      "Infectious waste",
+      "Food storage",
+      "Office area"
+    ],
+    "answer": "Infectious waste",
+    "difficulty": "easy",
+    "explanation": "Danger sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_097",
+    "question": "Sharps container color:",
+    "options": [
+      "Red",
+      "Yellow",
+      "White puncture-proof",
+      "Blue"
+    ],
+    "answer": "White puncture-proof",
+    "difficulty": "medium",
+    "explanation": "Safe disposal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_098",
+    "question": "IV line infection prevention includes:",
+    "options": [
+      "Dirty dressing",
+      "Aseptic technique",
+      "Reuse cannula",
+      "No cleaning"
+    ],
+    "answer": "Aseptic technique",
+    "difficulty": "easy",
+    "explanation": "Prevents contamination.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_099",
+    "question": "Emergency oxygen cylinder color:",
+    "options": [
+      "Red",
+      "Black",
+      "Green",
+      "Blue"
+    ],
+    "answer": "Black",
+    "difficulty": "medium",
+    "explanation": "Medical oxygen identification.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_100",
+    "question": "Final aim of nursing procedures is:",
+    "options": [
+      "Hospital profit",
+      "Patient recovery",
+      "Paperwork",
+      "Speed only"
+    ],
+    "answer": "Patient recovery",
+    "difficulty": "easy",
+    "explanation": "Core nursing objective.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_101",
+    "question": "Patient identification is done using:",
+    "options": [
+      "Room number only",
+      "Name band",
+      "Doctor name",
+      "Ward number only"
+    ],
+    "answer": "Name band",
+    "difficulty": "easy",
+    "explanation": "Ensures correct patient care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_102",
+    "question": "Medication error prevention includes:",
+    "options": [
+      "Double checking",
+      "Ignoring labels",
+      "Fast injection",
+      "No documentation"
+    ],
+    "answer": "Double checking",
+    "difficulty": "easy",
+    "explanation": "Safety practice.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_103",
+    "question": "The '5 rights' of medication include:",
+    "options": [
+      "Wrong patient",
+      "Right patient, drug, dose, route, time",
+      "Only drug",
+      "Only dose"
+    ],
+    "answer": "Right patient, drug, dose, route, time",
+    "difficulty": "medium",
+    "explanation": "Medication safety principle.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_104",
+    "question": "Informed consent is required before:",
+    "options": [
+      "Food intake",
+      "Surgical procedure",
+      "Walking",
+      "Sleeping"
+    ],
+    "answer": "Surgical procedure",
+    "difficulty": "easy",
+    "explanation": "Legal requirement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_105",
+    "question": "Documentation in nursing is:",
+    "options": [
+      "Optional",
+      "Legal record",
+      "Unimportant",
+      "Personal notes only"
+    ],
+    "answer": "Legal record",
+    "difficulty": "easy",
+    "explanation": "Patient care record.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_106",
+    "question": "Shift handover ensures:",
+    "options": [
+      "Confusion",
+      "Continuity of care",
+      "Delay",
+      "Loss of data"
+    ],
+    "answer": "Continuity of care",
+    "difficulty": "easy",
+    "explanation": "Smooth transition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_107",
+    "question": "Ward rounds are conducted by:",
+    "options": [
+      "Patients",
+      "Doctors and nurses",
+      "Visitors",
+      "Cleaners"
+    ],
+    "answer": "Doctors and nurses",
+    "difficulty": "easy",
+    "explanation": "Patient review.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_108",
+    "question": "Patient privacy is maintained by:",
+    "options": [
+      "Open curtains",
+      "Screens and curtains",
+      "No clothes",
+      "Public viewing"
+    ],
+    "answer": "Screens and curtains",
+    "difficulty": "easy",
+    "explanation": "Ethical care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_109",
+    "question": "Restraints are used to:",
+    "options": [
+      "Punish patient",
+      "Prevent harm",
+      "Increase pain",
+      "Decorate bed"
+    ],
+    "answer": "Prevent harm",
+    "difficulty": "medium",
+    "explanation": "Safety measure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_110",
+    "question": "Infection isolation room has:",
+    "options": [
+      "No ventilation",
+      "Negative pressure",
+      "Open doors",
+      "No PPE"
+    ],
+    "answer": "Negative pressure",
+    "difficulty": "hard",
+    "explanation": "Prevents spread of pathogens.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_111",
+    "question": "Surgical gown is worn in:",
+    "options": [
+      "Ward care",
+      "Operation theatre",
+      "Canteen",
+      "Office"
+    ],
+    "answer": "Operation theatre",
+    "difficulty": "easy",
+    "explanation": "Sterile procedure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_112",
+    "question": "Scrubbing before surgery is for:",
+    "options": [
+      "Cleaning room",
+      "Hand sterilization",
+      "Eating",
+      "Walking"
+    ],
+    "answer": "Hand sterilization",
+    "difficulty": "easy",
+    "explanation": "Surgical asepsis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_113",
+    "question": "Sterile gloves are opened:",
+    "options": [
+      "From bottom",
+      "From inside sterile field",
+      "Anywhere",
+      "Without care"
+    ],
+    "answer": "From inside sterile field",
+    "difficulty": "medium",
+    "explanation": "Maintains sterility.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_114",
+    "question": "Surgical instruments are sterilized using:",
+    "options": [
+      "Cold water",
+      "Autoclave",
+      "Sunlight",
+      "Air drying"
+    ],
+    "answer": "Autoclave",
+    "difficulty": "easy",
+    "explanation": "Steam sterilization.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_115",
+    "question": "Waste segregation is done to:",
+    "options": [
+      "Confuse staff",
+      "Safe disposal",
+      "Increase cost",
+      "Delay work"
+    ],
+    "answer": "Safe disposal",
+    "difficulty": "easy",
+    "explanation": "Environmental safety.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_116",
+    "question": "Biomedical waste is treated by:",
+    "options": [
+      "Incineration",
+      "Freezing",
+      "Drying",
+      "Cooling"
+    ],
+    "answer": "Incineration",
+    "difficulty": "medium",
+    "explanation": "Burning infectious waste.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_117",
+    "question": "Hospital infection prevention includes:",
+    "options": [
+      "No handwashing",
+      "Sterilization",
+      "Reuse syringes",
+      "No PPE"
+    ],
+    "answer": "Sterilization",
+    "difficulty": "easy",
+    "explanation": "Kills microorganisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_118",
+    "question": "Universal donor blood group:",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O negative"
+    ],
+    "answer": "O negative",
+    "difficulty": "medium",
+    "explanation": "Safe for all groups.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_119",
+    "question": "Universal recipient blood group:",
+    "options": [
+      "A",
+      "B",
+      "AB positive",
+      "O"
+    ],
+    "answer": "AB positive",
+    "difficulty": "medium",
+    "explanation": "Can receive all blood types.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_120",
+    "question": "Final goal of nursing care:",
+    "options": [
+      "Hospital profit",
+      "Patient well-being",
+      "Paperwork",
+      "Speed only"
+    ],
+    "answer": "Patient well-being",
+    "difficulty": "easy",
+    "explanation": "Core healthcare objective.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_121",
+    "question": "ICU stands for:",
+    "options": [
+      "Intensive Care Unit",
+      "Internal Care Unit",
+      "Immediate Care Unit",
+      "Integrated Care Unit"
+    ],
+    "answer": "Intensive Care Unit",
+    "difficulty": "easy",
+    "explanation": "Critical care area for unstable patients.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_122",
+    "question": "Ventilator is used in ICU for:",
+    "options": [
+      "Nutrition",
+      "Breathing support",
+      "BP control",
+      "Pain relief"
+    ],
+    "answer": "Breathing support",
+    "difficulty": "easy",
+    "explanation": "Assists or replaces breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_123",
+    "question": "Endotracheal tube is inserted into:",
+    "options": [
+      "Stomach",
+      "Trachea",
+      "Vein",
+      "Nose only"
+    ],
+    "answer": "Trachea",
+    "difficulty": "medium",
+    "explanation": "Maintains airway.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_124",
+    "question": "Intubation is done for:",
+    "options": [
+      "Fever",
+      "Airway protection",
+      "Digestion",
+      "Wound care"
+    ],
+    "answer": "Airway protection",
+    "difficulty": "medium",
+    "explanation": "Secures breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_125",
+    "question": "CPR is stopped when:",
+    "options": [
+      "Patient wakes",
+      "Doctor orders",
+      "Family arrives",
+      "Time passes"
+    ],
+    "answer": "Doctor orders",
+    "difficulty": "medium",
+    "explanation": "Or return of spontaneous circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_126",
+    "question": "Defibrillator delivers:",
+    "options": [
+      "Heat",
+      "Electric shock",
+      "Medicine",
+      "Oxygen"
+    ],
+    "answer": "Electric shock",
+    "difficulty": "easy",
+    "explanation": "Restores heart rhythm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_127",
+    "question": "Cardiac arrest means:",
+    "options": [
+      "Fast heartbeat",
+      "Heart stops beating",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Heart stops beating",
+    "difficulty": "easy",
+    "explanation": "Emergency condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_128",
+    "question": "Shock is:",
+    "options": [
+      "High BP",
+      "Poor tissue perfusion",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Poor tissue perfusion",
+    "difficulty": "medium",
+    "explanation": "Life-threatening condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_129",
+    "question": "Signs of shock include:",
+    "options": [
+      "Warm skin",
+      "Cold clammy skin",
+      "Red face",
+      "Dry mouth only"
+    ],
+    "answer": "Cold clammy skin",
+    "difficulty": "medium",
+    "explanation": "Reduced circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_130",
+    "question": "First action in shock:",
+    "options": [
+      "Give food",
+      "Lay patient flat",
+      "Make walk",
+      "Give water"
+    ],
+    "answer": "Lay patient flat",
+    "difficulty": "medium",
+    "explanation": "Improve blood flow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_131",
+    "question": "Burns are classified into:",
+    "options": [
+      "1 type",
+      "2 types",
+      "3 degrees",
+      "5 stages"
+    ],
+    "answer": "3 degrees",
+    "difficulty": "medium",
+    "explanation": "First, second, third degree.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_132",
+    "question": "First degree burn affects:",
+    "options": [
+      "Muscle",
+      "Skin only",
+      "Bone",
+      "Nerve"
+    ],
+    "answer": "Skin only",
+    "difficulty": "easy",
+    "explanation": "Redness, pain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_133",
+    "question": "Second degree burn shows:",
+    "options": [
+      "No pain",
+      "Blisters",
+      "Bone damage",
+      "No skin change"
+    ],
+    "answer": "Blisters",
+    "difficulty": "medium",
+    "explanation": "Partial thickness burn.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_134",
+    "question": "Third degree burn affects:",
+    "options": [
+      "Skin only",
+      "Full thickness skin",
+      "Muscle only",
+      "Hair only"
+    ],
+    "answer": "Full thickness skin",
+    "difficulty": "medium",
+    "explanation": "Severe damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_135",
+    "question": "Emergency burn care includes:",
+    "options": [
+      "Ice application",
+      "Cold running water",
+      "Heat application",
+      "Oil massage"
+    ],
+    "answer": "Cold running water",
+    "difficulty": "easy",
+    "explanation": "Reduces tissue damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_136",
+    "question": "Fracture means:",
+    "options": [
+      "Muscle tear",
+      "Bone break",
+      "Skin injury",
+      "Ligament stretch"
+    ],
+    "answer": "Bone break",
+    "difficulty": "easy",
+    "explanation": "Break in bone continuity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_137",
+    "question": "Splint is used to:",
+    "options": [
+      "Move bone",
+      "Immobilize fracture",
+      "Increase pain",
+      "Clean wound"
+    ],
+    "answer": "Immobilize fracture",
+    "difficulty": "easy",
+    "explanation": "Prevents movement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_138",
+    "question": "Traction is used for:",
+    "options": [
+      "Skin care",
+      "Bone alignment",
+      "Fever",
+      "Injection"
+    ],
+    "answer": "Bone alignment",
+    "difficulty": "medium",
+    "explanation": "Pulling force applied.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_139",
+    "question": "Open fracture means:",
+    "options": [
+      "Bone inside skin",
+      "Bone exposed",
+      "No fracture",
+      "Minor injury"
+    ],
+    "answer": "Bone exposed",
+    "difficulty": "medium",
+    "explanation": "High infection risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_140",
+    "question": "Closed fracture means:",
+    "options": [
+      "Bone exposed",
+      "Skin intact",
+      "No pain",
+      "No injury"
+    ],
+    "answer": "Skin intact",
+    "difficulty": "medium",
+    "explanation": "Bone broken inside.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_141",
+    "question": "DVT stands for:",
+    "options": [
+      "Deep Vein Thrombosis",
+      "Direct Venous Therapy",
+      "Deep Vital Test",
+      "Drug Vein Treatment"
+    ],
+    "answer": "Deep Vein Thrombosis",
+    "difficulty": "medium",
+    "explanation": "Blood clot in vein.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_142",
+    "question": "DVT risk increases due to:",
+    "options": [
+      "Movement",
+      "Bed rest",
+      "Exercise",
+      "Hydration"
+    ],
+    "answer": "Bed rest",
+    "difficulty": "medium",
+    "explanation": "Immobility causes clot.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_143",
+    "question": "Anticoagulants are used to:",
+    "options": [
+      "Increase clotting",
+      "Prevent clotting",
+      "Increase fever",
+      "Stop breathing"
+    ],
+    "answer": "Prevent clotting",
+    "difficulty": "medium",
+    "explanation": "Blood thinner drugs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_144",
+    "question": "IV fluid overload causes:",
+    "options": [
+      "Dehydration",
+      "Pulmonary edema",
+      "Weight loss",
+      "Dry skin"
+    ],
+    "answer": "Pulmonary edema",
+    "difficulty": "hard",
+    "explanation": "Fluid in lungs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_145",
+    "question": "Normal urine color:",
+    "options": [
+      "Red",
+      "Yellow",
+      "Blue",
+      "Black"
+    ],
+    "answer": "Yellow",
+    "difficulty": "easy",
+    "explanation": "Due to urobilin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_146",
+    "question": "Urinary infection symptoms include:",
+    "options": [
+      "Painful urination",
+      "Hair loss",
+      "Cough",
+      "Headache"
+    ],
+    "answer": "Painful urination",
+    "difficulty": "easy",
+    "explanation": "UTI symptom.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_147",
+    "question": "Sterile catheter insertion prevents:",
+    "options": [
+      "Pain",
+      "Infection",
+      "Fever",
+      "BP change"
+    ],
+    "answer": "Infection",
+    "difficulty": "easy",
+    "explanation": "Aseptic technique.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_148",
+    "question": "Dialysis removes:",
+    "options": [
+      "Blood only",
+      "Waste products",
+      "Oxygen",
+      "Hormones"
+    ],
+    "answer": "Waste products",
+    "difficulty": "easy",
+    "explanation": "Kidney replacement therapy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_149",
+    "question": "Hemodialysis is done using:",
+    "options": [
+      "Machine",
+      "Tablet",
+      "Injection only",
+      "Food"
+    ],
+    "answer": "Machine",
+    "difficulty": "easy",
+    "explanation": "Artificial kidney.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_150",
+    "question": "Peritoneal dialysis uses:",
+    "options": [
+      "Heart",
+      "Peritoneum",
+      "Lungs",
+      "Brain"
+    ],
+    "answer": "Peritoneum",
+    "difficulty": "medium",
+    "explanation": "Abdominal membrane.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_151",
+    "question": "Patient monitoring includes:",
+    "options": [
+      "Vital signs",
+      "Cooking",
+      "Walking",
+      "Sleeping"
+    ],
+    "answer": "Vital signs",
+    "difficulty": "easy",
+    "explanation": "Continuous observation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_152",
+    "question": "ICU monitor displays:",
+    "options": [
+      "Temperature only",
+      "Heart rate, BP, SpO2",
+      "Food intake",
+      "Height"
+    ],
+    "answer": "Heart rate, BP, SpO2",
+    "difficulty": "easy",
+    "explanation": "Critical monitoring.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_153",
+    "question": "Central line is used for:",
+    "options": [
+      "Skin care",
+      "IV access",
+      "Food",
+      "Walking"
+    ],
+    "answer": "IV access",
+    "difficulty": "medium",
+    "explanation": "Large vein access.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_154",
+    "question": "Sepsis is:",
+    "options": [
+      "Allergy",
+      "Body infection response",
+      "Fracture",
+      "Pain"
+    ],
+    "answer": "Body infection response",
+    "difficulty": "hard",
+    "explanation": "Life-threatening infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_155",
+    "question": "Signs of sepsis include:",
+    "options": [
+      "Low temperature",
+      "Fever and confusion",
+      "Hair fall",
+      "Dry skin"
+    ],
+    "answer": "Fever and confusion",
+    "difficulty": "hard",
+    "explanation": "Systemic infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_156",
+    "question": "Antibiotics are used for:",
+    "options": [
+      "Viral infection",
+      "Bacterial infection",
+      "Pain",
+      "Fever only"
+    ],
+    "answer": "Bacterial infection",
+    "difficulty": "easy",
+    "explanation": "Kills bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_157",
+    "question": "Antipyretic drugs reduce:",
+    "options": [
+      "Pain",
+      "Fever",
+      "Infection",
+      "BP"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "explanation": "Temperature reduction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_158",
+    "question": "Analgesic drugs reduce:",
+    "options": [
+      "Fever",
+      "Pain",
+      "Infection",
+      "BP"
+    ],
+    "answer": "Pain",
+    "difficulty": "easy",
+    "explanation": "Pain relief drugs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_159",
+    "question": "Antiseptic is used on:",
+    "options": [
+      "Internal organs",
+      "Skin",
+      "Blood",
+      "Bone"
+    ],
+    "answer": "Skin",
+    "difficulty": "easy",
+    "explanation": "Prevents infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_160",
+    "question": "Disposal of syringes is done in:",
+    "options": [
+      "General bin",
+      "Sharps container",
+      "Food waste",
+      "Plastic bag"
+    ],
+    "answer": "Sharps container",
+    "difficulty": "easy",
+    "explanation": "Safety disposal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_161",
+    "question": "Patient fall prevention includes:",
+    "options": [
+      "Wet floors",
+      "Bed rails",
+      "No lighting",
+      "Loose bedding"
+    ],
+    "answer": "Bed rails",
+    "difficulty": "easy",
+    "explanation": "Safety measure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_162",
+    "question": "Hospital alarm system is used for:",
+    "options": [
+      "Decoration",
+      "Emergency alert",
+      "Music",
+      "Lighting"
+    ],
+    "answer": "Emergency alert",
+    "difficulty": "easy",
+    "explanation": "Critical situations.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_163",
+    "question": "Nurse documentation includes:",
+    "options": [
+      "Personal opinion",
+      "Patient records",
+      "Gossip",
+      "None"
+    ],
+    "answer": "Patient records",
+    "difficulty": "easy",
+    "explanation": "Legal documentation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_164",
+    "question": "Vital signs abnormality indicates:",
+    "options": [
+      "Normal health",
+      "Disease condition",
+      "Recovery only",
+      "No meaning"
+    ],
+    "answer": "Disease condition",
+    "difficulty": "easy",
+    "explanation": "Clinical indicator.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_165",
+    "question": "Patient safety goal is:",
+    "options": [
+      "Reduce cost",
+      "Prevent harm",
+      "Increase workload",
+      "Delay treatment"
+    ],
+    "answer": "Prevent harm",
+    "difficulty": "easy",
+    "explanation": "Core nursing priority.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_166",
+    "question": "Hospital infection is reduced by:",
+    "options": [
+      "Hand hygiene",
+      "No cleaning",
+      "Reuse syringes",
+      "No PPE"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Key prevention method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_167",
+    "question": "Biomedical waste must be:",
+    "options": [
+      "Mixed",
+      "Segregated",
+      "Ignored",
+      "Stored at home"
+    ],
+    "answer": "Segregated",
+    "difficulty": "easy",
+    "explanation": "Safe disposal practice.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_168",
+    "question": "Isolation ward is for:",
+    "options": [
+      "Healthy patients",
+      "Infectious patients",
+      "Visitors",
+      "Doctors only"
+    ],
+    "answer": "Infectious patients",
+    "difficulty": "easy",
+    "explanation": "Prevents spread.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_169",
+    "question": "Hospital acquired infection is:",
+    "options": [
+      "Community infection",
+      "Nosocomial infection",
+      "Food infection",
+      "Skin allergy"
+    ],
+    "answer": "Nosocomial infection",
+    "difficulty": "medium",
+    "explanation": "Occurs in hospital.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_170",
+    "question": "ICU patients are:",
+    "options": [
+      "Stable",
+      "Critically ill",
+      "Healthy",
+      "Visitors"
+    ],
+    "answer": "Critically ill",
+    "difficulty": "easy",
+    "explanation": "Need intensive care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_171",
+    "question": "Emergency trolley should be:",
+    "options": [
+      "Empty",
+      "Always ready",
+      "Locked always",
+      "Broken"
+    ],
+    "answer": "Always ready",
+    "difficulty": "easy",
+    "explanation": "For emergencies.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_172",
+    "question": "Crash cart contains:",
+    "options": [
+      "Food",
+      "Emergency drugs",
+      "Clothes",
+      "Books"
+    ],
+    "answer": "Emergency drugs",
+    "difficulty": "easy",
+    "explanation": "Life-saving medicines.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_173",
+    "question": "Surgical instruments are stored in:",
+    "options": [
+      "Dirty room",
+      "Sterile tray",
+      "Open shelf",
+      "Floor"
+    ],
+    "answer": "Sterile tray",
+    "difficulty": "easy",
+    "explanation": "Maintains sterility.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_174",
+    "question": "OT temperature is maintained to:",
+    "options": [
+      "High heat",
+      "Low infection risk",
+      "Cold only",
+      "No control"
+    ],
+    "answer": "Low infection risk",
+    "difficulty": "medium",
+    "explanation": "Controlled environment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_175",
+    "question": "Sterile field contamination requires:",
+    "options": [
+      "Continue procedure",
+      "Replace field",
+      "Ignore",
+      "Delay care"
+    ],
+    "answer": "Replace field",
+    "difficulty": "medium",
+    "explanation": "Maintain sterility.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_176",
+    "question": "Patient discharge planning starts:",
+    "options": [
+      "At admission",
+      "At discharge",
+      "After surgery",
+      "Never"
+    ],
+    "answer": "At admission",
+    "difficulty": "medium",
+    "explanation": "Early planning improves recovery.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_177",
+    "question": "Discharge summary includes:",
+    "options": [
+      "Diet only",
+      "Treatment details",
+      "Room number",
+      "Visitor list"
+    ],
+    "answer": "Treatment details",
+    "difficulty": "easy",
+    "explanation": "Medical record.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_178",
+    "question": "Home care instructions are given:",
+    "options": [
+      "Before admission",
+      "At discharge",
+      "Never",
+      "After death"
+    ],
+    "answer": "At discharge",
+    "difficulty": "easy",
+    "explanation": "Continuity of care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_179",
+    "question": "Final nursing responsibility is:",
+    "options": [
+      "Patient safety",
+      "Paperwork only",
+      "Hospital billing",
+      "Cleaning only"
+    ],
+    "answer": "Patient safety",
+    "difficulty": "easy",
+    "explanation": "Core duty of nurse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  },
+  {
+    "id": "HP_180",
+    "question": "Overall goal of hospital procedures:",
+    "options": [
+      "Profit",
+      "Patient recovery & safety",
+      "Speed",
+      "Workload increase"
+    ],
+    "answer": "Patient recovery & safety",
+    "difficulty": "easy",
+    "explanation": "Healthcare objective.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "HOSPITAL_NURSING_PROCEDURES"
+  }
+]

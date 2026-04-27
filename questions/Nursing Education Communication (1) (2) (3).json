@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "NEC_001",
+    "question": "The most widely accepted domains of educational objectives are:",
+    "options": [
+      "Cognitive, affective, psychomotor",
+      "Physical, mental, spiritual",
+      "Knowledge, wealth, status",
+      "Teaching, testing, grading"
+    ],
+    "answer": "Cognitive, affective, psychomotor",
+    "topic": "Educational Objectives",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_002",
+    "question": "Bloom’s taxonomy level involving judgment and decision-making is:",
+    "options": [
+      "Evaluation",
+      "Knowledge",
+      "Comprehension",
+      "Recall"
+    ],
+    "answer": "Evaluation",
+    "topic": "Bloom Taxonomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_003",
+    "question": "Applying learned knowledge to new situations belongs to:",
+    "options": [
+      "Application",
+      "Analysis",
+      "Synthesis",
+      "Remembering"
+    ],
+    "answer": "Application",
+    "topic": "Bloom Taxonomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_004",
+    "question": "Breaking content into parts and examining relationships is:",
+    "options": [
+      "Analysis",
+      "Knowledge",
+      "Imitation",
+      "Valuing"
+    ],
+    "answer": "Analysis",
+    "topic": "Bloom Taxonomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_005",
+    "question": "Creating a new care plan from learned concepts reflects:",
+    "options": [
+      "Synthesis/Create",
+      "Recall",
+      "Receiving",
+      "Guided response"
+    ],
+    "answer": "Synthesis/Create",
+    "topic": "Bloom Taxonomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_006",
+    "question": "An objective written as observable learner behavior should begin with:",
+    "options": [
+      "Action verb",
+      "Noun phrase",
+      "Hospital name",
+      "Theory title"
+    ],
+    "answer": "Action verb",
+    "topic": "Objectives",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_007",
+    "question": "Which is the best behavioral objective?",
+    "options": [
+      "Student will demonstrate sterile gloving correctly",
+      "Student will understand nursing",
+      "Student will know many things",
+      "Student will appreciate lectures"
+    ],
+    "answer": "Student will demonstrate sterile gloving correctly",
+    "topic": "Objectives",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_008",
+    "question": "Lesson planning should begin with:",
+    "options": [
+      "Learning objectives",
+      "Attendance sheet",
+      "Final marks",
+      "Seating chart"
+    ],
+    "answer": "Learning objectives",
+    "topic": "Teaching Planning",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_009",
+    "question": "The principle of learning stating recent learning is remembered better is:",
+    "options": [
+      "Law of recency",
+      "Law of readiness",
+      "Law of effect",
+      "Law of exercise"
+    ],
+    "answer": "Law of recency",
+    "topic": "Learning Theories",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_010",
+    "question": "Thorndike’s law of effect means responses followed by satisfaction are:",
+    "options": [
+      "Strengthened",
+      "Forgotten",
+      "Punished",
+      "Ignored"
+    ],
+    "answer": "Strengthened",
+    "topic": "Learning Theories",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_011",
+    "question": "Adult learners are generally motivated when content is:",
+    "options": [
+      "Relevant to immediate needs",
+      "Entirely theoretical only",
+      "Mandatory only",
+      "Unrelated to practice"
+    ],
+    "answer": "Relevant to immediate needs",
+    "topic": "Adult Learning",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_012",
+    "question": "Knowles is associated with theory of:",
+    "options": [
+      "Andragogy",
+      "Classical conditioning",
+      "Psychoanalysis",
+      "Gestalt therapy"
+    ],
+    "answer": "Andragogy",
+    "topic": "Adult Learning",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_013",
+    "question": "Most effective method to teach psychomotor nursing skills is:",
+    "options": [
+      "Demonstration with return demonstration",
+      "Lecture only",
+      "Pamphlet only",
+      "Debate"
+    ],
+    "answer": "Demonstration with return demonstration",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_014",
+    "question": "Best method to teach large group factual content in limited time is:",
+    "options": [
+      "Lecture",
+      "Role play",
+      "Simulation only",
+      "Field trip"
+    ],
+    "answer": "Lecture",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_015",
+    "question": "Role play is especially useful for teaching:",
+    "options": [
+      "Communication and attitudes",
+      "Drug calculations only",
+      "Anatomy labeling only",
+      "Statistics formulas only"
+    ],
+    "answer": "Communication and attitudes",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_016",
+    "question": "Panel discussion is best when objective is to:",
+    "options": [
+      "Explore multiple expert viewpoints",
+      "Teach injection skill",
+      "Assess attendance",
+      "Give one-way orders"
+    ],
+    "answer": "Explore multiple expert viewpoints",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_017",
+    "question": "Symposium differs from panel discussion because symposium usually has:",
+    "options": [
+      "Prepared speeches on aspects of topic",
+      "Spontaneous argument only",
+      "No moderator",
+      "No audience"
+    ],
+    "answer": "Prepared speeches on aspects of topic",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_018",
+    "question": "Brainstorming primarily promotes:",
+    "options": [
+      "Creative idea generation",
+      "Skill demonstration",
+      "Silent memorization",
+      "Punitive discipline"
+    ],
+    "answer": "Creative idea generation",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_019",
+    "question": "Microteaching is mainly used to improve:",
+    "options": [
+      "Teaching skills through short practice sessions",
+      "Patient surgery skills",
+      "Drug stock control",
+      "Payroll management"
+    ],
+    "answer": "Teaching skills through short practice sessions",
+    "topic": "Teacher Training",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_020",
+    "question": "Simulation in nursing education is especially valuable because it allows:",
+    "options": [
+      "Safe practice without harming patients",
+      "Replacement of all clinical learning",
+      "No feedback needed",
+      "No objectives needed"
+    ],
+    "answer": "Safe practice without harming patients",
+    "topic": "Simulation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_021",
+    "question": "OSCE is primarily designed to assess:",
+    "options": [
+      "Clinical competence objectively",
+      "Attendance only",
+      "Theory essay writing",
+      "Library use"
+    ],
+    "answer": "Clinical competence objectively",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_022",
+    "question": "Reliability of an examination refers to:",
+    "options": [
+      "Consistency of scores",
+      "Popularity among students",
+      "Low cost only",
+      "Long duration"
+    ],
+    "answer": "Consistency of scores",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_023",
+    "question": "Validity of a test means it measures:",
+    "options": [
+      "What it is intended to measure",
+      "Only memory",
+      "Only handwriting",
+      "Only speed"
+    ],
+    "answer": "What it is intended to measure",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_024",
+    "question": "Blueprinting in examination helps improve:",
+    "options": [
+      "Content validity",
+      "Hostel discipline",
+      "Printer speed",
+      "Lecture timing"
+    ],
+    "answer": "Content validity",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_025",
+    "question": "Formative evaluation is mainly done:",
+    "options": [
+      "During learning for improvement",
+      "Only at final exam",
+      "After graduation only",
+      "Before admission only"
+    ],
+    "answer": "During learning for improvement",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_026",
+    "question": "Summative evaluation is usually conducted:",
+    "options": [
+      "At end of course/unit",
+      "Before teaching starts",
+      "Every minute",
+      "Without criteria"
+    ],
+    "answer": "At end of course/unit",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_027",
+    "question": "Item analysis of MCQs includes difficulty index and:",
+    "options": [
+      "Discrimination index",
+      "Salary index",
+      "Hostel index",
+      "Ward index"
+    ],
+    "answer": "Discrimination index",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_028",
+    "question": "A very high difficulty index generally means the item is:",
+    "options": [
+      "Easy",
+      "Hard",
+      "Invalid always",
+      "Unscorable"
+    ],
+    "answer": "Easy",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_029",
+    "question": "Negative discrimination index suggests question may be:",
+    "options": [
+      "Faulty or misleading",
+      "Excellent",
+      "Too easy only",
+      "Too short only"
+    ],
+    "answer": "Faulty or misleading",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_030",
+    "question": "Best first response to a student giving wrong answer in class is:",
+    "options": [
+      "Provide constructive feedback respectfully",
+      "Humiliate publicly",
+      "Ignore permanently",
+      "Remove marks immediately"
+    ],
+    "answer": "Provide constructive feedback respectfully",
+    "topic": "Teaching Skills",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_031",
+    "question": "Communication process begins with:",
+    "options": [
+      "Sender encoding message",
+      "Receiver replying",
+      "Noise creation",
+      "Feedback ending"
+    ],
+    "answer": "Sender encoding message",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_032",
+    "question": "The response of receiver to sender is called:",
+    "options": [
+      "Feedback",
+      "Noise",
+      "Medium",
+      "Filter"
+    ],
+    "answer": "Feedback",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_033",
+    "question": "Semantic barrier in communication arises from:",
+    "options": [
+      "Differences in meaning of words",
+      "Poor lighting only",
+      "Distance only",
+      "Lack of chairs"
+    ],
+    "answer": "Differences in meaning of words",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_034",
+    "question": "Non-verbal communication includes:",
+    "options": [
+      "Facial expression and posture",
+      "Written prescription only",
+      "Lecture notes only",
+      "Telephone bill"
+    ],
+    "answer": "Facial expression and posture",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_035",
+    "question": "Congruent communication means verbal and non-verbal messages are:",
+    "options": [
+      "Consistent with each other",
+      "Opposite",
+      "Absent",
+      "Confidential"
+    ],
+    "answer": "Consistent with each other",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_036",
+    "question": "Active listening includes:",
+    "options": [
+      "Attending, paraphrasing, clarifying",
+      "Interrupting frequently",
+      "Giving orders quickly",
+      "Looking away often"
+    ],
+    "answer": "Attending, paraphrasing, clarifying",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_037",
+    "question": "Therapeutic communication with anxious patient should first focus on:",
+    "options": [
+      "Empathy and calm presence",
+      "Arguing facts",
+      "Ignoring feelings",
+      "Threatening discipline"
+    ],
+    "answer": "Empathy and calm presence",
+    "topic": "Therapeutic Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_038",
+    "question": "Using silence appropriately in counseling can:",
+    "options": [
+      "Encourage expression",
+      "Always block communication",
+      "Show anger only",
+      "Replace consent"
+    ],
+    "answer": "Encourage expression",
+    "topic": "Therapeutic Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_039",
+    "question": "Closed-ended questions are most useful when needing:",
+    "options": [
+      "Specific focused information",
+      "Deep feelings exploration",
+      "Long narratives always",
+      "Creative brainstorming"
+    ],
+    "answer": "Specific focused information",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_040",
+    "question": "Open-ended questions are best for:",
+    "options": [
+      "Exploring concerns in detail",
+      "Yes/no answers only",
+      "Drug dosage only",
+      "Attendance check"
+    ],
+    "answer": "Exploring concerns in detail",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_041",
+    "question": "The Johari window primarily relates to:",
+    "options": [
+      "Self-awareness and interpersonal communication",
+      "Exam blueprinting",
+      "Budget planning",
+      "Skill lab setup"
+    ],
+    "answer": "Self-awareness and interpersonal communication",
+    "topic": "Communication Theory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_042",
+    "question": "A nurse educator giving too much information at once may create:",
+    "options": [
+      "Information overload barrier",
+      "Channel richness",
+      "Positive reinforcement",
+      "Empathy gain"
+    ],
+    "answer": "Information overload barrier",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_043",
+    "question": "Best medium for urgent code blue message is:",
+    "options": [
+      "Direct verbal/phone immediate communication",
+      "Poster notice",
+      "Annual report",
+      "Email later"
+    ],
+    "answer": "Direct verbal/phone immediate communication",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_044",
+    "question": "SBAR format is used for:",
+    "options": [
+      "Structured clinical communication",
+      "Exam grading",
+      "Student attendance",
+      "Budget audit"
+    ],
+    "answer": "Structured clinical communication",
+    "topic": "Clinical Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_045",
+    "question": "In SBAR, 'A' stands for:",
+    "options": [
+      "Assessment",
+      "Action",
+      "Answer",
+      "Alert"
+    ],
+    "answer": "Assessment",
+    "topic": "Clinical Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_046",
+    "question": "Most appropriate response to language barrier with patient is:",
+    "options": [
+      "Use trained interpreter when possible",
+      "Use child translator routinely",
+      "Speak louder only",
+      "Avoid explanation"
+    ],
+    "answer": "Use trained interpreter when possible",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_047",
+    "question": "Feedback is most effective when it is:",
+    "options": [
+      "Specific, timely, respectful",
+      "Delayed and vague",
+      "Publicly insulting",
+      "Unrelated to performance"
+    ],
+    "answer": "Specific, timely, respectful",
+    "topic": "Teaching Skills",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_048",
+    "question": "Hidden curriculum in nursing education refers to:",
+    "options": [
+      "Unofficial values learned through culture/behavior",
+      "Secret syllabus",
+      "Missing textbook",
+      "Encrypted notes"
+    ],
+    "answer": "Unofficial values learned through culture/behavior",
+    "topic": "Education Concepts",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_049",
+    "question": "Reflective practice mainly helps nurses to:",
+    "options": [
+      "Learn from experience and improve practice",
+      "Avoid accountability",
+      "Memorize only",
+      "Skip documentation"
+    ],
+    "answer": "Learn from experience and improve practice",
+    "topic": "Professional Development",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_050",
+    "question": "The ultimate goal of nursing education is to produce graduates who are:",
+    "options": [
+      "Competent, ethical, patient-centered practitioners",
+      "Only theory experts",
+      "Only exam toppers",
+      "Only administrators"
+    ],
+    "answer": "Competent, ethical, patient-centered practitioners",
+    "topic": "Education Goals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_051",
+    "question": "In Bloom’s revised taxonomy, the highest cognitive level is:",
+    "options": [
+      "Create",
+      "Analyze",
+      "Apply",
+      "Understand"
+    ],
+    "answer": "Create",
+    "topic": "Bloom Taxonomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_052",
+    "question": "The affective domain level involving internalized value system is:",
+    "options": [
+      "Characterization",
+      "Receiving",
+      "Responding",
+      "Valuing"
+    ],
+    "answer": "Characterization",
+    "topic": "Affective Domain",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_053",
+    "question": "Psychomotor learning level where learner performs skill automatically with confidence is:",
+    "options": [
+      "Mechanism",
+      "Perception",
+      "Set",
+      "Imitation"
+    ],
+    "answer": "Mechanism",
+    "topic": "Psychomotor Domain",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_054",
+    "question": "The first step in curriculum development is usually:",
+    "options": [
+      "Assessment of needs",
+      "Printing timetable",
+      "Final examination",
+      "Hostel allocation"
+    ],
+    "answer": "Assessment of needs",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_055",
+    "question": "Curriculum refers to:",
+    "options": [
+      "Planned learning experiences offered by institution",
+      "Only textbook list",
+      "Only lectures",
+      "Only exam schedule"
+    ],
+    "answer": "Planned learning experiences offered by institution",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_056",
+    "question": "Core curriculum means content that is:",
+    "options": [
+      "Essential for all learners",
+      "Optional hobby learning",
+      "Only postgraduate",
+      "Not evaluated"
+    ],
+    "answer": "Essential for all learners",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_057",
+    "question": "A spiral curriculum revisits topics with:",
+    "options": [
+      "Increasing complexity over time",
+      "No repetition",
+      "Only practical work",
+      "Only one semester use"
+    ],
+    "answer": "Increasing complexity over time",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_058",
+    "question": "Horizontal curriculum integration links subjects taught:",
+    "options": [
+      "At same stage/time level",
+      "Across years only",
+      "After graduation",
+      "Without objectives"
+    ],
+    "answer": "At same stage/time level",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_059",
+    "question": "Vertical integration in curriculum links basic sciences with:",
+    "options": [
+      "Clinical learning across years",
+      "Hostel activities",
+      "Sports only",
+      "Library fines"
+    ],
+    "answer": "Clinical learning across years",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_060",
+    "question": "The most learner-centered teaching strategy is:",
+    "options": [
+      "Problem-based learning",
+      "Pure lecture",
+      "Dictation notes",
+      "One-way commands"
+    ],
+    "answer": "Problem-based learning",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_061",
+    "question": "Problem-based learning primarily develops:",
+    "options": [
+      "Critical thinking and self-directed learning",
+      "Memorization only",
+      "Attendance only",
+      "Passive listening"
+    ],
+    "answer": "Critical thinking and self-directed learning",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_062",
+    "question": "In problem-based learning, teacher mainly acts as:",
+    "options": [
+      "Facilitator",
+      "Sole lecturer",
+      "Examiner only",
+      "Disciplinary officer"
+    ],
+    "answer": "Facilitator",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_063",
+    "question": "Programmed instruction is characterized by:",
+    "options": [
+      "Small sequential steps with feedback",
+      "Random unplanned teaching",
+      "No objectives",
+      "No learner response"
+    ],
+    "answer": "Small sequential steps with feedback",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_064",
+    "question": "Best audiovisual aid to demonstrate dynamic movement of CPR steps is:",
+    "options": [
+      "Video",
+      "Chalkboard only",
+      "Pie chart",
+      "Poster text only"
+    ],
+    "answer": "Video",
+    "topic": "Teaching Aids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_065",
+    "question": "Overcrowded slides with tiny text mainly violate principle of:",
+    "options": [
+      "Clarity and simplicity",
+      "Reinforcement",
+      "Sequencing",
+      "Motivation"
+    ],
+    "answer": "Clarity and simplicity",
+    "topic": "Teaching Aids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_066",
+    "question": "The best seating arrangement for group discussion is usually:",
+    "options": [
+      "Circle/U-shape",
+      "Straight lecture rows only",
+      "Back-to-back",
+      "Random standing"
+    ],
+    "answer": "Circle/U-shape",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_067",
+    "question": "A rubric is primarily used to:",
+    "options": [
+      "Standardize scoring criteria",
+      "Increase class strength",
+      "Store medicines",
+      "Print certificates"
+    ],
+    "answer": "Standardize scoring criteria",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_068",
+    "question": "Inter-rater reliability refers to consistency between:",
+    "options": [
+      "Different evaluators",
+      "Different classrooms",
+      "Different textbooks",
+      "Different semesters only"
+    ],
+    "answer": "Different evaluators",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_069",
+    "question": "Objective Structured Clinical Examination uses multiple:",
+    "options": [
+      "Stations with standardized tasks",
+      "Essays only",
+      "Seminars only",
+      "Attendance registers"
+    ],
+    "answer": "Stations with standardized tasks",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_070",
+    "question": "Which assessment best measures actual bedside skill performance?",
+    "options": [
+      "Direct observation with checklist",
+      "MCQ only",
+      "Essay only",
+      "Oral viva only"
+    ],
+    "answer": "Direct observation with checklist",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_071",
+    "question": "Halo effect in evaluation occurs when assessor:",
+    "options": [
+      "Lets one impression influence all ratings",
+      "Uses blueprint",
+      "Scores anonymously",
+      "Uses checklist correctly"
+    ],
+    "answer": "Lets one impression influence all ratings",
+    "topic": "Evaluation Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_072",
+    "question": "Leniency error means evaluator tends to give:",
+    "options": [
+      "Higher than deserved scores",
+      "Only zero marks",
+      "Exact perfect scores always",
+      "Random absent marks"
+    ],
+    "answer": "Higher than deserved scores",
+    "topic": "Evaluation Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_073",
+    "question": "Central tendency error means evaluator avoids:",
+    "options": [
+      "Extreme ratings",
+      "Middle ratings",
+      "Feedback",
+      "Criteria"
+    ],
+    "answer": "Extreme ratings",
+    "topic": "Evaluation Bias",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_074",
+    "question": "Best way to reduce subjectivity in practical exams is:",
+    "options": [
+      "Use checklist + trained examiners",
+      "Single examiner mood",
+      "No criteria",
+      "Only viva questions"
+    ],
+    "answer": "Use checklist + trained examiners",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_075",
+    "question": "Criterion-referenced test compares learner performance against:",
+    "options": [
+      "Defined standards",
+      "Other students only",
+      "Teacher mood",
+      "Previous batch gossip"
+    ],
+    "answer": "Defined standards",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_076",
+    "question": "Norm-referenced test compares learner with:",
+    "options": [
+      "Peer group performance",
+      "Only self goals",
+      "Hospital policy",
+      "National anthem"
+    ],
+    "answer": "Peer group performance",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_077",
+    "question": "A distractor in MCQ refers to:",
+    "options": [
+      "Incorrect option designed to attract uninformed candidates",
+      "Correct answer key",
+      "Exam timetable",
+      "Passing mark"
+    ],
+    "answer": "Incorrect option designed to attract uninformed candidates",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_078",
+    "question": "Best MCQ stem should be:",
+    "options": [
+      "Clear and focused",
+      "Vague and tricky",
+      "Long irrelevant story always",
+      "Double negatives preferred"
+    ],
+    "answer": "Clear and focused",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_079",
+    "question": "Using double negatives in questions is discouraged because it reduces:",
+    "options": [
+      "Clarity",
+      "Reliability always",
+      "Attendance",
+      "Motivation only"
+    ],
+    "answer": "Clarity",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_080",
+    "question": "Best immediate feedback after return demonstration is:",
+    "options": [
+      "Specific comments on strengths and corrections",
+      "Insulting criticism",
+      "No response",
+      "Only marks later"
+    ],
+    "answer": "Specific comments on strengths and corrections",
+    "topic": "Teaching Skills",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_081",
+    "question": "Communication noise refers to:",
+    "options": [
+      "Anything interfering with message transmission",
+      "Only loud sound",
+      "Only silence",
+      "Only handwriting"
+    ],
+    "answer": "Anything interfering with message transmission",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_082",
+    "question": "Paralanguage includes:",
+    "options": [
+      "Tone, pitch, pace of voice",
+      "Written spelling only",
+      "Body height",
+      "Hospital logo"
+    ],
+    "answer": "Tone, pitch, pace of voice",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_083",
+    "question": "Kinesics refers to study of:",
+    "options": [
+      "Body movements and gestures",
+      "Drug kinetics",
+      "Written grammar",
+      "Ward staffing"
+    ],
+    "answer": "Body movements and gestures",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_084",
+    "question": "Proxemics relates to:",
+    "options": [
+      "Use of personal space/distance",
+      "Use of grammar",
+      "Use of charts",
+      "Use of medicine trays"
+    ],
+    "answer": "Use of personal space/distance",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_085",
+    "question": "Most therapeutic opening statement to upset patient is:",
+    "options": [
+      "I’m here to listen. Tell me what’s worrying you.",
+      "Calm down now.",
+      "Don’t cry.",
+      "You are overreacting."
+    ],
+    "answer": "I’m here to listen. Tell me what’s worrying you.",
+    "topic": "Therapeutic Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_086",
+    "question": "Giving false reassurance such as 'Everything will be fine' is discouraged because it:",
+    "options": [
+      "Minimizes patient feelings",
+      "Always cures anxiety",
+      "Builds perfect trust",
+      "Replaces consent"
+    ],
+    "answer": "Minimizes patient feelings",
+    "topic": "Therapeutic Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_087",
+    "question": "Empathy differs from sympathy because empathy involves:",
+    "options": [
+      "Understanding another’s feelings without over-identifying",
+      "Feeling pity only",
+      "Avoiding emotion",
+      "Giving advice quickly"
+    ],
+    "answer": "Understanding another’s feelings without over-identifying",
+    "topic": "Therapeutic Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_088",
+    "question": "Assertive communication means expressing needs:",
+    "options": [
+      "Clearly and respectfully",
+      "Aggressively",
+      "Passively always",
+      "Indirectly only"
+    ],
+    "answer": "Clearly and respectfully",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_089",
+    "question": "Passive communication commonly results in:",
+    "options": [
+      "Unmet needs and resentment",
+      "Clear boundaries",
+      "Efficient teamwork",
+      "Strong advocacy"
+    ],
+    "answer": "Unmet needs and resentment",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_090",
+    "question": "Aggressive communication is characterized by:",
+    "options": [
+      "Violation of others’ rights",
+      "Respectful honesty",
+      "Empathic listening",
+      "Shared decisions"
+    ],
+    "answer": "Violation of others’ rights",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_091",
+    "question": "Most accurate read-back communication is crucial for:",
+    "options": [
+      "Verbal orders/high-risk information",
+      "Birthday wishes",
+      "General gossip",
+      "Poster displays"
+    ],
+    "answer": "Verbal orders/high-risk information",
+    "topic": "Clinical Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_092",
+    "question": "In SBAR, 'R' stands for:",
+    "options": [
+      "Recommendation",
+      "Response",
+      "Record",
+      "Relation"
+    ],
+    "answer": "Recommendation",
+    "topic": "Clinical Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_093",
+    "question": "Most appropriate handover style is:",
+    "options": [
+      "Structured, concise, accurate",
+      "Long confusing story",
+      "No patient identifiers",
+      "Delayed until convenient"
+    ],
+    "answer": "Structured, concise, accurate",
+    "topic": "Clinical Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_094",
+    "question": "When receiving criticism professionally, best first step is to:",
+    "options": [
+      "Listen and clarify before reacting",
+      "Argue immediately",
+      "Leave room",
+      "Blame others"
+    ],
+    "answer": "Listen and clarify before reacting",
+    "topic": "Professional Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_095",
+    "question": "Conflict resolution style aiming win-win solution is:",
+    "options": [
+      "Collaboration",
+      "Avoidance",
+      "Competition",
+      "Withdrawal"
+    ],
+    "answer": "Collaboration",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_096",
+    "question": "Most common cause of failed communication in teams is:",
+    "options": [
+      "Assumptions and unclear messages",
+      "Too much empathy",
+      "Too many standards",
+      "Too much listening"
+    ],
+    "answer": "Assumptions and unclear messages",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_097",
+    "question": "Reflective listening mainly involves:",
+    "options": [
+      "Restating meaning to confirm understanding",
+      "Changing topic",
+      "Giving lecture",
+      "Interrupting often"
+    ],
+    "answer": "Restating meaning to confirm understanding",
+    "topic": "Therapeutic Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_098",
+    "question": "Best strategy to teach low-literacy patient is:",
+    "options": [
+      "Simple language with teach-back method",
+      "Complex jargon",
+      "Long booklet only",
+      "Fast explanation once"
+    ],
+    "answer": "Simple language with teach-back method",
+    "topic": "Patient Education",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_099",
+    "question": "Teach-back method confirms learning by asking patient to:",
+    "options": [
+      "Explain instructions in own words",
+      "Sign paper only",
+      "Repeat yes/no",
+      "Memorize silently"
+    ],
+    "answer": "Explain instructions in own words",
+    "topic": "Patient Education",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_100",
+    "question": "Ultimate purpose of communication in nursing is to enhance:",
+    "options": [
+      "Safe, compassionate, effective care",
+      "Only documentation",
+      "Only authority",
+      "Only speed"
+    ],
+    "answer": "Safe, compassionate, effective care",
+    "topic": "Communication Goals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_101",
+    "question": "The primary purpose of curriculum evaluation is to determine:",
+    "options": [
+      "Whether objectives are being achieved effectively",
+      "Only teacher popularity",
+      "Only student attendance",
+      "Only classroom size"
+    ],
+    "answer": "Whether objectives are being achieved effectively",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_102",
+    "question": "Hidden curriculum in clinical areas most strongly influences students through:",
+    "options": [
+      "Observed behaviors and workplace culture",
+      "Printed syllabus only",
+      "Final exam marks",
+      "Library rules"
+    ],
+    "answer": "Observed behaviors and workplace culture",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_103",
+    "question": "A curriculum overloaded with unrelated content mainly reduces:",
+    "options": [
+      "Depth of learning",
+      "Building capacity",
+      "Stationery use",
+      "Exam paper length"
+    ],
+    "answer": "Depth of learning",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_104",
+    "question": "Backward curriculum design starts by identifying:",
+    "options": [
+      "Desired learning outcomes",
+      "Classroom furniture",
+      "Teacher timetable",
+      "Hostel menu"
+    ],
+    "answer": "Desired learning outcomes",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_105",
+    "question": "Best evidence that a competency-based curriculum is working is:",
+    "options": [
+      "Graduates demonstrate required competencies",
+      "Lectures are longer",
+      "Notes are thicker",
+      "Attendance is compulsory"
+    ],
+    "answer": "Graduates demonstrate required competencies",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_106",
+    "question": "The educational principle of readiness means learners learn best when they are:",
+    "options": [
+      "Prepared and motivated",
+      "Forced suddenly",
+      "Punished frequently",
+      "Passive and silent"
+    ],
+    "answer": "Prepared and motivated",
+    "topic": "Learning Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_107",
+    "question": "Transfer of learning occurs when students:",
+    "options": [
+      "Apply previous learning to new situations",
+      "Forget old content",
+      "Memorize only facts",
+      "Change classrooms"
+    ],
+    "answer": "Apply previous learning to new situations",
+    "topic": "Learning Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_108",
+    "question": "Spacing effect suggests learning improves when study sessions are:",
+    "options": [
+      "Distributed over time",
+      "Done once before exam",
+      "Extremely long without breaks",
+      "Only at night"
+    ],
+    "answer": "Distributed over time",
+    "topic": "Learning Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_109",
+    "question": "Retrieval practice improves memory mainly by:",
+    "options": [
+      "Actively recalling information",
+      "Rereading passively only",
+      "Changing fonts",
+      "Increasing classroom noise"
+    ],
+    "answer": "Actively recalling information",
+    "topic": "Learning Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_110",
+    "question": "The best strategy to reduce cognitive overload in teaching is:",
+    "options": [
+      "Chunking information into manageable units",
+      "Giving everything at once",
+      "Using jargon heavily",
+      "Avoiding visuals always"
+    ],
+    "answer": "Chunking information into manageable units",
+    "topic": "Teaching Strategies",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_111",
+    "question": "Scaffolding in education means:",
+    "options": [
+      "Providing temporary support then gradually removing it",
+      "Punishing weak learners",
+      "Skipping basics",
+      "Teaching without feedback"
+    ],
+    "answer": "Providing temporary support then gradually removing it",
+    "topic": "Teaching Strategies",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_112",
+    "question": "The flipped classroom model usually asks students to:",
+    "options": [
+      "Study content before class and apply in class",
+      "Avoid preparation",
+      "Attend only exams",
+      "Replace teachers completely"
+    ],
+    "answer": "Study content before class and apply in class",
+    "topic": "Teaching Strategies",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_113",
+    "question": "Peer teaching is especially useful because it can enhance:",
+    "options": [
+      "Engagement and mutual understanding",
+      "Only discipline",
+      "Only silence",
+      "Only grading speed"
+    ],
+    "answer": "Engagement and mutual understanding",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_114",
+    "question": "Socratic questioning mainly promotes:",
+    "options": [
+      "Critical thinking through guided questions",
+      "Blind memorization",
+      "Silent obedience",
+      "Random guessing"
+    ],
+    "answer": "Critical thinking through guided questions",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_115",
+    "question": "Best teaching method for ethical dilemma discussion is:",
+    "options": [
+      "Case study discussion",
+      "Dictation",
+      "One-way lecture only",
+      "Attendance roll call"
+    ],
+    "answer": "Case study discussion",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_116",
+    "question": "Simulation debriefing is most important because it allows learners to:",
+    "options": [
+      "Reflect and consolidate learning",
+      "Skip mistakes permanently",
+      "Avoid discussion",
+      "Replace all clinical postings"
+    ],
+    "answer": "Reflect and consolidate learning",
+    "topic": "Simulation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_117",
+    "question": "Low-fidelity simulation commonly uses:",
+    "options": [
+      "Basic models/task trainers",
+      "Real ICU only",
+      "Actual surgery only",
+      "No equipment"
+    ],
+    "answer": "Basic models/task trainers",
+    "topic": "Simulation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_118",
+    "question": "Standardized patients are mainly used to assess:",
+    "options": [
+      "Communication and clinical interaction skills",
+      "Building maintenance",
+      "Payroll systems",
+      "Drug manufacturing"
+    ],
+    "answer": "Communication and clinical interaction skills",
+    "topic": "Simulation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_119",
+    "question": "The best indicator of effective feedback is that learner:",
+    "options": [
+      "Uses it to improve performance",
+      "Feels scared only",
+      "Gets more homework only",
+      "Talks less always"
+    ],
+    "answer": "Uses it to improve performance",
+    "topic": "Feedback",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_120",
+    "question": "Pendleton feedback model emphasizes starting with:",
+    "options": [
+      "What went well",
+      "Punishment",
+      "Grades only",
+      "Comparing with others"
+    ],
+    "answer": "What went well",
+    "topic": "Feedback",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_121",
+    "question": "A checklist is most suitable when assessing:",
+    "options": [
+      "Whether specific steps were completed",
+      "Complex empathy depth only",
+      "Personality traits only",
+      "Motivation level only"
+    ],
+    "answer": "Whether specific steps were completed",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_122",
+    "question": "A rating scale is more useful than checklist when judging:",
+    "options": [
+      "Quality of performance",
+      "Presence of name only",
+      "Attendance only",
+      "Roll number only"
+    ],
+    "answer": "Quality of performance",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_123",
+    "question": "Blueprinting examinations mainly prevents:",
+    "options": [
+      "Overrepresentation of some topics",
+      "Need for invigilation",
+      "Use of answer sheets",
+      "Need for marks"
+    ],
+    "answer": "Overrepresentation of some topics",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_124",
+    "question": "A question answered correctly by nearly everyone usually has poor:",
+    "options": [
+      "Discrimination power",
+      "Face validity",
+      "Readability",
+      "Grammar"
+    ],
+    "answer": "Discrimination power",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_125",
+    "question": "The best purpose of formative assessment is to:",
+    "options": [
+      "Guide learning before final judgment",
+      "Fail maximum students",
+      "Replace teaching",
+      "Rank institutions only"
+    ],
+    "answer": "Guide learning before final judgment",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_126",
+    "question": "Portfolio assessment best demonstrates:",
+    "options": [
+      "Growth over time and reflection",
+      "Single-day memory only",
+      "Only MCQ skill",
+      "Only handwriting"
+    ],
+    "answer": "Growth over time and reflection",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_127",
+    "question": "Objective tests generally have advantage of:",
+    "options": [
+      "Higher scoring reliability",
+      "Measuring empathy deeply always",
+      "No preparation needed",
+      "No blueprint required"
+    ],
+    "answer": "Higher scoring reliability",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_128",
+    "question": "Essay questions are especially useful to assess:",
+    "options": [
+      "Organization and synthesis of ideas",
+      "Only recall of one fact",
+      "Attendance",
+      "Typing speed only"
+    ],
+    "answer": "Organization and synthesis of ideas",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_129",
+    "question": "The most common weakness of poorly written essay exams is low:",
+    "options": [
+      "Scoring reliability",
+      "Paper size",
+      "Ink usage",
+      "Room lighting"
+    ],
+    "answer": "Scoring reliability",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_130",
+    "question": "Standard setting in exams determines:",
+    "options": [
+      "Passing threshold/competency cut score",
+      "Question font",
+      "Teacher salary",
+      "Class timing"
+    ],
+    "answer": "Passing threshold/competency cut score",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_131",
+    "question": "Transactional model of communication emphasizes:",
+    "options": [
+      "Simultaneous two-way exchange",
+      "Only one-way orders",
+      "No feedback",
+      "Written messages only"
+    ],
+    "answer": "Simultaneous two-way exchange",
+    "topic": "Communication Theory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_132",
+    "question": "Meta-communication refers to messages about:",
+    "options": [
+      "How communication is being communicated",
+      "Drug metabolism",
+      "Exam statistics",
+      "Ward inventory"
+    ],
+    "answer": "How communication is being communicated",
+    "topic": "Communication Theory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_133",
+    "question": "Incongruent communication is when:",
+    "options": [
+      "Words and non-verbal cues conflict",
+      "Message is brief",
+      "Receiver agrees",
+      "Noise is absent"
+    ],
+    "answer": "Words and non-verbal cues conflict",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_134",
+    "question": "Mirroring body language carefully may sometimes help build:",
+    "options": [
+      "Rapport",
+      "Confusion only",
+      "Noise only",
+      "Documentation"
+    ],
+    "answer": "Rapport",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_135",
+    "question": "Paraphrasing is best used to:",
+    "options": [
+      "Confirm understanding of content",
+      "End conversation abruptly",
+      "Change subject",
+      "Show superiority"
+    ],
+    "answer": "Confirm understanding of content",
+    "topic": "Therapeutic Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_136",
+    "question": "The most therapeutic response to patient anger is first to:",
+    "options": [
+      "Acknowledge feelings and assess concern",
+      "Argue facts",
+      "Threaten discharge",
+      "Ignore patient"
+    ],
+    "answer": "Acknowledge feelings and assess concern",
+    "topic": "Therapeutic Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_137",
+    "question": "Using medical jargon with patients mainly risks:",
+    "options": [
+      "Misunderstanding",
+      "Better trust always",
+      "Faster consent always",
+      "Lower workload"
+    ],
+    "answer": "Misunderstanding",
+    "topic": "Patient Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_138",
+    "question": "Teach-back is strongest evidence of:",
+    "options": [
+      "Patient comprehension",
+      "Patient obedience only",
+      "Literacy level only",
+      "Hearing ability only"
+    ],
+    "answer": "Patient comprehension",
+    "topic": "Patient Education",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_139",
+    "question": "When emotions are high, best communication strategy is to:",
+    "options": [
+      "Slow down and listen actively",
+      "Speak faster",
+      "Give many instructions",
+      "Use sarcasm"
+    ],
+    "answer": "Slow down and listen actively",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_140",
+    "question": "Closed-loop communication in emergencies means:",
+    "options": [
+      "Message sent, repeated back, confirmed",
+      "Everyone talks together",
+      "No leader needed",
+      "Silent signaling only"
+    ],
+    "answer": "Message sent, repeated back, confirmed",
+    "topic": "Clinical Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_141",
+    "question": "The best response when you did not hear an order clearly is to:",
+    "options": [
+      "Request clarification immediately",
+      "Guess intelligently",
+      "Ask later after shift",
+      "Ignore it"
+    ],
+    "answer": "Request clarification immediately",
+    "topic": "Clinical Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_142",
+    "question": "Conflict escalation is most likely when people use:",
+    "options": [
+      "Blame and defensiveness",
+      "Curiosity and respect",
+      "Active listening",
+      "Shared goals"
+    ],
+    "answer": "Blame and defensiveness",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_143",
+    "question": "Negotiation in teams aims to achieve:",
+    "options": [
+      "Mutually acceptable solution",
+      "One-sided victory only",
+      "Silence only",
+      "Automatic friendship"
+    ],
+    "answer": "Mutually acceptable solution",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_144",
+    "question": "Cultural humility means healthcare worker should:",
+    "options": [
+      "Remain open, self-reflective, respectful",
+      "Assume expertise in all cultures",
+      "Ignore differences",
+      "Use stereotypes"
+    ],
+    "answer": "Remain open, self-reflective, respectful",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_145",
+    "question": "Most ethical patient education requires confirming:",
+    "options": [
+      "Understanding and voluntary decision-making",
+      "Only signature",
+      "Only family opinion",
+      "Only nurse preference"
+    ],
+    "answer": "Understanding and voluntary decision-making",
+    "topic": "Patient Education",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_146",
+    "question": "Reflective practice after communication error is valuable because it supports:",
+    "options": [
+      "Continuous improvement",
+      "Punishment only",
+      "Memory loss",
+      "Avoidance"
+    ],
+    "answer": "Continuous improvement",
+    "topic": "Professional Development",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_147",
+    "question": "Best indicator of psychologically safe learning environment is students:",
+    "options": [
+      "Feel able to ask questions without ridicule",
+      "Remain silent always",
+      "Avoid feedback",
+      "Fear mistakes"
+    ],
+    "answer": "Feel able to ask questions without ridicule",
+    "topic": "Education Environment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_148",
+    "question": "Most effective preceptor behavior in clinical teaching is:",
+    "options": [
+      "Coaching with supervision and feedback",
+      "Ignoring learner",
+      "Doing everything alone",
+      "Humiliating mistakes"
+    ],
+    "answer": "Coaching with supervision and feedback",
+    "topic": "Clinical Teaching",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_149",
+    "question": "The ultimate purpose of nursing communication training is to improve:",
+    "options": [
+      "Patient safety and therapeutic outcomes",
+      "Only speaking style",
+      "Only exam marks",
+      "Only documentation speed"
+    ],
+    "answer": "Patient safety and therapeutic outcomes",
+    "topic": "Communication Goals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_150",
+    "question": "The strongest overall outcome of excellent nursing education is development of:",
+    "options": [
+      "Competent reflective professionals",
+      "Passive note memorizers",
+      "Rule followers only",
+      "Exam writers only"
+    ],
+    "answer": "Competent reflective professionals",
+    "topic": "Education Goals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_151",
+    "question": "Curriculum mapping is primarily used to identify:",
+    "options": [
+      "Alignment gaps, overlaps, and sequencing",
+      "Student hostel rooms",
+      "Teacher salaries",
+      "Library fines"
+    ],
+    "answer": "Alignment gaps, overlaps, and sequencing",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_152",
+    "question": "Constructive alignment means aligning outcomes with:",
+    "options": [
+      "Teaching methods and assessment",
+      "Only attendance",
+      "Only textbook size",
+      "Only classroom walls"
+    ],
+    "answer": "Teaching methods and assessment",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_153",
+    "question": "A spiral curriculum most strongly supports:",
+    "options": [
+      "Progressive reinforcement of concepts",
+      "One-time memorization",
+      "No revision",
+      "Only practical exams"
+    ],
+    "answer": "Progressive reinforcement of concepts",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_154",
+    "question": "Elective courses in curriculum mainly provide:",
+    "options": [
+      "Learner choice and specialization",
+      "Compulsory remediation",
+      "Attendance punishment",
+      "No credit learning only"
+    ],
+    "answer": "Learner choice and specialization",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_155",
+    "question": "The null curriculum refers to content that is:",
+    "options": [
+      "Not taught though potentially important",
+      "Fully assessed",
+      "Repeated yearly",
+      "Only hidden culturally"
+    ],
+    "answer": "Not taught though potentially important",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_156",
+    "question": "Mastery learning expects students to:",
+    "options": [
+      "Reach competency standard before progressing",
+      "Move on regardless of skill",
+      "Learn only theory",
+      "Compete only by rank"
+    ],
+    "answer": "Reach competency standard before progressing",
+    "topic": "Learning Theories",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_157",
+    "question": "Self-directed learning is best demonstrated when learner:",
+    "options": [
+      "Identifies needs, plans, studies, evaluates progress",
+      "Waits passively for notes",
+      "Avoids feedback",
+      "Studies only before exams"
+    ],
+    "answer": "Identifies needs, plans, studies, evaluates progress",
+    "topic": "Adult Learning",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_158",
+    "question": "Metacognition refers to:",
+    "options": [
+      "Thinking about one’s own thinking and learning",
+      "Memory loss",
+      "Speech disorder",
+      "Only IQ score"
+    ],
+    "answer": "Thinking about one’s own thinking and learning",
+    "topic": "Learning Theories",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_159",
+    "question": "The testing effect suggests that repeated retrieval practice:",
+    "options": [
+      "Strengthens long-term retention",
+      "Reduces all learning",
+      "Only helps handwriting",
+      "Replaces teaching always"
+    ],
+    "answer": "Strengthens long-term retention",
+    "topic": "Learning Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_160",
+    "question": "Interleaving study topics may improve learning by enhancing:",
+    "options": [
+      "Discrimination and flexible recall",
+      "Passive repetition only",
+      "Noise tolerance",
+      "Lecture duration"
+    ],
+    "answer": "Discrimination and flexible recall",
+    "topic": "Learning Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_161",
+    "question": "The main risk of teacher-centered classrooms is excessive:",
+    "options": [
+      "Learner passivity",
+      "Peer teaching",
+      "Reflection",
+      "Autonomy"
+    ],
+    "answer": "Learner passivity",
+    "topic": "Teaching Strategies",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_162",
+    "question": "Case-based learning differs from PBL because it usually uses:",
+    "options": [
+      "More structured cases with guided application",
+      "No facilitator",
+      "No discussion",
+      "Only rote notes"
+    ],
+    "answer": "More structured cases with guided application",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_163",
+    "question": "Think-pair-share strategy primarily increases:",
+    "options": [
+      "Participation and processing time",
+      "Silence only",
+      "Punishment",
+      "Paperwork"
+    ],
+    "answer": "Participation and processing time",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_164",
+    "question": "The best immediate use of polling questions during lecture is to:",
+    "options": [
+      "Check understanding and re-engage learners",
+      "Replace all exams",
+      "Punish absentees",
+      "End class early"
+    ],
+    "answer": "Check understanding and re-engage learners",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_165",
+    "question": "Demonstration becomes most effective when followed by:",
+    "options": [
+      "Supervised return demonstration",
+      "No practice",
+      "Only homework",
+      "Silent reading"
+    ],
+    "answer": "Supervised return demonstration",
+    "topic": "Teaching Methods",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_166",
+    "question": "Fidelity in simulation refers to:",
+    "options": [
+      "Degree of realism",
+      "Attendance rate",
+      "Exam score",
+      "Budget cost"
+    ],
+    "answer": "Degree of realism",
+    "topic": "Simulation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_167",
+    "question": "Psychological safety in simulation means learners can:",
+    "options": [
+      "Make mistakes and learn without humiliation",
+      "Ignore objectives",
+      "Skip debriefing",
+      "Cheat freely"
+    ],
+    "answer": "Make mistakes and learn without humiliation",
+    "topic": "Simulation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_168",
+    "question": "The most educationally valuable phase of simulation is often:",
+    "options": [
+      "Debriefing",
+      "Room booking",
+      "Equipment storage",
+      "Attendance signing"
+    ],
+    "answer": "Debriefing",
+    "topic": "Simulation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_169",
+    "question": "A moulage in simulation refers to:",
+    "options": [
+      "Artificial injury makeup/realistic effects",
+      "Lecture notes",
+      "Assessment rubric",
+      "Drug chart"
+    ],
+    "answer": "Artificial injury makeup/realistic effects",
+    "topic": "Simulation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_170",
+    "question": "Deliberate practice requires repetition with:",
+    "options": [
+      "Focused feedback and correction",
+      "No feedback",
+      "Random guessing",
+      "Only observation"
+    ],
+    "answer": "Focused feedback and correction",
+    "topic": "Skill Learning",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_171",
+    "question": "Program outcomes differ from course outcomes because program outcomes are:",
+    "options": [
+      "Broader end-of-program competencies",
+      "Only daily objectives",
+      "Unrelated to assessment",
+      "Only attendance goals"
+    ],
+    "answer": "Broader end-of-program competencies",
+    "topic": "Curriculum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_172",
+    "question": "Standardized scoring keys mainly improve:",
+    "options": [
+      "Reliability",
+      "Building security",
+      "Question difficulty only",
+      "Class size"
+    ],
+    "answer": "Reliability",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_173",
+    "question": "Generalizability of exam performance increases when assessment samples:",
+    "options": [
+      "Multiple relevant tasks/contexts",
+      "One narrow task only",
+      "Only viva",
+      "Only attendance"
+    ],
+    "answer": "Multiple relevant tasks/contexts",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_174",
+    "question": "Blueprinting an OSCE primarily ensures:",
+    "options": [
+      "Balanced sampling of competencies",
+      "No need for examiners",
+      "No scoring",
+      "No stations"
+    ],
+    "answer": "Balanced sampling of competencies",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_175",
+    "question": "Cueing in an OSCE station can threaten:",
+    "options": [
+      "Validity",
+      "Electricity supply",
+      "Room capacity",
+      "Dress code"
+    ],
+    "answer": "Validity",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_176",
+    "question": "The Angoff method is used for:",
+    "options": [
+      "Standard setting cut scores",
+      "Lecture scheduling",
+      "Budget planning",
+      "Simulation design"
+    ],
+    "answer": "Standard setting cut scores",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_177",
+    "question": "A distractor chosen by nobody in MCQ is often:",
+    "options": [
+      "Non-functioning",
+      "Excellent discriminator",
+      "Correct answer",
+      "Mandatory item"
+    ],
+    "answer": "Non-functioning",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_178",
+    "question": "Cronbach alpha in exams estimates internal consistency of:",
+    "options": [
+      "Test items",
+      "Teachers",
+      "Buildings",
+      "Attendance records"
+    ],
+    "answer": "Test items",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_179",
+    "question": "Rater training mainly reduces:",
+    "options": [
+      "Scoring variability and bias",
+      "Need for marks",
+      "Student effort",
+      "Blueprinting"
+    ],
+    "answer": "Scoring variability and bias",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_180",
+    "question": "The strongest reason to use multiple assessment methods is to:",
+    "options": [
+      "Capture different competencies",
+      "Increase confusion",
+      "Reduce validity",
+      "Avoid feedback"
+    ],
+    "answer": "Capture different competencies",
+    "topic": "Evaluation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_181",
+    "question": "Transactional communication recognizes that participants are:",
+    "options": [
+      "Simultaneous senders and receivers",
+      "Only listeners",
+      "Only speakers",
+      "Always strangers"
+    ],
+    "answer": "Simultaneous senders and receivers",
+    "topic": "Communication Theory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_182",
+    "question": "Confirmation bias in communication may cause a nurse to:",
+    "options": [
+      "Hear only information fitting assumptions",
+      "Listen openly to all cues",
+      "Clarify every doubt",
+      "Use teach-back"
+    ],
+    "answer": "Hear only information fitting assumptions",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_183",
+    "question": "The most effective antidote to assumptions in handover is:",
+    "options": [
+      "Closed-loop clarification",
+      "Silence",
+      "Speed only",
+      "More abbreviations"
+    ],
+    "answer": "Closed-loop clarification",
+    "topic": "Clinical Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_184",
+    "question": "Latency in digital communication can increase risk of:",
+    "options": [
+      "Misinterpretation and delay",
+      "Empathy automatically",
+      "Accuracy always",
+      "No errors"
+    ],
+    "answer": "Misinterpretation and delay",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_185",
+    "question": "Asynchronous communication example is:",
+    "options": [
+      "Email",
+      "Face-to-face urgent call",
+      "Live code command",
+      "Real-time radio talk"
+    ],
+    "answer": "Email",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_186",
+    "question": "A nurse maintaining eye level and open posture is using positive:",
+    "options": [
+      "Non-verbal immediacy",
+      "Semantic noise",
+      "Deflection",
+      "Blocking"
+    ],
+    "answer": "Non-verbal immediacy",
+    "topic": "Non-verbal Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_187",
+    "question": "Therapeutic use of self in nursing communication means purposeful use of:",
+    "options": [
+      "Personality, insight, empathy, presence",
+      "Authority only",
+      "Silence only",
+      "Rules only"
+    ],
+    "answer": "Personality, insight, empathy, presence",
+    "topic": "Therapeutic Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_188",
+    "question": "The most appropriate response to crying patient initially is:",
+    "options": [
+      "Offer presence and allow expression",
+      "Change topic quickly",
+      "Say stop crying",
+      "Leave immediately"
+    ],
+    "answer": "Offer presence and allow expression",
+    "topic": "Therapeutic Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_189",
+    "question": "Defensive communication climate is increased by:",
+    "options": [
+      "Judgmental language",
+      "Empathy",
+      "Specific feedback",
+      "Shared problem solving"
+    ],
+    "answer": "Judgmental language",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_190",
+    "question": "Supportive communication climate is fostered by:",
+    "options": [
+      "Respect and problem orientation",
+      "Contempt",
+      "Superiority cues",
+      "Blame"
+    ],
+    "answer": "Respect and problem orientation",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_191",
+    "question": "In conflict management, accommodation means:",
+    "options": [
+      "Yielding to preserve relationship",
+      "Seeking mutual gain",
+      "Competing strongly",
+      "Ignoring issue entirely"
+    ],
+    "answer": "Yielding to preserve relationship",
+    "topic": "Conflict Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_192",
+    "question": "Avoidance may be appropriate when issue is:",
+    "options": [
+      "Trivial or needs cooling-off time",
+      "Patient safety critical",
+      "Urgent medication error",
+      "Repeated abuse"
+    ],
+    "answer": "Trivial or needs cooling-off time",
+    "topic": "Conflict Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_193",
+    "question": "Crucial conversations are best handled with:",
+    "options": [
+      "Calm facts + mutual respect",
+      "Threats",
+      "Sarcasm",
+      "Public humiliation"
+    ],
+    "answer": "Calm facts + mutual respect",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_194",
+    "question": "Teach-back failure should be interpreted as need to:",
+    "options": [
+      "Improve explanation, not blame patient",
+      "Discharge patient",
+      "Stop teaching",
+      "Document refusal only"
+    ],
+    "answer": "Improve explanation, not blame patient",
+    "topic": "Patient Education",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_195",
+    "question": "Health literacy-sensitive communication includes:",
+    "options": [
+      "Plain language and limited key points",
+      "Dense jargon",
+      "Rapid monologue",
+      "No visuals ever"
+    ],
+    "answer": "Plain language and limited key points",
+    "topic": "Patient Education",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_196",
+    "question": "The strongest marker of effective team communication is:",
+    "options": [
+      "Shared mental model and coordinated action",
+      "Longest meetings",
+      "Most emails",
+      "Strict silence"
+    ],
+    "answer": "Shared mental model and coordinated action",
+    "topic": "Team Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_197",
+    "question": "Psychological safety in teams allows members to:",
+    "options": [
+      "Speak up about concerns and errors",
+      "Hide mistakes",
+      "Avoid questions",
+      "Fear punishment always"
+    ],
+    "answer": "Speak up about concerns and errors",
+    "topic": "Team Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_198",
+    "question": "Most dangerous phrase in healthcare communication is often:",
+    "options": [
+      "I assumed someone else did it",
+      "Let me clarify",
+      "Please repeat back",
+      "I need help"
+    ],
+    "answer": "I assumed someone else did it",
+    "topic": "Patient Safety Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_199",
+    "question": "The overall goal of nurse educator communication excellence is to create:",
+    "options": [
+      "Learning, trust, and safe practice",
+      "Fear only",
+      "Dependence only",
+      "Silence only"
+    ],
+    "answer": "Learning, trust, and safe practice",
+    "topic": "Education Goals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEC_200",
+    "question": "Highest outcome of nursing education plus communication mastery is:",
+    "options": [
+      "Competent compassionate evidence-based care",
+      "Only passing exams",
+      "Only public speaking",
+      "Only documentation speed"
+    ],
+    "answer": "Competent compassionate evidence-based care",
+    "topic": "Professional Goals",
+    "chapter": "GENERAL"
+  }
+]

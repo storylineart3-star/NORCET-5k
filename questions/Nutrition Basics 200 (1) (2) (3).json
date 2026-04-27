@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "NUT_001",
+    "question": "The main source of energy in diet is:",
+    "options": [
+      "Carbohydrates",
+      "Protein",
+      "Vitamins",
+      "Minerals"
+    ],
+    "answer": "Carbohydrates",
+    "topic": "Macronutrients",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_002",
+    "question": "1 gram carbohydrate provides:",
+    "options": [
+      "4 kcal",
+      "9 kcal",
+      "7 kcal",
+      "1 kcal"
+    ],
+    "answer": "4 kcal",
+    "topic": "Calories",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_003",
+    "question": "1 gram protein provides:",
+    "options": [
+      "4 kcal",
+      "9 kcal",
+      "2 kcal",
+      "7 kcal"
+    ],
+    "answer": "4 kcal",
+    "topic": "Calories",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_004",
+    "question": "1 gram fat provides:",
+    "options": [
+      "9 kcal",
+      "4 kcal",
+      "7 kcal",
+      "1 kcal"
+    ],
+    "answer": "9 kcal",
+    "topic": "Calories",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_005",
+    "question": "The body-building nutrient is:",
+    "options": [
+      "Protein",
+      "Fat",
+      "Vitamin C",
+      "Water"
+    ],
+    "answer": "Protein",
+    "topic": "Macronutrients",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_006",
+    "question": "Richest dietary source of protein among these:",
+    "options": [
+      "Egg",
+      "Rice",
+      "Sugar",
+      "Banana"
+    ],
+    "answer": "Egg",
+    "topic": "Protein",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_007",
+    "question": "Complete protein contains all:",
+    "options": [
+      "Essential amino acids",
+      "Minerals",
+      "Vitamins",
+      "Fiber"
+    ],
+    "answer": "Essential amino acids",
+    "topic": "Protein",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_008",
+    "question": "Example of complete protein food:",
+    "options": [
+      "Milk",
+      "Rice",
+      "Potato",
+      "Apple"
+    ],
+    "answer": "Milk",
+    "topic": "Protein",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_009",
+    "question": "Deficiency of protein in children may cause:",
+    "options": [
+      "Kwashiorkor",
+      "Scurvy",
+      "Rickets",
+      "Night blindness"
+    ],
+    "answer": "Kwashiorkor",
+    "topic": "Deficiency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_010",
+    "question": "Severe calorie deficiency causes:",
+    "options": [
+      "Marasmus",
+      "Goiter",
+      "Anemia",
+      "Beriberi"
+    ],
+    "answer": "Marasmus",
+    "topic": "Deficiency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_011",
+    "question": "Night blindness occurs due to deficiency of:",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "answer": "Vitamin A",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_012",
+    "question": "Vitamin D deficiency causes:",
+    "options": [
+      "Rickets",
+      "Scurvy",
+      "Beriberi",
+      "Pellagra"
+    ],
+    "answer": "Rickets",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_013",
+    "question": "Vitamin C deficiency causes:",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Goiter",
+      "Anemia"
+    ],
+    "answer": "Scurvy",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_014",
+    "question": "Vitamin K is important for:",
+    "options": [
+      "Blood clotting",
+      "Vision",
+      "Bone marrow only",
+      "Digestion"
+    ],
+    "answer": "Blood clotting",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_015",
+    "question": "Deficiency of thiamine causes:",
+    "options": [
+      "Beriberi",
+      "Scurvy",
+      "Rickets",
+      "Goiter"
+    ],
+    "answer": "Beriberi",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_016",
+    "question": "Niacin deficiency causes:",
+    "options": [
+      "Pellagra",
+      "Beriberi",
+      "Anemia",
+      "Rickets"
+    ],
+    "answer": "Pellagra",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_017",
+    "question": "Pellagra classically presents with 3 Ds:",
+    "options": [
+      "Dermatitis, diarrhea, dementia",
+      "Dyspnea, diabetes, dry skin",
+      "Depression, dizziness, diarrhea",
+      "None"
+    ],
+    "answer": "Dermatitis, diarrhea, dementia",
+    "topic": "Deficiency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_018",
+    "question": "Folic acid deficiency may cause:",
+    "options": [
+      "Megaloblastic anemia",
+      "Night blindness",
+      "Goiter",
+      "Scurvy"
+    ],
+    "answer": "Megaloblastic anemia",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_019",
+    "question": "Vitamin B12 deficiency may cause:",
+    "options": [
+      "Pernicious anemia",
+      "Rickets",
+      "Scurvy",
+      "Kwashiorkor"
+    ],
+    "answer": "Pernicious anemia",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_020",
+    "question": "Iron deficiency causes:",
+    "options": [
+      "Microcytic anemia",
+      "Rickets",
+      "Goiter",
+      "Scurvy"
+    ],
+    "answer": "Microcytic anemia",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_021",
+    "question": "Goiter commonly occurs due to deficiency of:",
+    "options": [
+      "Iodine",
+      "Iron",
+      "Calcium",
+      "Zinc"
+    ],
+    "answer": "Iodine",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_022",
+    "question": "Calcium is essential for bones and:",
+    "options": [
+      "Teeth",
+      "Hair color",
+      "Skin tone",
+      "Vision only"
+    ],
+    "answer": "Teeth",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_023",
+    "question": "Good source of calcium is:",
+    "options": [
+      "Milk",
+      "Sugar",
+      "Oil",
+      "Tea"
+    ],
+    "answer": "Milk",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_024",
+    "question": "The best source of natural vitamin D is:",
+    "options": [
+      "Sunlight exposure",
+      "Rice",
+      "Sugar",
+      "Salt"
+    ],
+    "answer": "Sunlight exposure",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_025",
+    "question": "Dietary fiber mainly helps in:",
+    "options": [
+      "Preventing constipation",
+      "Increasing fever",
+      "Hair growth",
+      "Vision"
+    ],
+    "answer": "Preventing constipation",
+    "topic": "Fiber",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_026",
+    "question": "High fiber food example:",
+    "options": [
+      "Whole grains",
+      "Butter",
+      "Sugar",
+      "Ghee"
+    ],
+    "answer": "Whole grains",
+    "topic": "Fiber",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_027",
+    "question": "The most essential nutrient for life is:",
+    "options": [
+      "Water",
+      "Protein",
+      "Fat",
+      "Iron"
+    ],
+    "answer": "Water",
+    "topic": "Water",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_028",
+    "question": "Approximate water percentage in adult body is:",
+    "options": [
+      "60%",
+      "10%",
+      "25%",
+      "90%"
+    ],
+    "answer": "60%",
+    "topic": "Water",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_029",
+    "question": "Dehydration commonly presents with:",
+    "options": [
+      "Dry mouth",
+      "Edema",
+      "Bradycardia only",
+      "Hair fall"
+    ],
+    "answer": "Dry mouth",
+    "topic": "Water Balance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_030",
+    "question": "BMI stands for:",
+    "options": [
+      "Body Mass Index",
+      "Basic Muscle Intake",
+      "Body Measure Indicator",
+      "Bone Mass Index"
+    ],
+    "answer": "Body Mass Index",
+    "topic": "Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_031",
+    "question": "BMI =",
+    "options": [
+      "Weight(kg)/Height(m²)",
+      "Height/Weight",
+      "Weight×Height",
+      "Weight(cm)/Height"
+    ],
+    "answer": "Weight(kg)/Height(m²)",
+    "topic": "Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_032",
+    "question": "BMI 18.5–24.9 is considered:",
+    "options": [
+      "Normal",
+      "Underweight",
+      "Obese",
+      "Severely obese"
+    ],
+    "answer": "Normal",
+    "topic": "Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_033",
+    "question": "BMI below 18.5 indicates:",
+    "options": [
+      "Underweight",
+      "Normal",
+      "Overweight",
+      "Obese"
+    ],
+    "answer": "Underweight",
+    "topic": "Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_034",
+    "question": "BMI above 25 suggests:",
+    "options": [
+      "Overweight",
+      "Underweight",
+      "Normal",
+      "Malaria"
+    ],
+    "answer": "Overweight",
+    "topic": "Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_035",
+    "question": "Obesity increases risk of:",
+    "options": [
+      "Diabetes mellitus",
+      "Improved immunity only",
+      "Scurvy",
+      "Goiter"
+    ],
+    "answer": "Diabetes mellitus",
+    "topic": "Lifestyle Disease",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_036",
+    "question": "Balanced diet means diet containing:",
+    "options": [
+      "All nutrients in proper proportion",
+      "Only proteins",
+      "Only vitamins",
+      "Only liquids"
+    ],
+    "answer": "All nutrients in proper proportion",
+    "topic": "General Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_037",
+    "question": "Best first food for newborn is:",
+    "options": [
+      "Breast milk",
+      "Honey",
+      "Water",
+      "Cow milk"
+    ],
+    "answer": "Breast milk",
+    "topic": "Maternal & Child Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_038",
+    "question": "Exclusive breastfeeding is recommended for:",
+    "options": [
+      "6 months",
+      "1 month",
+      "12 months",
+      "2 years only"
+    ],
+    "answer": "6 months",
+    "topic": "Maternal & Child Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_039",
+    "question": "Colostrum is rich in:",
+    "options": [
+      "Antibodies",
+      "Fat only",
+      "Sugar only",
+      "Iron only"
+    ],
+    "answer": "Antibodies",
+    "topic": "Maternal & Child Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_040",
+    "question": "Pregnancy requires increased intake of:",
+    "options": [
+      "Iron and folic acid",
+      "Alcohol",
+      "Tobacco",
+      "Junk food only"
+    ],
+    "answer": "Iron and folic acid",
+    "topic": "Maternal Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_041",
+    "question": "Anemia in pregnancy commonly due to deficiency of:",
+    "options": [
+      "Iron",
+      "Iodine",
+      "Vitamin C",
+      "Water"
+    ],
+    "answer": "Iron",
+    "topic": "Maternal Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_042",
+    "question": "Most concentrated source of energy is:",
+    "options": [
+      "Fat",
+      "Carbohydrate",
+      "Protein",
+      "Water"
+    ],
+    "answer": "Fat",
+    "topic": "Macronutrients",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_043",
+    "question": "Unsaturated fats are generally considered:",
+    "options": [
+      "Healthier fats",
+      "Always harmful",
+      "Vitamin free only",
+      "Protein rich"
+    ],
+    "answer": "Healthier fats",
+    "topic": "Fats",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_044",
+    "question": "Excess salt intake is linked with:",
+    "options": [
+      "Hypertension",
+      "Night blindness",
+      "Rickets",
+      "Scurvy"
+    ],
+    "answer": "Hypertension",
+    "topic": "Lifestyle Disease",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_045",
+    "question": "Best diet advice for constipation:",
+    "options": [
+      "High fiber + fluids",
+      "Low fluid + no fiber",
+      "Only sweets",
+      "Skip meals"
+    ],
+    "answer": "High fiber + fluids",
+    "topic": "Diet Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_046",
+    "question": "Protein requirement increases in:",
+    "options": [
+      "Wound healing",
+      "Haircut",
+      "Resting only",
+      "Watching TV"
+    ],
+    "answer": "Wound healing",
+    "topic": "Clinical Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_047",
+    "question": "Main purpose of therapeutic diet is:",
+    "options": [
+      "Support treatment and recovery",
+      "Punishment",
+      "Weight gain only",
+      "No relation to disease"
+    ],
+    "answer": "Support treatment and recovery",
+    "topic": "Diet Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_048",
+    "question": "Soft diet is suitable for patient with:",
+    "options": [
+      "Chewing difficulty",
+      "Normal athlete only",
+      "Fracture toe",
+      "Migraine only"
+    ],
+    "answer": "Chewing difficulty",
+    "topic": "Hospital Diet",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_049",
+    "question": "Clear liquid diet includes:",
+    "options": [
+      "ORS / clear soup",
+      "Fried rice",
+      "Chapati",
+      "Paneer curry"
+    ],
+    "answer": "ORS / clear soup",
+    "topic": "Hospital Diet",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_050",
+    "question": "Overall goal of nutrition in nursing care is:",
+    "options": [
+      "Maintain health and promote recovery",
+      "Delay healing",
+      "Cause deficiency",
+      "Increase disease"
+    ],
+    "answer": "Maintain health and promote recovery",
+    "topic": "Nursing Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_051",
+    "question": "The minimum nutrient required in largest quantity daily is:",
+    "options": [
+      "Water",
+      "Iron",
+      "Vitamin B12",
+      "Iodine"
+    ],
+    "answer": "Water",
+    "topic": "Water",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_052",
+    "question": "Electrolyte commonly lost in diarrhea is:",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Calcium only",
+      "Zinc only"
+    ],
+    "answer": "Potassium",
+    "topic": "Fluid Balance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_053",
+    "question": "ORS is mainly used to treat:",
+    "options": [
+      "Dehydration",
+      "Hypertension",
+      "Anemia",
+      "Obesity"
+    ],
+    "answer": "Dehydration",
+    "topic": "Fluid Balance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_054",
+    "question": "ORS stands for:",
+    "options": [
+      "Oral Rehydration Solution",
+      "Organic Recovery Salt",
+      "Oral Renal Supplement",
+      "None"
+    ],
+    "answer": "Oral Rehydration Solution",
+    "topic": "Fluid Balance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_055",
+    "question": "Best immediate diet advice in acute diarrhea:",
+    "options": [
+      "Fluids and ORS",
+      "Stop all fluids",
+      "Only fried foods",
+      "High alcohol intake"
+    ],
+    "answer": "Fluids and ORS",
+    "topic": "Diet Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_056",
+    "question": "Main function of sodium in body is:",
+    "options": [
+      "Fluid balance",
+      "Vision only",
+      "Hair growth",
+      "Blood clotting only"
+    ],
+    "answer": "Fluid balance",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_057",
+    "question": "Excess sodium intake may lead to:",
+    "options": [
+      "Hypertension",
+      "Scurvy",
+      "Night blindness",
+      "Anemia"
+    ],
+    "answer": "Hypertension",
+    "topic": "Lifestyle Disease",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_058",
+    "question": "Banana is rich source of:",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Iodine",
+      "Calcium"
+    ],
+    "answer": "Potassium",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_059",
+    "question": "Potassium is important for:",
+    "options": [
+      "Muscle and nerve function",
+      "Vision only",
+      "Skin color",
+      "Hair texture"
+    ],
+    "answer": "Muscle and nerve function",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_060",
+    "question": "Low potassium may cause:",
+    "options": [
+      "Muscle weakness",
+      "Goiter",
+      "Scurvy",
+      "Jaundice"
+    ],
+    "answer": "Muscle weakness",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_061",
+    "question": "Magnesium deficiency may cause:",
+    "options": [
+      "Neuromuscular irritability",
+      "Blindness",
+      "Hair loss",
+      "Goiter"
+    ],
+    "answer": "Neuromuscular irritability",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_062",
+    "question": "Best source of healthy fats among these:",
+    "options": [
+      "Nuts",
+      "Trans fat snacks",
+      "Refined sugar",
+      "Soft drinks"
+    ],
+    "answer": "Nuts",
+    "topic": "Fats",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_063",
+    "question": "Trans fats increase risk of:",
+    "options": [
+      "Heart disease",
+      "Night blindness",
+      "Rickets",
+      "Scurvy"
+    ],
+    "answer": "Heart disease",
+    "topic": "Fats",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_064",
+    "question": "HDL is commonly called:",
+    "options": [
+      "Good cholesterol",
+      "Bad cholesterol",
+      "Blood sugar",
+      "Body fat index"
+    ],
+    "answer": "Good cholesterol",
+    "topic": "Lipids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_065",
+    "question": "LDL is commonly called:",
+    "options": [
+      "Bad cholesterol",
+      "Good cholesterol",
+      "Protein marker",
+      "Vitamin level"
+    ],
+    "answer": "Bad cholesterol",
+    "topic": "Lipids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_066",
+    "question": "Diet to reduce LDL should be low in:",
+    "options": [
+      "Saturated fat",
+      "Fiber",
+      "Vegetables",
+      "Water"
+    ],
+    "answer": "Saturated fat",
+    "topic": "Diet Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_067",
+    "question": "Soluble fiber may help reduce:",
+    "options": [
+      "Cholesterol",
+      "Height",
+      "Vision",
+      "Hair color"
+    ],
+    "answer": "Cholesterol",
+    "topic": "Fiber",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_068",
+    "question": "Oats are rich in:",
+    "options": [
+      "Soluble fiber",
+      "Trans fat",
+      "Alcohol",
+      "Iodine only"
+    ],
+    "answer": "Soluble fiber",
+    "topic": "Fiber",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_069",
+    "question": "Main dietary advice in diabetes mellitus:",
+    "options": [
+      "Control carbohydrate intake",
+      "Unlimited sweets",
+      "No vegetables",
+      "Only fried foods"
+    ],
+    "answer": "Control carbohydrate intake",
+    "topic": "Therapeutic Diet",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_070",
+    "question": "Complex carbohydrates are found in:",
+    "options": [
+      "Whole grains",
+      "Candy",
+      "Soft drinks",
+      "Sugar syrup"
+    ],
+    "answer": "Whole grains",
+    "topic": "Carbohydrates",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_071",
+    "question": "Simple sugars rapidly increase:",
+    "options": [
+      "Blood glucose",
+      "Bone density",
+      "Vision",
+      "Hemoglobin"
+    ],
+    "answer": "Blood glucose",
+    "topic": "Carbohydrates",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_072",
+    "question": "Glycemic index refers to:",
+    "options": [
+      "Effect of food on blood sugar",
+      "Protein quality",
+      "Salt content",
+      "Vitamin level"
+    ],
+    "answer": "Effect of food on blood sugar",
+    "topic": "Diabetes Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_073",
+    "question": "Best snack for diabetic patient among these:",
+    "options": [
+      "Roasted chana",
+      "Candy",
+      "Sweet soda",
+      "Cake"
+    ],
+    "answer": "Roasted chana",
+    "topic": "Diabetes Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_074",
+    "question": "Main nutrition goal in hypertension is:",
+    "options": [
+      "Reduce salt intake",
+      "Increase trans fat",
+      "Stop water",
+      "Eat more sugar"
+    ],
+    "answer": "Reduce salt intake",
+    "topic": "Therapeutic Diet",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_075",
+    "question": "DASH diet is useful in:",
+    "options": [
+      "Hypertension",
+      "Scurvy",
+      "Rickets",
+      "Night blindness"
+    ],
+    "answer": "Hypertension",
+    "topic": "Therapeutic Diet",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_076",
+    "question": "DASH diet emphasizes:",
+    "options": [
+      "Fruits and vegetables",
+      "Only sweets",
+      "Only meat",
+      "High salt foods"
+    ],
+    "answer": "Fruits and vegetables",
+    "topic": "Therapeutic Diet",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_077",
+    "question": "Best diet advice in peptic ulcer (general):",
+    "options": [
+      "Avoid irritating foods",
+      "Take alcohol",
+      "Skip meals daily",
+      "Only spicy foods"
+    ],
+    "answer": "Avoid irritating foods",
+    "topic": "GI Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_078",
+    "question": "Protein loss may occur in severe burns, therefore diet should be high in:",
+    "options": [
+      "Protein",
+      "Sugar only",
+      "Salt only",
+      "Water only"
+    ],
+    "answer": "Protein",
+    "topic": "Clinical Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_079",
+    "question": "Calories need increases during:",
+    "options": [
+      "Fever/infection",
+      "Sleep only",
+      "Meditation only",
+      "Haircut"
+    ],
+    "answer": "Fever/infection",
+    "topic": "Clinical Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_080",
+    "question": "Nitrogen balance is mainly related to:",
+    "options": [
+      "Protein status",
+      "Sugar level",
+      "Calcium stores",
+      "Water level"
+    ],
+    "answer": "Protein status",
+    "topic": "Protein",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_081",
+    "question": "Positive nitrogen balance occurs in:",
+    "options": [
+      "Growth and pregnancy",
+      "Starvation",
+      "Severe trauma only",
+      "Burn shock only"
+    ],
+    "answer": "Growth and pregnancy",
+    "topic": "Protein",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_082",
+    "question": "Negative nitrogen balance occurs in:",
+    "options": [
+      "Starvation",
+      "Childhood growth",
+      "Pregnancy",
+      "Recovery phase"
+    ],
+    "answer": "Starvation",
+    "topic": "Protein",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_083",
+    "question": "Albumin is commonly used as indicator of:",
+    "options": [
+      "Nutritional status",
+      "Eye power",
+      "Bone fracture",
+      "Pulse rate"
+    ],
+    "answer": "Nutritional status",
+    "topic": "Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_084",
+    "question": "Edema in severe malnutrition may be due to low:",
+    "options": [
+      "Albumin",
+      "Vitamin C",
+      "Iodine",
+      "Glucose"
+    ],
+    "answer": "Albumin",
+    "topic": "Deficiency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_085",
+    "question": "Kwashiorkor commonly presents with:",
+    "options": [
+      "Edema",
+      "Night blindness",
+      "Goiter",
+      "Hematuria"
+    ],
+    "answer": "Edema",
+    "topic": "Deficiency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_086",
+    "question": "Marasmus is characterized by:",
+    "options": [
+      "Severe wasting",
+      "Edema only",
+      "Goiter",
+      "Bleeding gums"
+    ],
+    "answer": "Severe wasting",
+    "topic": "Deficiency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_087",
+    "question": "Best feeding method if patient cannot swallow but gut works:",
+    "options": [
+      "Enteral feeding",
+      "No feeding",
+      "Only IV antibiotics",
+      "Sunlight therapy"
+    ],
+    "answer": "Enteral feeding",
+    "topic": "Hospital Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_088",
+    "question": "NG tube stands for:",
+    "options": [
+      "Nasogastric tube",
+      "Neuro gastric tube",
+      "Normal gut tube",
+      "None"
+    ],
+    "answer": "Nasogastric tube",
+    "topic": "Hospital Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_089",
+    "question": "If gut is nonfunctional, nutrition may be given by:",
+    "options": [
+      "Parenteral route",
+      "Only oral route",
+      "Steam inhalation",
+      "Massage"
+    ],
+    "answer": "Parenteral route",
+    "topic": "Hospital Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_090",
+    "question": "TPN stands for:",
+    "options": [
+      "Total parenteral nutrition",
+      "Therapeutic protein nutrition",
+      "Tube patient nutrition",
+      "None"
+    ],
+    "answer": "Total parenteral nutrition",
+    "topic": "Hospital Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_091",
+    "question": "Major risk with TPN is:",
+    "options": [
+      "Infection",
+      "Hair growth",
+      "Improved sleep",
+      "Tall height"
+    ],
+    "answer": "Infection",
+    "topic": "Hospital Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_092",
+    "question": "Best way to assess infant nutrition regularly:",
+    "options": [
+      "Growth monitoring",
+      "Eye test only",
+      "Haircut record",
+      "ECG"
+    ],
+    "answer": "Growth monitoring",
+    "topic": "Child Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_093",
+    "question": "Stunting indicates chronic:",
+    "options": [
+      "Malnutrition",
+      "Hypertension",
+      "Fracture",
+      "Asthma"
+    ],
+    "answer": "Malnutrition",
+    "topic": "Child Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_094",
+    "question": "Wasting indicates acute:",
+    "options": [
+      "Malnutrition",
+      "Goiter",
+      "Blindness",
+      "Hypertension"
+    ],
+    "answer": "Malnutrition",
+    "topic": "Child Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_095",
+    "question": "Best source of iron among these:",
+    "options": [
+      "Green leafy vegetables",
+      "Sugar",
+      "Oil",
+      "Soft drink"
+    ],
+    "answer": "Green leafy vegetables",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_096",
+    "question": "Vitamin C improves absorption of:",
+    "options": [
+      "Iron",
+      "Sodium",
+      "Chloride",
+      "Fat"
+    ],
+    "answer": "Iron",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_097",
+    "question": "Tea immediately after meals may reduce absorption of:",
+    "options": [
+      "Iron",
+      "Vitamin D",
+      "Protein",
+      "Water"
+    ],
+    "answer": "Iron",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_098",
+    "question": "Main aim of diet counseling is:",
+    "options": [
+      "Healthy sustainable habits",
+      "Temporary starvation",
+      "Only supplements",
+      "Ignore disease"
+    ],
+    "answer": "Healthy sustainable habits",
+    "topic": "Counseling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_099",
+    "question": "Best overall meal plate should include:",
+    "options": [
+      "Balanced portions of grains, protein, vegetables",
+      "Only sweets",
+      "Only fats",
+      "Only juice"
+    ],
+    "answer": "Balanced portions of grains, protein, vegetables",
+    "topic": "Balanced Diet",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_100",
+    "question": "Overall goal of nutrition therapy in nursing care is:",
+    "options": [
+      "Promote healing and prevent complications",
+      "Increase disease",
+      "Delay recovery",
+      "Cause deficiency"
+    ],
+    "answer": "Promote healing and prevent complications",
+    "topic": "Nursing Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_101",
+    "question": "Recommended exclusive breastfeeding duration is:",
+    "options": [
+      "6 months",
+      "3 months",
+      "9 months",
+      "12 months"
+    ],
+    "answer": "6 months",
+    "topic": "Infant Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_102",
+    "question": "Weaning foods are usually started at:",
+    "options": [
+      "6 months",
+      "1 month",
+      "12 months",
+      "2 years"
+    ],
+    "answer": "6 months",
+    "topic": "Infant Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_103",
+    "question": "Colostrum should be:",
+    "options": [
+      "Given to newborn",
+      "Discarded",
+      "Boiled first",
+      "Mixed with water"
+    ],
+    "answer": "Given to newborn",
+    "topic": "Infant Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_104",
+    "question": "Best indicator of adequate infant feeding is:",
+    "options": [
+      "Weight gain",
+      "Hair length",
+      "Crying only",
+      "Eye color"
+    ],
+    "answer": "Weight gain",
+    "topic": "Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_105",
+    "question": "Pregnant women need extra intake of:",
+    "options": [
+      "Iron and folic acid",
+      "Alcohol",
+      "Tobacco",
+      "Junk snacks only"
+    ],
+    "answer": "Iron and folic acid",
+    "topic": "Maternal Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_106",
+    "question": "Folic acid before and during early pregnancy helps prevent:",
+    "options": [
+      "Neural tube defects",
+      "Night blindness",
+      "Goiter",
+      "Scurvy"
+    ],
+    "answer": "Neural tube defects",
+    "topic": "Maternal Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_107",
+    "question": "Common cause of anemia in pregnancy is deficiency of:",
+    "options": [
+      "Iron",
+      "Vitamin A",
+      "Calcium",
+      "Water"
+    ],
+    "answer": "Iron",
+    "topic": "Maternal Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_108",
+    "question": "Lactating mothers generally need increased:",
+    "options": [
+      "Calories and fluids",
+      "Alcohol",
+      "Salt only",
+      "None"
+    ],
+    "answer": "Calories and fluids",
+    "topic": "Maternal Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_109",
+    "question": "Best source of iodine in public health programs:",
+    "options": [
+      "Iodized salt",
+      "Sugar",
+      "Refined oil",
+      "Tea"
+    ],
+    "answer": "Iodized salt",
+    "topic": "Public Health Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_110",
+    "question": "Goiter prevention mainly requires adequate:",
+    "options": [
+      "Iodine",
+      "Iron",
+      "Vitamin C",
+      "Protein"
+    ],
+    "answer": "Iodine",
+    "topic": "Public Health Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_111",
+    "question": "Vitamin A supplementation mainly prevents:",
+    "options": [
+      "Night blindness",
+      "Scurvy",
+      "Rickets",
+      "Beriberi"
+    ],
+    "answer": "Night blindness",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_112",
+    "question": "Rickets occurs due to deficiency of:",
+    "options": [
+      "Vitamin D",
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin B1"
+    ],
+    "answer": "Vitamin D",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_113",
+    "question": "Osteomalacia in adults is due to deficiency of:",
+    "options": [
+      "Vitamin D",
+      "Iron",
+      "Vitamin A",
+      "Iodine"
+    ],
+    "answer": "Vitamin D",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_114",
+    "question": "Bleeding tendency may occur in deficiency of:",
+    "options": [
+      "Vitamin K",
+      "Vitamin A",
+      "Vitamin C",
+      "Niacin"
+    ],
+    "answer": "Vitamin K",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_115",
+    "question": "Bleeding gums are classically seen in deficiency of:",
+    "options": [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K",
+      "Folic acid"
+    ],
+    "answer": "Vitamin C",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_116",
+    "question": "Vitamin B12 deficiency can cause:",
+    "options": [
+      "Neurological symptoms",
+      "Goiter",
+      "Rickets",
+      "Scurvy"
+    ],
+    "answer": "Neurological symptoms",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_117",
+    "question": "Best dietary source of vitamin B12 for non-vegetarians:",
+    "options": [
+      "Eggs/meat/milk",
+      "Sugar",
+      "Rice only",
+      "Oil"
+    ],
+    "answer": "Eggs/meat/milk",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_118",
+    "question": "Pellagra is due to deficiency of:",
+    "options": [
+      "Niacin",
+      "Thiamine",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "answer": "Niacin",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_119",
+    "question": "Beriberi is due to deficiency of:",
+    "options": [
+      "Thiamine",
+      "Niacin",
+      "Vitamin D",
+      "Iodine"
+    ],
+    "answer": "Thiamine",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_120",
+    "question": "Thiamine deficiency is common with chronic:",
+    "options": [
+      "Alcohol misuse",
+      "Milk intake",
+      "Exercise",
+      "Sunlight"
+    ],
+    "answer": "Alcohol misuse",
+    "topic": "Clinical Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_121",
+    "question": "Best source of soluble fiber among these:",
+    "options": [
+      "Oats",
+      "Butter",
+      "Ghee",
+      "Sugar"
+    ],
+    "answer": "Oats",
+    "topic": "Fiber",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_122",
+    "question": "Fiber helps reduce risk of:",
+    "options": [
+      "Constipation",
+      "Rickets",
+      "Goiter",
+      "Scurvy"
+    ],
+    "answer": "Constipation",
+    "topic": "Fiber",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_123",
+    "question": "Excess saturated fat intake increases risk of:",
+    "options": [
+      "Heart disease",
+      "Night blindness",
+      "Beriberi",
+      "Anemia"
+    ],
+    "answer": "Heart disease",
+    "topic": "Fats",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_124",
+    "question": "Healthier cooking oil choices are generally rich in:",
+    "options": [
+      "Unsaturated fats",
+      "Trans fats",
+      "Cholesterol",
+      "Sugar"
+    ],
+    "answer": "Unsaturated fats",
+    "topic": "Fats",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_125",
+    "question": "Omega-3 fatty acids are beneficial for:",
+    "options": [
+      "Heart health",
+      "Causing anemia",
+      "Goiter",
+      "Scurvy"
+    ],
+    "answer": "Heart health",
+    "topic": "Fats",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_126",
+    "question": "Good source of omega-3 among these:",
+    "options": [
+      "Flaxseed",
+      "Candy",
+      "Butter",
+      "Refined sugar"
+    ],
+    "answer": "Flaxseed",
+    "topic": "Fats",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_127",
+    "question": "BMI above 30 usually indicates:",
+    "options": [
+      "Obesity",
+      "Normal weight",
+      "Underweight",
+      "Tall stature"
+    ],
+    "answer": "Obesity",
+    "topic": "Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_128",
+    "question": "Central obesity increases risk of:",
+    "options": [
+      "Metabolic syndrome",
+      "Night blindness",
+      "Rickets",
+      "Goiter"
+    ],
+    "answer": "Metabolic syndrome",
+    "topic": "Lifestyle Disease",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_129",
+    "question": "Waist circumference is useful to assess:",
+    "options": [
+      "Abdominal fat",
+      "Vision",
+      "Bone age",
+      "Lung capacity"
+    ],
+    "answer": "Abdominal fat",
+    "topic": "Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_130",
+    "question": "Main treatment of obesity includes:",
+    "options": [
+      "Diet + exercise",
+      "Only antibiotics",
+      "Stop water",
+      "Smoking"
+    ],
+    "answer": "Diet + exercise",
+    "topic": "Lifestyle Disease",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_131",
+    "question": "Diabetic diet should emphasize:",
+    "options": [
+      "Portion control",
+      "Unlimited sweets",
+      "No vegetables",
+      "Only juice"
+    ],
+    "answer": "Portion control",
+    "topic": "Therapeutic Diet",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_132",
+    "question": "Best beverage for routine hydration:",
+    "options": [
+      "Water",
+      "Soft drink",
+      "Energy drink",
+      "Alcohol"
+    ],
+    "answer": "Water",
+    "topic": "Water",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_133",
+    "question": "Most common sign of dehydration is:",
+    "options": [
+      "Thirst",
+      "Hair fall",
+      "Goiter",
+      "Bradycardia always"
+    ],
+    "answer": "Thirst",
+    "topic": "Water Balance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_134",
+    "question": "Dark yellow urine may indicate:",
+    "options": [
+      "Dehydration",
+      "Excellent hydration",
+      "Normal newborn stool",
+      "Low BMI"
+    ],
+    "answer": "Dehydration",
+    "topic": "Water Balance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_135",
+    "question": "ORS is especially useful in diarrhea because it replaces:",
+    "options": [
+      "Water and electrolytes",
+      "Protein only",
+      "Fat only",
+      "Vitamin A only"
+    ],
+    "answer": "Water and electrolytes",
+    "topic": "Fluid Balance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_136",
+    "question": "Enteral feeding is preferred over TPN when possible because gut is:",
+    "options": [
+      "Functional",
+      "Removed",
+      "Always infected",
+      "Irrelevant"
+    ],
+    "answer": "Functional",
+    "topic": "Hospital Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_137",
+    "question": "Before NG tube feeding, nurse should verify:",
+    "options": [
+      "Tube placement",
+      "Hair length",
+      "Blood group",
+      "Eye color"
+    ],
+    "answer": "Tube placement",
+    "topic": "Hospital Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_138",
+    "question": "Aspiration risk during tube feeding is reduced by:",
+    "options": [
+      "Head elevation",
+      "Flat position",
+      "Rapid bolus always",
+      "No monitoring"
+    ],
+    "answer": "Head elevation",
+    "topic": "Hospital Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_139",
+    "question": "Main complication of prolonged poor intake in hospital patient:",
+    "options": [
+      "Malnutrition",
+      "Tall height",
+      "Hypervision",
+      "Goiter only"
+    ],
+    "answer": "Malnutrition",
+    "topic": "Clinical Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_140",
+    "question": "Protein-rich diet supports:",
+    "options": [
+      "Wound healing",
+      "Goiter formation",
+      "Scurvy",
+      "Night blindness"
+    ],
+    "answer": "Wound healing",
+    "topic": "Clinical Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_141",
+    "question": "Best snack for child among these:",
+    "options": [
+      "Fruit + nuts",
+      "Soft drink",
+      "Candy only",
+      "Chips daily"
+    ],
+    "answer": "Fruit + nuts",
+    "topic": "Child Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_142",
+    "question": "School-age child needs adequate nutrition for:",
+    "options": [
+      "Growth and learning",
+      "Only sleep",
+      "Hair style",
+      "No purpose"
+    ],
+    "answer": "Growth and learning",
+    "topic": "Child Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_143",
+    "question": "Adolescents especially need adequate:",
+    "options": [
+      "Iron and calcium",
+      "Only sugar",
+      "Alcohol",
+      "No protein"
+    ],
+    "answer": "Iron and calcium",
+    "topic": "Adolescent Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_144",
+    "question": "Elderly people are at higher risk of:",
+    "options": [
+      "Malnutrition",
+      "Rapid height gain",
+      "Kwashiorkor only",
+      "Rickets only"
+    ],
+    "answer": "Malnutrition",
+    "topic": "Geriatric Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_145",
+    "question": "Soft diet may be suitable for elderly with:",
+    "options": [
+      "Chewing difficulty",
+      "Perfect dentition only",
+      "Athletic training",
+      "Migraine"
+    ],
+    "answer": "Chewing difficulty",
+    "topic": "Geriatric Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_146",
+    "question": "Best nutrition counseling advice is to make:",
+    "options": [
+      "Gradual sustainable changes",
+      "Crash starvation",
+      "Only supplements forever",
+      "No meals"
+    ],
+    "answer": "Gradual sustainable changes",
+    "topic": "Counseling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_147",
+    "question": "Reading food labels helps control:",
+    "options": [
+      "Calories, sugar, salt",
+      "Eye color",
+      "Height",
+      "Blood group"
+    ],
+    "answer": "Calories, sugar, salt",
+    "topic": "Counseling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_148",
+    "question": "Meal planning should consider patient’s:",
+    "options": [
+      "Culture and preferences",
+      "Only nurse preference",
+      "No medical condition",
+      "Random choice"
+    ],
+    "answer": "Culture and preferences",
+    "topic": "Counseling",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_149",
+    "question": "Overall goal of therapeutic nutrition is:",
+    "options": [
+      "Support recovery and health",
+      "Increase complications",
+      "Cause deficiencies",
+      "Replace all treatment"
+    ],
+    "answer": "Support recovery and health",
+    "topic": "Therapeutic Diet",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_150",
+    "question": "Primary nursing responsibility in nutrition care is:",
+    "options": [
+      "Assess intake and promote adequate nutrition",
+      "Ignore diet history",
+      "Only give sweets",
+      "Delay meals"
+    ],
+    "answer": "Assess intake and promote adequate nutrition",
+    "topic": "Nursing Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_151",
+    "question": "Recommended daily breakfast is important because it helps:",
+    "options": [
+      "Energy and concentration",
+      "Cause dehydration",
+      "Increase infection",
+      "Reduce memory"
+    ],
+    "answer": "Energy and concentration",
+    "topic": "General Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_152",
+    "question": "Skipping meals repeatedly may lead to:",
+    "options": [
+      "Poor energy balance",
+      "Better nutrition always",
+      "Higher hemoglobin always",
+      "Improved immunity always"
+    ],
+    "answer": "Poor energy balance",
+    "topic": "General Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_153",
+    "question": "Best source of complex carbohydrates:",
+    "options": [
+      "Whole grains",
+      "Candy",
+      "Soft drinks",
+      "Sugar syrup"
+    ],
+    "answer": "Whole grains",
+    "topic": "Carbohydrates",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_154",
+    "question": "Refined sugar provides mainly:",
+    "options": [
+      "Empty calories",
+      "High fiber",
+      "Protein",
+      "Iron"
+    ],
+    "answer": "Empty calories",
+    "topic": "Carbohydrates",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_155",
+    "question": "Main storage form of carbohydrate in human body is:",
+    "options": [
+      "Glycogen",
+      "Cellulose",
+      "Keratin",
+      "Albumin"
+    ],
+    "answer": "Glycogen",
+    "topic": "Physiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_156",
+    "question": "Glycogen is mainly stored in:",
+    "options": [
+      "Liver and muscles",
+      "Kidney and skin",
+      "Eyes and lungs",
+      "Hair and nails"
+    ],
+    "answer": "Liver and muscles",
+    "topic": "Physiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_157",
+    "question": "During prolonged fasting, body first uses stored:",
+    "options": [
+      "Glycogen",
+      "Calcium",
+      "Iron",
+      "Vitamin C"
+    ],
+    "answer": "Glycogen",
+    "topic": "Metabolism",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_158",
+    "question": "Main function of protein in adults is:",
+    "options": [
+      "Repair and maintenance",
+      "Primary vitamin source",
+      "Main hydration source",
+      "Blood clotting only"
+    ],
+    "answer": "Repair and maintenance",
+    "topic": "Protein",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_159",
+    "question": "Excess protein may stress which organ in susceptible patients?",
+    "options": [
+      "Kidneys",
+      "Skin",
+      "Eyes",
+      "Teeth"
+    ],
+    "answer": "Kidneys",
+    "topic": "Clinical Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_160",
+    "question": "Patients with CKD may require monitoring of:",
+    "options": [
+      "Protein intake",
+      "Hair color",
+      "Vision chart",
+      "Height only"
+    ],
+    "answer": "Protein intake",
+    "topic": "Renal Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_161",
+    "question": "Most calorie-dense macronutrient is:",
+    "options": [
+      "Fat",
+      "Protein",
+      "Carbohydrate",
+      "Water"
+    ],
+    "answer": "Fat",
+    "topic": "Fats",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_162",
+    "question": "Visible fats include:",
+    "options": [
+      "Oil and ghee",
+      "Milk protein",
+      "Rice starch",
+      "Fruit fiber"
+    ],
+    "answer": "Oil and ghee",
+    "topic": "Fats",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_163",
+    "question": "Invisible fats are commonly present in:",
+    "options": [
+      "Nuts and bakery foods",
+      "Water only",
+      "Salt only",
+      "ORS"
+    ],
+    "answer": "Nuts and bakery foods",
+    "topic": "Fats",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_164",
+    "question": "Hydrogenated fats are usually high in:",
+    "options": [
+      "Trans fats",
+      "Fiber",
+      "Vitamin C",
+      "Protein"
+    ],
+    "answer": "Trans fats",
+    "topic": "Fats",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_165",
+    "question": "Excess trans fats increase risk of:",
+    "options": [
+      "Coronary artery disease",
+      "Scurvy",
+      "Rickets",
+      "Goiter"
+    ],
+    "answer": "Coronary artery disease",
+    "topic": "Lifestyle Disease",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_166",
+    "question": "The richest source of vitamin C among these:",
+    "options": [
+      "Citrus fruits",
+      "Butter",
+      "Rice",
+      "Ghee"
+    ],
+    "answer": "Citrus fruits",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_167",
+    "question": "Cooking losses are common with:",
+    "options": [
+      "Vitamin C",
+      "Iron",
+      "Iodine",
+      "Calcium"
+    ],
+    "answer": "Vitamin C",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_168",
+    "question": "Vitamin A is stored mainly in:",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Lungs",
+      "Heart"
+    ],
+    "answer": "Liver",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_169",
+    "question": "Toxicity is more likely with excess intake of:",
+    "options": [
+      "Fat-soluble vitamins",
+      "Water only",
+      "Fiber",
+      "Protein only"
+    ],
+    "answer": "Fat-soluble vitamins",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_170",
+    "question": "Which is a fat-soluble vitamin?",
+    "options": [
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin B1",
+      "Vitamin B12"
+    ],
+    "answer": "Vitamin D",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_171",
+    "question": "Which is a water-soluble vitamin?",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "answer": "Vitamin C",
+    "topic": "Vitamins",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_172",
+    "question": "Calcium absorption is improved by:",
+    "options": [
+      "Vitamin D",
+      "Vitamin C",
+      "Niacin",
+      "Sodium"
+    ],
+    "answer": "Vitamin D",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_173",
+    "question": "Iron is mainly needed for formation of:",
+    "options": [
+      "Hemoglobin",
+      "Insulin",
+      "Bile",
+      "CSF"
+    ],
+    "answer": "Hemoglobin",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_174",
+    "question": "Zinc is important for:",
+    "options": [
+      "Wound healing",
+      "Night vision",
+      "Bone marrow only",
+      "Taste of salt only"
+    ],
+    "answer": "Wound healing",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_175",
+    "question": "Common symptom of iron deficiency anemia:",
+    "options": [
+      "Fatigue",
+      "Jaundice only",
+      "Hearing loss",
+      "Polyuria"
+    ],
+    "answer": "Fatigue",
+    "topic": "Deficiency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_176",
+    "question": "Low hemoglobin in women of reproductive age often needs evaluation for:",
+    "options": [
+      "Iron deficiency",
+      "Vitamin A excess",
+      "Hypercalcemia",
+      "Scurvy only"
+    ],
+    "answer": "Iron deficiency",
+    "topic": "Deficiency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_177",
+    "question": "Tea/coffee with meals may reduce absorption of:",
+    "options": [
+      "Iron",
+      "Water",
+      "Protein",
+      "Fat"
+    ],
+    "answer": "Iron",
+    "topic": "Minerals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_178",
+    "question": "Best way to improve iron absorption from plant foods:",
+    "options": [
+      "Take with vitamin C foods",
+      "Take with tea",
+      "Take with cola",
+      "Avoid fruits"
+    ],
+    "answer": "Take with vitamin C foods",
+    "topic": "Diet Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_179",
+    "question": "Low-salt diet is advised in:",
+    "options": [
+      "Hypertension",
+      "Scurvy",
+      "Rickets",
+      "Anemia"
+    ],
+    "answer": "Hypertension",
+    "topic": "Therapeutic Diet",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_180",
+    "question": "Fluid restriction may be required in some patients with:",
+    "options": [
+      "Heart failure",
+      "Night blindness",
+      "Beriberi",
+      "Healthy athletes only"
+    ],
+    "answer": "Heart failure",
+    "topic": "Clinical Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_181",
+    "question": "Diabetic patient should monitor intake of:",
+    "options": [
+      "Carbohydrates",
+      "Only water",
+      "Only vitamins",
+      "Only salt"
+    ],
+    "answer": "Carbohydrates",
+    "topic": "Diabetes Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_182",
+    "question": "Hypoglycemia may be caused by taking insulin without:",
+    "options": [
+      "Adequate food",
+      "Exercise",
+      "Sleep",
+      "Water"
+    ],
+    "answer": "Adequate food",
+    "topic": "Diabetes Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_183",
+    "question": "Fast-acting treatment for mild hypoglycemia is:",
+    "options": [
+      "Glucose/sugary source",
+      "Butter",
+      "Rice bran",
+      "Salt water"
+    ],
+    "answer": "Glucose/sugary source",
+    "topic": "Emergency Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_184",
+    "question": "Main goal of weight reduction diet:",
+    "options": [
+      "Calorie deficit with adequate nutrition",
+      "Starvation only",
+      "Zero water",
+      "Only supplements"
+    ],
+    "answer": "Calorie deficit with adequate nutrition",
+    "topic": "Weight Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_185",
+    "question": "Crash dieting commonly causes:",
+    "options": [
+      "Unsustainable weight loss",
+      "Permanent cure always",
+      "Muscle gain only",
+      "Better immunity always"
+    ],
+    "answer": "Unsustainable weight loss",
+    "topic": "Weight Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_186",
+    "question": "Best snack for healthy weight loss:",
+    "options": [
+      "Fruit and nuts",
+      "Sugary soda",
+      "Cake slice",
+      "Deep fried chips"
+    ],
+    "answer": "Fruit and nuts",
+    "topic": "Weight Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_187",
+    "question": "Enteral nutrition means feeding via:",
+    "options": [
+      "Gastrointestinal tract",
+      "Vein only",
+      "Muscle only",
+      "Skin patch"
+    ],
+    "answer": "Gastrointestinal tract",
+    "topic": "Hospital Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_188",
+    "question": "Parenteral nutrition is delivered through:",
+    "options": [
+      "Intravenous route",
+      "Nasal route",
+      "Rectal route",
+      "Oral route"
+    ],
+    "answer": "Intravenous route",
+    "topic": "Hospital Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_189",
+    "question": "Major nursing care during tube feeding:",
+    "options": [
+      "Prevent aspiration",
+      "Give flat position",
+      "Ignore residuals",
+      "Rush feeding"
+    ],
+    "answer": "Prevent aspiration",
+    "topic": "Hospital Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_190",
+    "question": "Pressure ulcer healing requires adequate:",
+    "options": [
+      "Protein and calories",
+      "Only salt",
+      "Only water",
+      "Only sugar"
+    ],
+    "answer": "Protein and calories",
+    "topic": "Clinical Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_191",
+    "question": "Most reliable growth indicator in children:",
+    "options": [
+      "Regular weight monitoring",
+      "Hair length",
+      "Nail size",
+      "Eye color"
+    ],
+    "answer": "Regular weight monitoring",
+    "topic": "Child Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_192",
+    "question": "Stunting mainly reflects long-term:",
+    "options": [
+      "Undernutrition",
+      "Acute fever",
+      "Eye disease",
+      "Migraine"
+    ],
+    "answer": "Undernutrition",
+    "topic": "Child Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_193",
+    "question": "Wasting mainly reflects:",
+    "options": [
+      "Acute malnutrition",
+      "Chronic bone disease",
+      "Goiter",
+      "Vision loss"
+    ],
+    "answer": "Acute malnutrition",
+    "topic": "Child Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_194",
+    "question": "Adolescents need more nutrients due to:",
+    "options": [
+      "Rapid growth",
+      "Hair styling",
+      "Less activity always",
+      "No hormonal change"
+    ],
+    "answer": "Rapid growth",
+    "topic": "Adolescent Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_195",
+    "question": "Elderly are prone to dehydration because:",
+    "options": [
+      "Reduced thirst sensation",
+      "Too much iron",
+      "High B12",
+      "Tall height"
+    ],
+    "answer": "Reduced thirst sensation",
+    "topic": "Geriatric Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_196",
+    "question": "Soft diet is useful in elderly with:",
+    "options": [
+      "Poor dentition",
+      "Athletic training",
+      "Healthy chewing only",
+      "Migraine"
+    ],
+    "answer": "Poor dentition",
+    "topic": "Geriatric Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_197",
+    "question": "Best public health strategy against anemia:",
+    "options": [
+      "Iron supplementation + diet education",
+      "Only sweets",
+      "Less vegetables",
+      "Avoid screening"
+    ],
+    "answer": "Iron supplementation + diet education",
+    "topic": "Public Health Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_198",
+    "question": "Food safety includes:",
+    "options": [
+      "Hand washing before cooking",
+      "Using spoiled food",
+      "Undercooked meat always",
+      "Dirty water use"
+    ],
+    "answer": "Hand washing before cooking",
+    "topic": "Food Hygiene",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_199",
+    "question": "Balanced plate meal usually includes:",
+    "options": [
+      "Vegetables, protein, grains",
+      "Only sweets",
+      "Only fats",
+      "Only juice"
+    ],
+    "answer": "Vegetables, protein, grains",
+    "topic": "Balanced Diet",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NUT_200",
+    "question": "Overall goal of nutrition nursing care is:",
+    "options": [
+      "Promote health and recovery",
+      "Delay healing",
+      "Cause deficiency",
+      "Increase complications"
+    ],
+    "answer": "Promote health and recovery",
+    "topic": "Nursing Nutrition",
+    "chapter": "GENERAL"
+  }
+]

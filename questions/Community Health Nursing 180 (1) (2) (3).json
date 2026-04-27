@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "CHN_001",
+    "question": "Primary health care was declared in which conference?",
+    "options": [
+      "Alma-Ata",
+      "Helsinki",
+      "Geneva",
+      "Paris"
+    ],
+    "answer": "Alma-Ata",
+    "difficulty": "medium",
+    "explanation": "1978 Alma-Ata conference defined PHC.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_002",
+    "question": "Year of Alma-Ata declaration:",
+    "options": [
+      "1978",
+      "1965",
+      "1985",
+      "1990"
+    ],
+    "answer": "1978",
+    "difficulty": "easy",
+    "explanation": "PHC concept launched in 1978.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_003",
+    "question": "WHO headquarters is located in:",
+    "options": [
+      "Geneva",
+      "New York",
+      "Paris",
+      "Delhi"
+    ],
+    "answer": "Geneva",
+    "difficulty": "easy",
+    "explanation": "WHO HQ is in Switzerland.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_004",
+    "question": "Full form of WHO:",
+    "options": [
+      "World Health Organization",
+      "World Health Office",
+      "World Human Organization",
+      "None"
+    ],
+    "answer": "World Health Organization",
+    "difficulty": "easy",
+    "explanation": "Global health agency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_005",
+    "question": "The aim of community health nursing is:",
+    "options": [
+      "Health promotion",
+      "Hospitalization",
+      "Surgery",
+      "Medication only"
+    ],
+    "answer": "Health promotion",
+    "difficulty": "easy",
+    "explanation": "Focus on prevention and promotion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_006",
+    "question": "PHC stands for:",
+    "options": [
+      "Primary Health Care",
+      "Public Health Center",
+      "Private Health Care",
+      "None"
+    ],
+    "answer": "Primary Health Care",
+    "difficulty": "easy",
+    "explanation": "Basic healthcare services.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_007",
+    "question": "Most important principle of PHC:",
+    "options": [
+      "Equity",
+      "Profit",
+      "Luxury care",
+      "Specialization"
+    ],
+    "answer": "Equity",
+    "difficulty": "medium",
+    "explanation": "Equal health access.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_008",
+    "question": "ASHA worker belongs to:",
+    "options": [
+      "NRHM",
+      "Private sector",
+      "NGO only",
+      "None"
+    ],
+    "answer": "NRHM",
+    "difficulty": "easy",
+    "explanation": "Accredited Social Health Activist.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_009",
+    "question": "ANM stands for:",
+    "options": [
+      "Auxiliary Nurse Midwife",
+      "Area Nurse Manager",
+      "Adult Nurse Midwife",
+      "None"
+    ],
+    "answer": "Auxiliary Nurse Midwife",
+    "difficulty": "easy",
+    "explanation": "Community health nurse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_010",
+    "question": "Sub-centre is the lowest level of:",
+    "options": [
+      "Health system",
+      "Hospital system",
+      "Private care",
+      "None"
+    ],
+    "answer": "Health system",
+    "difficulty": "easy",
+    "explanation": "First contact point.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_011",
+    "question": "One sub-centre covers population of:",
+    "options": [
+      "5000",
+      "50,000",
+      "1 lakh",
+      "10 lakh"
+    ],
+    "answer": "5000",
+    "difficulty": "medium",
+    "explanation": "Rural coverage standard.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_012",
+    "question": "PHC covers population of:",
+    "options": [
+      "30,000",
+      "5,000",
+      "1 lakh",
+      "10 lakh"
+    ],
+    "answer": "30,000",
+    "difficulty": "medium",
+    "explanation": "Primary health center norm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_013",
+    "question": "Community health nursing focuses on:",
+    "options": [
+      "Preventive care",
+      "Surgery",
+      "ICU care",
+      "Radiology"
+    ],
+    "answer": "Preventive care",
+    "difficulty": "easy",
+    "explanation": "Health promotion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_014",
+    "question": "Epidemiology is study of:",
+    "options": [
+      "Disease distribution",
+      "Surgery",
+      "Drugs",
+      "Genes only"
+    ],
+    "answer": "Disease distribution",
+    "difficulty": "easy",
+    "explanation": "Patterns in population.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_015",
+    "question": "Incidence means:",
+    "options": [
+      "New cases",
+      "Old cases",
+      "Deaths",
+      "Recovery"
+    ],
+    "answer": "New cases",
+    "difficulty": "easy",
+    "explanation": "Fresh occurrence.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_016",
+    "question": "Prevalence means:",
+    "options": [
+      "Total cases",
+      "New cases",
+      "Deaths",
+      "Births"
+    ],
+    "answer": "Total cases",
+    "difficulty": "easy",
+    "explanation": "Existing + new cases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_017",
+    "question": "Vaccination is an example of:",
+    "options": [
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "None"
+    ],
+    "answer": "Primary prevention",
+    "difficulty": "easy",
+    "explanation": "Disease prevention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_018",
+    "question": "Screening is part of:",
+    "options": [
+      "Secondary prevention",
+      "Primary prevention",
+      "Tertiary prevention",
+      "None"
+    ],
+    "answer": "Secondary prevention",
+    "difficulty": "medium",
+    "explanation": "Early detection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_019",
+    "question": "Rehabilitation is:",
+    "options": [
+      "Tertiary prevention",
+      "Primary prevention",
+      "Secondary prevention",
+      "None"
+    ],
+    "answer": "Tertiary prevention",
+    "difficulty": "medium",
+    "explanation": "Recovery care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_020",
+    "question": "Cold chain is used for:",
+    "options": [
+      "Vaccines",
+      "Blood",
+      "Drugs only",
+      "Food"
+    ],
+    "answer": "Vaccines",
+    "difficulty": "easy",
+    "explanation": "Maintains vaccine temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_021",
+    "question": "Universal Immunization Programme started in India in:",
+    "options": [
+      "1985",
+      "1975",
+      "1995",
+      "2000"
+    ],
+    "answer": "1985",
+    "difficulty": "medium",
+    "explanation": "National vaccination program.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_022",
+    "question": "BCG vaccine is given for:",
+    "options": [
+      "Tuberculosis",
+      "Polio",
+      "Hepatitis",
+      "Measles"
+    ],
+    "answer": "Tuberculosis",
+    "difficulty": "easy",
+    "explanation": "TB prevention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_023",
+    "question": "OPV vaccine prevents:",
+    "options": [
+      "Polio",
+      "TB",
+      "Hepatitis",
+      "Flu"
+    ],
+    "answer": "Polio",
+    "difficulty": "easy",
+    "explanation": "Oral polio vaccine.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_024",
+    "question": "DPT vaccine protects against:",
+    "options": [
+      "Diphtheria, Pertussis, Tetanus",
+      "TB only",
+      "Flu",
+      "Malaria"
+    ],
+    "answer": "Diphtheria, Pertussis, Tetanus",
+    "difficulty": "medium",
+    "explanation": "Triple vaccine.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_025",
+    "question": "Hepatitis B vaccine prevents:",
+    "options": [
+      "Liver infection",
+      "Lung disease",
+      "Heart disease",
+      "Eye infection"
+    ],
+    "answer": "Liver infection",
+    "difficulty": "easy",
+    "explanation": "HBV prevention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_026",
+    "question": "Measles vaccine is given at:",
+    "options": [
+      "9 months",
+      "Birth",
+      "1 year",
+      "5 years"
+    ],
+    "answer": "9 months",
+    "difficulty": "medium",
+    "explanation": "Standard schedule.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_027",
+    "question": "Vitamin A deficiency causes:",
+    "options": [
+      "Night blindness",
+      "Scurvy",
+      "Rickets",
+      "Anemia"
+    ],
+    "answer": "Night blindness",
+    "difficulty": "easy",
+    "explanation": "Vision impairment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_028",
+    "question": "ORS is used in:",
+    "options": [
+      "Diarrhea",
+      "Fever",
+      "Cough",
+      "Headache"
+    ],
+    "answer": "Diarrhea",
+    "difficulty": "easy",
+    "explanation": "Prevents dehydration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_029",
+    "question": "ORS stands for:",
+    "options": [
+      "Oral Rehydration Solution",
+      "Oral Recovery System",
+      "None",
+      "Oxygen Replacement Solution"
+    ],
+    "answer": "Oral Rehydration Solution",
+    "difficulty": "easy",
+    "explanation": "Fluid replacement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_030",
+    "question": "Most important cause of diarrhea in children:",
+    "options": [
+      "Infection",
+      "Cold",
+      "Fever",
+      "Allergy"
+    ],
+    "answer": "Infection",
+    "difficulty": "easy",
+    "explanation": "Bacterial/viral causes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_031",
+    "question": "Maternal mortality rate measures:",
+    "options": [
+      "Deaths in pregnancy",
+      "Births",
+      "Infections",
+      "Vaccines"
+    ],
+    "answer": "Deaths in pregnancy",
+    "difficulty": "medium",
+    "explanation": "Maternal death per 100,000 births.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_032",
+    "question": "Infant mortality rate is:",
+    "options": [
+      "Deaths under 1 year",
+      "Deaths over 60",
+      "Birth rate",
+      "Disease rate"
+    ],
+    "answer": "Deaths under 1 year",
+    "difficulty": "easy",
+    "explanation": "Infant survival indicator.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_033",
+    "question": "Crude birth rate means:",
+    "options": [
+      "Live births per 1000 population",
+      "Deaths",
+      "Diseases",
+      "Vaccination"
+    ],
+    "answer": "Live births per 1000 population",
+    "difficulty": "medium",
+    "explanation": "Population indicator.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_034",
+    "question": "Family planning aims to:",
+    "options": [
+      "Control population",
+      "Increase disease",
+      "Increase death",
+      "None"
+    ],
+    "answer": "Control population",
+    "difficulty": "easy",
+    "explanation": "Birth spacing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_035",
+    "question": "Copper-T is a:",
+    "options": [
+      "IUCD",
+      "Tablet",
+      "Injection",
+      "Surgery"
+    ],
+    "answer": "IUCD",
+    "difficulty": "easy",
+    "explanation": "Intrauterine device.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_036",
+    "question": "Condom prevents:",
+    "options": [
+      "STI and pregnancy",
+      "Only pregnancy",
+      "Only STI",
+      "None"
+    ],
+    "answer": "STI and pregnancy",
+    "difficulty": "easy",
+    "explanation": "Barrier method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_037",
+    "question": "Most effective contraceptive method:",
+    "options": [
+      "Sterilization",
+      "Pills",
+      "Condom",
+      "IUCD"
+    ],
+    "answer": "Sterilization",
+    "difficulty": "medium",
+    "explanation": "Permanent method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_038",
+    "question": "DOTS is used in treatment of:",
+    "options": [
+      "Tuberculosis",
+      "Diabetes",
+      "Malaria",
+      "Flu"
+    ],
+    "answer": "Tuberculosis",
+    "difficulty": "easy",
+    "explanation": "Direct observed therapy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_039",
+    "question": "National TB program in India is called:",
+    "options": [
+      "RNTCP",
+      "NHP",
+      "UIP",
+      "NRHM"
+    ],
+    "answer": "RNTCP",
+    "difficulty": "medium",
+    "explanation": "Revised TB control program.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_040",
+    "question": "Malaria is caused by:",
+    "options": [
+      "Plasmodium",
+      "Virus",
+      "Bacteria",
+      "Fungus"
+    ],
+    "answer": "Plasmodium",
+    "difficulty": "easy",
+    "explanation": "Protozoan parasite.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_041",
+    "question": "Vector of malaria is:",
+    "options": [
+      "Female Anopheles mosquito",
+      "Housefly",
+      "Tick",
+      "Worm"
+    ],
+    "answer": "Female Anopheles mosquito",
+    "difficulty": "easy",
+    "explanation": "Disease transmission vector.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_042",
+    "question": "Dengue is transmitted by:",
+    "options": [
+      "Aedes mosquito",
+      "Anopheles",
+      "Housefly",
+      "Worm"
+    ],
+    "answer": "Aedes mosquito",
+    "difficulty": "easy",
+    "explanation": "Day-biting mosquito.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_043",
+    "question": "Typhoid is caused by:",
+    "options": [
+      "Salmonella typhi",
+      "Virus",
+      "Fungus",
+      "Parasite"
+    ],
+    "answer": "Salmonella typhi",
+    "difficulty": "easy",
+    "explanation": "Bacterial infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_044",
+    "question": "HIV is transmitted through:",
+    "options": [
+      "Blood and sexual contact",
+      "Air",
+      "Food",
+      "Water"
+    ],
+    "answer": "Blood and sexual contact",
+    "difficulty": "easy",
+    "explanation": "Body fluid transmission.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_045",
+    "question": "HIV affects:",
+    "options": [
+      "Immune system",
+      "Heart",
+      "Liver",
+      "Bones"
+    ],
+    "answer": "Immune system",
+    "difficulty": "easy",
+    "explanation": "CD4 cells affected.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_046",
+    "question": "Most important HIV prevention:",
+    "options": [
+      "Safe sex",
+      "Diet",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Safe sex",
+    "difficulty": "easy",
+    "explanation": "Barrier protection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_047",
+    "question": "DOTS strategy is based on:",
+    "options": [
+      "TB control",
+      "Cancer control",
+      "Diabetes",
+      "Malaria"
+    ],
+    "answer": "TB control",
+    "difficulty": "easy",
+    "explanation": "Observed treatment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_048",
+    "question": "Health education means:",
+    "options": [
+      "Teaching health behavior",
+      "Surgery",
+      "Medicine only",
+      "Hospital care"
+    ],
+    "answer": "Teaching health behavior",
+    "difficulty": "easy",
+    "explanation": "Behavior change communication.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_049",
+    "question": "Most important method of health education:",
+    "options": [
+      "Demonstration",
+      "Lecture only",
+      "Reading only",
+      "None"
+    ],
+    "answer": "Demonstration",
+    "difficulty": "medium",
+    "explanation": "Practical learning.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_050",
+    "question": "Community participation means:",
+    "options": [
+      "People involvement in health programs",
+      "Hospital control",
+      "Doctor control",
+      "None"
+    ],
+    "answer": "People involvement in health programs",
+    "difficulty": "easy",
+    "explanation": "Local engagement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_051",
+    "question": "Most important health indicator:",
+    "options": [
+      "Life expectancy",
+      "Income",
+      "Height",
+      "Weight"
+    ],
+    "answer": "Life expectancy",
+    "difficulty": "medium",
+    "explanation": "Overall health status.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_052",
+    "question": "Environmental health deals with:",
+    "options": [
+      "Sanitation",
+      "Surgery",
+      "Drugs",
+      "Genes"
+    ],
+    "answer": "Sanitation",
+    "difficulty": "easy",
+    "explanation": "Clean environment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_053",
+    "question": "Safe drinking water standard is:",
+    "options": [
+      "Free from contamination",
+      "Colored",
+      "Hot",
+      "Sweet"
+    ],
+    "answer": "Free from contamination",
+    "difficulty": "easy",
+    "explanation": "Clean water.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_054",
+    "question": "Sanitation refers to:",
+    "options": [
+      "Hygienic disposal of waste",
+      "Medicine",
+      "Surgery",
+      "Food only"
+    ],
+    "answer": "Hygienic disposal of waste",
+    "difficulty": "easy",
+    "explanation": "Waste management.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_055",
+    "question": "Immunization protects against:",
+    "options": [
+      "Communicable diseases",
+      "Injury",
+      "Cancer only",
+      "None"
+    ],
+    "answer": "Communicable diseases",
+    "difficulty": "easy",
+    "explanation": "Prevents infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_056",
+    "question": "Cold chain failure affects:",
+    "options": [
+      "Vaccine potency",
+      "Blood pressure",
+      "Sugar",
+      "Heart rate"
+    ],
+    "answer": "Vaccine potency",
+    "difficulty": "medium",
+    "explanation": "Temperature sensitive vaccines.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_057",
+    "question": "Maternal mortality is expressed per:",
+    "options": [
+      "100,000 live births",
+      "1000 population",
+      "100 births",
+      "10,000 cases"
+    ],
+    "answer": "100,000 live births",
+    "difficulty": "medium",
+    "explanation": "Standard WHO measure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_058",
+    "question": "Infant mortality rate is per:",
+    "options": [
+      "1000 live births",
+      "100 births",
+      "100,000 population",
+      "10 births"
+    ],
+    "answer": "1000 live births",
+    "difficulty": "medium",
+    "explanation": "Standard indicator.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_059",
+    "question": "Population explosion means:",
+    "options": [
+      "Rapid increase in population",
+      "Decrease",
+      "Stable population",
+      "None"
+    ],
+    "answer": "Rapid increase in population",
+    "difficulty": "easy",
+    "explanation": "High birth rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_060",
+    "question": "Final goal of community health nursing is:",
+    "options": [
+      "Better community health",
+      "Hospital building",
+      "Medicine use",
+      "Surgery"
+    ],
+    "answer": "Better community health",
+    "difficulty": "easy",
+    "explanation": "Overall wellbeing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_061",
+    "question": "Which program focuses on maternal and child health in India?",
+    "options": [
+      "RMNCH+A",
+      "NACO",
+      "NPCDCS",
+      "NTCP"
+    ],
+    "answer": "RMNCH+A",
+    "difficulty": "medium",
+    "explanation": "Reproductive, Maternal, Newborn, Child and Adolescent Health program.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_062",
+    "question": "Full form of RMNCH+A is:",
+    "options": [
+      "Reproductive Maternal Newborn Child and Adolescent Health",
+      "Rural Medical National Care Health",
+      "None",
+      "Regional Maternal Care"
+    ],
+    "answer": "Reproductive Maternal Newborn Child and Adolescent Health",
+    "difficulty": "medium",
+    "explanation": "Integrated health program.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_063",
+    "question": "Most important aim of family welfare program:",
+    "options": [
+      "Population control",
+      "Hospital expansion",
+      "Surgery",
+      "Insurance"
+    ],
+    "answer": "Population control",
+    "difficulty": "easy",
+    "explanation": "Family planning and spacing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_064",
+    "question": "National Health Mission (NHM) was launched in:",
+    "options": [
+      "2005",
+      "1990",
+      "1980",
+      "2015"
+    ],
+    "answer": "2005",
+    "difficulty": "medium",
+    "explanation": "Integrated health mission.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_065",
+    "question": "ASHA worker is selected from:",
+    "options": [
+      "Village itself",
+      "City hospital",
+      "Private sector",
+      "Nursing college"
+    ],
+    "answer": "Village itself",
+    "difficulty": "easy",
+    "explanation": "Local female health worker.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_066",
+    "question": "ASHA full form is:",
+    "options": [
+      "Accredited Social Health Activist",
+      "Active Service Health Assistant",
+      "None",
+      "Area Social Health Agent"
+    ],
+    "answer": "Accredited Social Health Activist",
+    "difficulty": "easy",
+    "explanation": "Community link worker.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_067",
+    "question": "ASHAs mainly work in:",
+    "options": [
+      "Rural areas",
+      "ICU",
+      "Operation theatre",
+      "Laboratory"
+    ],
+    "answer": "Rural areas",
+    "difficulty": "easy",
+    "explanation": "Village health promotion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_068",
+    "question": "Village Health Sanitation and Nutrition Committee is part of:",
+    "options": [
+      "Community participation",
+      "Hospital system",
+      "Private system",
+      "None"
+    ],
+    "answer": "Community participation",
+    "difficulty": "medium",
+    "explanation": "Local governance in health.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_069",
+    "question": "National Vector Borne Disease Control Program (NVBDCP) targets:",
+    "options": [
+      "Malaria",
+      "Diabetes",
+      "Cancer",
+      "Heart disease"
+    ],
+    "answer": "Malaria",
+    "difficulty": "medium",
+    "explanation": "Vector borne diseases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_070",
+    "question": "Vector control means:",
+    "options": [
+      "Controlling disease carriers",
+      "Treating patients",
+      "Surgery",
+      "Medication only"
+    ],
+    "answer": "Controlling disease carriers",
+    "difficulty": "easy",
+    "explanation": "Mosquito control etc.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_071",
+    "question": "Most effective method of vector control:",
+    "options": [
+      "Source reduction",
+      "Medicine",
+      "Surgery",
+      "Vaccination"
+    ],
+    "answer": "Source reduction",
+    "difficulty": "medium",
+    "explanation": "Destroy breeding sites.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_072",
+    "question": "National AIDS Control Organization (NACO) deals with:",
+    "options": [
+      "HIV/AIDS",
+      "TB",
+      "Malaria",
+      "Diabetes"
+    ],
+    "answer": "HIV/AIDS",
+    "difficulty": "easy",
+    "explanation": "HIV prevention program.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_073",
+    "question": "HIV test used for screening:",
+    "options": [
+      "ELISA",
+      "X-ray",
+      "CT scan",
+      "MRI"
+    ],
+    "answer": "ELISA",
+    "difficulty": "medium",
+    "explanation": "Antibody detection test.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_074",
+    "question": "Window period in HIV is:",
+    "options": [
+      "Time before antibodies appear",
+      "Fever period",
+      "Recovery phase",
+      "None"
+    ],
+    "answer": "Time before antibodies appear",
+    "difficulty": "hard",
+    "explanation": "Early infection stage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_075",
+    "question": "Universal precautions are used to prevent:",
+    "options": [
+      "Infections",
+      "Fractures",
+      "Cancer",
+      "Diabetes"
+    ],
+    "answer": "Infections",
+    "difficulty": "easy",
+    "explanation": "Bloodborne infection prevention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_076",
+    "question": "Hand hygiene is best method to prevent:",
+    "options": [
+      "Infection",
+      "Fracture",
+      "Cancer",
+      "Diabetes"
+    ],
+    "answer": "Infection",
+    "difficulty": "easy",
+    "explanation": "Basic infection control.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_077",
+    "question": "Best time for hand washing:",
+    "options": [
+      "Before and after patient contact",
+      "Only morning",
+      "Only evening",
+      "Never"
+    ],
+    "answer": "Before and after patient contact",
+    "difficulty": "easy",
+    "explanation": "WHO guideline.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_078",
+    "question": "Most common hospital infection:",
+    "options": [
+      "UTI",
+      "Cold",
+      "Headache",
+      "Allergy"
+    ],
+    "answer": "UTI",
+    "difficulty": "medium",
+    "explanation": "Catheter related infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_079",
+    "question": "Biomedical waste color for infectious waste:",
+    "options": [
+      "Yellow",
+      "Blue",
+      "Green",
+      "White"
+    ],
+    "answer": "Yellow",
+    "difficulty": "medium",
+    "explanation": "Discarded infectious materials.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_080",
+    "question": "Sharps waste is disposed in:",
+    "options": [
+      "White container",
+      "Yellow bag",
+      "Blue bag",
+      "Green bag"
+    ],
+    "answer": "White container",
+    "difficulty": "medium",
+    "explanation": "Puncture-proof container.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_081",
+    "question": "Most important step in infection prevention:",
+    "options": [
+      "Hand hygiene",
+      "Medicine",
+      "Exercise",
+      "Diet"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Primary prevention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_082",
+    "question": "Isolation means:",
+    "options": [
+      "Separating infected patient",
+      "Group care",
+      "Vaccination",
+      "None"
+    ],
+    "answer": "Separating infected patient",
+    "difficulty": "easy",
+    "explanation": "Prevent spread.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_083",
+    "question": "Quarantine is used for:",
+    "options": [
+      "Exposed individuals",
+      "Healthy people",
+      "Doctors",
+      "Nurses"
+    ],
+    "answer": "Exposed individuals",
+    "difficulty": "medium",
+    "explanation": "Observation period.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_084",
+    "question": "Incubation period means:",
+    "options": [
+      "Time between infection and symptoms",
+      "Recovery time",
+      "Death time",
+      "None"
+    ],
+    "answer": "Time between infection and symptoms",
+    "difficulty": "medium",
+    "explanation": "Disease development phase.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_085",
+    "question": "Most important source of infection:",
+    "options": [
+      "Patient",
+      "Water",
+      "Air",
+      "Food"
+    ],
+    "answer": "Patient",
+    "difficulty": "easy",
+    "explanation": "Infected person.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_086",
+    "question": "Host in epidemiology means:",
+    "options": [
+      "Human body",
+      "Virus",
+      "Mosquito",
+      "Drug"
+    ],
+    "answer": "Human body",
+    "difficulty": "easy",
+    "explanation": "Organism living environment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_087",
+    "question": "Agent in disease triad is:",
+    "options": [
+      "Causative organism",
+      "Human",
+      "Environment",
+      "Hospital"
+    ],
+    "answer": "Causative organism",
+    "difficulty": "easy",
+    "explanation": "Disease cause.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_088",
+    "question": "Environment in epidemiology refers to:",
+    "options": [
+      "External factors",
+      "Human body",
+      "Virus",
+      "Medicine"
+    ],
+    "answer": "External factors",
+    "difficulty": "easy",
+    "explanation": "Surroundings affecting health.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_089",
+    "question": "Endemic disease means:",
+    "options": [
+      "Constantly present in area",
+      "Rare disease",
+      "Imported disease",
+      "None"
+    ],
+    "answer": "Constantly present in area",
+    "difficulty": "medium",
+    "explanation": "Local occurrence.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_090",
+    "question": "Epidemic means:",
+    "options": [
+      "Sudden increase in cases",
+      "No disease",
+      "Old cases",
+      "Recovery"
+    ],
+    "answer": "Sudden increase in cases",
+    "difficulty": "easy",
+    "explanation": "Outbreak in area.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_091",
+    "question": "Pandemic means:",
+    "options": [
+      "Worldwide epidemic",
+      "Local disease",
+      "Hospital infection",
+      "None"
+    ],
+    "answer": "Worldwide epidemic",
+    "difficulty": "easy",
+    "explanation": "Global spread.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_092",
+    "question": "COVID-19 is an example of:",
+    "options": [
+      "Pandemic",
+      "Endemic",
+      "Epidemic",
+      "None"
+    ],
+    "answer": "Pandemic",
+    "difficulty": "easy",
+    "explanation": "Global outbreak.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_093",
+    "question": "Most important COVID prevention:",
+    "options": [
+      "Mask",
+      "Sugar intake",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Mask",
+    "difficulty": "easy",
+    "explanation": "Respiratory protection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_094",
+    "question": "Social distancing helps to prevent:",
+    "options": [
+      "Infection spread",
+      "Fracture",
+      "Cancer",
+      "Diabetes"
+    ],
+    "answer": "Infection spread",
+    "difficulty": "easy",
+    "explanation": "Reduces transmission.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_095",
+    "question": "Most important community nursing role:",
+    "options": [
+      "Health education",
+      "Surgery",
+      "Radiology",
+      "ICU care"
+    ],
+    "answer": "Health education",
+    "difficulty": "easy",
+    "explanation": "Preventive care focus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_096",
+    "question": "School health program focuses on:",
+    "options": [
+      "Children health",
+      "Adults only",
+      "Elderly only",
+      "None"
+    ],
+    "answer": "Children health",
+    "difficulty": "easy",
+    "explanation": "School children care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_097",
+    "question": "Most important school health activity:",
+    "options": [
+      "Immunization",
+      "Surgery",
+      "ICU care",
+      "Radiology"
+    ],
+    "answer": "Immunization",
+    "difficulty": "easy",
+    "explanation": "Vaccination program.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_098",
+    "question": "Rural health services are mainly provided by:",
+    "options": [
+      "PHC",
+      "ICU",
+      "Private hospital",
+      "Lab"
+    ],
+    "answer": "PHC",
+    "difficulty": "easy",
+    "explanation": "Primary care center.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_099",
+    "question": "Urban health centers are called:",
+    "options": [
+      "UHC",
+      "PHC",
+      "CHC",
+      "ICU"
+    ],
+    "answer": "UHC",
+    "difficulty": "medium",
+    "explanation": "Urban health system.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_100",
+    "question": "Final goal of epidemiology is:",
+    "options": [
+      "Disease control",
+      "Hospital building",
+      "Drug production",
+      "Surgery"
+    ],
+    "answer": "Disease control",
+    "difficulty": "easy",
+    "explanation": "Prevent outbreaks.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_101",
+    "question": "National Immunization Day in India is for:",
+    "options": [
+      "Polio eradication",
+      "TB",
+      "Malaria",
+      "HIV"
+    ],
+    "answer": "Polio eradication",
+    "difficulty": "medium",
+    "explanation": "Pulse polio program.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_102",
+    "question": "Pulse Polio Immunization uses:",
+    "options": [
+      "OPV",
+      "BCG",
+      "DPT",
+      "Hep B"
+    ],
+    "answer": "OPV",
+    "difficulty": "easy",
+    "explanation": "Oral polio vaccine.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_103",
+    "question": "Cold chain break leads to:",
+    "options": [
+      "Vaccine failure",
+      "Better immunity",
+      "No effect",
+      "Pain"
+    ],
+    "answer": "Vaccine failure",
+    "difficulty": "medium",
+    "explanation": "Loss of potency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_104",
+    "question": "Most important storage temperature for vaccines:",
+    "options": [
+      "2–8°C",
+      "20°C",
+      "50°C",
+      "0°C only"
+    ],
+    "answer": "2–8°C",
+    "difficulty": "medium",
+    "explanation": "Cold chain standard.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_105",
+    "question": "Most important health worker at village level:",
+    "options": [
+      "ASHA",
+      "Doctor",
+      "Surgeon",
+      "Specialist"
+    ],
+    "answer": "ASHA",
+    "difficulty": "easy",
+    "explanation": "Community link worker.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_106",
+    "question": "National Health Policy focuses on:",
+    "options": [
+      "Universal health coverage",
+      "Private care only",
+      "Surgery",
+      "ICU expansion"
+    ],
+    "answer": "Universal health coverage",
+    "difficulty": "medium",
+    "explanation": "Health for all.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_107",
+    "question": "Health promotion means:",
+    "options": [
+      "Improving health status",
+      "Treating disease",
+      "Surgery",
+      "None"
+    ],
+    "answer": "Improving health status",
+    "difficulty": "easy",
+    "explanation": "Preventive approach.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_108",
+    "question": "Most important determinant of health:",
+    "options": [
+      "Environment",
+      "Hospital",
+      "Drugs",
+      "Surgery"
+    ],
+    "answer": "Environment",
+    "difficulty": "medium",
+    "explanation": "Surroundings affect health.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_109",
+    "question": "Most important factor in disease prevention:",
+    "options": [
+      "Immunization",
+      "Surgery",
+      "Drugs",
+      "ICU"
+    ],
+    "answer": "Immunization",
+    "difficulty": "easy",
+    "explanation": "Primary prevention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_110",
+    "question": "Community diagnosis means:",
+    "options": [
+      "Health status assessment",
+      "Surgery",
+      "Lab test",
+      "None"
+    ],
+    "answer": "Health status assessment",
+    "difficulty": "medium",
+    "explanation": "Community survey.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_111",
+    "question": "Most important health survey tool:",
+    "options": [
+      "Questionnaire",
+      "Surgery",
+      "Drugs",
+      "MRI"
+    ],
+    "answer": "Questionnaire",
+    "difficulty": "easy",
+    "explanation": "Data collection method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_112",
+    "question": "Epidemic control starts with:",
+    "options": [
+      "Surveillance",
+      "Surgery",
+      "ICU",
+      "Drugs only"
+    ],
+    "answer": "Surveillance",
+    "difficulty": "medium",
+    "explanation": "Monitoring disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_113",
+    "question": "Most important disease reporting system:",
+    "options": [
+      "IDSP",
+      "ICU",
+      "OPD",
+      "OT"
+    ],
+    "answer": "IDSP",
+    "difficulty": "medium",
+    "explanation": "Integrated Disease Surveillance Program.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_114",
+    "question": "Most important vector control method:",
+    "options": [
+      "Insecticide spray",
+      "Surgery",
+      "Drugs",
+      "ICU"
+    ],
+    "answer": "Insecticide spray",
+    "difficulty": "easy",
+    "explanation": "Mosquito control.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_115",
+    "question": "Mosquito breeding occurs in:",
+    "options": [
+      "Stagnant water",
+      "Fire",
+      "Air",
+      "Snow"
+    ],
+    "answer": "Stagnant water",
+    "difficulty": "easy",
+    "explanation": "Standing water source.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_116",
+    "question": "Most important sanitation practice:",
+    "options": [
+      "Waste disposal",
+      "Surgery",
+      "ICU",
+      "Drugs"
+    ],
+    "answer": "Waste disposal",
+    "difficulty": "easy",
+    "explanation": "Clean environment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_117",
+    "question": "Open defecation leads to:",
+    "options": [
+      "Disease spread",
+      "Health improvement",
+      "None",
+      "Fitness"
+    ],
+    "answer": "Disease spread",
+    "difficulty": "easy",
+    "explanation": "Contamination risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_118",
+    "question": "Swachh Bharat Mission focuses on:",
+    "options": [
+      "Sanitation",
+      "Surgery",
+      "ICU",
+      "Medicine"
+    ],
+    "answer": "Sanitation",
+    "difficulty": "easy",
+    "explanation": "Clean India initiative.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_119",
+    "question": "Health statistics are used for:",
+    "options": [
+      "Planning",
+      "Surgery",
+      "Drug making",
+      "None"
+    ],
+    "answer": "Planning",
+    "difficulty": "medium",
+    "explanation": "Health program design.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_120",
+    "question": "Final objective of community health nursing is:",
+    "options": [
+      "Better quality of life",
+      "Hospital expansion",
+      "Surgery",
+      "Medication"
+    ],
+    "answer": "Better quality of life",
+    "difficulty": "easy",
+    "explanation": "Overall wellbeing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_121",
+    "question": "Most important indicator of maternal health:",
+    "options": [
+      "MMR",
+      "IMR",
+      "BMI",
+      "BP"
+    ],
+    "answer": "MMR",
+    "difficulty": "medium",
+    "explanation": "Maternal Mortality Rate reflects maternal health status.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_122",
+    "question": "MMR stands for:",
+    "options": [
+      "Maternal Mortality Rate",
+      "Medical Mortality Ratio",
+      "Maternal Morbidity Rate",
+      "None"
+    ],
+    "answer": "Maternal Mortality Rate",
+    "difficulty": "easy",
+    "explanation": "Deaths during pregnancy per 100,000 live births.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_123",
+    "question": "High MMR indicates:",
+    "options": [
+      "Poor maternal care",
+      "Good hospitals",
+      "Low population",
+      "Healthy society"
+    ],
+    "answer": "Poor maternal care",
+    "difficulty": "medium",
+    "explanation": "Reflects health system weakness.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_124",
+    "question": "Safe motherhood includes:",
+    "options": [
+      "Antenatal care",
+      "Surgery",
+      "ICU care",
+      "Radiology"
+    ],
+    "answer": "Antenatal care",
+    "difficulty": "easy",
+    "explanation": "Care during pregnancy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_125",
+    "question": "Minimum number of antenatal visits recommended:",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "10"
+    ],
+    "answer": "4",
+    "difficulty": "easy",
+    "explanation": "WHO minimum standard.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_126",
+    "question": "Iron and folic acid tablets prevent:",
+    "options": [
+      "Anemia",
+      "Diabetes",
+      "TB",
+      "Malaria"
+    ],
+    "answer": "Anemia",
+    "difficulty": "easy",
+    "explanation": "Prevents iron deficiency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_127",
+    "question": "Tetanus toxoid vaccine is given in:",
+    "options": [
+      "Pregnancy",
+      "Childhood only",
+      "Old age",
+      "None"
+    ],
+    "answer": "Pregnancy",
+    "difficulty": "easy",
+    "explanation": "Prevents neonatal tetanus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_128",
+    "question": "Most important sign of pregnancy:",
+    "options": [
+      "Fetal heartbeat",
+      "Nausea",
+      "Headache",
+      "Fever"
+    ],
+    "answer": "Fetal heartbeat",
+    "difficulty": "medium",
+    "explanation": "Positive sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_129",
+    "question": "High-risk pregnancy includes:",
+    "options": [
+      "Hypertension",
+      "Normal pregnancy",
+      "Healthy woman",
+      "None"
+    ],
+    "answer": "Hypertension",
+    "difficulty": "medium",
+    "explanation": "Complicated pregnancy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_130",
+    "question": "Eclampsia is characterized by:",
+    "options": [
+      "Seizures in pregnancy",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Seizures in pregnancy",
+    "difficulty": "medium",
+    "explanation": "Complication of preeclampsia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_131",
+    "question": "Normal duration of pregnancy is:",
+    "options": [
+      "280 days",
+      "200 days",
+      "300 days",
+      "150 days"
+    ],
+    "answer": "280 days",
+    "difficulty": "easy",
+    "explanation": "40 weeks gestation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_132",
+    "question": "Partograph is used to monitor:",
+    "options": [
+      "Labor",
+      "BP",
+      "Sugar",
+      "Fever"
+    ],
+    "answer": "Labor",
+    "difficulty": "medium",
+    "explanation": "Labor progress chart.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_133",
+    "question": "Active phase of labor starts at:",
+    "options": [
+      "4 cm dilation",
+      "1 cm",
+      "10 cm",
+      "0 cm"
+    ],
+    "answer": "4 cm dilation",
+    "difficulty": "hard",
+    "explanation": "Cervical dilation phase.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_134",
+    "question": "Third stage of labor is:",
+    "options": [
+      "Placenta delivery",
+      "Cervical dilation",
+      "Pregnancy",
+      "None"
+    ],
+    "answer": "Placenta delivery",
+    "difficulty": "easy",
+    "explanation": "After baby birth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_135",
+    "question": "Postnatal period lasts:",
+    "options": [
+      "6 weeks",
+      "1 week",
+      "1 year",
+      "3 months"
+    ],
+    "answer": "6 weeks",
+    "difficulty": "easy",
+    "explanation": "Post delivery recovery.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_136",
+    "question": "Exclusive breastfeeding means:",
+    "options": [
+      "Only breast milk for 6 months",
+      "Milk + water",
+      "Formula feeding",
+      "None"
+    ],
+    "answer": "Only breast milk for 6 months",
+    "difficulty": "easy",
+    "explanation": "WHO recommendation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_137",
+    "question": "Colostrum is:",
+    "options": [
+      "First milk",
+      "Water",
+      "Blood",
+      "None"
+    ],
+    "answer": "First milk",
+    "difficulty": "easy",
+    "explanation": "Rich in antibodies.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_138",
+    "question": "Most important benefit of breastfeeding:",
+    "options": [
+      "Immunity",
+      "Weight gain",
+      "Fever",
+      "None"
+    ],
+    "answer": "Immunity",
+    "difficulty": "easy",
+    "explanation": "Protects newborn.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_139",
+    "question": "Complementary feeding starts at:",
+    "options": [
+      "6 months",
+      "2 months",
+      "1 year",
+      "3 months"
+    ],
+    "answer": "6 months",
+    "difficulty": "easy",
+    "explanation": "After exclusive breastfeeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_140",
+    "question": "Low birth weight means:",
+    "options": [
+      "<2.5 kg",
+      ">3 kg",
+      "<1 kg",
+      "Normal weight"
+    ],
+    "answer": "<2.5 kg",
+    "difficulty": "easy",
+    "explanation": "Risk factor for mortality.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_141",
+    "question": "Neonatal period is first:",
+    "options": [
+      "28 days",
+      "1 year",
+      "6 months",
+      "7 days"
+    ],
+    "answer": "28 days",
+    "difficulty": "easy",
+    "explanation": "Newborn phase.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_142",
+    "question": "Infant means age:",
+    "options": [
+      "0–1 year",
+      "1–5 years",
+      "5–10 years",
+      "Adult"
+    ],
+    "answer": "0–1 year",
+    "difficulty": "easy",
+    "explanation": "Infancy period.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_143",
+    "question": "Growth monitoring uses:",
+    "options": [
+      "Growth chart",
+      "BP cuff",
+      "Stethoscope",
+      "ECG"
+    ],
+    "answer": "Growth chart",
+    "difficulty": "easy",
+    "explanation": "Child growth tracking.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_144",
+    "question": "Under-five mortality rate is:",
+    "options": [
+      "Deaths under 5 years",
+      "Birth rate",
+      "Adult deaths",
+      "None"
+    ],
+    "answer": "Deaths under 5 years",
+    "difficulty": "medium",
+    "explanation": "Child health indicator.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_145",
+    "question": "Most common cause of child death:",
+    "options": [
+      "Infection",
+      "Accident",
+      "Cancer",
+      "Stroke"
+    ],
+    "answer": "Infection",
+    "difficulty": "medium",
+    "explanation": "Diarrhea and pneumonia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_146",
+    "question": "School health screening includes:",
+    "options": [
+      "Vision test",
+      "Surgery",
+      "ICU care",
+      "CT scan"
+    ],
+    "answer": "Vision test",
+    "difficulty": "easy",
+    "explanation": "Routine check-up.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_147",
+    "question": "Adolescent age group is:",
+    "options": [
+      "10–19 years",
+      "0–5 years",
+      "20–30 years",
+      "30–40 years"
+    ],
+    "answer": "10–19 years",
+    "difficulty": "easy",
+    "explanation": "WHO definition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_148",
+    "question": "Anemia is common in:",
+    "options": [
+      "Pregnant women",
+      "Men only",
+      "Doctors",
+      "None"
+    ],
+    "answer": "Pregnant women",
+    "difficulty": "easy",
+    "explanation": "Iron deficiency risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_149",
+    "question": "Balanced diet means:",
+    "options": [
+      "All nutrients in proper amount",
+      "Only protein",
+      "Only carbs",
+      "Only fat"
+    ],
+    "answer": "All nutrients in proper amount",
+    "difficulty": "easy",
+    "explanation": "Proper nutrition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_150",
+    "question": "Most important micronutrient deficiency:",
+    "options": [
+      "Iron",
+      "Protein",
+      "Fat",
+      "Carbs"
+    ],
+    "answer": "Iron",
+    "difficulty": "easy",
+    "explanation": "Most common deficiency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_151",
+    "question": "Goiter is caused by deficiency of:",
+    "options": [
+      "Iodine",
+      "Iron",
+      "Calcium",
+      "Vitamin A"
+    ],
+    "answer": "Iodine",
+    "difficulty": "easy",
+    "explanation": "Thyroid enlargement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_152",
+    "question": "Rickets is caused by deficiency of:",
+    "options": [
+      "Vitamin D",
+      "Vitamin C",
+      "Iron",
+      "Protein"
+    ],
+    "answer": "Vitamin D",
+    "difficulty": "easy",
+    "explanation": "Bone disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_153",
+    "question": "Scurvy is caused by deficiency of:",
+    "options": [
+      "Vitamin C",
+      "Vitamin D",
+      "Iron",
+      "Calcium"
+    ],
+    "answer": "Vitamin C",
+    "difficulty": "easy",
+    "explanation": "Bleeding gums.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_154",
+    "question": "Most important source of Vitamin D:",
+    "options": [
+      "Sunlight",
+      "Milk",
+      "Rice",
+      "Water"
+    ],
+    "answer": "Sunlight",
+    "difficulty": "easy",
+    "explanation": "Skin synthesis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_155",
+    "question": "Health indicator used worldwide:",
+    "options": [
+      "Life expectancy",
+      "Income",
+      "Education",
+      "Height"
+    ],
+    "answer": "Life expectancy",
+    "difficulty": "medium",
+    "explanation": "Global health measure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_156",
+    "question": "Health planning is based on:",
+    "options": [
+      "Data",
+      "Guess",
+      "Opinion",
+      "None"
+    ],
+    "answer": "Data",
+    "difficulty": "easy",
+    "explanation": "Statistical analysis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_157",
+    "question": "Most important tool of epidemiology:",
+    "options": [
+      "Surveillance",
+      "Surgery",
+      "Drugs",
+      "ICU"
+    ],
+    "answer": "Surveillance",
+    "difficulty": "medium",
+    "explanation": "Disease tracking.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_158",
+    "question": "Outbreak investigation starts with:",
+    "options": [
+      "Case definition",
+      "Surgery",
+      "Treatment",
+      "ICU"
+    ],
+    "answer": "Case definition",
+    "difficulty": "hard",
+    "explanation": "Identifying cases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_159",
+    "question": "Most important prevention level in community health:",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "None"
+    ],
+    "answer": "Primary",
+    "difficulty": "easy",
+    "explanation": "Prevention before disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_160",
+    "question": "Health for all means:",
+    "options": [
+      "Universal health coverage",
+      "Private care",
+      "Hospital care",
+      "ICU care"
+    ],
+    "answer": "Universal health coverage",
+    "difficulty": "medium",
+    "explanation": "WHO goal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_161",
+    "question": "Most important goal of community health nursing:",
+    "options": [
+      "Health promotion",
+      "Surgery",
+      "ICU care",
+      "Radiology"
+    ],
+    "answer": "Health promotion",
+    "difficulty": "easy",
+    "explanation": "Preventive focus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_162",
+    "question": "Health education target audience:",
+    "options": [
+      "Community",
+      "Doctors only",
+      "Nurses only",
+      "Hospital only"
+    ],
+    "answer": "Community",
+    "difficulty": "easy",
+    "explanation": "Public awareness.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_163",
+    "question": "Best method of teaching in community:",
+    "options": [
+      "Demonstration",
+      "Lecture only",
+      "Reading",
+      "None"
+    ],
+    "answer": "Demonstration",
+    "difficulty": "medium",
+    "explanation": "Practical learning.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_164",
+    "question": "Most important communication tool:",
+    "options": [
+      "Verbal communication",
+      "Surgery",
+      "Drugs",
+      "Machine"
+    ],
+    "answer": "Verbal communication",
+    "difficulty": "easy",
+    "explanation": "Interaction method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_165",
+    "question": "Health survey helps in:",
+    "options": [
+      "Planning",
+      "Surgery",
+      "ICU",
+      "Drugs"
+    ],
+    "answer": "Planning",
+    "difficulty": "easy",
+    "explanation": "Program development.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_166",
+    "question": "Most important rural health problem:",
+    "options": [
+      "Infectious diseases",
+      "Cancer",
+      "Stroke",
+      "Heart disease"
+    ],
+    "answer": "Infectious diseases",
+    "difficulty": "medium",
+    "explanation": "Common in rural areas.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_167",
+    "question": "Urban health problem mainly:",
+    "options": [
+      "Lifestyle diseases",
+      "Infections only",
+      "None",
+      "Genetic"
+    ],
+    "answer": "Lifestyle diseases",
+    "difficulty": "medium",
+    "explanation": "Hypertension, diabetes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_168",
+    "question": "Most important cause of mortality worldwide:",
+    "options": [
+      "Non-communicable diseases",
+      "Injury only",
+      "Cold",
+      "None"
+    ],
+    "answer": "Non-communicable diseases",
+    "difficulty": "medium",
+    "explanation": "Heart disease, diabetes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_169",
+    "question": "Health insurance aims to:",
+    "options": [
+      "Financial protection",
+      "Surgery",
+      "ICU care",
+      "None"
+    ],
+    "answer": "Financial protection",
+    "difficulty": "easy",
+    "explanation": "Reduce out-of-pocket expense.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_170",
+    "question": "Ayushman Bharat scheme provides:",
+    "options": [
+      "Free health coverage",
+      "Only surgery",
+      "Only ICU",
+      "None"
+    ],
+    "answer": "Free health coverage",
+    "difficulty": "medium",
+    "explanation": "Health insurance scheme.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_171",
+    "question": "Health care delivery system includes:",
+    "options": [
+      "Primary, secondary, tertiary",
+      "Only hospitals",
+      "Only doctors",
+      "None"
+    ],
+    "answer": "Primary, secondary, tertiary",
+    "difficulty": "easy",
+    "explanation": "Three levels of care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_172",
+    "question": "Referral system means:",
+    "options": [
+      "Sending patient to higher center",
+      "Discharge",
+      "Home care",
+      "None"
+    ],
+    "answer": "Sending patient to higher center",
+    "difficulty": "easy",
+    "explanation": "Stepwise care system.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_173",
+    "question": "Most important level of care:",
+    "options": [
+      "Primary care",
+      "Tertiary care",
+      "Secondary care",
+      "ICU"
+    ],
+    "answer": "Primary care",
+    "difficulty": "medium",
+    "explanation": "First contact care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_174",
+    "question": "Health care worker closest to community:",
+    "options": [
+      "ASHA",
+      "Doctor",
+      "Surgeon",
+      "Specialist"
+    ],
+    "answer": "ASHA",
+    "difficulty": "easy",
+    "explanation": "Village level worker.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_175",
+    "question": "Most important health problem indicator:",
+    "options": [
+      "Morbidity rate",
+      "Height",
+      "Weight",
+      "Income"
+    ],
+    "answer": "Morbidity rate",
+    "difficulty": "medium",
+    "explanation": "Disease frequency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_176",
+    "question": "Health statistics are used for:",
+    "options": [
+      "Evaluation",
+      "Surgery",
+      "Drugs",
+      "None"
+    ],
+    "answer": "Evaluation",
+    "difficulty": "easy",
+    "explanation": "Program assessment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_177",
+    "question": "Most important surveillance system in India:",
+    "options": [
+      "IDSP",
+      "ICU",
+      "OT",
+      "OPD"
+    ],
+    "answer": "IDSP",
+    "difficulty": "medium",
+    "explanation": "Disease monitoring.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_178",
+    "question": "Community diagnosis helps in:",
+    "options": [
+      "Health planning",
+      "Surgery",
+      "ICU",
+      "Drugs"
+    ],
+    "answer": "Health planning",
+    "difficulty": "medium",
+    "explanation": "Identifying needs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_179",
+    "question": "Most important function of nurse in community:",
+    "options": [
+      "Health education",
+      "Surgery",
+      "Radiology",
+      "Lab work"
+    ],
+    "answer": "Health education",
+    "difficulty": "easy",
+    "explanation": "Awareness creation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  },
+  {
+    "id": "CHN_180",
+    "question": "Final objective of community health nursing is:",
+    "options": [
+      "Healthy society",
+      "Hospital expansion",
+      "Drug production",
+      "ICU care"
+    ],
+    "answer": "Healthy society",
+    "difficulty": "easy",
+    "explanation": "Overall community wellbeing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "COMMUNITY_HEALTH_NURSING"
+  }
+]

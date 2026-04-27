@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "CARD_001",
+    "question": "Normal adult heart rate is:",
+    "options": [
+      "60–100 bpm",
+      "40–60 bpm",
+      "100–120 bpm",
+      "120–140 bpm"
+    ],
+    "answer": "60–100 bpm",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_002",
+    "question": "Normal blood pressure in adult:",
+    "options": [
+      "120/80 mmHg",
+      "140/90 mmHg",
+      "100/60 mmHg",
+      "160/100 mmHg"
+    ],
+    "answer": "120/80 mmHg",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_003",
+    "question": "Pulse deficit is seen in:",
+    "options": [
+      "Atrial fibrillation",
+      "Bradycardia",
+      "Fever",
+      "Hypertension"
+    ],
+    "answer": "Atrial fibrillation",
+    "topic": "Arrhythmia",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_004",
+    "question": "Most common cause of chest pain:",
+    "options": [
+      "Myocardial infarction",
+      "Cold",
+      "Fever",
+      "Hair loss"
+    ],
+    "answer": "Myocardial infarction",
+    "topic": "Ischemic Heart Disease",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_005",
+    "question": "Myocardial infarction means:",
+    "options": [
+      "Heart muscle death",
+      "Heart infection",
+      "Heart growth",
+      "Normal heart function"
+    ],
+    "answer": "Heart muscle death",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_006",
+    "question": "Most important diagnostic test for MI:",
+    "options": [
+      "Troponin",
+      "Hemoglobin",
+      "WBC",
+      "Platelets"
+    ],
+    "answer": "Troponin",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_007",
+    "question": "ECG change in MI:",
+    "options": [
+      "ST elevation",
+      "T wave flattening only",
+      "No change",
+      "Bradycardia only"
+    ],
+    "answer": "ST elevation",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_008",
+    "question": "STEMI refers to:",
+    "options": [
+      "ST elevation MI",
+      "Stable angina",
+      "Shock",
+      "Arrhythmia"
+    ],
+    "answer": "ST elevation MI",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_009",
+    "question": "Most common symptom of MI:",
+    "options": [
+      "Chest pain",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Chest pain",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_010",
+    "question": "MI pain radiates to:",
+    "options": [
+      "Left arm",
+      "Right leg",
+      "Head only",
+      "Abdomen only"
+    ],
+    "answer": "Left arm",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_011",
+    "question": "First line drug in acute MI:",
+    "options": [
+      "Aspirin",
+      "Insulin",
+      "Antibiotics",
+      "Steroids"
+    ],
+    "answer": "Aspirin",
+    "topic": "MI Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_012",
+    "question": "Aspirin acts as:",
+    "options": [
+      "Antiplatelet",
+      "Antibiotic",
+      "Steroid",
+      "Painkiller only"
+    ],
+    "answer": "Antiplatelet",
+    "topic": "MI Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_013",
+    "question": "Nitroglycerin is used in:",
+    "options": [
+      "Angina",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Angina",
+    "topic": "Angina",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_014",
+    "question": "Angina is:",
+    "options": [
+      "Chest pain due to ischemia",
+      "Heart infection",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Chest pain due to ischemia",
+    "topic": "Angina",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_015",
+    "question": "Stable angina occurs:",
+    "options": [
+      "On exertion",
+      "At rest only",
+      "During sleep only",
+      "Randomly only"
+    ],
+    "answer": "On exertion",
+    "topic": "Angina",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_016",
+    "question": "Unstable angina occurs:",
+    "options": [
+      "At rest",
+      "Only exercise",
+      "Only sleep",
+      "Never at rest"
+    ],
+    "answer": "At rest",
+    "topic": "Angina",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_017",
+    "question": "Most dangerous arrhythmia:",
+    "options": [
+      "Ventricular fibrillation",
+      "Sinus rhythm",
+      "Bradycardia mild",
+      "Fever"
+    ],
+    "answer": "Ventricular fibrillation",
+    "topic": "Arrhythmia",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_018",
+    "question": "Ventricular fibrillation requires:",
+    "options": [
+      "Defibrillation",
+      "Antibiotics",
+      "Steroids",
+      "Rest only"
+    ],
+    "answer": "Defibrillation",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_019",
+    "question": "Defibrillation is used for:",
+    "options": [
+      "Shockable rhythm",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Shockable rhythm",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_020",
+    "question": "Asystole means:",
+    "options": [
+      "No cardiac activity",
+      "Fast heart rate",
+      "Irregular rhythm",
+      "High BP"
+    ],
+    "answer": "No cardiac activity",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_021",
+    "question": "CPR compression rate:",
+    "options": [
+      "100–120/min",
+      "60/min",
+      "80/min",
+      "40/min"
+    ],
+    "answer": "100–120/min",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_022",
+    "question": "Compression to ventilation ratio (adult):",
+    "options": [
+      "30:2",
+      "15:2",
+      "10:1",
+      "5:1"
+    ],
+    "answer": "30:2",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_023",
+    "question": "First step in cardiac arrest:",
+    "options": [
+      "Check responsiveness",
+      "Give drugs",
+      "Defibrillate",
+      "Intubate"
+    ],
+    "answer": "Check responsiveness",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_024",
+    "question": "Most important drug in cardiac arrest:",
+    "options": [
+      "Adrenaline",
+      "Insulin",
+      "Antibiotics",
+      "Steroids"
+    ],
+    "answer": "Adrenaline",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_025",
+    "question": "Adrenaline is given every:",
+    "options": [
+      "3–5 minutes",
+      "10–15 min",
+      "1 hour",
+      "Only once"
+    ],
+    "answer": "3–5 minutes",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_026",
+    "question": "Hypertension means:",
+    "options": [
+      "High BP",
+      "Low BP",
+      "Normal BP",
+      "No BP"
+    ],
+    "answer": "High BP",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_027",
+    "question": "Normal BP range:",
+    "options": [
+      "120/80 mmHg",
+      "140/90",
+      "160/100",
+      "100/50"
+    ],
+    "answer": "120/80 mmHg",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_028",
+    "question": "Most common complication of hypertension:",
+    "options": [
+      "Stroke",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Stroke",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_029",
+    "question": "Hypertension affects mainly:",
+    "options": [
+      "Heart, brain, kidneys",
+      "Hair only",
+      "Skin only",
+      "Bones"
+    ],
+    "answer": "Heart, brain, kidneys",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_030",
+    "question": "Most important antihypertensive class:",
+    "options": [
+      "ACE inhibitors",
+      "Antibiotics",
+      "Steroids",
+      "Insulin"
+    ],
+    "answer": "ACE inhibitors",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_031",
+    "question": "Heart failure means:",
+    "options": [
+      "Heart cannot pump properly",
+      "Heart infection",
+      "Heart growth",
+      "Normal function"
+    ],
+    "answer": "Heart cannot pump properly",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_032",
+    "question": "Left heart failure causes:",
+    "options": [
+      "Pulmonary edema",
+      "Leg swelling only",
+      "Hair loss",
+      "Cold"
+    ],
+    "answer": "Pulmonary edema",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_033",
+    "question": "Right heart failure causes:",
+    "options": [
+      "Peripheral edema",
+      "Lung collapse",
+      "Brain swelling",
+      "Fever"
+    ],
+    "answer": "Peripheral edema",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_034",
+    "question": "Most important symptom of heart failure:",
+    "options": [
+      "Dyspnea",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Dyspnea",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_035",
+    "question": "Best drug in heart failure:",
+    "options": [
+      "Diuretics",
+      "Antibiotics",
+      "Steroids",
+      "Insulin"
+    ],
+    "answer": "Diuretics",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_036",
+    "question": "Furosemide is used for:",
+    "options": [
+      "Fluid overload",
+      "Infection",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Fluid overload",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_037",
+    "question": "Most important cardiac enzyme:",
+    "options": [
+      "Troponin",
+      "Hemoglobin",
+      "WBC",
+      "Platelets"
+    ],
+    "answer": "Troponin",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_038",
+    "question": "Cardiogenic shock is due to:",
+    "options": [
+      "Pump failure",
+      "Infection",
+      "Bleeding",
+      "Allergy"
+    ],
+    "answer": "Pump failure",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_039",
+    "question": "Most important sign of cardiogenic shock:",
+    "options": [
+      "Low BP",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Low BP",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_040",
+    "question": "ECG is used to detect:",
+    "options": [
+      "Heart rhythm",
+      "Sugar",
+      "Hemoglobin",
+      "Kidney function"
+    ],
+    "answer": "Heart rhythm",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_041",
+    "question": "P wave represents:",
+    "options": [
+      "Atrial contraction",
+      "Ventricular contraction",
+      "Rest",
+      "Fever"
+    ],
+    "answer": "Atrial contraction",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_042",
+    "question": "QRS complex represents:",
+    "options": [
+      "Ventricular contraction",
+      "Atrial contraction",
+      "Rest",
+      "None"
+    ],
+    "answer": "Ventricular contraction",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_043",
+    "question": "T wave represents:",
+    "options": [
+      "Ventricular repolarization",
+      "Atrial contraction",
+      "Rest",
+      "None"
+    ],
+    "answer": "Ventricular repolarization",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_044",
+    "question": "Bradycardia means:",
+    "options": [
+      "Slow heart rate",
+      "Fast heart rate",
+      "No heart rate",
+      "Irregular rhythm"
+    ],
+    "answer": "Slow heart rate",
+    "topic": "Arrhythmia",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_045",
+    "question": "Tachycardia means:",
+    "options": [
+      "Fast heart rate",
+      "Slow heart rate",
+      "No heartbeat",
+      "Normal rhythm"
+    ],
+    "answer": "Fast heart rate",
+    "topic": "Arrhythmia",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_046",
+    "question": "Normal heart rate range:",
+    "options": [
+      "60–100 bpm",
+      "100–140 bpm",
+      "40–60 bpm",
+      "120–160 bpm"
+    ],
+    "answer": "60–100 bpm",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_047",
+    "question": "Most important cardiac risk factor:",
+    "options": [
+      "Smoking",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Smoking",
+    "topic": "Risk Factors",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_048",
+    "question": "Atherosclerosis is:",
+    "options": [
+      "Plaque buildup in arteries",
+      "Heart infection",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Plaque buildup in arteries",
+    "topic": "Cardiac Pathology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_049",
+    "question": "Most important cause of MI:",
+    "options": [
+      "Atherosclerosis",
+      "Cold",
+      "Fever",
+      "Hair loss"
+    ],
+    "answer": "Atherosclerosis",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_050",
+    "question": "Final goal of cardiac care:",
+    "options": [
+      "Maintain circulation",
+      "Cause shock",
+      "Reduce BP to zero",
+      "Stop heart function"
+    ],
+    "answer": "Maintain circulation",
+    "topic": "Cardiac Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_051",
+    "question": "Most common ECG finding in atrial fibrillation:",
+    "options": [
+      "Irregularly irregular rhythm",
+      "Regular rhythm",
+      "ST elevation",
+      "Bradycardia"
+    ],
+    "answer": "Irregularly irregular rhythm",
+    "topic": "Arrhythmia",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_052",
+    "question": "Atrial fibrillation increases risk of:",
+    "options": [
+      "Stroke",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Stroke",
+    "topic": "Arrhythmia",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_053",
+    "question": "Drug used for rate control in AF:",
+    "options": [
+      "Beta blockers",
+      "Antibiotics",
+      "Steroids",
+      "Insulin"
+    ],
+    "answer": "Beta blockers",
+    "topic": "Arrhythmia",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_054",
+    "question": "Most important anticoagulant in AF:",
+    "options": [
+      "Warfarin",
+      "Paracetamol",
+      "Insulin",
+      "Aspirin only"
+    ],
+    "answer": "Warfarin",
+    "topic": "Arrhythmia",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_055",
+    "question": "Warfarin therapy monitoring test:",
+    "options": [
+      "INR",
+      "Hemoglobin",
+      "WBC",
+      "Blood sugar"
+    ],
+    "answer": "INR",
+    "topic": "Anticoagulants",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_056",
+    "question": "Normal INR range:",
+    "options": [
+      "2–3",
+      "1–1.5",
+      "3–5",
+      "5–7"
+    ],
+    "answer": "2–3",
+    "topic": "Anticoagulants",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_057",
+    "question": "High INR risk:",
+    "options": [
+      "Bleeding",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Bleeding",
+    "topic": "Anticoagulants",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_058",
+    "question": "Heparin antidote:",
+    "options": [
+      "Protamine sulfate",
+      "Vitamin K",
+      "Insulin",
+      "Adrenaline"
+    ],
+    "answer": "Protamine sulfate",
+    "topic": "Anticoagulants",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_059",
+    "question": "Warfarin antidote:",
+    "options": [
+      "Vitamin K",
+      "Protamine",
+      "Glucose",
+      "Steroid"
+    ],
+    "answer": "Vitamin K",
+    "topic": "Anticoagulants",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_060",
+    "question": "Heparin is given via:",
+    "options": [
+      "IV or SC",
+      "Oral only",
+      "IM only",
+      "Inhalation"
+    ],
+    "answer": "IV or SC",
+    "topic": "Anticoagulants",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_061",
+    "question": "Most dangerous complication of anticoagulants:",
+    "options": [
+      "Bleeding",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Bleeding",
+    "topic": "Anticoagulants",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_062",
+    "question": "ST elevation indicates:",
+    "options": [
+      "Acute MI",
+      "Normal heart",
+      "Cold",
+      "Hair loss"
+    ],
+    "answer": "Acute MI",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_063",
+    "question": "ST depression indicates:",
+    "options": [
+      "Ischemia",
+      "Normal heart",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Ischemia",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_064",
+    "question": "T wave inversion indicates:",
+    "options": [
+      "Ischemia",
+      "Normal rhythm",
+      "Hair loss",
+      "Cold"
+    ],
+    "answer": "Ischemia",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_065",
+    "question": "Most important cardiac biomarker rise time:",
+    "options": [
+      "Troponin",
+      "Hemoglobin",
+      "WBC",
+      "Platelets"
+    ],
+    "answer": "Troponin",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_066",
+    "question": "Troponin rises in:",
+    "options": [
+      "MI",
+      "Cold",
+      "Hair loss",
+      "Fever"
+    ],
+    "answer": "MI",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_067",
+    "question": "CK-MB is useful in:",
+    "options": [
+      "Early MI diagnosis",
+      "Cold",
+      "Hair growth",
+      "Skin rash"
+    ],
+    "answer": "Early MI diagnosis",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_068",
+    "question": "Most common cause of sudden cardiac death:",
+    "options": [
+      "Ventricular fibrillation",
+      "Bradycardia",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Ventricular fibrillation",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_069",
+    "question": "First shock energy in defibrillation:",
+    "options": [
+      "200–360 J",
+      "50 J",
+      "10 J",
+      "5 J"
+    ],
+    "answer": "200–360 J",
+    "topic": "Defibrillation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_070",
+    "question": "Synchronized shock is used in:",
+    "options": [
+      "VT with pulse",
+      "Asystole",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "VT with pulse",
+    "topic": "Cardioversion",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_071",
+    "question": "Unsynchronized shock is used in:",
+    "options": [
+      "VF",
+      "AF only",
+      "Bradycardia",
+      "Normal rhythm"
+    ],
+    "answer": "VF",
+    "topic": "Defibrillation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_072",
+    "question": "Most important CPR drug route:",
+    "options": [
+      "IV",
+      "Oral",
+      "IM",
+      "Inhalation"
+    ],
+    "answer": "IV",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_073",
+    "question": "Adrenaline acts as:",
+    "options": [
+      "Vasopressor",
+      "Antibiotic",
+      "Steroid",
+      "Sedative"
+    ],
+    "answer": "Vasopressor",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_074",
+    "question": "Asystole treatment includes:",
+    "options": [
+      "CPR + adrenaline",
+      "Shock only",
+      "No treatment",
+      "Antibiotics"
+    ],
+    "answer": "CPR + adrenaline",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_075",
+    "question": "Most important reversible cause of cardiac arrest:",
+    "options": [
+      "Hypoxia",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Hypoxia",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_076",
+    "question": "Heart failure BNP is:",
+    "options": [
+      "Increased",
+      "Decreased",
+      "Normal",
+      "Zero"
+    ],
+    "answer": "Increased",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_077",
+    "question": "BNP indicates:",
+    "options": [
+      "Heart failure severity",
+      "Hair growth",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Heart failure severity",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_078",
+    "question": "Most important lifestyle change in hypertension:",
+    "options": [
+      "Salt restriction",
+      "High salt diet",
+      "No sleep",
+      "Smoking increase"
+    ],
+    "answer": "Salt restriction",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_079",
+    "question": "Hypertensive emergency BP:",
+    "options": [
+      ">180/120 mmHg",
+      "120/80",
+      "100/60",
+      "90/50"
+    ],
+    "answer": ">180/120 mmHg",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_080",
+    "question": "Most important organ damaged in hypertension:",
+    "options": [
+      "Heart",
+      "Hair",
+      "Skin",
+      "Nails"
+    ],
+    "answer": "Heart",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_081",
+    "question": "First line drug in hypertension:",
+    "options": [
+      "ACE inhibitors",
+      "Antibiotics",
+      "Steroids",
+      "Insulin"
+    ],
+    "answer": "ACE inhibitors",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_082",
+    "question": "ACE inhibitors end with:",
+    "options": [
+      "-pril",
+      "-olol",
+      "-sone",
+      "-cillin"
+    ],
+    "answer": "-pril",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_083",
+    "question": "Beta blockers end with:",
+    "options": [
+      "-olol",
+      "-pril",
+      "-sone",
+      "-cillin"
+    ],
+    "answer": "-olol",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_084",
+    "question": "Calcium channel blockers end with:",
+    "options": [
+      "-dipine",
+      "-pril",
+      "-olol",
+      "-sone"
+    ],
+    "answer": "-dipine",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_085",
+    "question": "Most common side effect of beta blockers:",
+    "options": [
+      "Bradycardia",
+      "Fever",
+      "Hair growth",
+      "Rash"
+    ],
+    "answer": "Bradycardia",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_086",
+    "question": "Digoxin is used in:",
+    "options": [
+      "Heart failure",
+      "Cold",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Heart failure",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_087",
+    "question": "Digoxin toxicity causes:",
+    "options": [
+      "Arrhythmia",
+      "Hair growth",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Arrhythmia",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_088",
+    "question": "Digoxin toxicity antidote:",
+    "options": [
+      "Digoxin immune Fab",
+      "Vitamin K",
+      "Insulin",
+      "Steroid"
+    ],
+    "answer": "Digoxin immune Fab",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_089",
+    "question": "Most important sign of MI complication:",
+    "options": [
+      "Shock",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Shock",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_090",
+    "question": "Cardiogenic shock treatment includes:",
+    "options": [
+      "Inotropes",
+      "Antibiotics",
+      "Steroids only",
+      "No treatment"
+    ],
+    "answer": "Inotropes",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_091",
+    "question": "Most important ICU cardiac monitor:",
+    "options": [
+      "ECG monitor",
+      "Hair test",
+      "Skin test",
+      "Diet chart"
+    ],
+    "answer": "ECG monitor",
+    "topic": "Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_092",
+    "question": "ECG lead placement monitors:",
+    "options": [
+      "Heart rhythm",
+      "Kidney function",
+      "Liver function",
+      "Sugar"
+    ],
+    "answer": "Heart rhythm",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_093",
+    "question": "Most important complication of MI:",
+    "options": [
+      "Arrhythmia",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Arrhythmia",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_094",
+    "question": "Most important sign of shock:",
+    "options": [
+      "Hypotension",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Hypotension",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_095",
+    "question": "Shock leads to:",
+    "options": [
+      "Organ failure",
+      "Hair growth",
+      "Cold",
+      "Skin glow"
+    ],
+    "answer": "Organ failure",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_096",
+    "question": "Most important oxygen therapy in MI:",
+    "options": [
+      "High flow oxygen",
+      "No oxygen",
+      "Cold air",
+      "Steam only"
+    ],
+    "answer": "High flow oxygen",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_097",
+    "question": "Oxygen improves:",
+    "options": [
+      "Myocardial perfusion",
+      "Hair growth",
+      "Skin color",
+      "Fever"
+    ],
+    "answer": "Myocardial perfusion",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_098",
+    "question": "Most important nursing priority in MI:",
+    "options": [
+      "Pain relief + oxygen",
+      "Hair care",
+      "Bathing",
+      "Diet only"
+    ],
+    "answer": "Pain relief + oxygen",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_099",
+    "question": "Final goal in cardiology emergency care:",
+    "options": [
+      "Restore circulation",
+      "Stop heart",
+      "Increase shock",
+      "Ignore ECG"
+    ],
+    "answer": "Restore circulation",
+    "topic": "Cardiac Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_100",
+    "question": "Overall aim of cardiac nursing:",
+    "options": [
+      "Maintain cardiac output",
+      "Reduce life support",
+      "Increase disease",
+      "Ignore patient"
+    ],
+    "answer": "Maintain cardiac output",
+    "topic": "Cardiac Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_101",
+    "question": "Most common electrolyte causing arrhythmia in ICU:",
+    "options": [
+      "Potassium",
+      "Sodium",
+      "Calcium",
+      "Magnesium"
+    ],
+    "answer": "Potassium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_102",
+    "question": "Hyperkalemia ECG shows:",
+    "options": [
+      "Peaked T waves",
+      "Flat T wave",
+      "U waves",
+      "ST elevation only"
+    ],
+    "answer": "Peaked T waves",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_103",
+    "question": "Hypokalemia ECG shows:",
+    "options": [
+      "U waves",
+      "Peaked T waves",
+      "ST elevation",
+      "Normal always"
+    ],
+    "answer": "U waves",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_104",
+    "question": "Most important emergency treatment in hyperkalemia:",
+    "options": [
+      "Calcium gluconate",
+      "Insulin only",
+      "Vitamin K",
+      "Steroid"
+    ],
+    "answer": "Calcium gluconate",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_105",
+    "question": "Insulin + glucose in hyperkalemia:",
+    "options": [
+      "Shifts K into cells",
+      "Increases K",
+      "Removes sodium",
+      "No effect"
+    ],
+    "answer": "Shifts K into cells",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_106",
+    "question": "Most dangerous complication of MI:",
+    "options": [
+      "Arrhythmia",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Arrhythmia",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_107",
+    "question": "Most common cause of death after MI:",
+    "options": [
+      "Ventricular fibrillation",
+      "Fever",
+      "Cold",
+      "Hair loss"
+    ],
+    "answer": "Ventricular fibrillation",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_108",
+    "question": "First 24-hour MI nursing priority:",
+    "options": [
+      "Continuous ECG monitoring",
+      "Hair care",
+      "Diet only",
+      "Bathing"
+    ],
+    "answer": "Continuous ECG monitoring",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_109",
+    "question": "Most important sign of cardiogenic shock:",
+    "options": [
+      "Hypotension + cold clammy skin",
+      "Fever",
+      "Hair growth",
+      "Rash"
+    ],
+    "answer": "Hypotension + cold clammy skin",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_110",
+    "question": "Cardiogenic shock main cause:",
+    "options": [
+      "Severe MI",
+      "Dehydration",
+      "Infection",
+      "Allergy"
+    ],
+    "answer": "Severe MI",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_111",
+    "question": "Drug used to increase cardiac contractility:",
+    "options": [
+      "Dobutamine",
+      "Antibiotics",
+      "Steroids",
+      "Insulin"
+    ],
+    "answer": "Dobutamine",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_112",
+    "question": "Dobutamine is classified as:",
+    "options": [
+      "Inotrope",
+      "Antibiotic",
+      "Diuretic",
+      "Sedative"
+    ],
+    "answer": "Inotrope",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_113",
+    "question": "Most common diuretic in heart failure:",
+    "options": [
+      "Furosemide",
+      "Insulin",
+      "Steroid",
+      "Antibiotic"
+    ],
+    "answer": "Furosemide",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_114",
+    "question": "Furosemide side effect:",
+    "options": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Fever",
+      "Hair growth"
+    ],
+    "answer": "Hypokalemia",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_115",
+    "question": "Hypokalemia increases risk of:",
+    "options": [
+      "Arrhythmia",
+      "Cold",
+      "Hair growth",
+      "Skin rash"
+    ],
+    "answer": "Arrhythmia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_116",
+    "question": "Most important drug in pulmonary edema:",
+    "options": [
+      "Furosemide",
+      "Antibiotics",
+      "Steroid",
+      "Insulin"
+    ],
+    "answer": "Furosemide",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_117",
+    "question": "Pulmonary edema causes:",
+    "options": [
+      "Fluid in lungs",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Fluid in lungs",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_118",
+    "question": "Most important symptom of pulmonary edema:",
+    "options": [
+      "Severe dyspnea",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Severe dyspnea",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_119",
+    "question": "Most important position in pulmonary edema:",
+    "options": [
+      "Sitting upright",
+      "Flat lying",
+      "Prone",
+      "Trendelenburg"
+    ],
+    "answer": "Sitting upright",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_120",
+    "question": "Oxygen in pulmonary edema should be:",
+    "options": [
+      "High flow",
+      "No oxygen",
+      "Low oxygen only",
+      "Air only"
+    ],
+    "answer": "High flow",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_121",
+    "question": "Most common ECG rhythm in VF:",
+    "options": [
+      "Chaotic irregular waves",
+      "Regular rhythm",
+      "P waves present",
+      "Bradycardia"
+    ],
+    "answer": "Chaotic irregular waves",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_122",
+    "question": "Asystole means:",
+    "options": [
+      "Flat line ECG",
+      "Fast rhythm",
+      "Normal rhythm",
+      "Irregular rhythm"
+    ],
+    "answer": "Flat line ECG",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_123",
+    "question": "Treatment for VF:",
+    "options": [
+      "Defibrillation",
+      "Antibiotics",
+      "Steroids",
+      "Insulin"
+    ],
+    "answer": "Defibrillation",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_124",
+    "question": "CPR compression depth:",
+    "options": [
+      "5–6 cm",
+      "1 cm",
+      "10 cm",
+      "2 cm"
+    ],
+    "answer": "5–6 cm",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_125",
+    "question": "Compression rate in CPR:",
+    "options": [
+      "100–120/min",
+      "60/min",
+      "40/min",
+      "150/min"
+    ],
+    "answer": "100–120/min",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_126",
+    "question": "First drug in ACLS:",
+    "options": [
+      "Adrenaline",
+      "Insulin",
+      "Steroid",
+      "Antibiotic"
+    ],
+    "answer": "Adrenaline",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_127",
+    "question": "Adrenaline improves:",
+    "options": [
+      "Peripheral perfusion",
+      "Hair growth",
+      "Cold",
+      "Skin color"
+    ],
+    "answer": "Peripheral perfusion",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_128",
+    "question": "Most important reversible cause of arrest:",
+    "options": [
+      "Hypoxia",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Hypoxia",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_129",
+    "question": "Another reversible cause:",
+    "options": [
+      "Hypovolemia",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Hypovolemia",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_130",
+    "question": "ECG lead II is used for:",
+    "options": [
+      "Rhythm monitoring",
+      "Kidney function",
+      "Liver function",
+      "Sugar"
+    ],
+    "answer": "Rhythm monitoring",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_131",
+    "question": "Most important MI complication in first 24 hours:",
+    "options": [
+      "Arrhythmia",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Arrhythmia",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_132",
+    "question": "Killip class is used for:",
+    "options": [
+      "Heart failure severity in MI",
+      "Hair loss",
+      "Cold",
+      "Skin rash"
+    ],
+    "answer": "Heart failure severity in MI",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_133",
+    "question": "Most important MI nursing intervention:",
+    "options": [
+      "Rest + oxygen + monitoring",
+      "Exercise",
+      "Diet only",
+      "Bathing"
+    ],
+    "answer": "Rest + oxygen + monitoring",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_134",
+    "question": "Most important MI diagnostic marker:",
+    "options": [
+      "Troponin I",
+      "Hemoglobin",
+      "WBC",
+      "Platelets"
+    ],
+    "answer": "Troponin I",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_135",
+    "question": "Troponin rise indicates:",
+    "options": [
+      "Myocardial injury",
+      "Cold",
+      "Hair growth",
+      "Fever"
+    ],
+    "answer": "Myocardial injury",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_136",
+    "question": "Most common cause of angina:",
+    "options": [
+      "Coronary artery disease",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Coronary artery disease",
+    "topic": "Angina",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_137",
+    "question": "Angina pain relieved by:",
+    "options": [
+      "Rest + nitroglycerin",
+      "Exercise",
+      "Cold water",
+      "Heat"
+    ],
+    "answer": "Rest + nitroglycerin",
+    "topic": "Angina",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_138",
+    "question": "Nitroglycerin side effect:",
+    "options": [
+      "Headache",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Headache",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_139",
+    "question": "Beta blockers reduce:",
+    "options": [
+      "Heart rate",
+      "Sugar only",
+      "Hair growth",
+      "Cold"
+    ],
+    "answer": "Heart rate",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_140",
+    "question": "Most important effect of ACE inhibitors:",
+    "options": [
+      "Vasodilation",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Vasodilation",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_141",
+    "question": "ACE inhibitors may cause:",
+    "options": [
+      "Dry cough",
+      "Hair growth",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Dry cough",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_142",
+    "question": "Calcium channel blockers reduce:",
+    "options": [
+      "BP",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "BP",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_143",
+    "question": "Most important nursing care in hypertension:",
+    "options": [
+      "Monitor BP regularly",
+      "Ignore BP",
+      "Increase salt",
+      "No follow-up"
+    ],
+    "answer": "Monitor BP regularly",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_144",
+    "question": "Target organ damage in hypertension:",
+    "options": [
+      "Heart, brain, kidneys",
+      "Hair only",
+      "Skin only",
+      "Bones"
+    ],
+    "answer": "Heart, brain, kidneys",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_145",
+    "question": "Hypertensive emergency needs:",
+    "options": [
+      "IV antihypertensives",
+      "No treatment",
+      "Oral only",
+      "Home care"
+    ],
+    "answer": "IV antihypertensives",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_146",
+    "question": "Most important ICU monitoring in cardiac patient:",
+    "options": [
+      "ECG + BP + urine output",
+      "Hair growth",
+      "Skin color",
+      "Diet only"
+    ],
+    "answer": "ECG + BP + urine output",
+    "topic": "Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_147",
+    "question": "Most important sign of shock progression:",
+    "options": [
+      "Altered sensorium",
+      "Hair growth",
+      "Cold only",
+      "Rash"
+    ],
+    "answer": "Altered sensorium",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_148",
+    "question": "Shock leads to:",
+    "options": [
+      "Multiorgan failure",
+      "Hair growth",
+      "Skin glow",
+      "Weight gain"
+    ],
+    "answer": "Multiorgan failure",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_149",
+    "question": "Final goal of cardiac emergency care:",
+    "options": [
+      "Restore perfusion",
+      "Stop heart",
+      "Increase shock",
+      "Ignore ECG"
+    ],
+    "answer": "Restore perfusion",
+    "topic": "Cardiac Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_150",
+    "question": "Overall aim of cardiology nursing:",
+    "options": [
+      "Maintain circulation + oxygenation",
+      "Reduce care",
+      "Ignore patient",
+      "Stop monitoring"
+    ],
+    "answer": "Maintain circulation + oxygenation",
+    "topic": "Cardiac Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_151",
+    "question": "Most important immediate action in acute chest pain:",
+    "options": [
+      "ECG within 10 minutes",
+      "Wait and observe",
+      "Give food",
+      "Mobilize patient"
+    ],
+    "answer": "ECG within 10 minutes",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_152",
+    "question": "Door-to-needle time refers to:",
+    "options": [
+      "Thrombolysis timing",
+      "BP check",
+      "Sugar test",
+      "X-ray time"
+    ],
+    "answer": "Thrombolysis timing",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_153",
+    "question": "Door-to-needle time should be:",
+    "options": [
+      "<30 minutes",
+      "<2 hours",
+      "<24 hours",
+      "No limit"
+    ],
+    "answer": "<30 minutes",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_154",
+    "question": "Door-to-balloon time refers to:",
+    "options": [
+      "PCI timing",
+      "ECG time",
+      "BP time",
+      "Urine time"
+    ],
+    "answer": "PCI timing",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_155",
+    "question": "Normal door-to-balloon time:",
+    "options": [
+      "<90 minutes",
+      "<6 hours",
+      "<24 hours",
+      "<10 hours"
+    ],
+    "answer": "<90 minutes",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_156",
+    "question": "Best reperfusion therapy in STEMI:",
+    "options": [
+      "Primary PCI",
+      "Antibiotics",
+      "Steroids",
+      "Insulin"
+    ],
+    "answer": "Primary PCI",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_157",
+    "question": "Thrombolytic drug example:",
+    "options": [
+      "Alteplase",
+      "Insulin",
+      "Paracetamol",
+      "Aspirin only"
+    ],
+    "answer": "Alteplase",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_158",
+    "question": "Main risk of thrombolysis:",
+    "options": [
+      "Bleeding",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Bleeding",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_159",
+    "question": "Absolute contraindication of thrombolysis:",
+    "options": [
+      "Active bleeding",
+      "Fever",
+      "Cold",
+      "Hair loss"
+    ],
+    "answer": "Active bleeding",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_160",
+    "question": "Most important sign of bleeding complication:",
+    "options": [
+      "Drop in BP",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Drop in BP",
+    "topic": "Complications",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_161",
+    "question": "Cardiac tamponade causes:",
+    "options": [
+      "Fluid around heart",
+      "Hair loss",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Fluid around heart",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_162",
+    "question": "Cardiac tamponade sign:",
+    "options": [
+      "Beck’s triad",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Beck’s triad",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_163",
+    "question": "Beck’s triad includes:",
+    "options": [
+      "Hypotension + JVD + muffled heart sounds",
+      "Fever + rash + cough",
+      "Cold + hair loss + pain",
+      "None"
+    ],
+    "answer": "Hypotension + JVD + muffled heart sounds",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_164",
+    "question": "Most important treatment in tamponade:",
+    "options": [
+      "Pericardiocentesis",
+      "Antibiotics",
+      "Steroids",
+      "Insulin"
+    ],
+    "answer": "Pericardiocentesis",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_165",
+    "question": "JVP indicates:",
+    "options": [
+      "Right heart function",
+      "Left lung function",
+      "Hair growth",
+      "Skin color"
+    ],
+    "answer": "Right heart function",
+    "topic": "Cardiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_166",
+    "question": "Most important sign of right heart failure:",
+    "options": [
+      "Peripheral edema",
+      "Cough",
+      "Hair loss",
+      "Fever"
+    ],
+    "answer": "Peripheral edema",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_167",
+    "question": "Left heart failure first affects:",
+    "options": [
+      "Lungs",
+      "Legs",
+      "Skin",
+      "Hair"
+    ],
+    "answer": "Lungs",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_168",
+    "question": "Orthopnea means:",
+    "options": [
+      "Breathlessness on lying down",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Breathlessness on lying down",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_169",
+    "question": "PND means:",
+    "options": [
+      "Night dyspnea",
+      "Hair growth",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Paroxysmal nocturnal dyspnea",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_170",
+    "question": "Most important heart failure monitoring:",
+    "options": [
+      "Daily weight",
+      "Hair check",
+      "Skin color",
+      "Nail growth"
+    ],
+    "answer": "Daily weight",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_171",
+    "question": "Weight gain in HF indicates:",
+    "options": [
+      "Fluid retention",
+      "Fat loss",
+      "Hair growth",
+      "Cold"
+    ],
+    "answer": "Fluid retention",
+    "topic": "Heart Failure",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_172",
+    "question": "Digoxin toxicity sign:",
+    "options": [
+      "Yellow vision",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Yellow vision",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_173",
+    "question": "Digoxin increases:",
+    "options": [
+      "Contractility",
+      "Hair growth",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Contractility",
+    "topic": "Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_174",
+    "question": "Normal potassium range:",
+    "options": [
+      "3.5–5 mEq/L",
+      "2–3",
+      "6–8",
+      "1–2"
+    ],
+    "answer": "3.5–5 mEq/L",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_175",
+    "question": "Severe hypokalemia causes:",
+    "options": [
+      "Arrhythmia",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Arrhythmia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_176",
+    "question": "Most important ECG lead for MI:",
+    "options": [
+      "Lead II",
+      "Lead I only",
+      "Lead V1 only",
+      "None"
+    ],
+    "answer": "Lead II",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_177",
+    "question": "Inferior wall MI seen in:",
+    "options": [
+      "Lead II, III, aVF",
+      "V1 only",
+      "aVR only",
+      "None"
+    ],
+    "answer": "Lead II, III, aVF",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_178",
+    "question": "Anterior wall MI seen in:",
+    "options": [
+      "V1–V4",
+      "II, III, aVF",
+      "aVR",
+      "None"
+    ],
+    "answer": "V1–V4",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_179",
+    "question": "Lateral MI seen in:",
+    "options": [
+      "I, aVL",
+      "II only",
+      "V1 only",
+      "None"
+    ],
+    "answer": "I, aVL",
+    "topic": "ECG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_180",
+    "question": "Most important complication of MI in elderly:",
+    "options": [
+      "Heart failure",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Heart failure",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_181",
+    "question": "Most important nursing intervention in MI:",
+    "options": [
+      "Pain relief + monitoring",
+      "Exercise",
+      "Diet only",
+      "Massage"
+    ],
+    "answer": "Pain relief + monitoring",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_182",
+    "question": "Morphine in MI is used for:",
+    "options": [
+      "Pain relief",
+      "Infection",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Pain relief",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_183",
+    "question": "Oxygen therapy in MI improves:",
+    "options": [
+      "Myocardial oxygenation",
+      "Hair growth",
+      "Skin color",
+      "Cold"
+    ],
+    "answer": "Myocardial oxygenation",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_184",
+    "question": "Most important cause of arrhythmia in MI:",
+    "options": [
+      "Ischemia",
+      "Hair growth",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Ischemia",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_185",
+    "question": "Most important ICU cardiac monitoring device:",
+    "options": [
+      "Telemetry ECG",
+      "Hair monitor",
+      "Skin monitor",
+      "None"
+    ],
+    "answer": "Telemetry ECG",
+    "topic": "Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_186",
+    "question": "Cardiac output depends on:",
+    "options": [
+      "Heart rate × stroke volume",
+      "Hair growth",
+      "Skin color",
+      "Fever"
+    ],
+    "answer": "Heart rate × stroke volume",
+    "topic": "Cardiac Physiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_187",
+    "question": "Normal cardiac output:",
+    "options": [
+      "4–8 L/min",
+      "1 L/min",
+      "10–15 L/min",
+      "20 L/min"
+    ],
+    "answer": "4–8 L/min",
+    "topic": "Cardiac Physiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_188",
+    "question": "Preload refers to:",
+    "options": [
+      "Ventricular filling",
+      "Hair growth",
+      "Cold",
+      "Skin tone"
+    ],
+    "answer": "Ventricular filling",
+    "topic": "Cardiac Physiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_189",
+    "question": "Afterload refers to:",
+    "options": [
+      "Resistance to ejection",
+      "Hair growth",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Resistance to ejection",
+    "topic": "Cardiac Physiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_190",
+    "question": "Most important factor in BP regulation:",
+    "options": [
+      "Cardiac output",
+      "Hair growth",
+      "Skin color",
+      "Nails"
+    ],
+    "answer": "Cardiac output",
+    "topic": "Hypertension",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_191",
+    "question": "Shock leads to:",
+    "options": [
+      "Tissue hypoxia",
+      "Hair growth",
+      "Cold only",
+      "Rash"
+    ],
+    "answer": "Tissue hypoxia",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_192",
+    "question": "Most important endpoint of resuscitation:",
+    "options": [
+      "Return of circulation",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Return of circulation",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_193",
+    "question": "Return of spontaneous circulation means:",
+    "options": [
+      "ROSC",
+      "Death",
+      "Shock",
+      "MI"
+    ],
+    "answer": "ROSC",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_194",
+    "question": "Most important post-CPR care:",
+    "options": [
+      "Maintain oxygenation",
+      "Hair care",
+      "Diet only",
+      "Massage"
+    ],
+    "answer": "Maintain oxygenation",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_195",
+    "question": "Post-MI patient should avoid:",
+    "options": [
+      "Strenuous activity",
+      "Rest",
+      "Medication",
+      "Monitoring"
+    ],
+    "answer": "Strenuous activity",
+    "topic": "MI",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_196",
+    "question": "Most important lifestyle change in cardiac patient:",
+    "options": [
+      "Smoking cessation",
+      "Increased smoking",
+      "No sleep",
+      "High salt"
+    ],
+    "answer": "Smoking cessation",
+    "topic": "Risk Factors",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_197",
+    "question": "Cardiac rehab focuses on:",
+    "options": [
+      "Recovery + prevention",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Recovery + prevention",
+    "topic": "Rehabilitation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_198",
+    "question": "Most important risk factor for CAD:",
+    "options": [
+      "Smoking",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Smoking",
+    "topic": "Risk Factors",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_199",
+    "question": "Final goal of ICU cardiac care:",
+    "options": [
+      "Maintain perfusion + survival",
+      "Stop heart",
+      "Ignore ECG",
+      "Increase shock"
+    ],
+    "answer": "Maintain perfusion + survival",
+    "topic": "Cardiac Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CARD_200",
+    "question": "Overall aim of cardiology nursing in NORCET:",
+    "options": [
+      "Prevent death + stabilize circulation",
+      "Ignore patient",
+      "Delay treatment",
+      "Reduce monitoring"
+    ],
+    "answer": "Prevent death + stabilize circulation",
+    "topic": "Cardiac Care",
+    "chapter": "GENERAL"
+  }
+]
