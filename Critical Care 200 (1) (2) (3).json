@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "CCN_001",
+    "question": "The first priority in any critically ill patient is:",
+    "options": [
+      "Airway",
+      "Nutrition",
+      "Documentation",
+      "Bathing"
+    ],
+    "answer": "Airway",
+    "topic": "ABC",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_002",
+    "question": "ABC in emergency care stands for:",
+    "options": [
+      "Airway, Breathing, Circulation",
+      "Alert, Blood, Care",
+      "Air, Body, Check",
+      "Assist, Breath, Control"
+    ],
+    "answer": "Airway, Breathing, Circulation",
+    "topic": "ABC",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_003",
+    "question": "Normal oxygen saturation in healthy adult is approximately:",
+    "options": [
+      "95–100%",
+      "70–80%",
+      "50–60%",
+      "20–30%"
+    ],
+    "answer": "95–100%",
+    "topic": "Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_004",
+    "question": "Pulse oximeter measures:",
+    "options": [
+      "Oxygen saturation",
+      "Blood sugar",
+      "CVP",
+      "Temperature"
+    ],
+    "answer": "Oxygen saturation",
+    "topic": "Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_005",
+    "question": "Normal adult respiratory rate is:",
+    "options": [
+      "12–20/min",
+      "2–5/min",
+      "30–40/min",
+      "50/min"
+    ],
+    "answer": "12–20/min",
+    "topic": "Vitals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_006",
+    "question": "Tachypnea means:",
+    "options": [
+      "Rapid breathing",
+      "Slow pulse",
+      "Low BP",
+      "No urine"
+    ],
+    "answer": "Rapid breathing",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_007",
+    "question": "Bradypnea means:",
+    "options": [
+      "Slow breathing",
+      "Fast pulse",
+      "High fever",
+      "Low oxygen"
+    ],
+    "answer": "Slow breathing",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_008",
+    "question": "Apnea means:",
+    "options": [
+      "No breathing",
+      "Rapid breathing",
+      "Chest pain",
+      "Low BP"
+    ],
+    "answer": "No breathing",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_009",
+    "question": "Most common immediate device to deliver oxygen is:",
+    "options": [
+      "Nasal cannula",
+      "ECG lead",
+      "Urinary catheter",
+      "NG tube"
+    ],
+    "answer": "Nasal cannula",
+    "topic": "Oxygen Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_010",
+    "question": "Simple face mask usually delivers more oxygen than:",
+    "options": [
+      "Nasal cannula",
+      "Ventilator",
+      "Ambu bag",
+      "ET tube"
+    ],
+    "answer": "Nasal cannula",
+    "topic": "Oxygen Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_011",
+    "question": "Bag-valve-mask is used for:",
+    "options": [
+      "Manual ventilation",
+      "Urine drainage",
+      "Central line insertion",
+      "Feeding"
+    ],
+    "answer": "Manual ventilation",
+    "topic": "Airway",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_012",
+    "question": "ET tube stands for:",
+    "options": [
+      "Endotracheal tube",
+      "External tube",
+      "Emergency tract tube",
+      "Enteral tube"
+    ],
+    "answer": "Endotracheal tube",
+    "topic": "Airway",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_013",
+    "question": "Purpose of intubation is to secure:",
+    "options": [
+      "Airway",
+      "Nutrition",
+      "Sleep",
+      "Vision"
+    ],
+    "answer": "Airway",
+    "topic": "Airway",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_014",
+    "question": "Mechanical ventilation is indicated when patient cannot maintain:",
+    "options": [
+      "Adequate breathing",
+      "Hair growth",
+      "Digestion",
+      "Walking"
+    ],
+    "answer": "Adequate breathing",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_015",
+    "question": "A ventilator mainly supports:",
+    "options": [
+      "Respiration",
+      "Kidney function",
+      "Liver function",
+      "Bone marrow"
+    ],
+    "answer": "Respiration",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_016",
+    "question": "Common complication of prolonged ventilation:",
+    "options": [
+      "Ventilator-associated pneumonia",
+      "Fracture",
+      "Appendicitis",
+      "Goiter"
+    ],
+    "answer": "Ventilator-associated pneumonia",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_017",
+    "question": "Head elevation helps prevent:",
+    "options": [
+      "Aspiration",
+      "Hair fall",
+      "Myopia",
+      "Goiter"
+    ],
+    "answer": "Aspiration",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_018",
+    "question": "Normal adult heart rate is:",
+    "options": [
+      "60–100/min",
+      "20–30/min",
+      "140–160/min",
+      "5/min"
+    ],
+    "answer": "60–100/min",
+    "topic": "Vitals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_019",
+    "question": "Tachycardia means pulse above:",
+    "options": [
+      "100/min",
+      "40/min",
+      "60/min",
+      "20/min"
+    ],
+    "answer": "100/min",
+    "topic": "Cardiac",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_020",
+    "question": "Bradycardia means pulse below:",
+    "options": [
+      "60/min",
+      "100/min",
+      "80/min",
+      "120/min"
+    ],
+    "answer": "60/min",
+    "topic": "Cardiac",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_021",
+    "question": "Normal urine output in adults should be at least:",
+    "options": [
+      "0.5 mL/kg/hr",
+      "5 mL/kg/hr",
+      "10 mL/kg/hr",
+      "0.1 mL/day"
+    ],
+    "answer": "0.5 mL/kg/hr",
+    "topic": "Renal Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_022",
+    "question": "Low urine output is called:",
+    "options": [
+      "Oliguria",
+      "Polyuria",
+      "Hematuria",
+      "Dysuria"
+    ],
+    "answer": "Oliguria",
+    "topic": "Renal Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_023",
+    "question": "No urine output is called:",
+    "options": [
+      "Anuria",
+      "Oliguria",
+      "Nocturia",
+      "Polyuria"
+    ],
+    "answer": "Anuria",
+    "topic": "Renal Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_024",
+    "question": "A Foley catheter is inserted to monitor:",
+    "options": [
+      "Urine output",
+      "Blood sugar",
+      "SpO2",
+      "Respiration"
+    ],
+    "answer": "Urine output",
+    "topic": "Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_025",
+    "question": "Shock is a state of inadequate:",
+    "options": [
+      "Tissue perfusion",
+      "Hair growth",
+      "Digestion",
+      "Vision"
+    ],
+    "answer": "Tissue perfusion",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_026",
+    "question": "Common sign of shock:",
+    "options": [
+      "Hypotension",
+      "Weight gain",
+      "Pink nails",
+      "Slow healing hair"
+    ],
+    "answer": "Hypotension",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_027",
+    "question": "Septic shock is caused by:",
+    "options": [
+      "Severe infection",
+      "Fracture only",
+      "Diabetes only",
+      "Asthma"
+    ],
+    "answer": "Severe infection",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_028",
+    "question": "Anaphylactic shock occurs due to:",
+    "options": [
+      "Severe allergic reaction",
+      "Kidney stone",
+      "Stroke",
+      "Ulcer"
+    ],
+    "answer": "Severe allergic reaction",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_029",
+    "question": "First-line drug in anaphylaxis is:",
+    "options": [
+      "Adrenaline",
+      "Paracetamol",
+      "Insulin",
+      "Heparin"
+    ],
+    "answer": "Adrenaline",
+    "topic": "Emergency Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_030",
+    "question": "CPR stands for:",
+    "options": [
+      "Cardiopulmonary resuscitation",
+      "Cardiac pressure recovery",
+      "Care pulse response",
+      "Critical patient rescue"
+    ],
+    "answer": "Cardiopulmonary resuscitation",
+    "topic": "Resuscitation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_031",
+    "question": "Chest compression rate in adult CPR is about:",
+    "options": [
+      "100–120/min",
+      "20/min",
+      "50/min",
+      "200/min"
+    ],
+    "answer": "100–120/min",
+    "topic": "Resuscitation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_032",
+    "question": "Compression depth in adult CPR is about:",
+    "options": [
+      "5–6 cm",
+      "1 cm",
+      "10 cm",
+      "15 cm"
+    ],
+    "answer": "5–6 cm",
+    "topic": "Resuscitation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_033",
+    "question": "Defibrillation is used for certain:",
+    "options": [
+      "Cardiac arrhythmias",
+      "Fractures",
+      "Stroke",
+      "Anemia"
+    ],
+    "answer": "Cardiac arrhythmias",
+    "topic": "Cardiac Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_034",
+    "question": "AED stands for:",
+    "options": [
+      "Automated external defibrillator",
+      "Advanced emergency drug",
+      "Airway electric device",
+      "Acute ECG detector"
+    ],
+    "answer": "Automated external defibrillator",
+    "topic": "Cardiac Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_035",
+    "question": "Glasgow Coma Scale assesses:",
+    "options": [
+      "Level of consciousness",
+      "Kidney function",
+      "Nutrition",
+      "Pain only"
+    ],
+    "answer": "Level of consciousness",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_036",
+    "question": "Maximum GCS score is:",
+    "options": [
+      "15",
+      "10",
+      "20",
+      "8"
+    ],
+    "answer": "15",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_037",
+    "question": "Minimum GCS score is:",
+    "options": [
+      "3",
+      "0",
+      "5",
+      "1"
+    ],
+    "answer": "3",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_038",
+    "question": "Pupil assessment is important in:",
+    "options": [
+      "Neurological monitoring",
+      "Diet planning",
+      "Skin care only",
+      "ENT dressing"
+    ],
+    "answer": "Neurological monitoring",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_039",
+    "question": "Sudden unequal pupils may indicate:",
+    "options": [
+      "Neurological emergency",
+      "Healthy finding always",
+      "Anemia",
+      "UTI"
+    ],
+    "answer": "Neurological emergency",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_040",
+    "question": "Blood glucose should be checked urgently in:",
+    "options": [
+      "Altered consciousness",
+      "Hair loss",
+      "Fracture toe",
+      "Dry skin"
+    ],
+    "answer": "Altered consciousness",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_041",
+    "question": "Hypoglycemia may present with:",
+    "options": [
+      "Sweating and confusion",
+      "Jaundice",
+      "Constipation",
+      "Edema"
+    ],
+    "answer": "Sweating and confusion",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_042",
+    "question": "Hyperkalemia can dangerously affect:",
+    "options": [
+      "Heart rhythm",
+      "Hair growth",
+      "Vision color",
+      "Tongue size"
+    ],
+    "answer": "Heart rhythm",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_043",
+    "question": "ECG monitoring is especially important in:",
+    "options": [
+      "Arrhythmia risk",
+      "Fracture arm",
+      "Cataract",
+      "Dermatitis"
+    ],
+    "answer": "Arrhythmia risk",
+    "topic": "Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_044",
+    "question": "Common infection prevention measure in ICU:",
+    "options": [
+      "Hand hygiene",
+      "Skip cleaning",
+      "Reuse dirty gloves",
+      "No PPE"
+    ],
+    "answer": "Hand hygiene",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_045",
+    "question": "Pressure ulcer prevention includes:",
+    "options": [
+      "Regular repositioning",
+      "No movement",
+      "Wet bedding",
+      "Tight restraints"
+    ],
+    "answer": "Regular repositioning",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_046",
+    "question": "DVT prevention in immobile ICU patient includes:",
+    "options": [
+      "Compression devices/exercises",
+      "Absolute no movement",
+      "Only sugar intake",
+      "No hydration"
+    ],
+    "answer": "Compression devices/exercises",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_047",
+    "question": "Best way to communicate with intubated conscious patient:",
+    "options": [
+      "Writing/gestures board",
+      "Ignore patient",
+      "Sedate only",
+      "Shout loudly"
+    ],
+    "answer": "Writing/gestures board",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_048",
+    "question": "Family support in ICU is important because it reduces:",
+    "options": [
+      "Anxiety",
+      "Oxygen saturation",
+      "Hemoglobin",
+      "Urine output"
+    ],
+    "answer": "Anxiety",
+    "topic": "Psychological Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_049",
+    "question": "Main goal of critical care nursing is:",
+    "options": [
+      "Maintain life and prevent complications",
+      "Delay treatment",
+      "Only documentation",
+      "Discharge immediately"
+    ],
+    "answer": "Maintain life and prevent complications",
+    "topic": "Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_050",
+    "question": "Overall priority in ICU emergencies remains:",
+    "options": [
+      "Airway, breathing, circulation",
+      "Bathing, charting, feeding",
+      "Sleep, rest, silence",
+      "Vision, hearing, speech"
+    ],
+    "answer": "Airway, breathing, circulation",
+    "topic": "ABC",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_051",
+    "question": "A patient on ventilator suddenly shows high peak airway pressure. First nursing action is:",
+    "options": [
+      "Assess tube patency and secretions",
+      "Increase sedation immediately",
+      "Stop all alarms",
+      "Disconnect oxygen permanently"
+    ],
+    "answer": "Assess tube patency and secretions",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_052",
+    "question": "The most reliable sign of adequate tissue perfusion is:",
+    "options": [
+      "Normal urine output",
+      "Warm hair",
+      "Red lips only",
+      "Weight gain"
+    ],
+    "answer": "Normal urine output",
+    "topic": "Shock Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_053",
+    "question": "A CVP reading mainly helps assess:",
+    "options": [
+      "Right heart preload/fluid status",
+      "Liver enzymes",
+      "Blood sugar",
+      "ICP"
+    ],
+    "answer": "Right heart preload/fluid status",
+    "topic": "Hemodynamic Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_054",
+    "question": "Which finding suggests fluid overload during rapid IV infusion?",
+    "options": [
+      "Crackles in lungs",
+      "Dry tongue",
+      "Sunken eyes",
+      "Hypotension only"
+    ],
+    "answer": "Crackles in lungs",
+    "topic": "Fluid Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_055",
+    "question": "The earliest ECG change in hyperkalemia is often:",
+    "options": [
+      "Tall peaked T waves",
+      "Delta waves",
+      "U waves",
+      "ST depression only"
+    ],
+    "answer": "Tall peaked T waves",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_056",
+    "question": "Which electrolyte imbalance is commonly associated with muscle weakness and arrhythmias?",
+    "options": [
+      "Hypokalemia",
+      "Hypernatremia",
+      "Hypermagnesemia only",
+      "Hypercalcemia only"
+    ],
+    "answer": "Hypokalemia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_057",
+    "question": "Best position for an unconscious vomiting patient is:",
+    "options": [
+      "Lateral recovery position",
+      "Supine flat",
+      "Trendelenburg",
+      "Prone only"
+    ],
+    "answer": "Lateral recovery position",
+    "topic": "Airway",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_058",
+    "question": "Primary purpose of PEEP in ventilation is to:",
+    "options": [
+      "Prevent alveolar collapse",
+      "Reduce heart rate",
+      "Increase urine output",
+      "Treat seizures"
+    ],
+    "answer": "Prevent alveolar collapse",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_059",
+    "question": "Excessive PEEP may decrease:",
+    "options": [
+      "Cardiac output",
+      "Blood glucose",
+      "Body temperature",
+      "Hemoglobin synthesis"
+    ],
+    "answer": "Cardiac output",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_060",
+    "question": "Most accurate way to confirm ET tube placement after intubation is:",
+    "options": [
+      "End-tidal CO2 detection",
+      "Chest rise only",
+      "Fogging in tube",
+      "Listening from door"
+    ],
+    "answer": "End-tidal CO2 detection",
+    "topic": "Airway",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_061",
+    "question": "A sudden drop in SpO2 with unilateral absent breath sounds after central line insertion suggests:",
+    "options": [
+      "Pneumothorax",
+      "Hypoglycemia",
+      "UTI",
+      "Stroke"
+    ],
+    "answer": "Pneumothorax",
+    "topic": "Complications",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_062",
+    "question": "Best indicator of successful CPR is:",
+    "options": [
+      "Return of spontaneous circulation",
+      "Broken ribs",
+      "Sweating",
+      "Dilated pupils"
+    ],
+    "answer": "Return of spontaneous circulation",
+    "topic": "Resuscitation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_063",
+    "question": "In septic shock, serum lactate is used to assess:",
+    "options": [
+      "Tissue hypoperfusion",
+      "Bone density",
+      "Renal stones",
+      "Anemia type"
+    ],
+    "answer": "Tissue hypoperfusion",
+    "topic": "Sepsis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_064",
+    "question": "Priority within first hour of suspected sepsis is:",
+    "options": [
+      "Early antibiotics after cultures",
+      "High-fat meal",
+      "Bed bath first",
+      "Restrict all fluids"
+    ],
+    "answer": "Early antibiotics after cultures",
+    "topic": "Sepsis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_065",
+    "question": "MAP below which organ perfusion may become inadequate in many adults is approximately:",
+    "options": [
+      "65 mmHg",
+      "120 mmHg",
+      "30 mmHg",
+      "95 mmHg"
+    ],
+    "answer": "65 mmHg",
+    "topic": "Hemodynamics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_066",
+    "question": "The antidote commonly used for opioid overdose causing respiratory depression is:",
+    "options": [
+      "Naloxone",
+      "Atropine",
+      "Vitamin K",
+      "Protamine"
+    ],
+    "answer": "Naloxone",
+    "topic": "Emergency Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_067",
+    "question": "A patient becomes suddenly agitated on ventilator. First assess for:",
+    "options": [
+      "Hypoxia or discomfort",
+      "Psychiatric disease only",
+      "Need for discharge",
+      "Hair loss"
+    ],
+    "answer": "Hypoxia or discomfort",
+    "topic": "Ventilator Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_068",
+    "question": "Which arterial blood gas indicates respiratory acidosis?",
+    "options": [
+      "Low pH, high PaCO2",
+      "High pH, low CO2",
+      "Low pH, low HCO3",
+      "Normal pH, high O2"
+    ],
+    "answer": "Low pH, high PaCO2",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_069",
+    "question": "Which ABG pattern suggests metabolic acidosis?",
+    "options": [
+      "Low pH, low HCO3",
+      "High pH, high CO2",
+      "Normal pH, low O2",
+      "High pH, high O2"
+    ],
+    "answer": "Low pH, low HCO3",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_070",
+    "question": "Compensatory response to metabolic acidosis is usually:",
+    "options": [
+      "Hyperventilation",
+      "Bradycardia",
+      "Hypoventilation",
+      "Polyphagia"
+    ],
+    "answer": "Hyperventilation",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_071",
+    "question": "Which rhythm is shockable in ACLS?",
+    "options": [
+      "Ventricular fibrillation",
+      "Asystole",
+      "PEA",
+      "Sinus bradycardia"
+    ],
+    "answer": "Ventricular fibrillation",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_072",
+    "question": "Asystole management includes:",
+    "options": [
+      "CPR and epinephrine",
+      "Immediate shock only",
+      "Calcium only",
+      "No treatment"
+    ],
+    "answer": "CPR and epinephrine",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_073",
+    "question": "A patient with raised ICP should generally avoid:",
+    "options": [
+      "Neck flexion",
+      "Head elevation",
+      "Neutral alignment",
+      "Quiet environment"
+    ],
+    "answer": "Neck flexion",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_074",
+    "question": "Cushing triad may indicate:",
+    "options": [
+      "Raised intracranial pressure",
+      "Hypoglycemia",
+      "Pulmonary embolism",
+      "DKA"
+    ],
+    "answer": "Raised intracranial pressure",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_075",
+    "question": "Components of Cushing triad include hypertension, bradycardia and:",
+    "options": [
+      "Irregular respirations",
+      "Fever",
+      "Polyuria",
+      "Tachycardia"
+    ],
+    "answer": "Irregular respirations",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_076",
+    "question": "Priority care for status epilepticus is:",
+    "options": [
+      "Airway protection and anticonvulsants",
+      "Give food",
+      "Encourage walking",
+      "Restrain tightly"
+    ],
+    "answer": "Airway protection and anticonvulsants",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_077",
+    "question": "Which drug class is commonly first-line in active seizures emergency?",
+    "options": [
+      "Benzodiazepines",
+      "Statins",
+      "Diuretics",
+      "Antacids"
+    ],
+    "answer": "Benzodiazepines",
+    "topic": "Emergency Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_078",
+    "question": "Best bedside method to reduce VAP risk is:",
+    "options": [
+      "Oral care + head elevation",
+      "Flat bed rest",
+      "No suction ever",
+      "Continuous sedation only"
+    ],
+    "answer": "Oral care + head elevation",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_079",
+    "question": "A sudden fever and purulent secretions in ventilated patient suggests:",
+    "options": [
+      "Ventilator-associated pneumonia",
+      "Renal colic",
+      "Stroke",
+      "DKA"
+    ],
+    "answer": "Ventilator-associated pneumonia",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_080",
+    "question": "Best parameter to evaluate pain in conscious ICU patient is:",
+    "options": [
+      "Patient self-report scale",
+      "BP only",
+      "RR only",
+      "Urine output"
+    ],
+    "answer": "Patient self-report scale",
+    "topic": "Pain Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_081",
+    "question": "Which vasopressor is commonly first choice in septic shock?",
+    "options": [
+      "Norepinephrine",
+      "Insulin",
+      "Furosemide",
+      "Digoxin"
+    ],
+    "answer": "Norepinephrine",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_082",
+    "question": "Extravasation of vasopressor infusion can cause:",
+    "options": [
+      "Tissue necrosis",
+      "Improved perfusion",
+      "Hypoglycemia",
+      "Jaundice"
+    ],
+    "answer": "Tissue necrosis",
+    "topic": "Drug Safety",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_083",
+    "question": "Best vein access for prolonged vasopressor therapy is:",
+    "options": [
+      "Central venous line",
+      "Scalp vein",
+      "Arterial line",
+      "NG tube"
+    ],
+    "answer": "Central venous line",
+    "topic": "Lines & Access",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_084",
+    "question": "Arterial line is primarily used for:",
+    "options": [
+      "Continuous BP monitoring",
+      "Feeding",
+      "Urine drainage",
+      "Dialysis only"
+    ],
+    "answer": "Continuous BP monitoring",
+    "topic": "Lines & Access",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_085",
+    "question": "Allen test is assessed before cannulating:",
+    "options": [
+      "Radial artery",
+      "Femoral vein",
+      "Jugular vein",
+      "Subclavian vein"
+    ],
+    "answer": "Radial artery",
+    "topic": "Lines & Access",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_086",
+    "question": "Most common cause of false low SpO2 reading is:",
+    "options": [
+      "Poor peripheral perfusion",
+      "Hyperglycemia",
+      "Anemia only",
+      "Tall height"
+    ],
+    "answer": "Poor peripheral perfusion",
+    "topic": "Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_087",
+    "question": "Priority when high-pressure ventilator alarm sounds is:",
+    "options": [
+      "Check patient first",
+      "Silence and leave",
+      "Turn off oxygen",
+      "Remove ET tube immediately"
+    ],
+    "answer": "Check patient first",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_088",
+    "question": "Priority when low-pressure ventilator alarm sounds is to suspect:",
+    "options": [
+      "Disconnection/leak",
+      "Pulmonary edema",
+      "Hyperkalemia",
+      "Seizure"
+    ],
+    "answer": "Disconnection/leak",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_089",
+    "question": "A patient with DKA usually needs initial priority therapy of:",
+    "options": [
+      "Fluids then insulin",
+      "Calcium only",
+      "Dialysis first always",
+      "Sedation only"
+    ],
+    "answer": "Fluids then insulin",
+    "topic": "Endocrine ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_090",
+    "question": "Which finding is common in DKA?",
+    "options": [
+      "Kussmaul breathing",
+      "Bradycardia with apnea",
+      "Hematuria",
+      "Pinpoint pupils"
+    ],
+    "answer": "Kussmaul breathing",
+    "topic": "Endocrine ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_091",
+    "question": "Most urgent concern in GI bleed with hypotension is:",
+    "options": [
+      "Hemodynamic stabilization",
+      "Laxatives",
+      "Oral feeding",
+      "Sleep hygiene"
+    ],
+    "answer": "Hemodynamic stabilization",
+    "topic": "GI Critical Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_092",
+    "question": "Massive transfusion may lead to:",
+    "options": [
+      "Hypocalcemia",
+      "Hypervision",
+      "Goiter",
+      "Polycythemia only"
+    ],
+    "answer": "Hypocalcemia",
+    "topic": "Transfusion",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_093",
+    "question": "Best prevention for pressure injury in ICU patient is:",
+    "options": [
+      "Scheduled repositioning",
+      "Massage reddened skin hard",
+      "Keep moist wrinkles",
+      "No nutrition"
+    ],
+    "answer": "Scheduled repositioning",
+    "topic": "Skin Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_094",
+    "question": "Delirium in ICU is commonly worsened by:",
+    "options": [
+      "Sleep deprivation",
+      "Day-night orientation",
+      "Family reassurance",
+      "Pain control"
+    ],
+    "answer": "Sleep deprivation",
+    "topic": "Psychological Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_095",
+    "question": "Best way to reduce ICU delirium risk is:",
+    "options": [
+      "Early mobilization and orientation",
+      "Continuous restraints",
+      "No daylight exposure",
+      "Over-sedation"
+    ],
+    "answer": "Early mobilization and orientation",
+    "topic": "Psychological Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_096",
+    "question": "A patient post extubation develops stridor. This suggests:",
+    "options": [
+      "Upper airway obstruction",
+      "Improved airway",
+      "Renal failure",
+      "MI"
+    ],
+    "answer": "Upper airway obstruction",
+    "topic": "Airway",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_097",
+    "question": "Most immediate nursing response to post-extubation stridor is:",
+    "options": [
+      "Call for urgent airway support",
+      "Offer sandwich",
+      "Walk patient alone",
+      "Remove monitor"
+    ],
+    "answer": "Call for urgent airway support",
+    "topic": "Airway",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_098",
+    "question": "Which marker best reflects short-term glucose control in ICU moment-to-moment?",
+    "options": [
+      "Capillary/serum glucose",
+      "HbA1c",
+      "BMI",
+      "Albumin"
+    ],
+    "answer": "Capillary/serum glucose",
+    "topic": "Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_099",
+    "question": "The nurse notices sudden agitation, diaphoresis, tachycardia in insulin infusion patient. Suspect:",
+    "options": [
+      "Hypoglycemia",
+      "Hypercalcemia",
+      "Pneumothorax",
+      "Stroke only"
+    ],
+    "answer": "Hypoglycemia",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_100",
+    "question": "Core principle of critical care nursing is:",
+    "options": [
+      "Early recognition and rapid intervention",
+      "Wait for collapse",
+      "Treat monitors not patient",
+      "Delay escalation"
+    ],
+    "answer": "Early recognition and rapid intervention",
+    "topic": "Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_101",
+    "question": "A patient on norepinephrine develops cold pale fingers at infusion site. Priority concern is:",
+    "options": [
+      "Extravasation causing ischemia",
+      "Expected warming effect",
+      "Normal vasodilation",
+      "Hypoglycemia only"
+    ],
+    "answer": "Extravasation causing ischemia",
+    "topic": "Vasoactive Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_102",
+    "question": "Which parameter best reflects kidney perfusion in shock at bedside?",
+    "options": [
+      "Urine output trend",
+      "Hair growth",
+      "Pupil size",
+      "Body weight once"
+    ],
+    "answer": "Urine output trend",
+    "topic": "Hemodynamics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_103",
+    "question": "Sudden hypotension after intubation may result from:",
+    "options": [
+      "Sedation + decreased venous return",
+      "Improved preload",
+      "Increased appetite",
+      "Hypothermia only"
+    ],
+    "answer": "Sedation + decreased venous return",
+    "topic": "Airway ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_104",
+    "question": "Plateau pressure on ventilator mainly reflects:",
+    "options": [
+      "Alveolar pressure/compliance",
+      "ET tube cuff volume",
+      "Heart rate",
+      "Renal blood flow"
+    ],
+    "answer": "Alveolar pressure/compliance",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_105",
+    "question": "High peak pressure with normal plateau pressure usually suggests:",
+    "options": [
+      "Airway resistance problem",
+      "Low cardiac output",
+      "Metabolic acidosis",
+      "Brain herniation"
+    ],
+    "answer": "Airway resistance problem",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_106",
+    "question": "Common causes of increased airway resistance on ventilator include:",
+    "options": [
+      "Bronchospasm or secretions",
+      "Hypothermia",
+      "Anemia only",
+      "Hyperglycemia"
+    ],
+    "answer": "Bronchospasm or secretions",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_107",
+    "question": "Low tidal volume alarm with low pressure most likely indicates:",
+    "options": [
+      "Circuit leak/disconnection",
+      "Pulmonary edema",
+      "ARDS progression",
+      "ICP rise"
+    ],
+    "answer": "Circuit leak/disconnection",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_108",
+    "question": "A patient with ARDS typically has:",
+    "options": [
+      "Refractory hypoxemia",
+      "Severe bradycardia only",
+      "Polyuria",
+      "Hypernatremia only"
+    ],
+    "answer": "Refractory hypoxemia",
+    "topic": "Respiratory ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_109",
+    "question": "Prone positioning in ARDS mainly improves:",
+    "options": [
+      "Oxygenation",
+      "Blood sugar",
+      "Urine output",
+      "Vision"
+    ],
+    "answer": "Oxygenation",
+    "topic": "Respiratory ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_110",
+    "question": "Before proning an intubated patient, priority is to secure:",
+    "options": [
+      "Airway lines and tubes",
+      "Meal tray",
+      "Visitor access",
+      "Discharge file"
+    ],
+    "answer": "Airway lines and tubes",
+    "topic": "Respiratory ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_111",
+    "question": "Shock index is commonly calculated as:",
+    "options": [
+      "Heart rate / systolic BP",
+      "MAP / pulse",
+      "Temp / RR",
+      "SpO2 / pulse"
+    ],
+    "answer": "Heart rate / systolic BP",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_112",
+    "question": "A narrowing pulse pressure may suggest:",
+    "options": [
+      "Reduced stroke volume",
+      "Improved perfusion",
+      "Hyperthyroidism only",
+      "DKA"
+    ],
+    "answer": "Reduced stroke volume",
+    "topic": "Hemodynamics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_113",
+    "question": "First-line fluid for most septic shock resuscitation is:",
+    "options": [
+      "Isotonic crystalloid",
+      "Dextrose 25%",
+      "Hypertonic saline routine",
+      "Albumin only first"
+    ],
+    "answer": "Isotonic crystalloid",
+    "topic": "Sepsis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_114",
+    "question": "Persistent hypotension despite fluids in sepsis often requires:",
+    "options": [
+      "Vasopressors",
+      "Laxatives",
+      "Sedatives only",
+      "Calcium tablets"
+    ],
+    "answer": "Vasopressors",
+    "topic": "Sepsis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_115",
+    "question": "Capillary refill time prolonged in shock suggests:",
+    "options": [
+      "Poor peripheral perfusion",
+      "Excellent circulation",
+      "Hyperglycemia",
+      "Renal recovery"
+    ],
+    "answer": "Poor peripheral perfusion",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_116",
+    "question": "Which ABG fits uncompensated respiratory alkalosis?",
+    "options": [
+      "High pH, low PaCO2",
+      "Low pH, high CO2",
+      "Low pH, low HCO3",
+      "Normal pH, low O2"
+    ],
+    "answer": "High pH, low PaCO2",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_117",
+    "question": "A panic-driven hyperventilating patient may develop:",
+    "options": [
+      "Respiratory alkalosis",
+      "Respiratory acidosis",
+      "Metabolic acidosis",
+      "Hyperkalemia only"
+    ],
+    "answer": "Respiratory alkalosis",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_118",
+    "question": "Which condition commonly causes high anion gap metabolic acidosis?",
+    "options": [
+      "DKA",
+      "Vomiting",
+      "NG suction",
+      "Excess antacid use"
+    ],
+    "answer": "DKA",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_119",
+    "question": "Profuse vomiting commonly causes:",
+    "options": [
+      "Metabolic alkalosis",
+      "Metabolic acidosis",
+      "Respiratory acidosis",
+      "Lactic acidosis"
+    ],
+    "answer": "Metabolic alkalosis",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_120",
+    "question": "A COPD patient retaining CO2 is at risk for:",
+    "options": [
+      "Respiratory acidosis",
+      "Respiratory alkalosis",
+      "Metabolic alkalosis",
+      "DKA"
+    ],
+    "answer": "Respiratory acidosis",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_121",
+    "question": "Which electrolyte abnormality commonly prolongs QT interval?",
+    "options": [
+      "Hypocalcemia",
+      "Hypernatremia",
+      "Hypermagnesemia only",
+      "Hyperchloremia"
+    ],
+    "answer": "Hypocalcemia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_122",
+    "question": "Severe hyponatremia may present with:",
+    "options": [
+      "Seizures",
+      "Polyphagia",
+      "Jaundice",
+      "Hematuria"
+    ],
+    "answer": "Seizures",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_123",
+    "question": "Too rapid correction of chronic hyponatremia risks:",
+    "options": [
+      "Osmotic demyelination",
+      "ARDS",
+      "MI",
+      "GI bleed"
+    ],
+    "answer": "Osmotic demyelination",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_124",
+    "question": "Insulin with dextrose is used acutely in hyperkalemia to:",
+    "options": [
+      "Shift potassium into cells",
+      "Increase bleeding",
+      "Raise sodium",
+      "Treat sepsis"
+    ],
+    "answer": "Shift potassium into cells",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_125",
+    "question": "Calcium gluconate in severe hyperkalemia mainly stabilizes:",
+    "options": [
+      "Cardiac membrane",
+      "Kidney tubules",
+      "Liver cells",
+      "Platelets"
+    ],
+    "answer": "Cardiac membrane",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_126",
+    "question": "A febrile neutropenic ICU patient requires priority:",
+    "options": [
+      "Prompt broad-spectrum antibiotics",
+      "Live vaccine",
+      "Crowded visitors",
+      "Delay cultures for days"
+    ],
+    "answer": "Prompt broad-spectrum antibiotics",
+    "topic": "Infection ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_127",
+    "question": "Central line associated bloodstream infection prevention includes:",
+    "options": [
+      "Strict aseptic handling",
+      "Routine unnecessary opening",
+      "Wet dressings",
+      "Bare-hand access"
+    ],
+    "answer": "Strict aseptic handling",
+    "topic": "Lines & Access",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_128",
+    "question": "Which sign most strongly suggests tension pneumothorax?",
+    "options": [
+      "Hypotension + unilateral absent breath sounds",
+      "Polyuria",
+      "Bradycardia only",
+      "Diarrhea"
+    ],
+    "answer": "Hypotension + unilateral absent breath sounds",
+    "topic": "Respiratory Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_129",
+    "question": "Immediate treatment for tension pneumothorax is:",
+    "options": [
+      "Urgent decompression",
+      "Oral fluids",
+      "Wait for X-ray only",
+      "Insulin infusion"
+    ],
+    "answer": "Urgent decompression",
+    "topic": "Respiratory Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_130",
+    "question": "Massive pulmonary embolism may present with sudden:",
+    "options": [
+      "Hypoxia and hypotension",
+      "Bradycardia and jaundice",
+      "Polyuria",
+      "Hyperthermia only"
+    ],
+    "answer": "Hypoxia and hypotension",
+    "topic": "Respiratory Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_131",
+    "question": "Best nursing action to reduce DVT risk in immobilized ICU patient:",
+    "options": [
+      "Mechanical prophylaxis + mobilization",
+      "No movement",
+      "High sugar diet",
+      "Trendelenburg always"
+    ],
+    "answer": "Mechanical prophylaxis + mobilization",
+    "topic": "Prevention",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_132",
+    "question": "A sudden drop in platelets after heparin exposure raises concern for:",
+    "options": [
+      "HIT",
+      "ITP only",
+      "Sepsis always",
+      "Vitamin K deficiency"
+    ],
+    "answer": "HIT",
+    "topic": "Hematology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_133",
+    "question": "Massive transfusion commonly requires monitoring for:",
+    "options": [
+      "Hypothermia and coagulopathy",
+      "Hypervision",
+      "Goiter",
+      "Myopia"
+    ],
+    "answer": "Hypothermia and coagulopathy",
+    "topic": "Transfusion",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_134",
+    "question": "TRALI after transfusion mainly presents with acute:",
+    "options": [
+      "Respiratory distress",
+      "Polyuria",
+      "Constipation",
+      "Hyperglycemia"
+    ],
+    "answer": "Respiratory distress",
+    "topic": "Transfusion",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_135",
+    "question": "Best immediate action for suspected transfusion reaction is:",
+    "options": [
+      "Stop transfusion and assess",
+      "Increase rate",
+      "Discard chart",
+      "Give food"
+    ],
+    "answer": "Stop transfusion and assess",
+    "topic": "Transfusion",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_136",
+    "question": "Delirium differs from dementia because delirium is usually:",
+    "options": [
+      "Acute and fluctuating",
+      "Slowly progressive only",
+      "Always irreversible",
+      "Without inattention"
+    ],
+    "answer": "Acute and fluctuating",
+    "topic": "Neuro ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_137",
+    "question": "Best non-drug intervention for ICU delirium prevention:",
+    "options": [
+      "Sleep hygiene and reorientation",
+      "Continuous darkness",
+      "Deep sedation",
+      "Isolation always"
+    ],
+    "answer": "Sleep hygiene and reorientation",
+    "topic": "Neuro ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_138",
+    "question": "Sedation vacation in ventilated patient helps assess:",
+    "options": [
+      "Neurologic status/readiness to wean",
+      "Hair growth",
+      "Fracture healing",
+      "Vision"
+    ],
+    "answer": "Neurologic status/readiness to wean",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_139",
+    "question": "Successful spontaneous breathing trial suggests readiness for:",
+    "options": [
+      "Extubation consideration",
+      "Dialysis",
+      "Laparotomy",
+      "Transfusion"
+    ],
+    "answer": "Extubation consideration",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_140",
+    "question": "Post-extubation inability to clear secretions increases risk of:",
+    "options": [
+      "Reintubation",
+      "Hypertension",
+      "Hyperthyroidism",
+      "UTI"
+    ],
+    "answer": "Reintubation",
+    "topic": "Ventilator",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_141",
+    "question": "Enteral nutrition is preferred over parenteral when gut works because it:",
+    "options": [
+      "Maintains gut integrity",
+      "Always cheaper only",
+      "Raises ICP",
+      "Causes sepsis less by rule"
+    ],
+    "answer": "Maintains gut integrity",
+    "topic": "Nutrition ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_142",
+    "question": "Refeeding syndrome risk is highest in severely malnourished due to low:",
+    "options": [
+      "Phosphate",
+      "Sodium only",
+      "Calcium only",
+      "Albumin only"
+    ],
+    "answer": "Phosphate",
+    "topic": "Nutrition ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_143",
+    "question": "Stress ulcer prophylaxis is often considered in ICU patients with:",
+    "options": [
+      "High bleeding risk",
+      "Normal healthy outpatients",
+      "Minor paper cut",
+      "Simple headache"
+    ],
+    "answer": "High bleeding risk",
+    "topic": "GI ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_144",
+    "question": "Compartment syndrome is suspected with pain out of proportion and:",
+    "options": [
+      "Tense swollen limb",
+      "Soft painless limb",
+      "Warm rash only",
+      "Loose stool"
+    ],
+    "answer": "Tense swollen limb",
+    "topic": "Trauma ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_145",
+    "question": "Priority in suspected compartment syndrome is:",
+    "options": [
+      "Urgent surgical review",
+      "Ice cream",
+      "Delay assessment",
+      "Tighten bandage more"
+    ],
+    "answer": "Urgent surgical review",
+    "topic": "Trauma ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_146",
+    "question": "Burn patient fluid losses are mainly due to:",
+    "options": [
+      "Capillary leak",
+      "Increased insulin",
+      "Polycythemia",
+      "Hyperthyroidism"
+    ],
+    "answer": "Capillary leak",
+    "topic": "Burn ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_147",
+    "question": "Carbon monoxide poisoning often shows pulse oximetry that is:",
+    "options": [
+      "Falsely normal",
+      "Always zero",
+      "Always unreadable",
+      "Always low with certainty"
+    ],
+    "answer": "Falsely normal",
+    "topic": "Toxicology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_148",
+    "question": "Most specific bedside clue of opioid toxicity is:",
+    "options": [
+      "Pinpoint pupils + hypoventilation",
+      "Fever + rash",
+      "Polyuria + thirst",
+      "Jaundice"
+    ],
+    "answer": "Pinpoint pupils + hypoventilation",
+    "topic": "Toxicology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_149",
+    "question": "A post-op patient with sudden confusion, low SpO2, and shallow breaths after opioids likely needs:",
+    "options": [
+      "Airway support and naloxone consideration",
+      "More opioid",
+      "Sedation only",
+      "Discharge"
+    ],
+    "answer": "Airway support and naloxone consideration",
+    "topic": "Postoperative ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_150",
+    "question": "Core advanced ICU nursing principle is:",
+    "options": [
+      "Trend recognition before collapse",
+      "Treat numbers only",
+      "Ignore subtle changes",
+      "Wait for doctor rounds only"
+    ],
+    "answer": "Trend recognition before collapse",
+    "topic": "Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_151",
+    "question": "A ventilated patient suddenly becomes hypotensive with distended neck veins and unilateral absent breath sounds. Most likely cause is:",
+    "options": [
+      "Tension pneumothorax",
+      "Hypoglycemia",
+      "GI bleed",
+      "Pulmonary edema"
+    ],
+    "answer": "Tension pneumothorax",
+    "topic": "Respiratory Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_152",
+    "question": "Immediate nursing priority in suspected tension pneumothorax is:",
+    "options": [
+      "Call for urgent decompression support",
+      "Increase IV fluids only",
+      "Feed patient",
+      "Lower oxygen to room air"
+    ],
+    "answer": "Call for urgent decompression support",
+    "topic": "Respiratory Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_153",
+    "question": "Pulsus paradoxus is classically associated with:",
+    "options": [
+      "Cardiac tamponade",
+      "DKA",
+      "Appendicitis",
+      "Stroke"
+    ],
+    "answer": "Cardiac tamponade",
+    "topic": "Cardiac ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_154",
+    "question": "Beck triad suggests:",
+    "options": [
+      "Cardiac tamponade",
+      "Raised ICP",
+      "Septic shock",
+      "ARDS"
+    ],
+    "answer": "Cardiac tamponade",
+    "topic": "Cardiac ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_155",
+    "question": "Beck triad includes hypotension, raised JVP and:",
+    "options": [
+      "Muffled heart sounds",
+      "Crackles",
+      "Bradypnea",
+      "Polyuria"
+    ],
+    "answer": "Muffled heart sounds",
+    "topic": "Cardiac ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_156",
+    "question": "A sudden rise in ICP can present with worsening headache, vomiting and:",
+    "options": [
+      "Decreased consciousness",
+      "Polyphagia",
+      "Diarrhea",
+      "Improved memory"
+    ],
+    "answer": "Decreased consciousness",
+    "topic": "Neuro ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_157",
+    "question": "Priority nursing intervention in raised ICP includes:",
+    "options": [
+      "Head midline elevation 30°",
+      "Trendelenburg position",
+      "Tight neck flexion",
+      "Excess stimulation"
+    ],
+    "answer": "Head midline elevation 30°",
+    "topic": "Neuro ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_158",
+    "question": "Which sedative complication requires urgent recognition in ICU?",
+    "options": [
+      "Respiratory depression",
+      "Hair loss",
+      "Myopia",
+      "Dry nails"
+    ],
+    "answer": "Respiratory depression",
+    "topic": "Sedation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_159",
+    "question": "Richmond Agitation-Sedation Scale (RASS) is used to monitor:",
+    "options": [
+      "Sedation/agitation level",
+      "Kidney function",
+      "Nutrition",
+      "Coagulation"
+    ],
+    "answer": "Sedation/agitation level",
+    "topic": "Sedation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_160",
+    "question": "Daily sedation interruption may help reduce:",
+    "options": [
+      "Ventilator days",
+      "Hemoglobin",
+      "Urine output",
+      "Platelets"
+    ],
+    "answer": "Ventilator days",
+    "topic": "Ventilator Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_161",
+    "question": "A septic patient remains hypotensive after fluids. Priority next step:",
+    "options": [
+      "Start vasopressor support",
+      "Give laxative",
+      "Restrict oxygen",
+      "Stop monitoring"
+    ],
+    "answer": "Start vasopressor support",
+    "topic": "Sepsis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_162",
+    "question": "Most common target MAP in septic shock resuscitation is:",
+    "options": [
+      "≥65 mmHg",
+      "40 mmHg",
+      "25 mmHg",
+      "120 mmHg mandatory"
+    ],
+    "answer": "≥65 mmHg",
+    "topic": "Hemodynamics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_163",
+    "question": "Which finding suggests poor response to fluid resuscitation?",
+    "options": [
+      "Persistent rising lactate",
+      "Warm hands only",
+      "Mild hunger",
+      "Normal hair"
+    ],
+    "answer": "Persistent rising lactate",
+    "topic": "Sepsis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_164",
+    "question": "Best bedside marker of improving renal perfusion is:",
+    "options": [
+      "Increasing urine output",
+      "Longer nails",
+      "Lower BMI",
+      "Dry skin"
+    ],
+    "answer": "Increasing urine output",
+    "topic": "Renal ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_165",
+    "question": "AKI in ICU is commonly recognized by rising creatinine and:",
+    "options": [
+      "Reduced urine output",
+      "Hyperactivity",
+      "Tinnitus",
+      "Polyphagia"
+    ],
+    "answer": "Reduced urine output",
+    "topic": "Renal ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_166",
+    "question": "Which patient may need urgent dialysis?",
+    "options": [
+      "Refractory hyperkalemia",
+      "Simple headache",
+      "Mild cough",
+      "Controlled BP"
+    ],
+    "answer": "Refractory hyperkalemia",
+    "topic": "Renal ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_167",
+    "question": "Uremic pericarditis may occur in severe:",
+    "options": [
+      "Renal failure",
+      "Asthma",
+      "Migraine",
+      "Otitis"
+    ],
+    "answer": "Renal failure",
+    "topic": "Renal ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_168",
+    "question": "A dialysis patient with chest pain and friction rub suggests:",
+    "options": [
+      "Uremic pericarditis",
+      "Appendicitis",
+      "DKA",
+      "Stroke"
+    ],
+    "answer": "Uremic pericarditis",
+    "topic": "Renal ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_169",
+    "question": "Most dangerous complication during rapid potassium IV infusion is:",
+    "options": [
+      "Cardiac arrhythmia",
+      "Constipation",
+      "Hypervision",
+      "Hair loss"
+    ],
+    "answer": "Cardiac arrhythmia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_170",
+    "question": "Potassium chloride IV should generally never be given as rapid:",
+    "options": [
+      "IV bolus",
+      "Diluted infusion",
+      "Pump infusion",
+      "Monitored replacement"
+    ],
+    "answer": "IV bolus",
+    "topic": "Drug Safety",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_171",
+    "question": "A patient with pancreatitis develops ARDS. Priority concern is:",
+    "options": [
+      "Severe hypoxemia",
+      "Hair loss",
+      "UTI only",
+      "Cataract"
+    ],
+    "answer": "Severe hypoxemia",
+    "topic": "Respiratory ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_172",
+    "question": "Which finding is classic in pulmonary edema?",
+    "options": [
+      "Crackles and dyspnea",
+      "Dry cough only",
+      "Polyuria",
+      "Pinpoint pupils"
+    ],
+    "answer": "Crackles and dyspnea",
+    "topic": "Cardiorespiratory ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_173",
+    "question": "Non-invasive ventilation may help in acute:",
+    "options": [
+      "Cardiogenic pulmonary edema",
+      "Perforated bowel",
+      "Anaphylaxis airway obstruction",
+      "Massive GI bleed"
+    ],
+    "answer": "Cardiogenic pulmonary edema",
+    "topic": "Respiratory Support",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_174",
+    "question": "Contraindication to NIV includes:",
+    "options": [
+      "Unable to protect airway",
+      "Mild dyspnea",
+      "Cooperative patient",
+      "Cardiogenic edema"
+    ],
+    "answer": "Unable to protect airway",
+    "topic": "Respiratory Support",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_175",
+    "question": "A patient with COPD on oxygen becomes drowsy. Nurse should suspect possible:",
+    "options": [
+      "CO2 retention",
+      "Hypocalcemia",
+      "GI bleed",
+      "Appendicitis"
+    ],
+    "answer": "CO2 retention",
+    "topic": "Respiratory ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_176",
+    "question": "Best test to confirm CO2 retention is:",
+    "options": [
+      "Arterial blood gas",
+      "Urinalysis",
+      "CBC only",
+      "LFT only"
+    ],
+    "answer": "Arterial blood gas",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_177",
+    "question": "In DKA, potassium may initially appear normal/high despite total body:",
+    "options": [
+      "Potassium deficit",
+      "Calcium excess",
+      "Protein overload",
+      "Iron toxicity"
+    ],
+    "answer": "Potassium deficit",
+    "topic": "Endocrine ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_178",
+    "question": "When insulin starts in DKA, potassium often:",
+    "options": [
+      "Falls",
+      "Rises always",
+      "Stays fixed",
+      "Becomes irrelevant"
+    ],
+    "answer": "Falls",
+    "topic": "Endocrine ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_179",
+    "question": "Hyperosmolar hyperglycemic state is usually characterized by marked:",
+    "options": [
+      "Dehydration",
+      "Ketosis always severe",
+      "Bradycardia",
+      "Polycythemia"
+    ],
+    "answer": "Dehydration",
+    "topic": "Endocrine ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_180",
+    "question": "A patient on insulin infusion suddenly sweats and trembles. First check:",
+    "options": [
+      "Blood glucose",
+      "Serum calcium",
+      "Liver enzymes",
+      "BMI"
+    ],
+    "answer": "Blood glucose",
+    "topic": "Endocrine ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_181",
+    "question": "Stress dose steroids may be considered in septic shock with suspected:",
+    "options": [
+      "Refractory shock",
+      "Simple fever",
+      "UTI only",
+      "Mild cough"
+    ],
+    "answer": "Refractory shock",
+    "topic": "Sepsis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_182",
+    "question": "Which line infection prevention step is best?",
+    "options": [
+      "Daily review for removal need",
+      "Keep unused line forever",
+      "Wet dressing",
+      "Open ports often"
+    ],
+    "answer": "Daily review for removal need",
+    "topic": "Lines & Access",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_183",
+    "question": "Enteral feeding intolerance may present with vomiting and:",
+    "options": [
+      "Abdominal distension",
+      "Improved appetite",
+      "Hypertension",
+      "Bradycardia"
+    ],
+    "answer": "Abdominal distension",
+    "topic": "Nutrition ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_184",
+    "question": "Most important reason to prefer enteral over TPN when possible:",
+    "options": [
+      "Supports gut mucosa",
+      "Always tastier",
+      "Raises ICP",
+      "No monitoring needed"
+    ],
+    "answer": "Supports gut mucosa",
+    "topic": "Nutrition ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_185",
+    "question": "Refeeding syndrome commonly involves low phosphate leading to:",
+    "options": [
+      "Weakness/respiratory failure",
+      "Polycythemia",
+      "Myopia",
+      "Otitis"
+    ],
+    "answer": "Weakness/respiratory failure",
+    "topic": "Nutrition ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_186",
+    "question": "Which patient is highest aspiration risk during tube feeding?",
+    "options": [
+      "Supine sedated patient",
+      "Walking alert patient",
+      "Standing athlete",
+      "Healthy visitor"
+    ],
+    "answer": "Supine sedated patient",
+    "topic": "Nutrition ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_187",
+    "question": "Best nursing action to reduce aspiration during enteral feed:",
+    "options": [
+      "Head elevation 30–45°",
+      "Flat position",
+      "Trendelenburg",
+      "No oral care"
+    ],
+    "answer": "Head elevation 30–45°",
+    "topic": "Nutrition ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_188",
+    "question": "ICU acquired weakness is reduced by:",
+    "options": [
+      "Early mobilization",
+      "Deep sedation only",
+      "Prolonged bed rest",
+      "No nutrition"
+    ],
+    "answer": "Early mobilization",
+    "topic": "Rehabilitation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_189",
+    "question": "A confused ICU patient pulling lines should first receive:",
+    "options": [
+      "Assessment for pain/delirium causes",
+      "Immediate punishment",
+      "No monitoring",
+      "Discharge"
+    ],
+    "answer": "Assessment for pain/delirium causes",
+    "topic": "Psychological Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_190",
+    "question": "Physical restraints should be used:",
+    "options": [
+      "As last resort with monitoring",
+      "Routinely for all",
+      "Without orders ever",
+      "To punish behavior"
+    ],
+    "answer": "As last resort with monitoring",
+    "topic": "Ethics ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_191",
+    "question": "Most common cause of ICU delirium is multifactorial involving infection, drugs and:",
+    "options": [
+      "Sleep disruption",
+      "Tall height",
+      "Eye color",
+      "Handedness"
+    ],
+    "answer": "Sleep disruption",
+    "topic": "Psychological Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_192",
+    "question": "Which sign may indicate opioid overdose post-op?",
+    "options": [
+      "Pinpoint pupils + low RR",
+      "High fever + rash",
+      "Polyuria",
+      "Jaundice"
+    ],
+    "answer": "Pinpoint pupils + low RR",
+    "topic": "Postoperative ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_193",
+    "question": "Naloxone may reverse:",
+    "options": [
+      "Opioid respiratory depression",
+      "Sepsis",
+      "Stroke",
+      "Hyperkalemia"
+    ],
+    "answer": "Opioid respiratory depression",
+    "topic": "Emergency Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_194",
+    "question": "A fresh tracheostomy patient suddenly desaturates. First priority:",
+    "options": [
+      "Assess airway patency",
+      "Remove monitor",
+      "Feed orally",
+      "Lay flat and leave"
+    ],
+    "answer": "Assess airway patency",
+    "topic": "Airway ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_195",
+    "question": "Subcutaneous emphysema around tracheostomy may indicate:",
+    "options": [
+      "Air leak/malposition",
+      "Normal healing only",
+      "Hypoglycemia",
+      "Anemia"
+    ],
+    "answer": "Air leak/malposition",
+    "topic": "Airway ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_196",
+    "question": "Massive GI bleed with confusion and tachycardia suggests:",
+    "options": [
+      "Hemorrhagic shock",
+      "Migraine",
+      "UTI",
+      "Simple gastritis"
+    ],
+    "answer": "Hemorrhagic shock",
+    "topic": "GI Critical Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_197",
+    "question": "Priority in hemorrhagic shock is:",
+    "options": [
+      "Control bleeding + resuscitate",
+      "Give sedative only",
+      "Restrict oxygen",
+      "Delay IV access"
+    ],
+    "answer": "Control bleeding + resuscitate",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_198",
+    "question": "A patient after major trauma becomes hypothermic. This worsens:",
+    "options": [
+      "Coagulopathy",
+      "Hair growth",
+      "Myopia",
+      "Digestion only"
+    ],
+    "answer": "Coagulopathy",
+    "topic": "Trauma ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_199",
+    "question": "Most valuable ICU nursing habit is:",
+    "options": [
+      "Frequent reassessment and trend spotting",
+      "One-time exam only",
+      "Ignore alarms",
+      "Treat chart not patient"
+    ],
+    "answer": "Frequent reassessment and trend spotting",
+    "topic": "Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_200",
+    "question": "Highest level critical care nursing principle:",
+    "options": [
+      "Prevent deterioration before arrest",
+      "Wait for code blue",
+      "Focus only paperwork",
+      "Silence alarms first"
+    ],
+    "answer": "Prevent deterioration before arrest",
+    "topic": "Principles",
+    "chapter": "GENERAL"
+  }
+]

@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "MB_001",
+    "question": "The study of microorganisms is called:",
+    "options": [
+      "Pathology",
+      "Microbiology",
+      "Biology",
+      "Physiology"
+    ],
+    "answer": "Microbiology",
+    "difficulty": "easy",
+    "explanation": "Microbiology deals with study of microscopic organisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_002",
+    "question": "Who is known as father of microbiology?",
+    "options": [
+      "Pasteur",
+      "Robert Koch",
+      "Leeuwenhoek",
+      "Lister"
+    ],
+    "answer": "Leeuwenhoek",
+    "difficulty": "medium",
+    "explanation": "Anton van Leeuwenhoek first observed bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_003",
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Fleming",
+      "Pasteur",
+      "Koch",
+      "Lister"
+    ],
+    "answer": "Fleming",
+    "difficulty": "easy",
+    "explanation": "Alexander Fleming discovered penicillin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_004",
+    "question": "Bacteria are:",
+    "options": [
+      "Multicellular",
+      "Unicellular",
+      "Acellular",
+      "Tissue organisms"
+    ],
+    "answer": "Unicellular",
+    "difficulty": "easy",
+    "explanation": "Bacteria are single-celled organisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_005",
+    "question": "Bacterial cell wall is made of:",
+    "options": [
+      "Cellulose",
+      "Peptidoglycan",
+      "Chitin",
+      "Protein only"
+    ],
+    "answer": "Peptidoglycan",
+    "difficulty": "medium",
+    "explanation": "Main structural component of bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_006",
+    "question": "Gram-positive bacteria appear:",
+    "options": [
+      "Red",
+      "Blue/Purple",
+      "Green",
+      "Yellow"
+    ],
+    "answer": "Blue/Purple",
+    "difficulty": "medium",
+    "explanation": "Retain crystal violet stain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_007",
+    "question": "Gram-negative bacteria appear:",
+    "options": [
+      "Purple",
+      "Pink/Red",
+      "Blue",
+      "Colorless"
+    ],
+    "answer": "Pink/Red",
+    "difficulty": "medium",
+    "explanation": "Take safranin counterstain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_008",
+    "question": "Bacteria shape spherical are called:",
+    "options": [
+      "Bacilli",
+      "Cocci",
+      "Spirilla",
+      "Vibrios"
+    ],
+    "answer": "Cocci",
+    "difficulty": "easy",
+    "explanation": "Cocci are round-shaped bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_009",
+    "question": "Rod-shaped bacteria are called:",
+    "options": [
+      "Cocci",
+      "Bacilli",
+      "Spirilla",
+      "Fungi"
+    ],
+    "answer": "Bacilli",
+    "difficulty": "easy",
+    "explanation": "Bacilli are rod-shaped organisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_010",
+    "question": "Spiral bacteria are called:",
+    "options": [
+      "Cocci",
+      "Bacilli",
+      "Spirilla",
+      "Fungi"
+    ],
+    "answer": "Spirilla",
+    "difficulty": "medium",
+    "explanation": "Spiral-shaped bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_011",
+    "question": "Virus is:",
+    "options": [
+      "Cellular organism",
+      "Acellular organism",
+      "Multicellular organism",
+      "Fungi"
+    ],
+    "answer": "Acellular organism",
+    "difficulty": "easy",
+    "explanation": "Viruses are non-cellular.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_012",
+    "question": "Virus requires:",
+    "options": [
+      "Independent survival",
+      "Host cell for replication",
+      "Water only",
+      "Air only"
+    ],
+    "answer": "Host cell for replication",
+    "difficulty": "easy",
+    "explanation": "Viruses cannot multiply alone.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_013",
+    "question": "Fungi are:",
+    "options": [
+      "Prokaryotes",
+      "Eukaryotes",
+      "Viruses",
+      "Bacteria"
+    ],
+    "answer": "Eukaryotes",
+    "difficulty": "medium",
+    "explanation": "Fungi have nucleus and organelles.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_014",
+    "question": "Yeast is a type of:",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Virus",
+      "Protozoa"
+    ],
+    "answer": "Fungi",
+    "difficulty": "easy",
+    "explanation": "Yeast is unicellular fungus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_015",
+    "question": "Protozoa are:",
+    "options": [
+      "Multicellular",
+      "Unicellular eukaryotes",
+      "Viruses",
+      "Bacteria"
+    ],
+    "answer": "Unicellular eukaryotes",
+    "difficulty": "medium",
+    "explanation": "Single-celled complex organisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_016",
+    "question": "Malaria is caused by:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Protozoa",
+      "Fungi"
+    ],
+    "answer": "Protozoa",
+    "difficulty": "easy",
+    "explanation": "Plasmodium causes malaria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_017",
+    "question": "Vector of malaria is:",
+    "options": [
+      "Housefly",
+      "Mosquito",
+      "Tick",
+      "Flea"
+    ],
+    "answer": "Mosquito",
+    "difficulty": "easy",
+    "explanation": "Female Anopheles mosquito.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_018",
+    "question": "Tuberculosis is caused by:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Protozoa"
+    ],
+    "answer": "Bacteria",
+    "difficulty": "easy",
+    "explanation": "Mycobacterium tuberculosis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_019",
+    "question": "Staining helps in:",
+    "options": [
+      "Nutrition",
+      "Visualization of microbes",
+      "Movement",
+      "Reproduction"
+    ],
+    "answer": "Visualization of microbes",
+    "difficulty": "easy",
+    "explanation": "Improves microscopic viewing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_020",
+    "question": "Most commonly used stain is:",
+    "options": [
+      "Safranin",
+      "Crystal violet",
+      "Iodine",
+      "Methylene blue"
+    ],
+    "answer": "Methylene blue",
+    "difficulty": "medium",
+    "explanation": "Simple staining dye.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_021",
+    "question": "Bacterial reproduction is by:",
+    "options": [
+      "Binary fission",
+      "Budding",
+      "Fragmentation",
+      "Meiosis"
+    ],
+    "answer": "Binary fission",
+    "difficulty": "easy",
+    "explanation": "Asexual reproduction method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_022",
+    "question": "Spores help bacteria in:",
+    "options": [
+      "Reproduction",
+      "Survival",
+      "Movement",
+      "Digestion"
+    ],
+    "answer": "Survival",
+    "difficulty": "medium",
+    "explanation": "Resistant dormant form.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_023",
+    "question": "Capsule of bacteria helps in:",
+    "options": [
+      "Movement",
+      "Protection",
+      "Reproduction",
+      "Staining"
+    ],
+    "answer": "Protection",
+    "difficulty": "medium",
+    "explanation": "Protects from phagocytosis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_024",
+    "question": "Flagella help in:",
+    "options": [
+      "Reproduction",
+      "Movement",
+      "Protection",
+      "Digestion"
+    ],
+    "answer": "Movement",
+    "difficulty": "easy",
+    "explanation": "Motility structure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_025",
+    "question": "Bacteria without oxygen requirement are:",
+    "options": [
+      "Aerobic",
+      "Anaerobic",
+      "Fungi",
+      "Virus"
+    ],
+    "answer": "Anaerobic",
+    "difficulty": "medium",
+    "explanation": "Grow without oxygen.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_026",
+    "question": "Aerobic bacteria require:",
+    "options": [
+      "No oxygen",
+      "Oxygen",
+      "Water only",
+      "Heat"
+    ],
+    "answer": "Oxygen",
+    "difficulty": "easy",
+    "explanation": "Need oxygen for survival.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_027",
+    "question": "Culture medium is used for:",
+    "options": [
+      "Sterilization",
+      "Growth of microbes",
+      "Destruction",
+      "Staining"
+    ],
+    "answer": "Growth of microbes",
+    "difficulty": "easy",
+    "explanation": "Provides nutrients for bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_028",
+    "question": "Petri dish is used for:",
+    "options": [
+      "Injection",
+      "Culturing microbes",
+      "Surgery",
+      "Cleaning"
+    ],
+    "answer": "Culturing microbes",
+    "difficulty": "easy",
+    "explanation": "Used in microbiology labs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_029",
+    "question": "Incubation temperature is usually:",
+    "options": [
+      "25°C",
+      "37°C",
+      "50°C",
+      "100°C"
+    ],
+    "answer": "37°C",
+    "difficulty": "medium",
+    "explanation": "Optimal bacterial growth temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_030",
+    "question": "Incubation period means:",
+    "options": [
+      "Time of treatment",
+      "Time of infection to symptoms",
+      "Recovery time",
+      "Sterilization time"
+    ],
+    "answer": "Time of infection to symptoms",
+    "difficulty": "medium",
+    "explanation": "Disease development period.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_031",
+    "question": "Sterilization kills:",
+    "options": [
+      "Only bacteria",
+      "All microorganisms",
+      "Only viruses",
+      "Only fungi"
+    ],
+    "answer": "All microorganisms",
+    "difficulty": "easy",
+    "explanation": "Complete microbial destruction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_032",
+    "question": "Disinfection does NOT kill:",
+    "options": [
+      "Bacteria",
+      "Spores",
+      "Viruses",
+      "Fungi"
+    ],
+    "answer": "Spores",
+    "difficulty": "medium",
+    "explanation": "Spores are resistant.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_033",
+    "question": "Autoclave uses:",
+    "options": [
+      "Dry heat",
+      "Moist heat",
+      "Radiation",
+      "Chemical gas"
+    ],
+    "answer": "Moist heat",
+    "difficulty": "easy",
+    "explanation": "Steam under pressure sterilizes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_034",
+    "question": "Pasteurization is used for:",
+    "options": [
+      "Milk",
+      "Surgical tools",
+      "Instruments",
+      "Blood"
+    ],
+    "answer": "Milk",
+    "difficulty": "easy",
+    "explanation": "Kills harmful microbes in milk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_035",
+    "question": "Pasteurization temperature is:",
+    "options": [
+      "37°C",
+      "63°C",
+      "100°C",
+      "121°C"
+    ],
+    "answer": "63°C",
+    "difficulty": "medium",
+    "explanation": "Standard low-temperature method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_036",
+    "question": "Most common bacterial shape is:",
+    "options": [
+      "Cocci",
+      "Bacilli",
+      "Spirilla",
+      "Vibrio"
+    ],
+    "answer": "Bacilli",
+    "difficulty": "medium",
+    "explanation": "Rod-shaped bacteria are common.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_037",
+    "question": "Cell wall of fungi is made of:",
+    "options": [
+      "Peptidoglycan",
+      "Chitin",
+      "Cellulose",
+      "Protein"
+    ],
+    "answer": "Chitin",
+    "difficulty": "medium",
+    "explanation": "Fungal cell wall contains chitin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_038",
+    "question": "Antibiotics act against:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Protozoa only"
+    ],
+    "answer": "Bacteria",
+    "difficulty": "easy",
+    "explanation": "Target bacterial infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_039",
+    "question": "Antiviral drugs act against:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungi",
+      "Protozoa"
+    ],
+    "answer": "Virus",
+    "difficulty": "easy",
+    "explanation": "Target viral replication.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_040",
+    "question": "Antifungal drugs act against:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Protozoa"
+    ],
+    "answer": "Fungi",
+    "difficulty": "easy",
+    "explanation": "Treat fungal infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_041",
+    "question": "Sterile technique is required for:",
+    "options": [
+      "Food handling",
+      "Surgery",
+      "Cleaning floor",
+      "Bathing"
+    ],
+    "answer": "Surgery",
+    "difficulty": "easy",
+    "explanation": "Prevents infection in invasive procedures.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_042",
+    "question": "Normal body flora means:",
+    "options": [
+      "Pathogenic bacteria",
+      "Harmless bacteria in body",
+      "Virus",
+      "Fungi"
+    ],
+    "answer": "Harmless bacteria in body",
+    "difficulty": "medium",
+    "explanation": "Beneficial microorganisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_043",
+    "question": "Pathogenic bacteria cause:",
+    "options": [
+      "Immunity",
+      "Disease",
+      "Nutrition",
+      "Growth"
+    ],
+    "answer": "Disease",
+    "difficulty": "easy",
+    "explanation": "Disease-causing organisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_044",
+    "question": "Sterilization indicator is:",
+    "options": [
+      "Temperature",
+      "Spore test",
+      "Color",
+      "Smell"
+    ],
+    "answer": "Spore test",
+    "difficulty": "hard",
+    "explanation": "Most reliable method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_045",
+    "question": "Microbes that cause disease are called:",
+    "options": [
+      "Saprophytes",
+      "Pathogens",
+      "Commensals",
+      "Mutualists"
+    ],
+    "answer": "Pathogens",
+    "difficulty": "easy",
+    "explanation": "Disease-causing microorganisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_046",
+    "question": "Commensals are:",
+    "options": [
+      "Disease causing",
+      "Harmless bacteria",
+      "Viruses",
+      "Fungi"
+    ],
+    "answer": "Harmless bacteria",
+    "difficulty": "medium",
+    "explanation": "Live without harming host.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_047",
+    "question": "Mutualism means:",
+    "options": [
+      "One benefits",
+      "Both benefit",
+      "One harmed",
+      "No interaction"
+    ],
+    "answer": "Both benefit",
+    "difficulty": "medium",
+    "explanation": "Symbiotic relationship.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_048",
+    "question": "Saprophytes feed on:",
+    "options": [
+      "Living tissue",
+      "Dead matter",
+      "Blood",
+      "Cells"
+    ],
+    "answer": "Dead matter",
+    "difficulty": "easy",
+    "explanation": "Decomposers of organic matter.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_049",
+    "question": "Bacteria size is measured in:",
+    "options": [
+      "Millimeter",
+      "Micrometer",
+      "Centimeter",
+      "Meter"
+    ],
+    "answer": "Micrometer",
+    "difficulty": "medium",
+    "explanation": "Very small microscopic size.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_050",
+    "question": "Microorganisms are visible by:",
+    "options": [
+      "Naked eye",
+      "Microscope",
+      "Camera",
+      "Telescope"
+    ],
+    "answer": "Microscope",
+    "difficulty": "easy",
+    "explanation": "Require magnification.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_051",
+    "question": "Bacterial growth curve has how many phases?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "difficulty": "medium",
+    "explanation": "Lag, log, stationary, decline phases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_052",
+    "question": "Lag phase is:",
+    "options": [
+      "Rapid growth",
+      "No growth adaptation phase",
+      "Death phase",
+      "Stationary phase"
+    ],
+    "answer": "No growth adaptation phase",
+    "difficulty": "medium",
+    "explanation": "Bacteria adapt to environment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_053",
+    "question": "Log phase is also called:",
+    "options": [
+      "Stationary phase",
+      "Exponential phase",
+      "Death phase",
+      "Lag phase"
+    ],
+    "answer": "Exponential phase",
+    "difficulty": "medium",
+    "explanation": "Rapid bacterial multiplication.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_054",
+    "question": "Stationary phase means:",
+    "options": [
+      "Growth > death",
+      "Growth = death",
+      "No growth",
+      "Rapid death"
+    ],
+    "answer": "Growth = death",
+    "difficulty": "medium",
+    "explanation": "Equilibrium stage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_055",
+    "question": "Decline phase means:",
+    "options": [
+      "Growth increases",
+      "Death increases",
+      "No change",
+      "Stable growth"
+    ],
+    "answer": "Death increases",
+    "difficulty": "medium",
+    "explanation": "Bacterial population decreases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_056",
+    "question": "Sterilization kills:",
+    "options": [
+      "Only bacteria",
+      "All microorganisms including spores",
+      "Only viruses",
+      "Only fungi"
+    ],
+    "answer": "All microorganisms including spores",
+    "difficulty": "easy",
+    "explanation": "Complete destruction of microbes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_057",
+    "question": "Disinfection kills:",
+    "options": [
+      "All microbes including spores",
+      "Most microbes except spores",
+      "Only viruses",
+      "Only fungi"
+    ],
+    "answer": "Most microbes except spores",
+    "difficulty": "medium",
+    "explanation": "Spores survive disinfection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_058",
+    "question": "Antibiotics are ineffective against:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungi",
+      "Protozoa"
+    ],
+    "answer": "Virus",
+    "difficulty": "easy",
+    "explanation": "Antibiotics do not kill viruses.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_059",
+    "question": "Viral structure includes:",
+    "options": [
+      "Cell wall",
+      "Capsid",
+      "Chloroplast",
+      "Nucleus"
+    ],
+    "answer": "Capsid",
+    "difficulty": "medium",
+    "explanation": "Protein coat around viral DNA/RNA.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_060",
+    "question": "Virus genetic material is:",
+    "options": [
+      "DNA only",
+      "RNA only",
+      "DNA or RNA",
+      "Both always"
+    ],
+    "answer": "DNA or RNA",
+    "difficulty": "medium",
+    "explanation": "Viruses contain either DNA or RNA.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_061",
+    "question": "Fungi reproduce by:",
+    "options": [
+      "Binary fission",
+      "Spores",
+      "Fragmentation only",
+      "Meiosis only"
+    ],
+    "answer": "Spores",
+    "difficulty": "medium",
+    "explanation": "Fungal reproduction via spores.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_062",
+    "question": "Common fungal infection is:",
+    "options": [
+      "TB",
+      "Candidiasis",
+      "Malaria",
+      "Cholera"
+    ],
+    "answer": "Candidiasis",
+    "difficulty": "easy",
+    "explanation": "Caused by Candida species.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_063",
+    "question": "Protozoa move using:",
+    "options": [
+      "Flagella",
+      "Capsule",
+      "Cell wall",
+      "Chlorophyll"
+    ],
+    "answer": "Flagella",
+    "difficulty": "medium",
+    "explanation": "Movement structures in protozoa.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_064",
+    "question": "Malaria parasite life cycle occurs in:",
+    "options": [
+      "Only humans",
+      "Mosquito only",
+      "Human and mosquito",
+      "Water only"
+    ],
+    "answer": "Human and mosquito",
+    "difficulty": "medium",
+    "explanation": "Complex dual host cycle.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_065",
+    "question": "Bacterial endotoxin is found in:",
+    "options": [
+      "Gram-positive bacteria",
+      "Gram-negative bacteria",
+      "Viruses",
+      "Fungi"
+    ],
+    "answer": "Gram-negative bacteria",
+    "difficulty": "hard",
+    "explanation": "LPS in outer membrane.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_066",
+    "question": "Exotoxins are:",
+    "options": [
+      "Weak toxins",
+      "Strong protein toxins",
+      "Cell wall parts",
+      "DNA"
+    ],
+    "answer": "Strong protein toxins",
+    "difficulty": "medium",
+    "explanation": "Secreted by bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_067",
+    "question": "Sterilization indicator is:",
+    "options": [
+      "Temperature only",
+      "Biological spore test",
+      "Color change",
+      "Smell"
+    ],
+    "answer": "Biological spore test",
+    "difficulty": "hard",
+    "explanation": "Most reliable confirmation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_068",
+    "question": "Autoclave temperature is:",
+    "options": [
+      "100°C",
+      "121°C",
+      "150°C",
+      "200°C"
+    ],
+    "answer": "121°C",
+    "difficulty": "easy",
+    "explanation": "Standard sterilization temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_069",
+    "question": "Pasteurization kills:",
+    "options": [
+      "All microbes",
+      "Pathogens in milk",
+      "Only spores",
+      "Viruses only"
+    ],
+    "answer": "Pathogens in milk",
+    "difficulty": "easy",
+    "explanation": "Used for milk safety.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_070",
+    "question": "Incubation temperature for bacteria is:",
+    "options": [
+      "25°C",
+      "37°C",
+      "50°C",
+      "100°C"
+    ],
+    "answer": "37°C",
+    "difficulty": "medium",
+    "explanation": "Optimal human body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_071",
+    "question": "Culture medium provides:",
+    "options": [
+      "Sterilization",
+      "Growth nutrients",
+      "Disinfection",
+      "Vaccination"
+    ],
+    "answer": "Growth nutrients",
+    "difficulty": "easy",
+    "explanation": "Supports microbial growth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_072",
+    "question": "Petri dish is used for:",
+    "options": [
+      "Injection",
+      "Culture growth",
+      "Surgery",
+      "Cleaning"
+    ],
+    "answer": "Culture growth",
+    "difficulty": "easy",
+    "explanation": "Lab tool for bacteria growth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_073",
+    "question": "Gram staining differentiates bacteria based on:",
+    "options": [
+      "Shape",
+      "Cell wall",
+      "Size",
+      "Movement"
+    ],
+    "answer": "Cell wall",
+    "difficulty": "medium",
+    "explanation": "Peptidoglycan thickness.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_074",
+    "question": "Bacteria without oxygen are:",
+    "options": [
+      "Aerobic",
+      "Anaerobic",
+      "Facultative",
+      "None"
+    ],
+    "answer": "Anaerobic",
+    "difficulty": "medium",
+    "explanation": "Grow without oxygen.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_075",
+    "question": "Facultative bacteria means:",
+    "options": [
+      "Only aerobic",
+      "Only anaerobic",
+      "Both aerobic and anaerobic",
+      "None"
+    ],
+    "answer": "Both aerobic and anaerobic",
+    "difficulty": "hard",
+    "explanation": "Can survive in both conditions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_076",
+    "question": "Virus cannot be seen with:",
+    "options": [
+      "Microscope",
+      "Electron microscope",
+      "Naked eye",
+      "Lab test"
+    ],
+    "answer": "Microscope",
+    "difficulty": "easy",
+    "explanation": "Requires electron microscope.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_077",
+    "question": "Antibiotics target:",
+    "options": [
+      "Viruses",
+      "Bacteria",
+      "Fungi only",
+      "Protozoa only"
+    ],
+    "answer": "Bacteria",
+    "difficulty": "easy",
+    "explanation": "Kill bacterial infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_078",
+    "question": "Antiviral drugs target:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungi",
+      "Protozoa"
+    ],
+    "answer": "Virus",
+    "difficulty": "easy",
+    "explanation": "Inhibit viral replication.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_079",
+    "question": "Antifungal drugs target:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Protozoa"
+    ],
+    "answer": "Fungi",
+    "difficulty": "easy",
+    "explanation": "Treat fungal infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_080",
+    "question": "Sterilization is used for:",
+    "options": [
+      "Bedsheets",
+      "Surgical instruments",
+      "Food",
+      "Clothes"
+    ],
+    "answer": "Surgical instruments",
+    "difficulty": "easy",
+    "explanation": "Must be completely sterile.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_081",
+    "question": "Most common bacterial reproduction method:",
+    "options": [
+      "Budding",
+      "Binary fission",
+      "Fragmentation",
+      "Meiosis"
+    ],
+    "answer": "Binary fission",
+    "difficulty": "easy",
+    "explanation": "Simple division process.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_082",
+    "question": "Spore formation helps in:",
+    "options": [
+      "Growth",
+      "Survival",
+      "Movement",
+      "Digestion"
+    ],
+    "answer": "Survival",
+    "difficulty": "medium",
+    "explanation": "Resistant dormant stage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_083",
+    "question": "Capsule protects bacteria from:",
+    "options": [
+      "Heat",
+      "Phagocytosis",
+      "Water",
+      "Light"
+    ],
+    "answer": "Phagocytosis",
+    "difficulty": "medium",
+    "explanation": "Helps immune evasion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_084",
+    "question": "Flagella function is:",
+    "options": [
+      "Protection",
+      "Movement",
+      "Nutrition",
+      "Reproduction"
+    ],
+    "answer": "Movement",
+    "difficulty": "easy",
+    "explanation": "Motility organelle.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_085",
+    "question": "Bacterial size is measured in:",
+    "options": [
+      "cm",
+      "mm",
+      "µm",
+      "m"
+    ],
+    "answer": "µm",
+    "difficulty": "easy",
+    "explanation": "Micrometer scale organisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_086",
+    "question": "Sterile field means:",
+    "options": [
+      "Clean area",
+      "No microorganisms",
+      "Dirty area",
+      "Open area"
+    ],
+    "answer": "No microorganisms",
+    "difficulty": "easy",
+    "explanation": "Free from all microbes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_087",
+    "question": "Pathogens are:",
+    "options": [
+      "Harmless bacteria",
+      "Disease causing microbes",
+      "Viruses only",
+      "Fungi only"
+    ],
+    "answer": "Disease causing microbes",
+    "difficulty": "easy",
+    "explanation": "Cause infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_088",
+    "question": "Normal flora is:",
+    "options": [
+      "Pathogenic",
+      "Harmless bacteria",
+      "Viruses",
+      "Fungi"
+    ],
+    "answer": "Harmless bacteria",
+    "difficulty": "medium",
+    "explanation": "Lives in body without harm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_089",
+    "question": "Mutualism means:",
+    "options": [
+      "One benefits",
+      "Both benefit",
+      "One harmed",
+      "No interaction"
+    ],
+    "answer": "Both benefit",
+    "difficulty": "medium",
+    "explanation": "Symbiotic relationship.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_090",
+    "question": "Saprophytes feed on:",
+    "options": [
+      "Living tissue",
+      "Dead organic matter",
+      "Blood",
+      "Cells"
+    ],
+    "answer": "Dead organic matter",
+    "difficulty": "easy",
+    "explanation": "Decomposers in nature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_091",
+    "question": "Culture incubation time is:",
+    "options": [
+      "1 hour",
+      "24–48 hours",
+      "1 week",
+      "1 month"
+    ],
+    "answer": "24–48 hours",
+    "difficulty": "medium",
+    "explanation": "Standard bacterial growth time.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_092",
+    "question": "Gram-positive bacteria stain:",
+    "options": [
+      "Pink",
+      "Purple",
+      "Red",
+      "Colorless"
+    ],
+    "answer": "Purple",
+    "difficulty": "medium",
+    "explanation": "Retain crystal violet dye.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_093",
+    "question": "Gram-negative bacteria stain:",
+    "options": [
+      "Purple",
+      "Pink",
+      "Blue",
+      "Green"
+    ],
+    "answer": "Pink",
+    "difficulty": "medium",
+    "explanation": "Take safranin stain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_094",
+    "question": "Most dangerous bacterial structure is:",
+    "options": [
+      "Flagella",
+      "Capsule",
+      "Cell wall",
+      "Ribosome"
+    ],
+    "answer": "Capsule",
+    "difficulty": "medium",
+    "explanation": "Helps immune evasion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_095",
+    "question": "Virus replication occurs in:",
+    "options": [
+      "Outside host",
+      "Inside host cell",
+      "Water",
+      "Air"
+    ],
+    "answer": "Inside host cell",
+    "difficulty": "easy",
+    "explanation": "Needs host machinery.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_096",
+    "question": "Fungal cell wall contains:",
+    "options": [
+      "Peptidoglycan",
+      "Chitin",
+      "Cellulose",
+      "Protein"
+    ],
+    "answer": "Chitin",
+    "difficulty": "medium",
+    "explanation": "Structural fungal component.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_097",
+    "question": "Most common hospital infection pathogen:",
+    "options": [
+      "E. coli",
+      "Staphylococcus aureus",
+      "HIV",
+      "Malaria"
+    ],
+    "answer": "Staphylococcus aureus",
+    "difficulty": "medium",
+    "explanation": "Common nosocomial organism.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_098",
+    "question": "Electron microscope is used for:",
+    "options": [
+      "Bacteria only",
+      "Viruses",
+      "Cells only",
+      "Tissues only"
+    ],
+    "answer": "Viruses",
+    "difficulty": "medium",
+    "explanation": "For ultra-small organisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_099",
+    "question": "Sterilization temperature in autoclave:",
+    "options": [
+      "100°C",
+      "121°C",
+      "150°C",
+      "200°C"
+    ],
+    "answer": "121°C",
+    "difficulty": "easy",
+    "explanation": "Standard steam sterilization.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_100",
+    "question": "Final stage of bacterial growth is:",
+    "options": [
+      "Lag phase",
+      "Log phase",
+      "Death phase",
+      "Stationary phase"
+    ],
+    "answer": "Death phase",
+    "difficulty": "medium",
+    "explanation": "Cells die due to lack of nutrients.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_101",
+    "question": "The smallest infectious agent is:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungi",
+      "Protozoa"
+    ],
+    "answer": "Virus",
+    "difficulty": "easy",
+    "explanation": "Viruses are smaller than bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_102",
+    "question": "Virus can be cultured in:",
+    "options": [
+      "Artificial media",
+      "Living cells",
+      "Water",
+      "Milk"
+    ],
+    "answer": "Living cells",
+    "difficulty": "medium",
+    "explanation": "Viruses need host cells to grow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_103",
+    "question": "Bacteria are classified as:",
+    "options": [
+      "Eukaryotes",
+      "Prokaryotes",
+      "Viruses",
+      "Fungi"
+    ],
+    "answer": "Prokaryotes",
+    "difficulty": "easy",
+    "explanation": "They lack true nucleus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_104",
+    "question": "Ribosomes in bacteria are:",
+    "options": [
+      "80S",
+      "70S",
+      "60S",
+      "90S"
+    ],
+    "answer": "70S",
+    "difficulty": "medium",
+    "explanation": "Prokaryotic ribosomes are 70S.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_105",
+    "question": "Cell wall of bacteria provides:",
+    "options": [
+      "Energy",
+      "Shape and protection",
+      "Movement",
+      "Digestion"
+    ],
+    "answer": "Shape and protection",
+    "difficulty": "easy",
+    "explanation": "Maintains structure and integrity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_106",
+    "question": "Endospore is formed during:",
+    "options": [
+      "Growth",
+      "Adverse conditions",
+      "Reproduction",
+      "Digestion"
+    ],
+    "answer": "Adverse conditions",
+    "difficulty": "medium",
+    "explanation": "Survival structure of bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_107",
+    "question": "Mycobacterium tuberculosis is:",
+    "options": [
+      "Gram-positive",
+      "Gram-negative",
+      "Acid-fast bacillus",
+      "Virus"
+    ],
+    "answer": "Acid-fast bacillus",
+    "difficulty": "medium",
+    "explanation": "Resists decolorization in staining.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_108",
+    "question": "Ziehl-Neelsen stain is used for:",
+    "options": [
+      "Gram staining",
+      "Acid-fast bacteria",
+      "Fungi",
+      "Viruses"
+    ],
+    "answer": "Acid-fast bacteria",
+    "difficulty": "medium",
+    "explanation": "Used for TB detection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_109",
+    "question": "Most common bacterial shape arrangement is:",
+    "options": [
+      "Chains",
+      "Clusters",
+      "Pairs",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "difficulty": "medium",
+    "explanation": "Different arrangements exist.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_110",
+    "question": "Staphylococcus appears in:",
+    "options": [
+      "Chains",
+      "Clusters",
+      "Pairs",
+      "Single"
+    ],
+    "answer": "Clusters",
+    "difficulty": "easy",
+    "explanation": "Grape-like clusters.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_111",
+    "question": "Streptococcus appears in:",
+    "options": [
+      "Chains",
+      "Clusters",
+      "Pairs",
+      "Single"
+    ],
+    "answer": "Chains",
+    "difficulty": "easy",
+    "explanation": "Chain-like arrangement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_112",
+    "question": "Diplococcus means:",
+    "options": [
+      "Single cocci",
+      "Pairs of cocci",
+      "Chains",
+      "Clusters"
+    ],
+    "answer": "Pairs of cocci",
+    "difficulty": "medium",
+    "explanation": "Two cocci together.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_113",
+    "question": "Bacterial DNA is located in:",
+    "options": [
+      "Nucleus",
+      "Nucleoid",
+      "Cytoplasm only",
+      "Ribosome"
+    ],
+    "answer": "Nucleoid",
+    "difficulty": "medium",
+    "explanation": "No true nucleus in bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_114",
+    "question": "Plasmids are:",
+    "options": [
+      "Main DNA",
+      "Extra-chromosomal DNA",
+      "Protein",
+      "RNA"
+    ],
+    "answer": "Extra-chromosomal DNA",
+    "difficulty": "hard",
+    "explanation": "Carry resistance genes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_115",
+    "question": "Antibiotic resistance is due to:",
+    "options": [
+      "Plasmids",
+      "Cell wall",
+      "Capsule",
+      "Flagella"
+    ],
+    "answer": "Plasmids",
+    "difficulty": "hard",
+    "explanation": "Resistance genes are carried in plasmids.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_116",
+    "question": "Bacteria multiply by:",
+    "options": [
+      "Mitosis",
+      "Binary fission",
+      "Meiosis",
+      "Budding"
+    ],
+    "answer": "Binary fission",
+    "difficulty": "easy",
+    "explanation": "Simple division process.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_117",
+    "question": "Generation time means:",
+    "options": [
+      "Time of death",
+      "Time for division",
+      "Incubation time",
+      "Recovery time"
+    ],
+    "answer": "Time for division",
+    "difficulty": "medium",
+    "explanation": "Time needed for doubling.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_118",
+    "question": "Capsule staining is used to detect:",
+    "options": [
+      "Flagella",
+      "Capsule",
+      "Spore",
+      "Nucleus"
+    ],
+    "answer": "Capsule",
+    "difficulty": "medium",
+    "explanation": "Helps identify virulence.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_119",
+    "question": "Endotoxin is released during:",
+    "options": [
+      "Active secretion",
+      "Cell death",
+      "Growth",
+      "Division"
+    ],
+    "answer": "Cell death",
+    "difficulty": "hard",
+    "explanation": "Released from Gram-negative bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_120",
+    "question": "Exotoxin is:",
+    "options": [
+      "Cell wall component",
+      "Secreted toxin",
+      "DNA",
+      "Protein coat"
+    ],
+    "answer": "Secreted toxin",
+    "difficulty": "medium",
+    "explanation": "Released actively by bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_121",
+    "question": "Bacterial spores are resistant to:",
+    "options": [
+      "Heat only",
+      "Chemicals only",
+      "Both heat and chemicals",
+      "Cold only"
+    ],
+    "answer": "Both heat and chemicals",
+    "difficulty": "medium",
+    "explanation": "Very resistant survival form.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_122",
+    "question": "Sterilization kills:",
+    "options": [
+      "Only bacteria",
+      "All microbes including spores",
+      "Only fungi",
+      "Only viruses"
+    ],
+    "answer": "All microbes including spores",
+    "difficulty": "easy",
+    "explanation": "Complete microbial destruction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_123",
+    "question": "Disinfection does NOT kill:",
+    "options": [
+      "Bacteria",
+      "Spores",
+      "Viruses",
+      "Fungi"
+    ],
+    "answer": "Spores",
+    "difficulty": "medium",
+    "explanation": "Spores are resistant.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_124",
+    "question": "Sterilization method using steam is:",
+    "options": [
+      "Hot air oven",
+      "Autoclave",
+      "UV light",
+      "Chemical"
+    ],
+    "answer": "Autoclave",
+    "difficulty": "easy",
+    "explanation": "Moist heat sterilization.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_125",
+    "question": "Hot air oven uses:",
+    "options": [
+      "Moist heat",
+      "Dry heat",
+      "Radiation",
+      "Chemicals"
+    ],
+    "answer": "Dry heat",
+    "difficulty": "medium",
+    "explanation": "Sterilizes glassware.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_126",
+    "question": "UV radiation is used for:",
+    "options": [
+      "Injection sterilization",
+      "Air disinfection",
+      "Blood sterilization",
+      "Food cooking"
+    ],
+    "answer": "Air disinfection",
+    "difficulty": "easy",
+    "explanation": "Used in operation theatres.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_127",
+    "question": "Alcohol acts as:",
+    "options": [
+      "Sterilizer",
+      "Disinfectant",
+      "Antibiotic",
+      "Virus killer only"
+    ],
+    "answer": "Disinfectant",
+    "difficulty": "easy",
+    "explanation": "Kills vegetative bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_128",
+    "question": "Hand hygiene reduces:",
+    "options": [
+      "Nutrition",
+      "Infection spread",
+      "Blood pressure",
+      "Pain"
+    ],
+    "answer": "Infection spread",
+    "difficulty": "easy",
+    "explanation": "Most important infection control step.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_129",
+    "question": "Nosocomial infection means:",
+    "options": [
+      "Community infection",
+      "Hospital acquired infection",
+      "Food infection",
+      "Air infection"
+    ],
+    "answer": "Hospital acquired infection",
+    "difficulty": "easy",
+    "explanation": "Occurs in hospital settings.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_130",
+    "question": "Most common hospital pathogen is:",
+    "options": [
+      "E. coli",
+      "Staphylococcus aureus",
+      "Virus",
+      "Protozoa"
+    ],
+    "answer": "Staphylococcus aureus",
+    "difficulty": "medium",
+    "explanation": "Common nosocomial infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_131",
+    "question": "Sterile gloves are used in:",
+    "options": [
+      "Wound dressing",
+      "Surgery",
+      "Cleaning floor",
+      "Bathing"
+    ],
+    "answer": "Surgery",
+    "difficulty": "easy",
+    "explanation": "Maintains aseptic technique.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_132",
+    "question": "Chain of infection includes:",
+    "options": [
+      "5 links",
+      "6 links",
+      "7 links",
+      "8 links"
+    ],
+    "answer": "6 links",
+    "difficulty": "hard",
+    "explanation": "Agent, reservoir, exit, transmission, entry, host.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_133",
+    "question": "Breaking chain of infection is done by:",
+    "options": [
+      "Drugs only",
+      "Hand hygiene",
+      "Surgery",
+      "Diet"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Most effective prevention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_134",
+    "question": "Isolation prevents:",
+    "options": [
+      "Bleeding",
+      "Infection spread",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Infection spread",
+    "difficulty": "easy",
+    "explanation": "Separates infected patients.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_135",
+    "question": "Reverse isolation is used for:",
+    "options": [
+      "Healthy patients",
+      "Immunocompromised patients",
+      "Visitors",
+      "Staff"
+    ],
+    "answer": "Immunocompromised patients",
+    "difficulty": "medium",
+    "explanation": "Protects weak immunity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_136",
+    "question": "Droplet infection spreads via:",
+    "options": [
+      "Blood",
+      "Cough and sneeze",
+      "Food",
+      "Water"
+    ],
+    "answer": "Cough and sneeze",
+    "difficulty": "easy",
+    "explanation": "Respiratory droplets.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_137",
+    "question": "Airborne infection spreads through:",
+    "options": [
+      "Large droplets",
+      "Droplet nuclei",
+      "Blood",
+      "Contact"
+    ],
+    "answer": "Droplet nuclei",
+    "difficulty": "medium",
+    "explanation": "Tiny particles suspended in air.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_138",
+    "question": "Sharps disposal is done in:",
+    "options": [
+      "Yellow bag",
+      "White puncture-proof container",
+      "Blue bag",
+      "Black bag"
+    ],
+    "answer": "White puncture-proof container",
+    "difficulty": "medium",
+    "explanation": "Safe sharps disposal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_139",
+    "question": "Biohazard symbol indicates:",
+    "options": [
+      "Safe area",
+      "Infectious material",
+      "Food storage",
+      "Clean area"
+    ],
+    "answer": "Infectious material",
+    "difficulty": "easy",
+    "explanation": "Warning sign for infection risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_140",
+    "question": "Most important PPE is:",
+    "options": [
+      "Cap",
+      "Gloves",
+      "Shoes",
+      "Watch"
+    ],
+    "answer": "Gloves",
+    "difficulty": "easy",
+    "explanation": "Direct protection from contamination.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_141",
+    "question": "Standard precautions apply to:",
+    "options": [
+      "Only infected patients",
+      "All patients",
+      "ICU only",
+      "Emergency only"
+    ],
+    "answer": "All patients",
+    "difficulty": "easy",
+    "explanation": "Universal infection control.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_142",
+    "question": "Most effective infection control method is:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Mask",
+      "Isolation"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Breaks transmission chain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_143",
+    "question": "Autoclave temperature is:",
+    "options": [
+      "100°C",
+      "121°C",
+      "150°C",
+      "200°C"
+    ],
+    "answer": "121°C",
+    "difficulty": "easy",
+    "explanation": "Steam sterilization standard.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_144",
+    "question": "Pasteurization is used for:",
+    "options": [
+      "Water",
+      "Milk",
+      "Instruments",
+      "Blood"
+    ],
+    "answer": "Milk",
+    "difficulty": "easy",
+    "explanation": "Kills pathogens in milk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_145",
+    "question": "Incubation temperature is:",
+    "options": [
+      "25°C",
+      "37°C",
+      "50°C",
+      "100°C"
+    ],
+    "answer": "37°C",
+    "difficulty": "easy",
+    "explanation": "Human body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_146",
+    "question": "Bacterial growth occurs fastest in:",
+    "options": [
+      "Lag phase",
+      "Log phase",
+      "Death phase",
+      "Stationary phase"
+    ],
+    "answer": "Log phase",
+    "difficulty": "medium",
+    "explanation": "Exponential growth phase.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_147",
+    "question": "Most resistant form of bacteria is:",
+    "options": [
+      "Vegetative cell",
+      "Spore",
+      "Capsule",
+      "Flagella"
+    ],
+    "answer": "Spore",
+    "difficulty": "easy",
+    "explanation": "Survives harsh conditions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_148",
+    "question": "Virus structure includes:",
+    "options": [
+      "Cell wall",
+      "Capsid",
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "answer": "Capsid",
+    "difficulty": "medium",
+    "explanation": "Protein coat of virus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_149",
+    "question": "Fungi are:",
+    "options": [
+      "Prokaryotes",
+      "Eukaryotes",
+      "Viruses",
+      "Bacteria"
+    ],
+    "answer": "Eukaryotes",
+    "difficulty": "medium",
+    "explanation": "Have nucleus and organelles.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_150",
+    "question": "Protozoa are:",
+    "options": [
+      "Multicellular",
+      "Unicellular eukaryotes",
+      "Viruses",
+      "Bacteria"
+    ],
+    "answer": "Unicellular eukaryotes",
+    "difficulty": "medium",
+    "explanation": "Single-celled organisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_151",
+    "question": "Bacterial capsule is mainly composed of:",
+    "options": [
+      "Protein",
+      "Polysaccharide",
+      "Lipid",
+      "DNA"
+    ],
+    "answer": "Polysaccharide",
+    "difficulty": "medium",
+    "explanation": "Capsule is usually made of polysaccharides.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_152",
+    "question": "Bacterial flagella are used for:",
+    "options": [
+      "Nutrition",
+      "Movement",
+      "Reproduction",
+      "Protection"
+    ],
+    "answer": "Movement",
+    "difficulty": "easy",
+    "explanation": "Flagella provide motility.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_153",
+    "question": "Fimbriae are used for:",
+    "options": [
+      "Movement",
+      "Attachment",
+      "Digestion",
+      "Respiration"
+    ],
+    "answer": "Attachment",
+    "difficulty": "medium",
+    "explanation": "Help bacteria stick to surfaces.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_154",
+    "question": "Plasmids carry:",
+    "options": [
+      "Energy",
+      "Resistance genes",
+      "Food",
+      "Water"
+    ],
+    "answer": "Resistance genes",
+    "difficulty": "hard",
+    "explanation": "Important in antibiotic resistance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_155",
+    "question": "Endotoxin is part of:",
+    "options": [
+      "Cell wall",
+      "Capsule",
+      "DNA",
+      "Cytoplasm"
+    ],
+    "answer": "Cell wall",
+    "difficulty": "hard",
+    "explanation": "Present in Gram-negative bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_156",
+    "question": "Exotoxins are:",
+    "options": [
+      "Released on death",
+      "Actively secreted",
+      "Cell wall parts",
+      "DNA fragments"
+    ],
+    "answer": "Actively secreted",
+    "difficulty": "medium",
+    "explanation": "Released by living bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_157",
+    "question": "Sterilization destroys:",
+    "options": [
+      "Only bacteria",
+      "All microbes including spores",
+      "Only viruses",
+      "Only fungi"
+    ],
+    "answer": "All microbes including spores",
+    "difficulty": "easy",
+    "explanation": "Complete microbial destruction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_158",
+    "question": "Disinfection does NOT kill:",
+    "options": [
+      "Bacteria",
+      "Spores",
+      "Viruses",
+      "Fungi"
+    ],
+    "answer": "Spores",
+    "difficulty": "medium",
+    "explanation": "Spores are resistant forms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_159",
+    "question": "Autoclave uses:",
+    "options": [
+      "Dry heat",
+      "Moist heat",
+      "UV light",
+      "Chemical gas"
+    ],
+    "answer": "Moist heat",
+    "difficulty": "easy",
+    "explanation": "Steam under pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_160",
+    "question": "Hot air oven sterilizes by:",
+    "options": [
+      "Moist heat",
+      "Dry heat",
+      "Radiation",
+      "Chemical"
+    ],
+    "answer": "Dry heat",
+    "difficulty": "medium",
+    "explanation": "Used for glassware and instruments.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_161",
+    "question": "UV rays are used for:",
+    "options": [
+      "Blood sterilization",
+      "Air disinfection",
+      "Injection",
+      "Food cooking"
+    ],
+    "answer": "Air disinfection",
+    "difficulty": "easy",
+    "explanation": "Used in OT and labs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_162",
+    "question": "Alcohol is a:",
+    "options": [
+      "Sterilizer",
+      "Disinfectant",
+      "Antibiotic",
+      "Virus only killer"
+    ],
+    "answer": "Disinfectant",
+    "difficulty": "easy",
+    "explanation": "Kills vegetative bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_163",
+    "question": "Hand hygiene prevents:",
+    "options": [
+      "Pain",
+      "Infection spread",
+      "Fever",
+      "Bleeding"
+    ],
+    "answer": "Infection spread",
+    "difficulty": "easy",
+    "explanation": "Most important infection control step.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_164",
+    "question": "Nosocomial infection means:",
+    "options": [
+      "Community infection",
+      "Hospital acquired infection",
+      "Food infection",
+      "Air infection"
+    ],
+    "answer": "Hospital acquired infection",
+    "difficulty": "easy",
+    "explanation": "Occurs in healthcare settings.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_165",
+    "question": "Most common hospital pathogen:",
+    "options": [
+      "E. coli",
+      "Staphylococcus aureus",
+      "Malaria parasite",
+      "Virus"
+    ],
+    "answer": "Staphylococcus aureus",
+    "difficulty": "medium",
+    "explanation": "Common cause of infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_166",
+    "question": "Sterile gloves are used in:",
+    "options": [
+      "Cleaning",
+      "Surgery",
+      "Cooking",
+      "Bathing"
+    ],
+    "answer": "Surgery",
+    "difficulty": "easy",
+    "explanation": "Maintains aseptic technique.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_167",
+    "question": "Chain of infection has:",
+    "options": [
+      "4 links",
+      "5 links",
+      "6 links",
+      "7 links"
+    ],
+    "answer": "6 links",
+    "difficulty": "hard",
+    "explanation": "Agent, reservoir, exit, transmission, entry, host.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_168",
+    "question": "Breaking chain of infection is done by:",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Surgery",
+      "Vaccines only"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "explanation": "Most effective preventive method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_169",
+    "question": "Isolation is used to:",
+    "options": [
+      "Treat pain",
+      "Prevent infection spread",
+      "Control fever",
+      "Increase immunity"
+    ],
+    "answer": "Prevent infection spread",
+    "difficulty": "easy",
+    "explanation": "Separates infected patients.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_170",
+    "question": "Reverse isolation is for:",
+    "options": [
+      "Healthy people",
+      "Immunocompromised patients",
+      "Visitors",
+      "Doctors"
+    ],
+    "answer": "Immunocompromised patients",
+    "difficulty": "medium",
+    "explanation": "Protects weak immunity patients.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_171",
+    "question": "Droplet infection spreads via:",
+    "options": [
+      "Blood",
+      "Cough/sneeze",
+      "Water",
+      "Food"
+    ],
+    "answer": "Cough/sneeze",
+    "difficulty": "easy",
+    "explanation": "Respiratory droplets transmission.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_172",
+    "question": "Airborne infection spreads through:",
+    "options": [
+      "Large droplets",
+      "Droplet nuclei",
+      "Contact",
+      "Food"
+    ],
+    "answer": "Droplet nuclei",
+    "difficulty": "medium",
+    "explanation": "Tiny particles remain suspended.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_173",
+    "question": "Sharps should be disposed in:",
+    "options": [
+      "Yellow bag",
+      "White puncture-proof container",
+      "Blue bag",
+      "Black bag"
+    ],
+    "answer": "White puncture-proof container",
+    "difficulty": "medium",
+    "explanation": "Safe disposal of needles.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_174",
+    "question": "Biohazard symbol indicates:",
+    "options": [
+      "Safe zone",
+      "Infectious material",
+      "Food area",
+      "Clean room"
+    ],
+    "answer": "Infectious material",
+    "difficulty": "easy",
+    "explanation": "Warns about biological risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_175",
+    "question": "Most important PPE is:",
+    "options": [
+      "Cap",
+      "Gloves",
+      "Shoes",
+      "Watch"
+    ],
+    "answer": "Gloves",
+    "difficulty": "easy",
+    "explanation": "Direct barrier protection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_176",
+    "question": "Standard precautions apply to:",
+    "options": [
+      "Only infected patients",
+      "All patients",
+      "ICU only",
+      "Emergency only"
+    ],
+    "answer": "All patients",
+    "difficulty": "easy",
+    "explanation": "Universal infection control rule.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_177",
+    "question": "Electron microscope is used for:",
+    "options": [
+      "Bacteria only",
+      "Viruses",
+      "Food",
+      "Blood cells only"
+    ],
+    "answer": "Viruses",
+    "difficulty": "medium",
+    "explanation": "For ultra-small organisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_178",
+    "question": "Antibiotics are effective against:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi only",
+      "Protozoa only"
+    ],
+    "answer": "Bacteria",
+    "difficulty": "easy",
+    "explanation": "Kill bacterial infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_179",
+    "question": "Antiviral drugs act on:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungi",
+      "Protozoa"
+    ],
+    "answer": "Virus",
+    "difficulty": "easy",
+    "explanation": "Inhibit viral replication.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  },
+  {
+    "id": "MB_180",
+    "question": "Final stage of bacterial growth is:",
+    "options": [
+      "Lag phase",
+      "Log phase",
+      "Stationary phase",
+      "Death phase"
+    ],
+    "answer": "Death phase",
+    "difficulty": "medium",
+    "explanation": "Bacteria die due to lack of nutrients.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MICROBIOLOGY_BASICS"
+  }
+]

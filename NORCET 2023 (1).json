@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "NP23_001",
+    "question": "Normal adult blood pressure is:",
+    "options": [
+      "90/60",
+      "120/80",
+      "140/90",
+      "160/100"
+    ],
+    "answer": "120/80",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_002",
+    "question": "Most accurate temperature site:",
+    "options": [
+      "Axilla",
+      "Oral",
+      "Rectal",
+      "Forehead"
+    ],
+    "answer": "Rectal",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_003",
+    "question": "Normal pulse rate in adult:",
+    "options": [
+      "40–60",
+      "60–100",
+      "100–120",
+      "120–140"
+    ],
+    "answer": "60–100",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_004",
+    "question": "First step in BLS:",
+    "options": [
+      "Start CPR",
+      "Check responsiveness",
+      "Check pulse",
+      "Give oxygen"
+    ],
+    "answer": "Check responsiveness",
+    "topic": "BLS",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_005",
+    "question": "CPR compression ratio in adults:",
+    "options": [
+      "15:2",
+      "30:2",
+      "20:2",
+      "10:1"
+    ],
+    "answer": "30:2",
+    "topic": "BLS",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_006",
+    "question": "Most important sign of hypoxia:",
+    "options": [
+      "Cyanosis",
+      "Fever",
+      "Pain",
+      "Rash"
+    ],
+    "answer": "Cyanosis",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_007",
+    "question": "Normal oxygen saturation:",
+    "options": [
+      "85–90%",
+      "90–92%",
+      "95–100%",
+      "100–110%"
+    ],
+    "answer": "95–100%",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_008",
+    "question": "Most common HAI:",
+    "options": [
+      "UTI",
+      "Malaria",
+      "TB",
+      "Typhoid"
+    ],
+    "answer": "UTI",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_009",
+    "question": "Best sterilization method:",
+    "options": [
+      "Autoclave",
+      "Boiling",
+      "Sunlight",
+      "Alcohol"
+    ],
+    "answer": "Autoclave",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_010",
+    "question": "Hand hygiene prevents:",
+    "options": [
+      "Infection",
+      "Pain",
+      "Fever",
+      "Shock"
+    ],
+    "answer": "Infection",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_011",
+    "question": "Insulin route:",
+    "options": [
+      "IV",
+      "IM",
+      "SC",
+      "Oral"
+    ],
+    "answer": "SC",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_012",
+    "question": "Insulin complication:",
+    "options": [
+      "Hypoglycemia",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Hypoglycemia",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_013",
+    "question": "Normal fasting blood sugar:",
+    "options": [
+      "70–110",
+      "120–150",
+      "150–200",
+      "200–250"
+    ],
+    "answer": "70–110",
+    "topic": "Endocrine",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_014",
+    "question": "Kussmaul breathing seen in:",
+    "options": [
+      "DKA",
+      "Asthma",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "DKA",
+    "topic": "Endocrine",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_015",
+    "question": "Most common injection site IM:",
+    "options": [
+      "Deltoid",
+      "Gluteal",
+      "Abdomen",
+      "Thigh"
+    ],
+    "answer": "Gluteal",
+    "topic": "Nursing Procedures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_016",
+    "question": "Most important infection sign:",
+    "options": [
+      "Fever",
+      "Cold",
+      "Rash",
+      "Hair loss"
+    ],
+    "answer": "Fever",
+    "topic": "Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_017",
+    "question": "UTI most common organism:",
+    "options": [
+      "E. coli",
+      "Virus",
+      "Fungus",
+      "Parasite"
+    ],
+    "answer": "E. coli",
+    "topic": "Microbiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_018",
+    "question": "BCG vaccine protects against:",
+    "options": [
+      "TB",
+      "Polio",
+      "Hepatitis",
+      "Measles"
+    ],
+    "answer": "TB",
+    "topic": "Immunization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_019",
+    "question": "OPV route:",
+    "options": [
+      "Oral",
+      "IM",
+      "IV",
+      "SC"
+    ],
+    "answer": "Oral",
+    "topic": "Immunization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_020",
+    "question": "Most important symptom of hypoglycemia:",
+    "options": [
+      "Sweating",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Sweating",
+    "topic": "Endocrine",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_021",
+    "question": "Shock most important sign:",
+    "options": [
+      "Hypotension",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Hypotension",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_022",
+    "question": "Shock position:",
+    "options": [
+      "Supine with legs elevated",
+      "Sitting",
+      "Standing",
+      "Prone"
+    ],
+    "answer": "Supine with legs elevated",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_023",
+    "question": "Most important fluid in shock:",
+    "options": [
+      "Normal saline",
+      "Water",
+      "Oil",
+      "Alcohol"
+    ],
+    "answer": "Normal saline",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_024",
+    "question": "Most common complication of immobility:",
+    "options": [
+      "Bed sore",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Bed sore",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_025",
+    "question": "Prevention of bed sore:",
+    "options": [
+      "Repositioning",
+      "Bed rest",
+      "Sedation",
+      "Isolation"
+    ],
+    "answer": "Repositioning",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_026",
+    "question": "Most important ECG use:",
+    "options": [
+      "Heart activity",
+      "Brain activity",
+      "Lung function",
+      "Kidney function"
+    ],
+    "answer": "Heart activity",
+    "topic": "Cardiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_027",
+    "question": "MI symptom:",
+    "options": [
+      "Chest pain",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Chest pain",
+    "topic": "Cardiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_028",
+    "question": "Stroke sign:",
+    "options": [
+      "Face droop",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Face droop",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_029",
+    "question": "Golden hour refers to:",
+    "options": [
+      "Stroke emergency time",
+      "Sleep time",
+      "Meal time",
+      "Recovery time"
+    ],
+    "answer": "Stroke emergency time",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_030",
+    "question": "Seizure care priority:",
+    "options": [
+      "Airway protection",
+      "Food intake",
+      "Exercise",
+      "Bathing"
+    ],
+    "answer": "Airway protection",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_031",
+    "question": "Most important sign of dehydration:",
+    "options": [
+      "Dry mucosa",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Dry mucosa",
+    "topic": "Fluid & Electrolyte",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_032",
+    "question": "Most important electrolyte lost in vomiting:",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Calcium",
+      "Zinc"
+    ],
+    "answer": "Potassium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_033",
+    "question": "Most important IV complication:",
+    "options": [
+      "Infiltration",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Infiltration",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_034",
+    "question": "Best IV site in adults:",
+    "options": [
+      "Dorsal hand vein",
+      "Neck vein",
+      "Chest",
+      "Foot artery"
+    ],
+    "answer": "Dorsal hand vein",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_035",
+    "question": "Most important sign of infection at IV site:",
+    "options": [
+      "Redness",
+      "Cold",
+      "Pale skin",
+      "Dry skin"
+    ],
+    "answer": "Redness",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_036",
+    "question": "Most important cause of pneumonia:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungus",
+      "Parasite"
+    ],
+    "answer": "Bacteria",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_037",
+    "question": "Pneumonia diagnostic test:",
+    "options": [
+      "Chest X-ray",
+      "ECG",
+      "EEG",
+      "MRI"
+    ],
+    "answer": "Chest X-ray",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_038",
+    "question": "Best position in respiratory distress:",
+    "options": [
+      "High Fowler’s",
+      "Supine",
+      "Prone",
+      "Trendelenburg"
+    ],
+    "answer": "High Fowler’s",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_039",
+    "question": "Most important asthma drug:",
+    "options": [
+      "Salbutamol",
+      "Insulin",
+      "Antibiotic",
+      "Paracetamol"
+    ],
+    "answer": "Salbutamol",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_040",
+    "question": "Most important COPD feature:",
+    "options": [
+      "Chronic cough",
+      "Fever",
+      "Rash",
+      "Pain"
+    ],
+    "answer": "Chronic cough",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_041",
+    "question": "Most important complication of immobility:",
+    "options": [
+      "Pressure ulcer",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Pressure ulcer",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_042",
+    "question": "Most important prevention of DVT:",
+    "options": [
+      "Early ambulation",
+      "Bed rest",
+      "Sedation",
+      "Fasting"
+    ],
+    "answer": "Early ambulation",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_043",
+    "question": "Most important sign of DVT:",
+    "options": [
+      "Leg swelling",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Leg swelling",
+    "topic": "Surgery",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_044",
+    "question": "Most important anticoagulant:",
+    "options": [
+      "Heparin",
+      "Insulin",
+      "Antibiotic",
+      "Steroid"
+    ],
+    "answer": "Heparin",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_045",
+    "question": "Most important blood group donor:",
+    "options": [
+      "O negative",
+      "A positive",
+      "B positive",
+      "AB positive"
+    ],
+    "answer": "O negative",
+    "topic": "Hematology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_046",
+    "question": "Most important universal recipient:",
+    "options": [
+      "AB positive",
+      "O negative",
+      "A negative",
+      "B negative"
+    ],
+    "answer": "AB positive",
+    "topic": "Hematology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_047",
+    "question": "Most important transfusion reaction sign:",
+    "options": [
+      "Fever",
+      "Cold",
+      "Hair loss",
+      "Rash"
+    ],
+    "answer": "Fever",
+    "topic": "Blood Transfusion",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_048",
+    "question": "Most important nursing responsibility:",
+    "options": [
+      "Patient safety",
+      "Documentation only",
+      "Cleaning only",
+      "Paper work"
+    ],
+    "answer": "Patient safety",
+    "topic": "Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_049",
+    "question": "Most important ethical principle:",
+    "options": [
+      "Autonomy",
+      "Force",
+      "Neglect",
+      "Punishment"
+    ],
+    "answer": "Autonomy",
+    "topic": "Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_050",
+    "question": "Final step of nursing process:",
+    "options": [
+      "Evaluation",
+      "Assessment",
+      "Diagnosis",
+      "Planning"
+    ],
+    "answer": "Evaluation",
+    "topic": "Nursing Process",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_051",
+    "question": "Most important sign of meningitis:",
+    "options": [
+      "Neck rigidity",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Neck rigidity",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_052",
+    "question": "Most important stroke symptom:",
+    "options": [
+      "Face droop",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Face droop",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_053",
+    "question": "Most important stroke management time:",
+    "options": [
+      "Golden hour",
+      "24 hours",
+      "1 week",
+      "No limit"
+    ],
+    "answer": "Golden hour",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_054",
+    "question": "Most important complication of stroke:",
+    "options": [
+      "Paralysis",
+      "Cold",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Paralysis",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_055",
+    "question": "Most important seizure drug:",
+    "options": [
+      "Phenytoin",
+      "Insulin",
+      "Antibiotic",
+      "Paracetamol"
+    ],
+    "answer": "Phenytoin",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_056",
+    "question": "Most important psychiatric symptom:",
+    "options": [
+      "Hallucination",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Hallucination",
+    "topic": "Mental Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_057",
+    "question": "Most important schizophrenia symptom:",
+    "options": [
+      "Delusion",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Delusion",
+    "topic": "Mental Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_058",
+    "question": "Most important treatment for schizophrenia:",
+    "options": [
+      "Antipsychotics",
+      "Insulin",
+      "Antibiotics",
+      "Steroids"
+    ],
+    "answer": "Antipsychotics",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_059",
+    "question": "Most important depression symptom:",
+    "options": [
+      "Low mood",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Low mood",
+    "topic": "Mental Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_060",
+    "question": "Most important anxiety symptom:",
+    "options": [
+      "Restlessness",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Restlessness",
+    "topic": "Mental Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_061",
+    "question": "Most important substance abuse drug:",
+    "options": [
+      "Alcohol",
+      "Insulin",
+      "Antibiotic",
+      "Steroid"
+    ],
+    "answer": "Alcohol",
+    "topic": "Addiction",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_062",
+    "question": "Most important withdrawal symptom:",
+    "options": [
+      "Tremor",
+      "Cold",
+      "Rash",
+      "Cough"
+    ],
+    "answer": "Tremor",
+    "topic": "Addiction",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_063",
+    "question": "Most important rehabilitation goal:",
+    "options": [
+      "Recovery",
+      "Hospital stay",
+      "Isolation",
+      "Sedation"
+    ],
+    "answer": "Recovery",
+    "topic": "Rehabilitation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_064",
+    "question": "Most important nutrition deficiency disease:",
+    "options": [
+      "Scurvy",
+      "Cold",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Scurvy",
+    "topic": "Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_065",
+    "question": "Vitamin C deficiency causes:",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Anemia",
+      "Goiter"
+    ],
+    "answer": "Scurvy",
+    "topic": "Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_066",
+    "question": "Vitamin D deficiency causes:",
+    "options": [
+      "Rickets",
+      "Scurvy",
+      "Anemia",
+      "Diabetes"
+    ],
+    "answer": "Rickets",
+    "topic": "Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_067",
+    "question": "Most important sign of rickets:",
+    "options": [
+      "Bow legs",
+      "Cold",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Bow legs",
+    "topic": "Pediatrics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_068",
+    "question": "Most important ORS use:",
+    "options": [
+      "Diarrhea",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Diarrhea",
+    "topic": "Pediatrics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_069",
+    "question": "Most important cause of diarrhea:",
+    "options": [
+      "Rotavirus",
+      "TB",
+      "Cancer",
+      "Fracture"
+    ],
+    "answer": "Rotavirus",
+    "topic": "Microbiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_070",
+    "question": "Most important prevention of diarrhea:",
+    "options": [
+      "Hand hygiene",
+      "Fast food",
+      "Cold drinks",
+      "Skipping meals"
+    ],
+    "answer": "Hand hygiene",
+    "topic": "Community Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_071",
+    "question": "Most important vaccine schedule source:",
+    "options": [
+      "National Immunization Schedule",
+      "Doctor opinion",
+      "Internet",
+      "Book only"
+    ],
+    "answer": "National Immunization Schedule",
+    "topic": "Immunization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_072",
+    "question": "BCG vaccine prevents:",
+    "options": [
+      "TB",
+      "Polio",
+      "Hepatitis",
+      "Measles"
+    ],
+    "answer": "TB",
+    "topic": "Immunization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_073",
+    "question": "OPV route:",
+    "options": [
+      "Oral",
+      "IM",
+      "IV",
+      "SC"
+    ],
+    "answer": "Oral",
+    "topic": "Immunization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_074",
+    "question": "Most important vitamin deficiency:",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": "Vitamin A",
+    "topic": "Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_075",
+    "question": "Night blindness caused by:",
+    "options": [
+      "Vitamin A deficiency",
+      "Iron deficiency",
+      "Calcium deficiency",
+      "Protein excess"
+    ],
+    "answer": "Vitamin A deficiency",
+    "topic": "Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_076",
+    "question": "Most important ECG use:",
+    "options": [
+      "Heart activity",
+      "Brain activity",
+      "Lung function",
+      "Kidney function"
+    ],
+    "answer": "Heart activity",
+    "topic": "Cardiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_077",
+    "question": "Most important MI symptom:",
+    "options": [
+      "Chest pain",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Chest pain",
+    "topic": "Cardiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_078",
+    "question": "Most important heart failure sign:",
+    "options": [
+      "Dyspnea",
+      "Cold",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Dyspnea",
+    "topic": "Cardiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_079",
+    "question": "Most important position in heart failure:",
+    "options": [
+      "High Fowler’s",
+      "Supine",
+      "Prone",
+      "Trendelenburg"
+    ],
+    "answer": "High Fowler’s",
+    "topic": "Cardiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_080",
+    "question": "Most important emergency drug in MI:",
+    "options": [
+      "Morphine",
+      "Insulin",
+      "Antibiotic",
+      "Steroid"
+    ],
+    "answer": "Morphine",
+    "topic": "Emergency Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_081",
+    "question": "Most important airway obstruction sign:",
+    "options": [
+      "Cyanosis",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Cyanosis",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_082",
+    "question": "Most important CPR site:",
+    "options": [
+      "Lower sternum",
+      "Chest side",
+      "Abdomen",
+      "Neck"
+    ],
+    "answer": "Lower sternum",
+    "topic": "BLS",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_083",
+    "question": "Most important shock sign:",
+    "options": [
+      "Hypotension",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Hypotension",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_084",
+    "question": "Most important complication of shock:",
+    "options": [
+      "Organ failure",
+      "Cold",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Organ failure",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_085",
+    "question": "Most important IV complication:",
+    "options": [
+      "Infiltration",
+      "Cold",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Infiltration",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_086",
+    "question": "Most important site for IV:",
+    "options": [
+      "Dorsal hand vein",
+      "Neck",
+      "Chest",
+      "Head"
+    ],
+    "answer": "Dorsal hand vein",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_087",
+    "question": "Most important electrolyte in heart function:",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Potassium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_088",
+    "question": "Hyperkalemia causes:",
+    "options": [
+      "Arrhythmia",
+      "Cold",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Arrhythmia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_089",
+    "question": "Hypokalemia causes:",
+    "options": [
+      "Muscle weakness",
+      "Cold",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Muscle weakness",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_090",
+    "question": "Most important nursing principle:",
+    "options": [
+      "Patient safety",
+      "Neglect",
+      "Force",
+      "Punishment"
+    ],
+    "answer": "Patient safety",
+    "topic": "Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_091",
+    "question": "Most important ethical principle:",
+    "options": [
+      "Autonomy",
+      "Force",
+      "Neglect",
+      "Punishment"
+    ],
+    "answer": "Autonomy",
+    "topic": "Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_092",
+    "question": "Most important infection control measure:",
+    "options": [
+      "Hand hygiene",
+      "Mask only",
+      "Gloves only",
+      "Gown only"
+    ],
+    "answer": "Hand hygiene",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_093",
+    "question": "Most important sterilization:",
+    "options": [
+      "Autoclave",
+      "Sunlight",
+      "Boiling",
+      "Air dry"
+    ],
+    "answer": "Autoclave",
+    "topic": "Sterilization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_094",
+    "question": "Most important sign of wound infection:",
+    "options": [
+      "Redness",
+      "Cold",
+      "Dry skin",
+      "Hair growth"
+    ],
+    "answer": "Redness",
+    "topic": "Wound Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_095",
+    "question": "Most important complication of immobility:",
+    "options": [
+      "Pressure ulcer",
+      "Cold",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Pressure ulcer",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_096",
+    "question": "Most important prevention of DVT:",
+    "options": [
+      "Early ambulation",
+      "Bed rest",
+      "Sedation",
+      "Fasting"
+    ],
+    "answer": "Early ambulation",
+    "topic": "Surgery",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_097",
+    "question": "Most important transfusion reaction sign:",
+    "options": [
+      "Fever",
+      "Cold",
+      "Rash",
+      "Hair loss"
+    ],
+    "answer": "Fever",
+    "topic": "Blood Transfusion",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_098",
+    "question": "Most important donor blood group:",
+    "options": [
+      "O negative",
+      "A positive",
+      "B positive",
+      "AB positive"
+    ],
+    "answer": "O negative",
+    "topic": "Hematology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_099",
+    "question": "Most important nursing process step:",
+    "options": [
+      "Evaluation",
+      "Assessment",
+      "Diagnosis",
+      "Planning"
+    ],
+    "answer": "Evaluation",
+    "topic": "Nursing Process",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NP23_100",
+    "question": "Final goal of nursing care:",
+    "options": [
+      "Health restoration",
+      "Hospitalization",
+      "Medication only",
+      "Isolation"
+    ],
+    "answer": "Health restoration",
+    "topic": "Nursing Process",
+    "chapter": "GENERAL"
+  }
+]

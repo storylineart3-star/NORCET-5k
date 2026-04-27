@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "CCN_001",
+    "question": "Normal range of oxygen saturation (SpO2) is:",
+    "options": [
+      "85–90%",
+      "90–92%",
+      "95–100%",
+      "100–110%"
+    ],
+    "answer": "95–100%",
+    "topic": "Oxygen Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_002",
+    "question": "First priority in ICU emergency care is:",
+    "options": [
+      "Airway",
+      "Medication",
+      "Documentation",
+      "Diet"
+    ],
+    "answer": "Airway",
+    "topic": "ABCD Approach",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_003",
+    "question": "ABCD in emergency stands for:",
+    "options": [
+      "Airway, Breathing, Circulation, Disability",
+      "Airway, Blood, Care, Drug",
+      "Assessment, Breathing, CPR, Drugs",
+      "Airway, Bed, Care, Diagnosis"
+    ],
+    "answer": "Airway, Breathing, Circulation, Disability",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_004",
+    "question": "Most common oxygen delivery device for mild hypoxia:",
+    "options": [
+      "Nasal cannula",
+      "Ventilator",
+      "CPAP",
+      "Tracheostomy"
+    ],
+    "answer": "Nasal cannula",
+    "topic": "Oxygen Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_005",
+    "question": "Normal respiratory rate in adults is:",
+    "options": [
+      "8–10/min",
+      "12–20/min",
+      "20–30/min",
+      "30–40/min"
+    ],
+    "answer": "12–20/min",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_006",
+    "question": "Most important sign of respiratory distress:",
+    "options": [
+      "Dyspnea",
+      "Fever",
+      "Rash",
+      "Pain"
+    ],
+    "answer": "Dyspnea",
+    "topic": "Respiratory Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_007",
+    "question": "CPAP is used in:",
+    "options": [
+      "Sleep apnea",
+      "Fracture",
+      "Fever",
+      "Diabetes"
+    ],
+    "answer": "Sleep apnea",
+    "topic": "Ventilation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_008",
+    "question": "Ventilator is used for:",
+    "options": [
+      "Respiratory failure",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Respiratory failure",
+    "topic": "Mechanical Ventilation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_009",
+    "question": "Most important complication of oxygen therapy:",
+    "options": [
+      "Oxygen toxicity",
+      "Fever",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Oxygen toxicity",
+    "topic": "Oxygen Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_010",
+    "question": "FiO2 refers to:",
+    "options": [
+      "Fraction of inspired oxygen",
+      "Blood pressure",
+      "Heart rate",
+      "Temperature"
+    ],
+    "answer": "Fraction of inspired oxygen",
+    "topic": "Oxygen Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_011",
+    "question": "Normal ABG pH range:",
+    "options": [
+      "7.0–7.2",
+      "7.35–7.45",
+      "7.5–7.6",
+      "6.8–7.0"
+    ],
+    "answer": "7.35–7.45",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_012",
+    "question": "Normal PaCO2 range:",
+    "options": [
+      "20–30 mmHg",
+      "35–45 mmHg",
+      "50–60 mmHg",
+      "60–70 mmHg"
+    ],
+    "answer": "35–45 mmHg",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_013",
+    "question": "Normal PaO2 range:",
+    "options": [
+      "30–50 mmHg",
+      "60–80 mmHg",
+      "80–100 mmHg",
+      "100–120 mmHg"
+    ],
+    "answer": "80–100 mmHg",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_014",
+    "question": "Metabolic acidosis is seen in:",
+    "options": [
+      "Diabetic ketoacidosis",
+      "Asthma",
+      "Hypertension",
+      "Fever"
+    ],
+    "answer": "Diabetic ketoacidosis",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_015",
+    "question": "Respiratory acidosis occurs due to:",
+    "options": [
+      "CO2 retention",
+      "O2 excess",
+      "Glucose increase",
+      "Calcium loss"
+    ],
+    "answer": "CO2 retention",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_016",
+    "question": "Most important sign of shock:",
+    "options": [
+      "Hypotension",
+      "Fever",
+      "Rash",
+      "Cold only"
+    ],
+    "answer": "Hypotension",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_017",
+    "question": "First fluid of choice in shock:",
+    "options": [
+      "Normal saline",
+      "Distilled water",
+      "Oil",
+      "Alcohol"
+    ],
+    "answer": "Normal saline",
+    "topic": "Shock Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_018",
+    "question": "Shock position is:",
+    "options": [
+      "Supine with legs elevated",
+      "Sitting",
+      "Standing",
+      "Prone"
+    ],
+    "answer": "Supine with legs elevated",
+    "topic": "Shock Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_019",
+    "question": "Most dangerous type of shock:",
+    "options": [
+      "Cardiogenic",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Cardiogenic",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_020",
+    "question": "Septic shock is caused by:",
+    "options": [
+      "Severe infection",
+      "Trauma",
+      "Bleeding",
+      "Fracture"
+    ],
+    "answer": "Severe infection",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_021",
+    "question": "Normal urine output per hour:",
+    "options": [
+      "10 ml/hr",
+      "30 ml/hr",
+      "50 ml/hr",
+      "100 ml/hr"
+    ],
+    "answer": "30 ml/hr",
+    "topic": "Fluid Balance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_022",
+    "question": "Oliguria means:",
+    "options": [
+      "Low urine output",
+      "High urine output",
+      "No urine",
+      "Normal urine"
+    ],
+    "answer": "Low urine output",
+    "topic": "Fluid Balance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_023",
+    "question": "Anuria means:",
+    "options": [
+      "No urine output",
+      "High urine output",
+      "Normal urine",
+      "Painful urination"
+    ],
+    "answer": "No urine output",
+    "topic": "Fluid Balance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_024",
+    "question": "Central venous pressure is measured in:",
+    "options": [
+      "Right atrium",
+      "Left ventricle",
+      "Brain",
+      "Lung"
+    ],
+    "answer": "Right atrium",
+    "topic": "Hemodynamics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_025",
+    "question": "Normal CVP range:",
+    "options": [
+      "1–5 cm H2O",
+      "6–12 cm H2O",
+      "13–20 cm H2O",
+      "20–30 cm H2O"
+    ],
+    "answer": "6–12 cm H2O",
+    "topic": "Hemodynamics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_026",
+    "question": "Most important ECG lead for heart monitoring:",
+    "options": [
+      "Lead II",
+      "Lead I",
+      "Lead III",
+      "aVR"
+    ],
+    "answer": "Lead II",
+    "topic": "Cardiac Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_027",
+    "question": "Ventricular fibrillation treatment:",
+    "options": [
+      "Defibrillation",
+      "Antibiotics",
+      "Insulin",
+      "Fever management"
+    ],
+    "answer": "Defibrillation",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_028",
+    "question": "First step in CPR:",
+    "options": [
+      "Check responsiveness",
+      "Give drugs",
+      "Intubate",
+      "Monitor ECG"
+    ],
+    "answer": "Check responsiveness",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_029",
+    "question": "CPR compression ratio in adults:",
+    "options": [
+      "15:2",
+      "30:2",
+      "20:2",
+      "10:1"
+    ],
+    "answer": "30:2",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_030",
+    "question": "Defibrillator is used for:",
+    "options": [
+      "VF and pulseless VT",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "VF and pulseless VT",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_031",
+    "question": "Most important electrolyte in ICU monitoring:",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Potassium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_032",
+    "question": "Hyperkalemia causes:",
+    "options": [
+      "Arrhythmia",
+      "Cold",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Arrhythmia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_033",
+    "question": "Hypokalemia causes:",
+    "options": [
+      "Muscle weakness",
+      "Cold",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Muscle weakness",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_034",
+    "question": "Most important sodium imbalance symptom:",
+    "options": [
+      "Confusion",
+      "Cold",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Confusion",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_035",
+    "question": "Fluid overload sign:",
+    "options": [
+      "Edema",
+      "Dry skin",
+      "Weight loss",
+      "Fever"
+    ],
+    "answer": "Edema",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_036",
+    "question": "Dehydration sign:",
+    "options": [
+      "Dry mucosa",
+      "Edema",
+      "Weight gain",
+      "Fever"
+    ],
+    "answer": "Dry mucosa",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_037",
+    "question": "Most important ICU infection risk:",
+    "options": [
+      "Ventilator-associated pneumonia",
+      "Cold",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Ventilator-associated pneumonia",
+    "topic": "ICU Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_038",
+    "question": "Sepsis is:",
+    "options": [
+      "Systemic infection response",
+      "Bone fracture",
+      "Skin rash",
+      "Cold"
+    ],
+    "answer": "Systemic infection response",
+    "topic": "Sepsis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_039",
+    "question": "Most important sepsis marker:",
+    "options": [
+      "Fever",
+      "Cold",
+      "Rash",
+      "Hair loss"
+    ],
+    "answer": "Fever",
+    "topic": "Sepsis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_040",
+    "question": "ICU monitoring includes:",
+    "options": [
+      "Vital signs",
+      "Hair growth",
+      "Nail color",
+      "Skin tone only"
+    ],
+    "answer": "Vital signs",
+    "topic": "ICU Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_041",
+    "question": "Most important sedation drug in ICU:",
+    "options": [
+      "Midazolam",
+      "Insulin",
+      "Antibiotic",
+      "Paracetamol"
+    ],
+    "answer": "Midazolam",
+    "topic": "ICU Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_042",
+    "question": "Pain scale used in ICU:",
+    "options": [
+      "VAS scale",
+      "BMI scale",
+      "APGAR",
+      "GCS only"
+    ],
+    "answer": "VAS scale",
+    "topic": "Pain Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_043",
+    "question": "GCS full form:",
+    "options": [
+      "Glasgow Coma Scale",
+      "Global Care System",
+      "General Clinical Score",
+      "Glucose Control Scale"
+    ],
+    "answer": "Glasgow Coma Scale",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_044",
+    "question": "Normal GCS score:",
+    "options": [
+      "3",
+      "5",
+      "15",
+      "20"
+    ],
+    "answer": "15",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_045",
+    "question": "Lowest GCS score:",
+    "options": [
+      "3",
+      "5",
+      "10",
+      "15"
+    ],
+    "answer": "3",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_046",
+    "question": "Tracheostomy care is important to prevent:",
+    "options": [
+      "Infection",
+      "Fever",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Infection",
+    "topic": "Airway Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_047",
+    "question": "Endotracheal tube is used for:",
+    "options": [
+      "Airway support",
+      "Feeding",
+      "Injection",
+      "Urination"
+    ],
+    "answer": "Airway support",
+    "topic": "Airway Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_048",
+    "question": "Most important ICU alarm:",
+    "options": [
+      "Ventilator alarm",
+      "Door alarm",
+      "Phone alarm",
+      "Fire alarm only"
+    ],
+    "answer": "Ventilator alarm",
+    "topic": "ICU Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_049",
+    "question": "Priority in ICU patient care:",
+    "options": [
+      "Airway",
+      "Billing",
+      "Paperwork",
+      "Food only"
+    ],
+    "answer": "Airway",
+    "topic": "Priority Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_050",
+    "question": "Final goal of ICU care:",
+    "options": [
+      "Stabilization",
+      "Admission",
+      "Transfer only",
+      "Paperwork"
+    ],
+    "answer": "Stabilization",
+    "topic": "ICU Outcome",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_051",
+    "question": "Most common cause of ICU delirium:",
+    "options": [
+      "Hypoxia",
+      "Fever",
+      "Fracture",
+      "Cold exposure"
+    ],
+    "answer": "Hypoxia",
+    "topic": "ICU Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_052",
+    "question": "Delirium in ICU is mainly treated by:",
+    "options": [
+      "Correcting underlying cause",
+      "Antibiotics only",
+      "Steroids",
+      "Surgery"
+    ],
+    "answer": "Correcting underlying cause",
+    "topic": "ICU Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_053",
+    "question": "Most important cause of decreased consciousness:",
+    "options": [
+      "Brain injury",
+      "Cold",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Brain injury",
+    "topic": "Neurological ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_054",
+    "question": "ICP stands for:",
+    "options": [
+      "Intracranial pressure",
+      "Internal cardiac pressure",
+      "Intravenous circulation pressure",
+      "Infection control protocol"
+    ],
+    "answer": "Intracranial pressure",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_055",
+    "question": "Normal ICP range:",
+    "options": [
+      "5–15 mmHg",
+      "20–30 mmHg",
+      "40–50 mmHg",
+      "60–80 mmHg"
+    ],
+    "answer": "5–15 mmHg",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_056",
+    "question": "Increased ICP sign:",
+    "options": [
+      "Bradycardia",
+      "Tachycardia only",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Bradycardia",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_057",
+    "question": "Cushing’s triad includes:",
+    "options": [
+      "Hypertension, bradycardia, irregular breathing",
+      "Fever, rash, cold",
+      "Pain, vomiting, diarrhea",
+      "Cough, cold, fever"
+    ],
+    "answer": "Hypertension, bradycardia, irregular breathing",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_058",
+    "question": "Most important seizure emergency drug:",
+    "options": [
+      "Diazepam",
+      "Insulin",
+      "Paracetamol",
+      "Antibiotic"
+    ],
+    "answer": "Diazepam",
+    "topic": "Emergency Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_059",
+    "question": "Status epilepticus means:",
+    "options": [
+      "Continuous seizure activity",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Continuous seizure activity",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_060",
+    "question": "Most important airway emergency sign:",
+    "options": [
+      "Stridor",
+      "Fever",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Stridor",
+    "topic": "Airway Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_061",
+    "question": "Endotracheal tube placement confirms by:",
+    "options": [
+      "Chest rise and CO2 detection",
+      "Temperature",
+      "Pulse",
+      "Skin color"
+    ],
+    "answer": "Chest rise and CO2 detection",
+    "topic": "Airway Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_062",
+    "question": "Most important ventilator parameter:",
+    "options": [
+      "Tidal volume",
+      "Hair growth",
+      "Skin color",
+      "Nail growth"
+    ],
+    "answer": "Tidal volume",
+    "topic": "Mechanical Ventilation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_063",
+    "question": "PEEP is used to:",
+    "options": [
+      "Keep alveoli open",
+      "Reduce fever",
+      "Increase BP",
+      "Decrease pulse"
+    ],
+    "answer": "Keep alveoli open",
+    "topic": "Ventilation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_064",
+    "question": "Most common complication of intubation:",
+    "options": [
+      "Aspiration",
+      "Fever",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Aspiration",
+    "topic": "Airway Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_065",
+    "question": "Suctioning is done to remove:",
+    "options": [
+      "Secretions",
+      "Blood sugar",
+      "Urine",
+      "Feces"
+    ],
+    "answer": "Secretions",
+    "topic": "Airway Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_066",
+    "question": "Maximum suction time in adults:",
+    "options": [
+      "10–15 seconds",
+      "30–40 seconds",
+      "1 minute",
+      "2 minutes"
+    ],
+    "answer": "10–15 seconds",
+    "topic": "Airway Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_067",
+    "question": "Most important ICU infection prevention:",
+    "options": [
+      "Hand hygiene",
+      "Mask only",
+      "Gloves only",
+      "Isolation only"
+    ],
+    "answer": "Hand hygiene",
+    "topic": "Infection Control ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_068",
+    "question": "Ventilator-associated pneumonia is caused by:",
+    "options": [
+      "Poor airway hygiene",
+      "Cold exposure",
+      "Rash",
+      "Fracture"
+    ],
+    "answer": "Poor airway hygiene",
+    "topic": "ICU Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_069",
+    "question": "Sepsis progresses to:",
+    "options": [
+      "Shock",
+      "Healing",
+      "Fracture",
+      "Recovery always"
+    ],
+    "answer": "Shock",
+    "topic": "Sepsis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_070",
+    "question": "Most important sepsis management:",
+    "options": [
+      "Antibiotics + fluids",
+      "Rest only",
+      "Painkillers only",
+      "No treatment"
+    ],
+    "answer": "Antibiotics + fluids",
+    "topic": "Sepsis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_071",
+    "question": "Normal serum sodium range:",
+    "options": [
+      "135–145 mEq/L",
+      "100–110",
+      "150–160",
+      "120–130"
+    ],
+    "answer": "135–145 mEq/L",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_072",
+    "question": "Normal potassium range:",
+    "options": [
+      "3.5–5.0 mEq/L",
+      "1–2",
+      "6–8",
+      "8–10"
+    ],
+    "answer": "3.5–5.0 mEq/L",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_073",
+    "question": "Hypernatremia causes:",
+    "options": [
+      "Dehydration",
+      "Obesity",
+      "Fracture",
+      "Rash"
+    ],
+    "answer": "Dehydration",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_074",
+    "question": "Hyponatremia causes:",
+    "options": [
+      "Confusion",
+      "Cold",
+      "Rash",
+      "Hair loss"
+    ],
+    "answer": "Confusion",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_075",
+    "question": "Fluid overload leads to:",
+    "options": [
+      "Pulmonary edema",
+      "Dry skin",
+      "Weight loss",
+      "Fever"
+    ],
+    "answer": "Pulmonary edema",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_076",
+    "question": "Most important sign of dehydration:",
+    "options": [
+      "Low BP",
+      "High BP",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Low BP",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_077",
+    "question": "Crystalloids example:",
+    "options": [
+      "Normal saline",
+      "Blood",
+      "Plasma",
+      "Albumin"
+    ],
+    "answer": "Normal saline",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_078",
+    "question": "Colloids example:",
+    "options": [
+      "Albumin",
+      "Water",
+      "Saline",
+      "Glucose water"
+    ],
+    "answer": "Albumin",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_079",
+    "question": "Most important sign of fluid imbalance:",
+    "options": [
+      "Weight change",
+      "Hair growth",
+      "Nail color",
+      "Skin tone"
+    ],
+    "answer": "Weight change",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_080",
+    "question": "Most important cardiac ICU monitor:",
+    "options": [
+      "ECG",
+      "EEG",
+      "X-ray",
+      "Ultrasound"
+    ],
+    "answer": "ECG",
+    "topic": "Cardiac ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_081",
+    "question": "MI is treated initially with:",
+    "options": [
+      "Aspirin",
+      "Antibiotics",
+      "Steroids",
+      "Insulin"
+    ],
+    "answer": "Aspirin",
+    "topic": "Cardiac ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_082",
+    "question": "Nitroglycerin is used for:",
+    "options": [
+      "Chest pain",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Chest pain",
+    "topic": "Cardiac Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_083",
+    "question": "Cardiac arrest first step:",
+    "options": [
+      "CPR",
+      "Medication",
+      "X-ray",
+      "Surgery"
+    ],
+    "answer": "CPR",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_084",
+    "question": "Defibrillation is for:",
+    "options": [
+      "VF",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "VF",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_085",
+    "question": "Asystole treatment:",
+    "options": [
+      "CPR + adrenaline",
+      "Defibrillation only",
+      "Surgery",
+      "Antibiotics"
+    ],
+    "answer": "CPR + adrenaline",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_086",
+    "question": "Most important ICU documentation:",
+    "options": [
+      "Vitals chart",
+      "Hair record",
+      "Diet chart only",
+      "Attendance"
+    ],
+    "answer": "Vitals chart",
+    "topic": "ICU Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_087",
+    "question": "Most important nursing priority in ICU:",
+    "options": [
+      "Airway maintenance",
+      "Paperwork",
+      "Cleaning",
+      "Billing"
+    ],
+    "answer": "Airway maintenance",
+    "topic": "Priority Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_088",
+    "question": "Oxygen toxicity mainly affects:",
+    "options": [
+      "Lungs",
+      "Skin",
+      "Hair",
+      "Bones"
+    ],
+    "answer": "Lungs",
+    "topic": "Oxygen Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_089",
+    "question": "Most important ICU patient position:",
+    "options": [
+      "Semi-Fowler’s",
+      "Flat supine always",
+      "Prone always",
+      "Standing"
+    ],
+    "answer": "Semi-Fowler’s",
+    "topic": "Positioning",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_090",
+    "question": "Prone position is used in:",
+    "options": [
+      "ARDS",
+      "Fracture",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "ARDS",
+    "topic": "Respiratory ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_091",
+    "question": "ARDS stands for:",
+    "options": [
+      "Acute respiratory distress syndrome",
+      "Airway disease",
+      "Acute renal disorder",
+      "Cardiac failure"
+    ],
+    "answer": "Acute respiratory distress syndrome",
+    "topic": "Respiratory ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_092",
+    "question": "Most important ARDS management:",
+    "options": [
+      "Mechanical ventilation",
+      "Antibiotics only",
+      "Painkillers",
+      "No treatment"
+    ],
+    "answer": "Mechanical ventilation",
+    "topic": "Respiratory ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_093",
+    "question": "Weaning means:",
+    "options": [
+      "Removing ventilator support",
+      "Giving drugs",
+      "Surgery",
+      "Feeding"
+    ],
+    "answer": "Removing ventilator support",
+    "topic": "Ventilation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_094",
+    "question": "Most important ICU electrolyte emergency:",
+    "options": [
+      "Potassium imbalance",
+      "Iron deficiency",
+      "Vitamin D",
+      "Calcium only"
+    ],
+    "answer": "Potassium imbalance",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_095",
+    "question": "Hyperkalemia ECG change:",
+    "options": [
+      "Tall T waves",
+      "Flat T waves",
+      "No change",
+      "Rash"
+    ],
+    "answer": "Tall T waves",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_096",
+    "question": "Most important ICU safety measure:",
+    "options": [
+      "Alarm monitoring",
+      "Sleeping",
+      "Ignoring vitals",
+      "No documentation"
+    ],
+    "answer": "Alarm monitoring",
+    "topic": "ICU Safety",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_097",
+    "question": "Most important cause of ICU mortality:",
+    "options": [
+      "Sepsis",
+      "Cold",
+      "Rash",
+      "Fracture"
+    ],
+    "answer": "Sepsis",
+    "topic": "ICU Outcomes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_098",
+    "question": "Shock leads to:",
+    "options": [
+      "Organ failure",
+      "Hair growth",
+      "Skin glow",
+      "Weight gain"
+    ],
+    "answer": "Organ failure",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_099",
+    "question": "Primary goal of ICU nursing:",
+    "options": [
+      "Stabilization",
+      "Discharge immediately",
+      "Ignore monitoring",
+      "Paperwork only"
+    ],
+    "answer": "Stabilization",
+    "topic": "ICU Goal",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_100",
+    "question": "Final outcome of ICU care:",
+    "options": [
+      "Recovery or stabilization",
+      "Admission only",
+      "Transfer only",
+      "No change"
+    ],
+    "answer": "Recovery or stabilization",
+    "topic": "ICU Outcome",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_101",
+    "question": "Most important early sign of hypoxia in ICU:",
+    "options": [
+      "Restlessness",
+      "Fever",
+      "Rash",
+      "Hair loss"
+    ],
+    "answer": "Restlessness",
+    "topic": "Respiratory ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_102",
+    "question": "Late sign of hypoxia:",
+    "options": [
+      "Cyanosis",
+      "Anxiety",
+      "Confusion",
+      "Tachycardia"
+    ],
+    "answer": "Cyanosis",
+    "topic": "Respiratory ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_103",
+    "question": "Most important oxygen delivery device for severe hypoxia:",
+    "options": [
+      "Non-rebreather mask",
+      "Nasal cannula",
+      "Face tent",
+      "Room air"
+    ],
+    "answer": "Non-rebreather mask",
+    "topic": "Oxygen Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_104",
+    "question": "Ventilator mode used for full respiratory support:",
+    "options": [
+      "Controlled mode",
+      "CPAP only",
+      "Room air",
+      "None"
+    ],
+    "answer": "Controlled mode",
+    "topic": "Mechanical Ventilation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_105",
+    "question": "Weaning failure is due to:",
+    "options": [
+      "Weak respiratory muscles",
+      "Strong lungs",
+      "High BP",
+      "Low fever"
+    ],
+    "answer": "Weak respiratory muscles",
+    "topic": "Ventilation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_106",
+    "question": "PEEP prevents:",
+    "options": [
+      "Alveolar collapse",
+      "Fever",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Alveolar collapse",
+    "topic": "Ventilation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_107",
+    "question": "Most important complication of mechanical ventilation:",
+    "options": [
+      "Barotrauma",
+      "Hair growth",
+      "Fever only",
+      "Cold"
+    ],
+    "answer": "Barotrauma",
+    "topic": "Mechanical Ventilation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_108",
+    "question": "Barotrauma refers to:",
+    "options": [
+      "Lung injury due to pressure",
+      "Skin infection",
+      "Bone fracture",
+      "Fever"
+    ],
+    "answer": "Lung injury due to pressure",
+    "topic": "Mechanical Ventilation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_109",
+    "question": "Most important ICU airway emergency:",
+    "options": [
+      "Obstruction",
+      "Fever",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Obstruction",
+    "topic": "Airway Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_110",
+    "question": "Emergency airway management includes:",
+    "options": [
+      "Intubation",
+      "Massage",
+      "Diet change",
+      "Exercise"
+    ],
+    "answer": "Intubation",
+    "topic": "Airway Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_111",
+    "question": "Most reliable indicator of oxygenation:",
+    "options": [
+      "ABG PaO2",
+      "Temperature",
+      "Pulse",
+      "Weight"
+    ],
+    "answer": "ABG PaO2",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_112",
+    "question": "Hypoxemia means:",
+    "options": [
+      "Low oxygen in blood",
+      "High sugar",
+      "High BP",
+      "Low fever"
+    ],
+    "answer": "Low oxygen in blood",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_113",
+    "question": "Hypercapnia means:",
+    "options": [
+      "High CO2 level",
+      "Low oxygen",
+      "High sugar",
+      "Low BP"
+    ],
+    "answer": "High CO2 level",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_114",
+    "question": "Respiratory alkalosis occurs in:",
+    "options": [
+      "Hyperventilation",
+      "Hypoventilation",
+      "Shock",
+      "Bleeding"
+    ],
+    "answer": "Hyperventilation",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_115",
+    "question": "Metabolic alkalosis occurs in:",
+    "options": [
+      "Vomiting",
+      "Diarrhea",
+      "Shock",
+      "Sepsis"
+    ],
+    "answer": "Vomiting",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_116",
+    "question": "Most important electrolyte in cardiac ICU:",
+    "options": [
+      "Potassium",
+      "Sodium",
+      "Calcium",
+      "Magnesium"
+    ],
+    "answer": "Potassium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_117",
+    "question": "Hypocalcemia causes:",
+    "options": [
+      "Tetany",
+      "Fever",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Tetany",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_118",
+    "question": "Hypercalcemia causes:",
+    "options": [
+      "Muscle weakness",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Muscle weakness",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_119",
+    "question": "Most dangerous potassium level change:",
+    "options": [
+      "Hyperkalemia",
+      "Hypernatremia",
+      "Hypoglycemia",
+      "Fever"
+    ],
+    "answer": "Hyperkalemia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_120",
+    "question": "Treatment for hyperkalemia includes:",
+    "options": [
+      "Calcium gluconate",
+      "Insulin only",
+      "Antibiotics",
+      "Steroids"
+    ],
+    "answer": "Calcium gluconate",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_121",
+    "question": "Most important sign of fluid overload:",
+    "options": [
+      "Pulmonary edema",
+      "Dry skin",
+      "Weight loss",
+      "Fever"
+    ],
+    "answer": "Pulmonary edema",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_122",
+    "question": "Pulmonary edema causes:",
+    "options": [
+      "Breathlessness",
+      "Rash",
+      "Cold",
+      "Hair loss"
+    ],
+    "answer": "Breathlessness",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_123",
+    "question": "Most important sign of dehydration in ICU:",
+    "options": [
+      "Hypotension",
+      "Hypertension",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Hypotension",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_124",
+    "question": "Normal fluid balance depends on:",
+    "options": [
+      "Intake and output",
+      "Hair growth",
+      "Skin color",
+      "Nail growth"
+    ],
+    "answer": "Intake and output",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_125",
+    "question": "Daily fluid requirement in adults:",
+    "options": [
+      "2000–2500 ml",
+      "500 ml",
+      "100 ml",
+      "5000 ml"
+    ],
+    "answer": "2000–2500 ml",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_126",
+    "question": "Most important ICU infection source:",
+    "options": [
+      "Catheters",
+      "Hair",
+      "Nails",
+      "Clothing"
+    ],
+    "answer": "Catheters",
+    "topic": "ICU Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_127",
+    "question": "Central line infection is called:",
+    "options": [
+      "CLABSI",
+      "UTI",
+      "Pneumonia",
+      "Cold"
+    ],
+    "answer": "CLABSI",
+    "topic": "ICU Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_128",
+    "question": "Most important sepsis lab marker:",
+    "options": [
+      "WBC count",
+      "Hair growth",
+      "Weight",
+      "Skin color"
+    ],
+    "answer": "WBC count",
+    "topic": "Sepsis",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_129",
+    "question": "Septic shock requires:",
+    "options": [
+      "Vasopressors",
+      "Rest only",
+      "Cold compress",
+      "No treatment"
+    ],
+    "answer": "Vasopressors",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_130",
+    "question": "Most important vasopressor:",
+    "options": [
+      "Noradrenaline",
+      "Insulin",
+      "Paracetamol",
+      "Antibiotic"
+    ],
+    "answer": "Noradrenaline",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_131",
+    "question": "Most important ICU cardiac monitor:",
+    "options": [
+      "ECG monitor",
+      "EEG",
+      "X-ray",
+      "MRI"
+    ],
+    "answer": "ECG monitor",
+    "topic": "Cardiac ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_132",
+    "question": "MI confirmed by:",
+    "options": [
+      "Troponin",
+      "Hemoglobin",
+      "WBC",
+      "Platelet"
+    ],
+    "answer": "Troponin",
+    "topic": "Cardiac ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_133",
+    "question": "Arrhythmia means:",
+    "options": [
+      "Irregular heartbeat",
+      "Normal heartbeat",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Irregular heartbeat",
+    "topic": "Cardiac ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_134",
+    "question": "Most dangerous arrhythmia:",
+    "options": [
+      "Ventricular fibrillation",
+      "Sinus rhythm",
+      "Bradycardia mild",
+      "Fever"
+    ],
+    "answer": "Ventricular fibrillation",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_135",
+    "question": "Defibrillation energy is used for:",
+    "options": [
+      "VF",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "VF",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_136",
+    "question": "GCS is used for:",
+    "options": [
+      "Level of consciousness",
+      "BP",
+      "Pulse",
+      "Sugar"
+    ],
+    "answer": "Level of consciousness",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_137",
+    "question": "Lowest GCS score:",
+    "options": [
+      "3",
+      "5",
+      "10",
+      "15"
+    ],
+    "answer": "3",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_138",
+    "question": "Highest GCS score:",
+    "options": [
+      "15",
+      "10",
+      "5",
+      "3"
+    ],
+    "answer": "15",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_139",
+    "question": "Brain herniation is caused by:",
+    "options": [
+      "Increased ICP",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Increased ICP",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_140",
+    "question": "Most important ICP treatment position:",
+    "options": [
+      "Head elevation 30°",
+      "Flat position",
+      "Trendelenburg",
+      "Prone always"
+    ],
+    "answer": "Head elevation 30°",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_141",
+    "question": "Sedation in ICU is used for:",
+    "options": [
+      "Reduce anxiety",
+      "Increase fever",
+      "Pain only",
+      "Hair growth"
+    ],
+    "answer": "Reduce anxiety",
+    "topic": "ICU Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_142",
+    "question": "Most common ICU sedative:",
+    "options": [
+      "Midazolam",
+      "Insulin",
+      "Antibiotic",
+      "Paracetamol"
+    ],
+    "answer": "Midazolam",
+    "topic": "ICU Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_143",
+    "question": "Pain assessment tool:",
+    "options": [
+      "VAS scale",
+      "BMI",
+      "APGAR",
+      "GCS"
+    ],
+    "answer": "VAS scale",
+    "topic": "Pain Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_144",
+    "question": "Most important ICU nursing responsibility:",
+    "options": [
+      "Continuous monitoring",
+      "Sleeping",
+      "Ignoring alarms",
+      "Paperwork only"
+    ],
+    "answer": "Continuous monitoring",
+    "topic": "ICU Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_145",
+    "question": "ICU priority principle:",
+    "options": [
+      "ABCDE approach",
+      "XYZ method",
+      "Random care",
+      "No protocol"
+    ],
+    "answer": "ABCDE approach",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_146",
+    "question": "Most important cause of ICU death:",
+    "options": [
+      "Sepsis",
+      "Cold",
+      "Rash",
+      "Hair loss"
+    ],
+    "answer": "Sepsis",
+    "topic": "ICU Outcomes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_147",
+    "question": "ICU goal:",
+    "options": [
+      "Stabilization",
+      "Discharge immediately",
+      "No treatment",
+      "Transfer only"
+    ],
+    "answer": "Stabilization",
+    "topic": "ICU Outcome",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_148",
+    "question": "Most important monitoring device:",
+    "options": [
+      "Multiparameter monitor",
+      "Clock",
+      "Scale",
+      "Thermometer only"
+    ],
+    "answer": "Multiparameter monitor",
+    "topic": "ICU Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_149",
+    "question": "ICU alarm priority:",
+    "options": [
+      "Ventilator alarm",
+      "Door alarm",
+      "Phone alarm",
+      "TV alarm"
+    ],
+    "answer": "Ventilator alarm",
+    "topic": "ICU Safety",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_150",
+    "question": "Final outcome of ICU care:",
+    "options": [
+      "Recovery or stabilization",
+      "Admission only",
+      "No change",
+      "Transfer only"
+    ],
+    "answer": "Recovery or stabilization",
+    "topic": "ICU Outcome",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_151",
+    "question": "Most important complication of prolonged immobilization in ICU:",
+    "options": [
+      "Bed sore",
+      "Fever",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Bed sore",
+    "topic": "ICU Complications",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_152",
+    "question": "Best prevention of pressure ulcers:",
+    "options": [
+      "Position change",
+      "Antibiotics",
+      "Steroids",
+      "Rest only"
+    ],
+    "answer": "Position change",
+    "topic": "ICU Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_153",
+    "question": "Most common site for pressure ulcer:",
+    "options": [
+      "Sacrum",
+      "Forehead",
+      "Palm",
+      "Ear canal"
+    ],
+    "answer": "Sacrum",
+    "topic": "ICU Complications",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_154",
+    "question": "DVT prevention in ICU includes:",
+    "options": [
+      "Early mobilization",
+      "Bed rest only",
+      "No movement",
+      "Cold therapy"
+    ],
+    "answer": "Early mobilization",
+    "topic": "ICU Complications",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_155",
+    "question": "Deep vein thrombosis can lead to:",
+    "options": [
+      "Pulmonary embolism",
+      "Fever",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Pulmonary embolism",
+    "topic": "ICU Complications",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_156",
+    "question": "Most important sign of pulmonary embolism:",
+    "options": [
+      "Sudden dyspnea",
+      "Hair loss",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Sudden dyspnea",
+    "topic": "Respiratory Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_157",
+    "question": "Pulmonary embolism treatment includes:",
+    "options": [
+      "Anticoagulants",
+      "Antibiotics",
+      "Steroids only",
+      "No treatment"
+    ],
+    "answer": "Anticoagulants",
+    "topic": "Respiratory Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_158",
+    "question": "Heparin is used to:",
+    "options": [
+      "Prevent clotting",
+      "Increase fever",
+      "Increase BP",
+      "Reduce pain"
+    ],
+    "answer": "Prevent clotting",
+    "topic": "ICU Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_159",
+    "question": "Warfarin therapy is monitored by:",
+    "options": [
+      "INR",
+      "ECG",
+      "BP",
+      "RBS"
+    ],
+    "answer": "INR",
+    "topic": "ICU Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_160",
+    "question": "Normal INR range:",
+    "options": [
+      "0.8–1.2",
+      "2–3",
+      "4–5",
+      "6–8"
+    ],
+    "answer": "0.8–1.2",
+    "topic": "ICU Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_161",
+    "question": "Severe hypoglycemia in ICU treated with:",
+    "options": [
+      "IV dextrose",
+      "Insulin",
+      "Antibiotics",
+      "Steroids only"
+    ],
+    "answer": "IV dextrose",
+    "topic": "Metabolic ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_162",
+    "question": "Hyperglycemia in ICU is commonly treated with:",
+    "options": [
+      "Insulin infusion",
+      "Water only",
+      "Antibiotics",
+      "Steroids"
+    ],
+    "answer": "Insulin infusion",
+    "topic": "Metabolic ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_163",
+    "question": "Most important diabetic emergency in ICU:",
+    "options": [
+      "DKA",
+      "Cold",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "DKA",
+    "topic": "Metabolic ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_164",
+    "question": "DKA is characterized by:",
+    "options": [
+      "Acidosis",
+      "Alkalosis",
+      "Normal pH",
+      "Fever only"
+    ],
+    "answer": "Acidosis",
+    "topic": "Metabolic ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_165",
+    "question": "Most important fluid in DKA management:",
+    "options": [
+      "Normal saline",
+      "Oil",
+      "Alcohol",
+      "Air"
+    ],
+    "answer": "Normal saline",
+    "topic": "Metabolic ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_166",
+    "question": "Most important neurological emergency:",
+    "options": [
+      "Stroke",
+      "Cold",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Stroke",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_167",
+    "question": "Ischemic stroke is caused by:",
+    "options": [
+      "Blockage of blood flow",
+      "Bleeding",
+      "Infection",
+      "Trauma only"
+    ],
+    "answer": "Blockage of blood flow",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_168",
+    "question": "Hemorrhagic stroke is due to:",
+    "options": [
+      "Bleeding in brain",
+      "Blockage",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Bleeding in brain",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_169",
+    "question": "Most important stroke symptom:",
+    "options": [
+      "Sudden weakness",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Sudden weakness",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_170",
+    "question": "FAST test is used for:",
+    "options": [
+      "Stroke identification",
+      "Fever",
+      "Pain",
+      "Diabetes"
+    ],
+    "answer": "Stroke identification",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_171",
+    "question": "F in FAST stands for:",
+    "options": [
+      "Face drooping",
+      "Fever",
+      "Fluid",
+      "Fracture"
+    ],
+    "answer": "Face drooping",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_172",
+    "question": "A in FAST stands for:",
+    "options": [
+      "Arm weakness",
+      "Airway",
+      "Alcohol",
+      "Arrhythmia"
+    ],
+    "answer": "Arm weakness",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_173",
+    "question": "S in FAST stands for:",
+    "options": [
+      "Speech difficulty",
+      "Shock",
+      "Sugar",
+      "Surgery"
+    ],
+    "answer": "Speech difficulty",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_174",
+    "question": "T in FAST stands for:",
+    "options": [
+      "Time to act",
+      "Temperature",
+      "Tachycardia",
+      "Tremor"
+    ],
+    "answer": "Time to act",
+    "topic": "Neurology ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_175",
+    "question": "Most important ICU sedation complication:",
+    "options": [
+      "Respiratory depression",
+      "Hair growth",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Respiratory depression",
+    "topic": "ICU Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_176",
+    "question": "Most commonly used ICU analgesic:",
+    "options": [
+      "Morphine",
+      "Insulin",
+      "Antibiotic",
+      "Steroid"
+    ],
+    "answer": "Morphine",
+    "topic": "ICU Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_177",
+    "question": "Morphine main side effect:",
+    "options": [
+      "Respiratory depression",
+      "Fever",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Respiratory depression",
+    "topic": "ICU Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_178",
+    "question": "Naloxone is antidote for:",
+    "options": [
+      "Opioids",
+      "Insulin",
+      "Antibiotics",
+      "Steroids"
+    ],
+    "answer": "Opioids",
+    "topic": "ICU Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_179",
+    "question": "Most important ICU monitoring frequency:",
+    "options": [
+      "Continuous",
+      "Once daily",
+      "Weekly",
+      "Monthly"
+    ],
+    "answer": "Continuous",
+    "topic": "ICU Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_180",
+    "question": "Alarm fatigue in ICU means:",
+    "options": [
+      "Ignoring frequent alarms",
+      "Too much sleep",
+      "Low BP",
+      "High fever"
+    ],
+    "answer": "Ignoring frequent alarms",
+    "topic": "ICU Safety",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_181",
+    "question": "Most important infection control measure:",
+    "options": [
+      "Hand hygiene",
+      "Mask only",
+      "Gloves only",
+      "No isolation"
+    ],
+    "answer": "Hand hygiene",
+    "topic": "ICU Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_182",
+    "question": "Isolation in ICU is used for:",
+    "options": [
+      "Prevent infection spread",
+      "Increase infection",
+      "Delay treatment",
+      "No purpose"
+    ],
+    "answer": "Prevent infection spread",
+    "topic": "ICU Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_183",
+    "question": "Most important ICU documentation tool:",
+    "options": [
+      "Flow sheet",
+      "Attendance sheet",
+      "Diet chart only",
+      "None"
+    ],
+    "answer": "Flow sheet",
+    "topic": "ICU Documentation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_184",
+    "question": "Fluid restriction is needed in:",
+    "options": [
+      "Heart failure",
+      "Dehydration",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Heart failure",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_185",
+    "question": "Most important sign of heart failure:",
+    "options": [
+      "Edema",
+      "Hair loss",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Edema",
+    "topic": "Cardiac ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_186",
+    "question": "Left heart failure leads to:",
+    "options": [
+      "Pulmonary edema",
+      "Leg swelling only",
+      "Hair loss",
+      "Rash"
+    ],
+    "answer": "Pulmonary edema",
+    "topic": "Cardiac ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_187",
+    "question": "Right heart failure leads to:",
+    "options": [
+      "Peripheral edema",
+      "Lung collapse",
+      "Brain swelling",
+      "Cold"
+    ],
+    "answer": "Peripheral edema",
+    "topic": "Cardiac ICU",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_188",
+    "question": "Most important cardiac emergency drug:",
+    "options": [
+      "Adrenaline",
+      "Insulin",
+      "Antibiotic",
+      "Paracetamol"
+    ],
+    "answer": "Adrenaline",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_189",
+    "question": "Adrenaline is used in:",
+    "options": [
+      "Cardiac arrest",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Cardiac arrest",
+    "topic": "Cardiac Arrest",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_190",
+    "question": "Most important CPR outcome:",
+    "options": [
+      "Return of spontaneous circulation",
+      "Hair growth",
+      "Rash healing",
+      "Cold relief"
+    ],
+    "answer": "Return of spontaneous circulation",
+    "topic": "CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_191",
+    "question": "ICU nurse primary role:",
+    "options": [
+      "Continuous assessment",
+      "Cooking",
+      "Cleaning only",
+      "Billing"
+    ],
+    "answer": "Continuous assessment",
+    "topic": "ICU Nursing Role",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_192",
+    "question": "Most important patient safety priority:",
+    "options": [
+      "Fall prevention",
+      "Hair care",
+      "Nail care",
+      "Diet only"
+    ],
+    "answer": "Fall prevention",
+    "topic": "ICU Safety",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_193",
+    "question": "Most important ICU complication overall:",
+    "options": [
+      "Sepsis",
+      "Cold",
+      "Rash",
+      "Hair loss"
+    ],
+    "answer": "Sepsis",
+    "topic": "ICU Outcomes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_194",
+    "question": "Shock ultimately causes:",
+    "options": [
+      "Multi-organ failure",
+      "Hair growth",
+      "Skin glow",
+      "Weight gain"
+    ],
+    "answer": "Multi-organ failure",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_195",
+    "question": "ICU discharge depends on:",
+    "options": [
+      "Stability of patient",
+      "Bed availability",
+      "Hair growth",
+      "Diet only"
+    ],
+    "answer": "Stability of patient",
+    "topic": "ICU Outcome",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_196",
+    "question": "Most important ICU equipment:",
+    "options": [
+      "Ventilator",
+      "Chair",
+      "Fan",
+      "Clock"
+    ],
+    "answer": "Ventilator",
+    "topic": "ICU Equipment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_197",
+    "question": "Pulse oximeter measures:",
+    "options": [
+      "Oxygen saturation",
+      "BP",
+      "Sugar",
+      "Temperature"
+    ],
+    "answer": "Oxygen saturation",
+    "topic": "Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_198",
+    "question": "Normal SpO2:",
+    "options": [
+      "95–100%",
+      "70–80%",
+      "80–85%",
+      "100–110%"
+    ],
+    "answer": "95–100%",
+    "topic": "Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_199",
+    "question": "Most important ICU principle:",
+    "options": [
+      "ABCDE approach",
+      "Random care",
+      "No monitoring",
+      "Paperwork only"
+    ],
+    "answer": "ABCDE approach",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "CCN_200",
+    "question": "Final aim of ICU nursing care:",
+    "options": [
+      "Save life and stabilize patient",
+      "Delay treatment",
+      "Ignore vitals",
+      "Only documentation"
+    ],
+    "answer": "Save life and stabilize patient",
+    "topic": "ICU Outcome",
+    "chapter": "GENERAL"
+  }
+]

@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "EF_001",
+    "question": "Normal serum sodium level is:",
+    "options": [
+      "135–145 mEq/L",
+      "120–130 mEq/L",
+      "150–160 mEq/L",
+      "100–110 mEq/L"
+    ],
+    "answer": "135–145 mEq/L",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_002",
+    "question": "Normal serum potassium level is:",
+    "options": [
+      "3.5–5.0 mEq/L",
+      "2–3 mEq/L",
+      "5.5–7 mEq/L",
+      "7–9 mEq/L"
+    ],
+    "answer": "3.5–5.0 mEq/L",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_003",
+    "question": "Hyponatremia means:",
+    "options": [
+      "Low sodium",
+      "High sodium",
+      "Normal sodium",
+      "No sodium"
+    ],
+    "answer": "Low sodium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_004",
+    "question": "Hypernatremia causes:",
+    "options": [
+      "Dehydration",
+      "Overhydration",
+      "Bleeding",
+      "Fever"
+    ],
+    "answer": "Dehydration",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_005",
+    "question": "Most common symptom of hyponatremia:",
+    "options": [
+      "Confusion",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Confusion",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_006",
+    "question": "Hyperkalemia is dangerous because it affects:",
+    "options": [
+      "Heart rhythm",
+      "Skin",
+      "Hair",
+      "Liver only"
+    ],
+    "answer": "Heart rhythm",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_007",
+    "question": "ECG change in hyperkalemia:",
+    "options": [
+      "Tall T waves",
+      "Flat T waves",
+      "No change",
+      "ST elevation only"
+    ],
+    "answer": "Tall T waves",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_008",
+    "question": "Hypokalemia causes:",
+    "options": [
+      "Muscle weakness",
+      "Hypertension only",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Muscle weakness",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_009",
+    "question": "Severe hypokalemia can lead to:",
+    "options": [
+      "Arrhythmia",
+      "Cold",
+      "Rash",
+      "Hair growth"
+    ],
+    "answer": "Arrhythmia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_010",
+    "question": "Most important IV electrolyte in ICU:",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Potassium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_011",
+    "question": "Normal calcium level is:",
+    "options": [
+      "8.5–10.5 mg/dL",
+      "2–3 mg/dL",
+      "12–15 mg/dL",
+      "5–6 mg/dL"
+    ],
+    "answer": "8.5–10.5 mg/dL",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_012",
+    "question": "Hypocalcemia causes:",
+    "options": [
+      "Tetany",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Tetany",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_013",
+    "question": "Positive Chvostek sign indicates:",
+    "options": [
+      "Hypocalcemia",
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Hypernatremia"
+    ],
+    "answer": "Hypocalcemia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_014",
+    "question": "Positive Trousseau sign indicates:",
+    "options": [
+      "Hypocalcemia",
+      "Hypercalcemia",
+      "Hypernatremia",
+      "Hypokalemia"
+    ],
+    "answer": "Hypocalcemia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_015",
+    "question": "Hypercalcemia causes:",
+    "options": [
+      "Muscle weakness",
+      "Tetany",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Muscle weakness",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_016",
+    "question": "Normal magnesium level is:",
+    "options": [
+      "1.5–2.5 mg/dL",
+      "3–5 mg/dL",
+      "6–8 mg/dL",
+      "0.5–1 mg/dL"
+    ],
+    "answer": "1.5–2.5 mg/dL",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_017",
+    "question": "Hypomagnesemia causes:",
+    "options": [
+      "Tremors",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Tremors",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_018",
+    "question": "Most dangerous electrolyte imbalance overall:",
+    "options": [
+      "Hyperkalemia",
+      "Mild hyponatremia",
+      "Iron deficiency",
+      "Vitamin D"
+    ],
+    "answer": "Hyperkalemia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_019",
+    "question": "ECG hallmark of hypokalemia:",
+    "options": [
+      "U waves",
+      "ST elevation",
+      "Q wave only",
+      "No change"
+    ],
+    "answer": "U waves",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_020",
+    "question": "Most common cause of hyponatremia:",
+    "options": [
+      "Excess IV fluids",
+      "Dehydration only",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Excess IV fluids",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_021",
+    "question": "Normal daily fluid requirement in adults:",
+    "options": [
+      "2000–2500 ml",
+      "500 ml",
+      "100 ml",
+      "4000 ml"
+    ],
+    "answer": "2000–2500 ml",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_022",
+    "question": "Fluid deficit means:",
+    "options": [
+      "Dehydration",
+      "Overhydration",
+      "Normal balance",
+      "Fever"
+    ],
+    "answer": "Dehydration",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_023",
+    "question": "Fluid overload leads to:",
+    "options": [
+      "Pulmonary edema",
+      "Dry skin",
+      "Weight loss",
+      "Fever"
+    ],
+    "answer": "Pulmonary edema",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_024",
+    "question": "Most important sign of dehydration:",
+    "options": [
+      "Low BP",
+      "High BP",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Low BP",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_025",
+    "question": "Best indicator of fluid status:",
+    "options": [
+      "Daily weight",
+      "Hair growth",
+      "Nail color",
+      "Skin tone"
+    ],
+    "answer": "Daily weight",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_026",
+    "question": "Crystalloids example:",
+    "options": [
+      "Normal saline",
+      "Albumin",
+      "Blood",
+      "Plasma"
+    ],
+    "answer": "Normal saline",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_027",
+    "question": "Colloids example:",
+    "options": [
+      "Albumin",
+      "Water",
+      "Saline",
+      "Dextrose water"
+    ],
+    "answer": "Albumin",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_028",
+    "question": "Ringer lactate is used for:",
+    "options": [
+      "Fluid replacement",
+      "Fever",
+      "Pain only",
+      "Cold"
+    ],
+    "answer": "Fluid replacement",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_029",
+    "question": "Normal saline is:",
+    "options": [
+      "Isotonic solution",
+      "Hypotonic",
+      "Hypertonic",
+      "None"
+    ],
+    "answer": "Isotonic solution",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_030",
+    "question": "Dextrose 5% in water is:",
+    "options": [
+      "Isotonic initially",
+      "Hypertonic always",
+      "Hypotonic always",
+      "None"
+    ],
+    "answer": "Isotonic initially",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_031",
+    "question": "Hypotonic solution causes:",
+    "options": [
+      "Cell swelling",
+      "Cell shrinking",
+      "No change",
+      "Fever"
+    ],
+    "answer": "Cell swelling",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_032",
+    "question": "Hypertonic solution causes:",
+    "options": [
+      "Cell shrinkage",
+      "Cell swelling",
+      "No change",
+      "Rash"
+    ],
+    "answer": "Cell shrinkage",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_033",
+    "question": "Most dangerous complication of IV therapy:",
+    "options": [
+      "Fluid overload",
+      "Hair loss",
+      "Cold",
+      "Fever only"
+    ],
+    "answer": "Fluid overload",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_034",
+    "question": "IV infiltration means:",
+    "options": [
+      "Fluid in surrounding tissue",
+      "Blood flow",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Fluid in surrounding tissue",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_035",
+    "question": "Phlebitis means:",
+    "options": [
+      "Vein inflammation",
+      "Skin rash",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Vein inflammation",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_036",
+    "question": "Most important sign of fluid overload:",
+    "options": [
+      "Edema",
+      "Dry skin",
+      "Weight loss",
+      "Cold"
+    ],
+    "answer": "Edema",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_037",
+    "question": "Pulmonary edema causes:",
+    "options": [
+      "Breathlessness",
+      "Hair loss",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Breathlessness",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_038",
+    "question": "Third spacing means:",
+    "options": [
+      "Fluid trapped in tissues",
+      "Normal fluid",
+      "No fluid",
+      "Blood loss"
+    ],
+    "answer": "Fluid trapped in tissues",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_039",
+    "question": "Most important electrolyte for cardiac function:",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Potassium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_040",
+    "question": "Hyperkalemia emergency treatment includes:",
+    "options": [
+      "Calcium gluconate",
+      "Antibiotics",
+      "Steroids",
+      "Painkillers"
+    ],
+    "answer": "Calcium gluconate",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_041",
+    "question": "Insulin in hyperkalemia helps by:",
+    "options": [
+      "Shifting potassium into cells",
+      "Increasing potassium",
+      "Destroying sodium",
+      "None"
+    ],
+    "answer": "Shifting potassium into cells",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_042",
+    "question": "Sodium imbalance mainly affects:",
+    "options": [
+      "Brain",
+      "Liver",
+      "Heart only",
+      "Skin"
+    ],
+    "answer": "Brain",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_043",
+    "question": "Severe hyponatremia can cause:",
+    "options": [
+      "Seizures",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Seizures",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_044",
+    "question": "Fluid balance chart is used for:",
+    "options": [
+      "Monitoring intake-output",
+      "Hair growth",
+      "Diet only",
+      "Skin color"
+    ],
+    "answer": "Monitoring intake-output",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_045",
+    "question": "Oliguria means urine output less than:",
+    "options": [
+      "400 ml/day",
+      "1000 ml/day",
+      "2000 ml/day",
+      "3000 ml/day"
+    ],
+    "answer": "400 ml/day",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_046",
+    "question": "Anuria means:",
+    "options": [
+      "No urine output",
+      "High urine output",
+      "Normal urine",
+      "Painful urination"
+    ],
+    "answer": "No urine output",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_047",
+    "question": "Most important electrolyte in dehydration:",
+    "options": [
+      "Sodium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Sodium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_048",
+    "question": "Fluid replacement in shock:",
+    "options": [
+      "IV fluids",
+      "Oral only",
+      "No fluids",
+      "Steroids only"
+    ],
+    "answer": "IV fluids",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_049",
+    "question": "Most accurate fluid status assessment:",
+    "options": [
+      "Daily weight",
+      "Pulse only",
+      "Skin color",
+      "Hair growth"
+    ],
+    "answer": "Daily weight",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_050",
+    "question": "Final goal of fluid therapy:",
+    "options": [
+      "Maintain homeostasis",
+      "Increase dehydration",
+      "Cause overload",
+      "No effect"
+    ],
+    "answer": "Maintain homeostasis",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_051",
+    "question": "Most common cause of hypovolemia in ICU:",
+    "options": [
+      "Hemorrhage",
+      "Obesity",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Hemorrhage",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_052",
+    "question": "Hypovolemic shock is caused by:",
+    "options": [
+      "Fluid loss",
+      "Infection",
+      "Heart failure",
+      "Allergy"
+    ],
+    "answer": "Fluid loss",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_053",
+    "question": "Best fluid for hypovolemic shock:",
+    "options": [
+      "Normal saline",
+      "Oil",
+      "Alcohol",
+      "Air"
+    ],
+    "answer": "Normal saline",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_054",
+    "question": "Ringer lactate is preferred in:",
+    "options": [
+      "Burns",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Burns",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_055",
+    "question": "Burn patients lose mainly:",
+    "options": [
+      "Plasma fluid",
+      "Hair",
+      "Skin pigment",
+      "Bone"
+    ],
+    "answer": "Plasma fluid",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_056",
+    "question": "Most important electrolyte lost in vomiting:",
+    "options": [
+      "Chloride",
+      "Iron",
+      "Calcium",
+      "Zinc"
+    ],
+    "answer": "Chloride",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_057",
+    "question": "Diarrhea mainly causes loss of:",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Copper",
+      "Zinc"
+    ],
+    "answer": "Potassium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_058",
+    "question": "Loop diuretics cause loss of:",
+    "options": [
+      "Potassium",
+      "Glucose",
+      "Calcium increase",
+      "Iron"
+    ],
+    "answer": "Potassium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_059",
+    "question": "Thiazide diuretics cause:",
+    "options": [
+      "Hyponatremia",
+      "Hypernatremia",
+      "No change",
+      "Hair growth"
+    ],
+    "answer": "Hyponatremia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_060",
+    "question": "Most important complication of IV potassium:",
+    "options": [
+      "Cardiac arrest",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Cardiac arrest",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_061",
+    "question": "Potassium must never be given:",
+    "options": [
+      "IV bolus",
+      "Slow infusion",
+      "Diluted",
+      "Oral"
+    ],
+    "answer": "IV bolus",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_062",
+    "question": "Most important sign of hypernatremia:",
+    "options": [
+      "Thirst",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Thirst",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_063",
+    "question": "Brain cells are most affected by:",
+    "options": [
+      "Sodium imbalance",
+      "Iron imbalance",
+      "Zinc imbalance",
+      "Copper"
+    ],
+    "answer": "Sodium imbalance",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_064",
+    "question": "Severe dehydration causes:",
+    "options": [
+      "Shock",
+      "Hair growth",
+      "Skin glow",
+      "Weight gain"
+    ],
+    "answer": "Shock",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_065",
+    "question": "Most reliable shock indicator:",
+    "options": [
+      "BP drop",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "BP drop",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_066",
+    "question": "Fluid resuscitation means:",
+    "options": [
+      "Rapid IV fluids",
+      "Oral water only",
+      "No fluids",
+      "Diet change"
+    ],
+    "answer": "Rapid IV fluids",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_067",
+    "question": "Colloid advantage over crystalloids:",
+    "options": [
+      "Stays in vessels longer",
+      "Faster urine output",
+      "Hair growth",
+      "Skin color change"
+    ],
+    "answer": "Stays in vessels longer",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_068",
+    "question": "Dextrose 10% is:",
+    "options": [
+      "Hypertonic",
+      "Hypotonic",
+      "Isotonic",
+      "None"
+    ],
+    "answer": "Hypertonic",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_069",
+    "question": "Hypotonic fluids move water into:",
+    "options": [
+      "Cells",
+      "Blood only",
+      "Outside body",
+      "Bones"
+    ],
+    "answer": "Cells",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_070",
+    "question": "Hypertonic fluids pull water from:",
+    "options": [
+      "Cells",
+      "Blood",
+      "Heart",
+      "Lungs"
+    ],
+    "answer": "Cells",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_071",
+    "question": "Edema is due to:",
+    "options": [
+      "Fluid accumulation",
+      "Hair loss",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Fluid accumulation",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_072",
+    "question": "Third spacing occurs in:",
+    "options": [
+      "Burns",
+      "Cold",
+      "Rash",
+      "Hair loss"
+    ],
+    "answer": "Burns",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_073",
+    "question": "Most important burn fluid loss:",
+    "options": [
+      "Plasma",
+      "Hair",
+      "Skin pigment",
+      "Bone"
+    ],
+    "answer": "Plasma",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_074",
+    "question": "Burn fluid resuscitation formula used:",
+    "options": [
+      "Parkland formula",
+      "BMI formula",
+      "APGAR",
+      "GCS"
+    ],
+    "answer": "Parkland formula",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_075",
+    "question": "Parkland formula uses:",
+    "options": [
+      "Ringer lactate",
+      "Normal saline only",
+      "Glucose water",
+      "Blood only"
+    ],
+    "answer": "Ringer lactate",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_076",
+    "question": "Most important electrolyte in acid-base balance:",
+    "options": [
+      "Bicarbonate",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Bicarbonate",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_077",
+    "question": "Metabolic acidosis correction involves:",
+    "options": [
+      "Bicarbonate",
+      "Insulin only",
+      "Antibiotics",
+      "Steroids"
+    ],
+    "answer": "Bicarbonate",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_078",
+    "question": "Respiratory acidosis is treated by:",
+    "options": [
+      "Improving ventilation",
+      "Antibiotics",
+      "Steroids",
+      "Painkillers"
+    ],
+    "answer": "Improving ventilation",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_079",
+    "question": "Most important ICU electrolyte monitoring test:",
+    "options": [
+      "Serum electrolytes",
+      "Hair test",
+      "Skin test",
+      "Urine color"
+    ],
+    "answer": "Serum electrolytes",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_080",
+    "question": "Most important sign of potassium imbalance:",
+    "options": [
+      "Arrhythmia",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Arrhythmia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_081",
+    "question": "Calcium is important for:",
+    "options": [
+      "Muscle contraction",
+      "Hair growth",
+      "Skin color",
+      "Cold"
+    ],
+    "answer": "Muscle contraction",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_082",
+    "question": "Magnesium deficiency causes:",
+    "options": [
+      "Seizures",
+      "Cold",
+      "Rash",
+      "Hair loss"
+    ],
+    "answer": "Seizures",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_083",
+    "question": "Most important electrolyte in nerve transmission:",
+    "options": [
+      "Sodium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Sodium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_084",
+    "question": "Fluid overload is treated with:",
+    "options": [
+      "Diuretics",
+      "More fluids",
+      "Steroids",
+      "No treatment"
+    ],
+    "answer": "Diuretics",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_085",
+    "question": "Most common diuretic in ICU:",
+    "options": [
+      "Furosemide",
+      "Insulin",
+      "Antibiotic",
+      "Steroid"
+    ],
+    "answer": "Furosemide",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_086",
+    "question": "Furosemide causes loss of:",
+    "options": [
+      "Potassium",
+      "Calcium increase",
+      "Iron",
+      "Zinc"
+    ],
+    "answer": "Potassium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_087",
+    "question": "Most important electrolyte in dehydration:",
+    "options": [
+      "Sodium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Sodium",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_088",
+    "question": "IV infiltration causes:",
+    "options": [
+      "Swelling",
+      "Hair growth",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Swelling",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_089",
+    "question": "Phlebitis treatment includes:",
+    "options": [
+      "Remove IV line",
+      "Increase fluid",
+      "Ignore",
+      "Massage only"
+    ],
+    "answer": "Remove IV line",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_090",
+    "question": "Best site for IV fluid administration:",
+    "options": [
+      "Peripheral vein",
+      "Bone",
+      "Skin",
+      "Muscle"
+    ],
+    "answer": "Peripheral vein",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_091",
+    "question": "Most important ICU monitoring parameter:",
+    "options": [
+      "Urine output",
+      "Hair growth",
+      "Skin color",
+      "Nail growth"
+    ],
+    "answer": "Urine output",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_092",
+    "question": "Minimum urine output per hour:",
+    "options": [
+      "30 ml/hr",
+      "10 ml/hr",
+      "100 ml/hr",
+      "5 ml/hr"
+    ],
+    "answer": "30 ml/hr",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_093",
+    "question": "Anuria means:",
+    "options": [
+      "No urine output",
+      "High urine output",
+      "Painful urination",
+      "Normal urine"
+    ],
+    "answer": "No urine output",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_094",
+    "question": "Oliguria means:",
+    "options": [
+      "Low urine output",
+      "High urine output",
+      "Normal urine",
+      "No urine"
+    ],
+    "answer": "Low urine output",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_095",
+    "question": "Most important ICU fluid balance tool:",
+    "options": [
+      "I/O chart",
+      "Diet chart",
+      "Hair chart",
+      "Skin chart"
+    ],
+    "answer": "I/O chart",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_096",
+    "question": "Shock fluid choice initially:",
+    "options": [
+      "Crystalloids",
+      "Oil",
+      "Alcohol",
+      "No fluid"
+    ],
+    "answer": "Crystalloids",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_097",
+    "question": "Most important electrolyte in shock:",
+    "options": [
+      "Sodium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Sodium",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_098",
+    "question": "Fluid therapy goal:",
+    "options": [
+      "Restore perfusion",
+      "Increase dehydration",
+      "Cause edema",
+      "No effect"
+    ],
+    "answer": "Restore perfusion",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_099",
+    "question": "Most dangerous IV fluid complication:",
+    "options": [
+      "Pulmonary edema",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Pulmonary edema",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_100",
+    "question": "Final goal of electrolyte balance:",
+    "options": [
+      "Homeostasis",
+      "Imbalance",
+      "Shock",
+      "Dehydration"
+    ],
+    "answer": "Homeostasis",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_101",
+    "question": "Most important intracellular electrolyte:",
+    "options": [
+      "Potassium",
+      "Sodium",
+      "Chloride",
+      "Calcium"
+    ],
+    "answer": "Potassium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_102",
+    "question": "Most important extracellular electrolyte:",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Magnesium",
+      "Phosphate"
+    ],
+    "answer": "Sodium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_103",
+    "question": "Chloride is mainly associated with:",
+    "options": [
+      "Acid-base balance",
+      "Hair growth",
+      "Bone formation",
+      "Vision"
+    ],
+    "answer": "Acid-base balance",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_104",
+    "question": "Normal serum chloride level:",
+    "options": [
+      "98–106 mEq/L",
+      "120–130",
+      "80–90",
+      "110–120"
+    ],
+    "answer": "98–106 mEq/L",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_105",
+    "question": "Hypochloremia commonly occurs in:",
+    "options": [
+      "Vomiting",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Vomiting",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_106",
+    "question": "Most important acid-base buffer system:",
+    "options": [
+      "Bicarbonate buffer",
+      "Iron buffer",
+      "Protein only",
+      "Fat buffer"
+    ],
+    "answer": "Bicarbonate buffer",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_107",
+    "question": "pH normal range:",
+    "options": [
+      "7.35–7.45",
+      "6.0–7.0",
+      "7.5–8.5",
+      "8.0–9.0"
+    ],
+    "answer": "7.35–7.45",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_108",
+    "question": "Acidosis means:",
+    "options": [
+      "pH < 7.35",
+      "pH > 7.45",
+      "Normal pH",
+      "No change"
+    ],
+    "answer": "pH < 7.35",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_109",
+    "question": "Alkalosis means:",
+    "options": [
+      "pH > 7.45",
+      "pH < 7.35",
+      "Normal pH",
+      "None"
+    ],
+    "answer": "pH > 7.45",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_110",
+    "question": "Respiratory acidosis caused by:",
+    "options": [
+      "CO2 retention",
+      "Oxygen excess",
+      "Sugar increase",
+      "Iron deficiency"
+    ],
+    "answer": "CO2 retention",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_111",
+    "question": "Respiratory alkalosis caused by:",
+    "options": [
+      "Hyperventilation",
+      "Hypoventilation",
+      "Bleeding",
+      "Fever"
+    ],
+    "answer": "Hyperventilation",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_112",
+    "question": "Metabolic acidosis causes:",
+    "options": [
+      "Diarrhea",
+      "Vomiting",
+      "Hair growth",
+      "Cold"
+    ],
+    "answer": "Diarrhea",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_113",
+    "question": "Metabolic alkalosis causes:",
+    "options": [
+      "Vomiting",
+      "Diarrhea",
+      "Shock",
+      "Sepsis"
+    ],
+    "answer": "Vomiting",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_114",
+    "question": "Most important compensation organ for acid-base balance:",
+    "options": [
+      "Lungs",
+      "Skin",
+      "Hair",
+      "Bone"
+    ],
+    "answer": "Lungs",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_115",
+    "question": "Kidneys regulate:",
+    "options": [
+      "Bicarbonate",
+      "Hair",
+      "Skin color",
+      "Fat only"
+    ],
+    "answer": "Bicarbonate",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_116",
+    "question": "Normal bicarbonate level:",
+    "options": [
+      "22–26 mEq/L",
+      "10–15",
+      "30–40",
+      "5–10"
+    ],
+    "answer": "22–26 mEq/L",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_117",
+    "question": "Low bicarbonate indicates:",
+    "options": [
+      "Metabolic acidosis",
+      "Alkalosis",
+      "Normal state",
+      "Fever"
+    ],
+    "answer": "Metabolic acidosis",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_118",
+    "question": "High bicarbonate indicates:",
+    "options": [
+      "Metabolic alkalosis",
+      "Acidosis",
+      "Shock",
+      "Sepsis"
+    ],
+    "answer": "Metabolic alkalosis",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_119",
+    "question": "Most important electrolyte in cardiac conduction:",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Potassium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_120",
+    "question": "Hyperkalemia ECG change:",
+    "options": [
+      "Peaked T waves",
+      "Flat T waves",
+      "No change",
+      "ST depression only"
+    ],
+    "answer": "Peaked T waves",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_121",
+    "question": "Hypokalemia ECG change:",
+    "options": [
+      "U waves",
+      "Peaked T waves",
+      "ST elevation",
+      "No change"
+    ],
+    "answer": "U waves",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_122",
+    "question": "Calcium is required for:",
+    "options": [
+      "Muscle contraction",
+      "Hair growth",
+      "Vision",
+      "Liver function"
+    ],
+    "answer": "Muscle contraction",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_123",
+    "question": "Magnesium is important for:",
+    "options": [
+      "Neuromuscular function",
+      "Hair color",
+      "Skin tone",
+      "Bone shape only"
+    ],
+    "answer": "Neuromuscular function",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_124",
+    "question": "Hypermagnesemia causes:",
+    "options": [
+      "Respiratory depression",
+      "Fever",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Respiratory depression",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_125",
+    "question": "Hypomagnesemia causes:",
+    "options": [
+      "Seizures",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Seizures",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_126",
+    "question": "Most important IV fluid for dehydration:",
+    "options": [
+      "Normal saline",
+      "Oil",
+      "Alcohol",
+      "Air"
+    ],
+    "answer": "Normal saline",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_127",
+    "question": "Ringer lactate contains:",
+    "options": [
+      "Electrolytes",
+      "Iron only",
+      "Sugar only",
+      "Protein only"
+    ],
+    "answer": "Electrolytes",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_128",
+    "question": "Dextrose fluids provide:",
+    "options": [
+      "Calories",
+      "Electrolytes only",
+      "Protein",
+      "Fat"
+    ],
+    "answer": "Calories",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_129",
+    "question": "Colloid fluids include:",
+    "options": [
+      "Albumin",
+      "Saline",
+      "Water",
+      "Dextrose"
+    ],
+    "answer": "Albumin",
+    "topic": "IV Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_130",
+    "question": "Most dangerous IV fluid complication:",
+    "options": [
+      "Pulmonary edema",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Pulmonary edema",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_131",
+    "question": "IV infiltration causes:",
+    "options": [
+      "Swelling",
+      "Hair growth",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Swelling",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_132",
+    "question": "Phlebitis means:",
+    "options": [
+      "Vein inflammation",
+      "Skin rash",
+      "Cold",
+      "Hair loss"
+    ],
+    "answer": "Vein inflammation",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_133",
+    "question": "Best prevention of IV complications:",
+    "options": [
+      "Aseptic technique",
+      "No cleaning",
+      "Fast infusion",
+      "Ignoring site"
+    ],
+    "answer": "Aseptic technique",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_134",
+    "question": "Fluid overload shows:",
+    "options": [
+      "Edema",
+      "Dry skin",
+      "Weight loss",
+      "Cold"
+    ],
+    "answer": "Edema",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_135",
+    "question": "Pulmonary edema symptom:",
+    "options": [
+      "Dyspnea",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Dyspnea",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_136",
+    "question": "Osmosis refers to:",
+    "options": [
+      "Water movement",
+      "Sugar movement",
+      "Fat movement",
+      "Protein movement"
+    ],
+    "answer": "Water movement",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_137",
+    "question": "Diffusion refers to:",
+    "options": [
+      "Solute movement",
+      "Water only",
+      "Hair growth",
+      "Bone movement"
+    ],
+    "answer": "Solute movement",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_138",
+    "question": "Capillary leak occurs in:",
+    "options": [
+      "Sepsis",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Sepsis",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_139",
+    "question": "Shock leads to:",
+    "options": [
+      "Tissue hypoxia",
+      "Hair growth",
+      "Skin glow",
+      "Weight gain"
+    ],
+    "answer": "Tissue hypoxia",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_140",
+    "question": "Most important electrolyte in shock monitoring:",
+    "options": [
+      "Sodium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Sodium",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_141",
+    "question": "Urine output reflects:",
+    "options": [
+      "Kidney perfusion",
+      "Hair growth",
+      "Skin color",
+      "Fat level"
+    ],
+    "answer": "Kidney perfusion",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_142",
+    "question": "Normal urine output per day:",
+    "options": [
+      "1–2 liters",
+      "100 ml",
+      "5 liters",
+      "10 liters"
+    ],
+    "answer": "1–2 liters",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_143",
+    "question": "Most sensitive indicator of hypovolemia:",
+    "options": [
+      "Tachycardia",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Tachycardia",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_144",
+    "question": "IV potassium must be given:",
+    "options": [
+      "Diluted and slow",
+      "Fast bolus",
+      "Undiluted",
+      "Oral only"
+    ],
+    "answer": "Diluted and slow",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_145",
+    "question": "Sodium imbalance mainly affects:",
+    "options": [
+      "Brain cells",
+      "Hair",
+      "Skin",
+      "Bones"
+    ],
+    "answer": "Brain cells",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_146",
+    "question": "Most important electrolyte for nerve impulse:",
+    "options": [
+      "Sodium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Sodium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_147",
+    "question": "Fluid balance depends on:",
+    "options": [
+      "Intake-output",
+      "Hair growth",
+      "Skin color",
+      "Nail size"
+    ],
+    "answer": "Intake-output",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_148",
+    "question": "Most important ICU monitoring parameter:",
+    "options": [
+      "Vital signs",
+      "Hair growth",
+      "Skin color",
+      "Diet"
+    ],
+    "answer": "Vital signs",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_149",
+    "question": "Goal of electrolyte therapy:",
+    "options": [
+      "Homeostasis",
+      "Imbalance",
+      "Shock",
+      "Dehydration"
+    ],
+    "answer": "Homeostasis",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_150",
+    "question": "Final aim of fluid therapy:",
+    "options": [
+      "Maintain perfusion",
+      "Cause edema",
+      "Increase dehydration",
+      "No effect"
+    ],
+    "answer": "Maintain perfusion",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_151",
+    "question": "Most common cause of hospital-acquired hyponatremia:",
+    "options": [
+      "Excess IV fluids",
+      "Fever",
+      "Cold exposure",
+      "Hair loss"
+    ],
+    "answer": "Excess IV fluids",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_152",
+    "question": "SIADH causes:",
+    "options": [
+      "Water retention",
+      "Dehydration",
+      "Bleeding",
+      "Shock"
+    ],
+    "answer": "Water retention",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_153",
+    "question": "SIADH leads to:",
+    "options": [
+      "Hyponatremia",
+      "Hypernatremia",
+      "Hyperkalemia",
+      "Hypocalcemia"
+    ],
+    "answer": "Hyponatremia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_154",
+    "question": "Most important treatment in SIADH:",
+    "options": [
+      "Fluid restriction",
+      "More fluids",
+      "High salt diet only",
+      "Steroids"
+    ],
+    "answer": "Fluid restriction",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_155",
+    "question": "Diabetes insipidus causes:",
+    "options": [
+      "Polyuria",
+      "Oliguria",
+      "Anuria",
+      "Edema"
+    ],
+    "answer": "Polyuria",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_156",
+    "question": "Diabetes insipidus leads to:",
+    "options": [
+      "Hypernatremia",
+      "Hyponatremia",
+      "Hypokalemia",
+      "Hypercalcemia"
+    ],
+    "answer": "Hypernatremia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_157",
+    "question": "Most important hormone in diabetes insipidus:",
+    "options": [
+      "ADH",
+      "Insulin",
+      "Thyroxine",
+      "Cortisol"
+    ],
+    "answer": "ADH",
+    "topic": "Endocrine Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_158",
+    "question": "ADH acts on:",
+    "options": [
+      "Kidney tubules",
+      "Liver",
+      "Heart",
+      "Brain only"
+    ],
+    "answer": "Kidney tubules",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_159",
+    "question": "Most important sign of dehydration in children:",
+    "options": [
+      "Sunken eyes",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Sunken eyes",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_160",
+    "question": "Skin turgor indicates:",
+    "options": [
+      "Hydration status",
+      "Heart rate",
+      "Sugar level",
+      "Fever"
+    ],
+    "answer": "Hydration status",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_161",
+    "question": "Most important electrolyte in vomiting loss:",
+    "options": [
+      "Chloride",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Chloride",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_162",
+    "question": "Metabolic alkalosis is commonly caused by:",
+    "options": [
+      "Vomiting",
+      "Diarrhea",
+      "Shock",
+      "Sepsis"
+    ],
+    "answer": "Vomiting",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_163",
+    "question": "Metabolic acidosis is commonly caused by:",
+    "options": [
+      "Diarrhea",
+      "Vomiting",
+      "Hair loss",
+      "Cold"
+    ],
+    "answer": "Diarrhea",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_164",
+    "question": "Most important ICU electrolyte imbalance in sepsis:",
+    "options": [
+      "Lactic acidosis",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Lactic acidosis",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_165",
+    "question": "Lactic acidosis occurs due to:",
+    "options": [
+      "Tissue hypoxia",
+      "Fever",
+      "Cold",
+      "Hair loss"
+    ],
+    "answer": "Tissue hypoxia",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_166",
+    "question": "Most important electrolyte in neuromuscular activity:",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Calcium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_167",
+    "question": "Calcium deficiency causes:",
+    "options": [
+      "Tetany",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Tetany",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_168",
+    "question": "Magnesium sulfate is used in:",
+    "options": [
+      "Eclampsia",
+      "Cold",
+      "Rash",
+      "Hair loss"
+    ],
+    "answer": "Eclampsia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_169",
+    "question": "Most important IV fluid for burns first 24 hrs:",
+    "options": [
+      "Ringer lactate",
+      "Saline only",
+      "Dextrose water",
+      "Blood only"
+    ],
+    "answer": "Ringer lactate",
+    "topic": "Burns Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_170",
+    "question": "Burn shock is mainly due to:",
+    "options": [
+      "Plasma loss",
+      "Hair loss",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Plasma loss",
+    "topic": "Burns Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_171",
+    "question": "Most important electrolyte lost in burns:",
+    "options": [
+      "Sodium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Sodium",
+    "topic": "Burns Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_172",
+    "question": "Fluid shift into tissues is called:",
+    "options": [
+      "Third spacing",
+      "Osmosis",
+      "Diffusion",
+      "Perfusion"
+    ],
+    "answer": "Third spacing",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_173",
+    "question": "Most important sign of third spacing:",
+    "options": [
+      "Edema",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Edema",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_174",
+    "question": "Capillary refill time indicates:",
+    "options": [
+      "Perfusion",
+      "Hair growth",
+      "Skin color",
+      "Fever"
+    ],
+    "answer": "Perfusion",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_175",
+    "question": "Normal capillary refill time:",
+    "options": [
+      "<2 seconds",
+      ">5 seconds",
+      "10 seconds",
+      "No limit"
+    ],
+    "answer": "<2 seconds",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_176",
+    "question": "Most important electrolyte in dehydration monitoring:",
+    "options": [
+      "Sodium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Sodium",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_177",
+    "question": "Hypertonic saline is used in:",
+    "options": [
+      "Severe hyponatremia",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Severe hyponatremia",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_178",
+    "question": "Overcorrection of sodium can cause:",
+    "options": [
+      "Brain damage",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Brain damage",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_179",
+    "question": "Central venous pressure (CVP) indicates:",
+    "options": [
+      "Fluid status",
+      "Hair growth",
+      "Skin color",
+      "Fever"
+    ],
+    "answer": "Fluid status",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_180",
+    "question": "Normal CVP range:",
+    "options": [
+      "2–6 mmHg",
+      "10–15",
+      "20–25",
+      "0–1"
+    ],
+    "answer": "2–6 mmHg",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_181",
+    "question": "High CVP indicates:",
+    "options": [
+      "Fluid overload",
+      "Dehydration",
+      "Shock only",
+      "Bleeding"
+    ],
+    "answer": "Fluid overload",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_182",
+    "question": "Low CVP indicates:",
+    "options": [
+      "Hypovolemia",
+      "Hypertension",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Hypovolemia",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_183",
+    "question": "Most important electrolyte in cardiac arrest:",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Potassium",
+    "topic": "Cardiac Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_184",
+    "question": "Insulin + glucose in hyperkalemia shifts:",
+    "options": [
+      "Potassium into cells",
+      "Sodium out",
+      "Calcium out",
+      "Water only"
+    ],
+    "answer": "Potassium into cells",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_185",
+    "question": "Bicarbonate is used in:",
+    "options": [
+      "Severe acidosis",
+      "Alkalosis",
+      "Cold",
+      "Hair loss"
+    ],
+    "answer": "Severe acidosis",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_186",
+    "question": "Most important cause of ICU metabolic acidosis:",
+    "options": [
+      "Shock",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Shock",
+    "topic": "ABG",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_187",
+    "question": "Fluid replacement should be guided by:",
+    "options": [
+      "Clinical signs + urine output",
+      "Hair color",
+      "Skin tone",
+      "Weight only"
+    ],
+    "answer": "Clinical signs + urine output",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_188",
+    "question": "Most important electrolyte in muscle contraction:",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Calcium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_189",
+    "question": "Most common IV complication prevention:",
+    "options": [
+      "Asepsis",
+      "Fast infusion",
+      "Ignoring site",
+      "No dressing"
+    ],
+    "answer": "Asepsis",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_190",
+    "question": "Most important sign of fluid imbalance:",
+    "options": [
+      "Vital signs change",
+      "Hair growth",
+      "Skin color only",
+      "Nail growth"
+    ],
+    "answer": "Vital signs change",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_191",
+    "question": "Hypovolemic shock initial sign:",
+    "options": [
+      "Tachycardia",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Tachycardia",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_192",
+    "question": "Most important electrolyte in neurological function:",
+    "options": [
+      "Sodium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Sodium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_193",
+    "question": "Fluid deficit affects:",
+    "options": [
+      "Perfusion",
+      "Hair growth",
+      "Skin color",
+      "Nails"
+    ],
+    "answer": "Perfusion",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_194",
+    "question": "Most important ICU lab monitoring:",
+    "options": [
+      "Electrolytes + ABG",
+      "Hair test",
+      "Skin test",
+      "X-ray only"
+    ],
+    "answer": "Electrolytes + ABG",
+    "topic": "ICU Monitoring",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_195",
+    "question": "Main goal of electrolyte correction:",
+    "options": [
+      "Prevent complications",
+      "Increase imbalance",
+      "Cause shock",
+      "No effect"
+    ],
+    "answer": "Prevent complications",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_196",
+    "question": "Most important ICU fluid balance indicator:",
+    "options": [
+      "Urine output",
+      "Hair growth",
+      "Skin color",
+      "Nail growth"
+    ],
+    "answer": "Urine output",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_197",
+    "question": "Severe electrolyte imbalance affects first:",
+    "options": [
+      "Heart and brain",
+      "Hair",
+      "Skin",
+      "Bones only"
+    ],
+    "answer": "Heart and brain",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_198",
+    "question": "Most important nursing action in electrolyte imbalance:",
+    "options": [
+      "Monitoring + correction",
+      "Ignoring",
+      "Diet only",
+      "No action"
+    ],
+    "answer": "Monitoring + correction",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_199",
+    "question": "Final outcome of fluid therapy:",
+    "options": [
+      "Homeostasis restoration",
+      "Dehydration",
+      "Shock",
+      "Imbalance"
+    ],
+    "answer": "Homeostasis restoration",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "EF_200",
+    "question": "Overall goal of ICU electrolyte management:",
+    "options": [
+      "Maintain life balance",
+      "Increase disturbance",
+      "Ignore labs",
+      "Delay treatment"
+    ],
+    "answer": "Maintain life balance",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  }
+]

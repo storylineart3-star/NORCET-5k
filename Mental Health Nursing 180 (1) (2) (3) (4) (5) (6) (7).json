@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "MHN_001",
+    "question": "Mental health means:",
+    "options": [
+      "Absence of mental illness",
+      "Ability to cope with stress",
+      "Only happiness",
+      "No emotions"
+    ],
+    "answer": "Ability to cope with stress",
+    "difficulty": "easy",
+    "explanation": "Mental health is the ability to handle stress and function well.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_002",
+    "question": "Psychiatry deals with:",
+    "options": [
+      "Mental disorders",
+      "Heart disease",
+      "Surgery",
+      "Bones"
+    ],
+    "answer": "Mental disorders",
+    "difficulty": "easy",
+    "explanation": "Branch of medicine for mental illness.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_003",
+    "question": "Defense mechanism used to avoid reality is:",
+    "options": [
+      "Denial",
+      "Acceptance",
+      "Learning",
+      "Memory"
+    ],
+    "answer": "Denial",
+    "difficulty": "medium",
+    "explanation": "Refusing to accept reality.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_004",
+    "question": "Most common mental illness worldwide:",
+    "options": [
+      "Depression",
+      "Schizophrenia",
+      "Bipolar",
+      "OCD"
+    ],
+    "answer": "Depression",
+    "difficulty": "easy",
+    "explanation": "Most prevalent psychiatric disorder.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_005",
+    "question": "Hallucination means:",
+    "options": [
+      "False sensory perception",
+      "Memory loss",
+      "Real perception",
+      "Thinking disorder"
+    ],
+    "answer": "False sensory perception",
+    "difficulty": "medium",
+    "explanation": "Perceiving things that are not present.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_006",
+    "question": "Delusion means:",
+    "options": [
+      "Fixed false belief",
+      "Memory loss",
+      "Sleep disorder",
+      "Anxiety"
+    ],
+    "answer": "Fixed false belief",
+    "difficulty": "medium",
+    "explanation": "Strong belief not based on reality.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_007",
+    "question": "Schizophrenia is characterized by:",
+    "options": [
+      "Hallucinations",
+      "Fever",
+      "Pain",
+      "Cough"
+    ],
+    "answer": "Hallucinations",
+    "difficulty": "easy",
+    "explanation": "Psychotic disorder with distorted thinking.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_008",
+    "question": "Most common symptom of depression:",
+    "options": [
+      "Low mood",
+      "High fever",
+      "Chest pain",
+      "Cough"
+    ],
+    "answer": "Low mood",
+    "difficulty": "easy",
+    "explanation": "Persistent sadness is key feature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_009",
+    "question": "Bipolar disorder includes:",
+    "options": [
+      "Mania and depression",
+      "Only anxiety",
+      "Only hallucination",
+      "Only memory loss"
+    ],
+    "answer": "Mania and depression",
+    "difficulty": "medium",
+    "explanation": "Mood swings between extremes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_010",
+    "question": "Anxiety disorder is characterized by:",
+    "options": [
+      "Excessive fear",
+      "High fever",
+      "Pain",
+      "Infection"
+    ],
+    "answer": "Excessive fear",
+    "difficulty": "easy",
+    "explanation": "Persistent worry and fear.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_011",
+    "question": "Most commonly used defense mechanism:",
+    "options": [
+      "Repression",
+      "Surgery",
+      "Medication",
+      "Exercise"
+    ],
+    "answer": "Repression",
+    "difficulty": "medium",
+    "explanation": "Unconscious blocking of thoughts.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_012",
+    "question": "Obsessive Compulsive Disorder (OCD) includes:",
+    "options": [
+      "Obsessions and compulsions",
+      "Only fear",
+      "Only sadness",
+      "Only hallucination"
+    ],
+    "answer": "Obsessions and compulsions",
+    "difficulty": "medium",
+    "explanation": "Repetitive thoughts and actions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_013",
+    "question": "Most important nursing intervention in mental health:",
+    "options": [
+      "Therapeutic communication",
+      "Surgery",
+      "Injection",
+      "X-ray"
+    ],
+    "answer": "Therapeutic communication",
+    "difficulty": "easy",
+    "explanation": "Effective patient interaction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_014",
+    "question": "Electroconvulsive therapy (ECT) is used for:",
+    "options": [
+      "Severe depression",
+      "Fracture",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Severe depression",
+    "difficulty": "medium",
+    "explanation": "Used in treatment-resistant cases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_015",
+    "question": "Most important sign of mania:",
+    "options": [
+      "Excess energy",
+      "Fatigue",
+      "Low BP",
+      "Fever"
+    ],
+    "answer": "Excess energy",
+    "difficulty": "medium",
+    "explanation": "Increased activity and mood.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_016",
+    "question": "Suicidal patient should be observed:",
+    "options": [
+      "Continuously",
+      "Once daily",
+      "Never",
+      "Weekly"
+    ],
+    "answer": "Continuously",
+    "difficulty": "medium",
+    "explanation": "High-risk patient care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_017",
+    "question": "Most important sign of schizophrenia:",
+    "options": [
+      "Disorganized thinking",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Disorganized thinking",
+    "difficulty": "medium",
+    "explanation": "Cognitive disturbance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_018",
+    "question": "Positive symptoms of schizophrenia include:",
+    "options": [
+      "Hallucinations",
+      "Memory loss",
+      "Weakness",
+      "Fatigue"
+    ],
+    "answer": "Hallucinations",
+    "difficulty": "medium",
+    "explanation": "Added abnormal behaviors.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_019",
+    "question": "Negative symptom of schizophrenia:",
+    "options": [
+      "Apathy",
+      "Hallucination",
+      "Delusion",
+      "Agitation"
+    ],
+    "answer": "Apathy",
+    "difficulty": "hard",
+    "explanation": "Loss of normal function.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_020",
+    "question": "Therapeutic relationship is based on:",
+    "options": [
+      "Trust",
+      "Money",
+      "Force",
+      "Fear"
+    ],
+    "answer": "Trust",
+    "difficulty": "easy",
+    "explanation": "Core of nursing care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_021",
+    "question": "Most important phase of therapeutic relationship:",
+    "options": [
+      "Working phase",
+      "Termination phase",
+      "Pre-phase",
+      "None"
+    ],
+    "answer": "Working phase",
+    "difficulty": "medium",
+    "explanation": "Patient care interaction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_022",
+    "question": "Psychiatric nursing focuses on:",
+    "options": [
+      "Mental health care",
+      "Surgery",
+      "ICU care",
+      "Radiology"
+    ],
+    "answer": "Mental health care",
+    "difficulty": "easy",
+    "explanation": "Care of mental illness.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_023",
+    "question": "Most common cause of anxiety:",
+    "options": [
+      "Stress",
+      "Virus",
+      "Bacteria",
+      "Injury"
+    ],
+    "answer": "Stress",
+    "difficulty": "easy",
+    "explanation": "Psychological stress.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_024",
+    "question": "Phobia means:",
+    "options": [
+      "Irrational fear",
+      "Happiness",
+      "Memory loss",
+      "Pain"
+    ],
+    "answer": "Irrational fear",
+    "difficulty": "easy",
+    "explanation": "Excessive fear of object.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_025",
+    "question": "Most important treatment for anxiety:",
+    "options": [
+      "Counseling",
+      "Surgery",
+      "Injection",
+      "X-ray"
+    ],
+    "answer": "Counseling",
+    "difficulty": "easy",
+    "explanation": "Psychological support.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_026",
+    "question": "Milieu therapy means:",
+    "options": [
+      "Therapeutic environment",
+      "Drug therapy",
+      "Surgery",
+      "Radiation"
+    ],
+    "answer": "Therapeutic environment",
+    "difficulty": "medium",
+    "explanation": "Safe mental health setting.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_027",
+    "question": "Most important psychiatric emergency:",
+    "options": [
+      "Suicide attempt",
+      "Fever",
+      "Cold",
+      "Fracture"
+    ],
+    "answer": "Suicide attempt",
+    "difficulty": "easy",
+    "explanation": "Life-threatening condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_028",
+    "question": "Most important antidepressant effect:",
+    "options": [
+      "Mood elevation",
+      "Pain relief",
+      "Fever reduction",
+      "Sleep induction"
+    ],
+    "answer": "Mood elevation",
+    "difficulty": "medium",
+    "explanation": "Improves depression.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_029",
+    "question": "Lithium is used in:",
+    "options": [
+      "Bipolar disorder",
+      "TB",
+      "Malaria",
+      "Diabetes"
+    ],
+    "answer": "Bipolar disorder",
+    "difficulty": "medium",
+    "explanation": "Mood stabilizer.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_030",
+    "question": "Most important side effect of lithium:",
+    "options": [
+      "Tremors",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Tremors",
+    "difficulty": "hard",
+    "explanation": "Neurotoxicity sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_031",
+    "question": "Antipsychotic drugs are used for:",
+    "options": [
+      "Schizophrenia",
+      "Fever",
+      "Pain",
+      "Cough"
+    ],
+    "answer": "Schizophrenia",
+    "difficulty": "easy",
+    "explanation": "Psychosis treatment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_032",
+    "question": "Most important nursing diagnosis in depression:",
+    "options": [
+      "Risk of suicide",
+      "Fever",
+      "Pain",
+      "Infection"
+    ],
+    "answer": "Risk of suicide",
+    "difficulty": "medium",
+    "explanation": "High-risk condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_033",
+    "question": "Most important communication skill:",
+    "options": [
+      "Active listening",
+      "Talking only",
+      "Ignoring",
+      "Ordering"
+    ],
+    "answer": "Active listening",
+    "difficulty": "easy",
+    "explanation": "Patient-centered care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_034",
+    "question": "Non-verbal communication includes:",
+    "options": [
+      "Body language",
+      "Speech only",
+      "Writing only",
+      "None"
+    ],
+    "answer": "Body language",
+    "difficulty": "easy",
+    "explanation": "Gestures and expressions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_035",
+    "question": "Most important barrier in communication:",
+    "options": [
+      "Noise",
+      "Clarity",
+      "Trust",
+      "Empathy"
+    ],
+    "answer": "Noise",
+    "difficulty": "easy",
+    "explanation": "Disturbs message flow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_036",
+    "question": "Stress response includes:",
+    "options": [
+      "Fight or flight",
+      "Sleep",
+      "Relaxation",
+      "None"
+    ],
+    "answer": "Fight or flight",
+    "difficulty": "medium",
+    "explanation": "Physiological reaction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_037",
+    "question": "Crisis intervention aims to:",
+    "options": [
+      "Stabilize patient",
+      "Surgery",
+      "ICU care",
+      "Radiology"
+    ],
+    "answer": "Stabilize patient",
+    "difficulty": "medium",
+    "explanation": "Immediate support.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_038",
+    "question": "Most important nursing role in psychiatry:",
+    "options": [
+      "Caregiver",
+      "Surgeon",
+      "Radiologist",
+      "Pharmacist"
+    ],
+    "answer": "Caregiver",
+    "difficulty": "easy",
+    "explanation": "Holistic support.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_039",
+    "question": "Psychotherapy is:",
+    "options": [
+      "Talking therapy",
+      "Surgery",
+      "Injection",
+      "Radiation"
+    ],
+    "answer": "Talking therapy",
+    "difficulty": "easy",
+    "explanation": "Psychological treatment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_040",
+    "question": "Most important goal of mental health nursing:",
+    "options": [
+      "Improve mental wellbeing",
+      "Surgery",
+      "ICU care",
+      "Radiology"
+    ],
+    "answer": "Improve mental wellbeing",
+    "difficulty": "easy",
+    "explanation": "Promote mental health.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_041",
+    "question": "Depersonalization means:",
+    "options": [
+      "Feeling detached from self",
+      "Fever",
+      "Pain",
+      "Memory loss"
+    ],
+    "answer": "Feeling detached from self",
+    "difficulty": "hard",
+    "explanation": "Altered self-perception.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_042",
+    "question": "Most important sign of psychosis:",
+    "options": [
+      "Loss of reality",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Loss of reality",
+    "difficulty": "medium",
+    "explanation": "Severe mental disorder.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_043",
+    "question": "Cognitive therapy focuses on:",
+    "options": [
+      "Thought patterns",
+      "Surgery",
+      "Drugs",
+      "Radiation"
+    ],
+    "answer": "Thought patterns",
+    "difficulty": "medium",
+    "explanation": "Changing thinking.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_044",
+    "question": "Behavior therapy focuses on:",
+    "options": [
+      "Behavior change",
+      "Surgery",
+      "Drugs",
+      "None"
+    ],
+    "answer": "Behavior change",
+    "difficulty": "easy",
+    "explanation": "Learning new behaviors.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_045",
+    "question": "Most important psychiatric nursing skill:",
+    "options": [
+      "Observation",
+      "Surgery",
+      "Lab test",
+      "Radiology"
+    ],
+    "answer": "Observation",
+    "difficulty": "easy",
+    "explanation": "Patient monitoring.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_046",
+    "question": "Mental retardation is now called:",
+    "options": [
+      "Intellectual disability",
+      "Psychosis",
+      "Neurosis",
+      "Depression"
+    ],
+    "answer": "Intellectual disability",
+    "difficulty": "medium",
+    "explanation": "Updated terminology.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_047",
+    "question": "Most important cause of mental illness:",
+    "options": [
+      "Genetic + environment",
+      "Virus",
+      "Bacteria",
+      "Injury"
+    ],
+    "answer": "Genetic + environment",
+    "difficulty": "medium",
+    "explanation": "Multifactorial cause.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_048",
+    "question": "Most important principle of psychiatric nursing:",
+    "options": [
+      "Acceptance",
+      "Force",
+      "Punishment",
+      "Isolation"
+    ],
+    "answer": "Acceptance",
+    "difficulty": "easy",
+    "explanation": "Non-judgmental care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_049",
+    "question": "Most important therapeutic tool:",
+    "options": [
+      "Self",
+      "Drugs",
+      "Machines",
+      "Surgery"
+    ],
+    "answer": "Self",
+    "difficulty": "easy",
+    "explanation": "Nurse personality.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_050",
+    "question": "Most important psychiatric setting:",
+    "options": [
+      "Safe environment",
+      "ICU",
+      "OT",
+      "Lab"
+    ],
+    "answer": "Safe environment",
+    "difficulty": "easy",
+    "explanation": "Safety first.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_051",
+    "question": "Electroconvulsive therapy is given under:",
+    "options": [
+      "Anesthesia",
+      "Awake state",
+      "Home care",
+      "None"
+    ],
+    "answer": "Anesthesia",
+    "difficulty": "medium",
+    "explanation": "Controlled procedure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_052",
+    "question": "Most important risk in ECT:",
+    "options": [
+      "Memory loss",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Memory loss",
+    "difficulty": "medium",
+    "explanation": "Temporary side effect.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_053",
+    "question": "Most important psychiatric emergency drug:",
+    "options": [
+      "Antipsychotics",
+      "Antibiotics",
+      "Insulin",
+      "None"
+    ],
+    "answer": "Antipsychotics",
+    "difficulty": "medium",
+    "explanation": "Controls psychosis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_054",
+    "question": "Most important cause of suicide:",
+    "options": [
+      "Depression",
+      "Fever",
+      "Cold",
+      "Infection"
+    ],
+    "answer": "Depression",
+    "difficulty": "easy",
+    "explanation": "Major risk factor.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_055",
+    "question": "Most important prevention of suicide:",
+    "options": [
+      "Counseling",
+      "Surgery",
+      "Drugs",
+      "None"
+    ],
+    "answer": "Counseling",
+    "difficulty": "easy",
+    "explanation": "Psychological support.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_056",
+    "question": "Mental health promotion includes:",
+    "options": [
+      "Stress management",
+      "Surgery",
+      "ICU",
+      "Radiology"
+    ],
+    "answer": "Stress management",
+    "difficulty": "easy",
+    "explanation": "Healthy coping skills.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_057",
+    "question": "Most important factor in mental illness recovery:",
+    "options": [
+      "Family support",
+      "Isolation",
+      "Punishment",
+      "None"
+    ],
+    "answer": "Family support",
+    "difficulty": "easy",
+    "explanation": "Social support system.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_058",
+    "question": "Most important goal of psychiatric rehabilitation:",
+    "options": [
+      "Social functioning",
+      "Surgery",
+      "ICU",
+      "Radiology"
+    ],
+    "answer": "Social functioning",
+    "difficulty": "medium",
+    "explanation": "Reintegration in society.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_059",
+    "question": "Most important nursing attitude in psychiatry:",
+    "options": [
+      "Empathy",
+      "Anger",
+      "Punishment",
+      "Fear"
+    ],
+    "answer": "Empathy",
+    "difficulty": "easy",
+    "explanation": "Understanding patient feelings.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_060",
+    "question": "Final goal of mental health nursing is:",
+    "options": [
+      "Psychological wellbeing",
+      "Hospital expansion",
+      "Drug production",
+      "Surgery"
+    ],
+    "answer": "Psychological wellbeing",
+    "difficulty": "easy",
+    "explanation": "Healthy mind and functioning.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_061",
+    "question": "Catatonia is mainly associated with:",
+    "options": [
+      "Schizophrenia",
+      "Fever",
+      "Diabetes",
+      "TB"
+    ],
+    "answer": "Schizophrenia",
+    "difficulty": "medium",
+    "explanation": "Severe psychotic motor disturbance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_062",
+    "question": "Waxing and waning of symptoms is seen in:",
+    "options": [
+      "Delirium",
+      "Fracture",
+      "Stroke",
+      "TB"
+    ],
+    "answer": "Delirium",
+    "difficulty": "hard",
+    "explanation": "Fluctuating consciousness state.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_063",
+    "question": "Delirium is characterized by:",
+    "options": [
+      "Acute confusion",
+      "Chronic pain",
+      "Fever only",
+      "Cough"
+    ],
+    "answer": "Acute confusion",
+    "difficulty": "medium",
+    "explanation": "Sudden onset mental confusion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_064",
+    "question": "Most important cause of delirium:",
+    "options": [
+      "Infection",
+      "Genetics",
+      "Anxiety",
+      "Sleep"
+    ],
+    "answer": "Infection",
+    "difficulty": "medium",
+    "explanation": "Common medical cause.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_065",
+    "question": "Flight of ideas is seen in:",
+    "options": [
+      "Mania",
+      "Depression",
+      "Anxiety",
+      "OCD"
+    ],
+    "answer": "Mania",
+    "difficulty": "medium",
+    "explanation": "Rapid shifting thoughts.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_066",
+    "question": "Most important symptom of mania:",
+    "options": [
+      "Pressured speech",
+      "Fatigue",
+      "Sadness",
+      "Sleepiness"
+    ],
+    "answer": "Pressured speech",
+    "difficulty": "medium",
+    "explanation": "Rapid, loud talking.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_067",
+    "question": "Most important nursing intervention in mania:",
+    "options": [
+      "Reduce stimulation",
+      "Increase noise",
+      "Isolation punishment",
+      "Ignore patient"
+    ],
+    "answer": "Reduce stimulation",
+    "difficulty": "medium",
+    "explanation": "Calm environment is needed.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_068",
+    "question": "Most common cause of depression:",
+    "options": [
+      "Psychosocial stress",
+      "Virus",
+      "Bacteria",
+      "Injury"
+    ],
+    "answer": "Psychosocial stress",
+    "difficulty": "easy",
+    "explanation": "Life stressors trigger depression.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_069",
+    "question": "Anhedonia means:",
+    "options": [
+      "Loss of pleasure",
+      "Loss of memory",
+      "Loss of speech",
+      "Pain"
+    ],
+    "answer": "Loss of pleasure",
+    "difficulty": "medium",
+    "explanation": "Inability to enjoy activities.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_070",
+    "question": "Most important risk in depression:",
+    "options": [
+      "Suicide",
+      "Fever",
+      "Cold",
+      "Cough"
+    ],
+    "answer": "Suicide",
+    "difficulty": "easy",
+    "explanation": "Major life-threatening risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_071",
+    "question": "Most important early sign of schizophrenia:",
+    "options": [
+      "Social withdrawal",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Social withdrawal",
+    "difficulty": "medium",
+    "explanation": "Early behavioral change.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_072",
+    "question": "Thought broadcasting is:",
+    "options": [
+      "Delusion",
+      "Hallucination",
+      "Memory loss",
+      "Depression"
+    ],
+    "answer": "Delusion",
+    "difficulty": "hard",
+    "explanation": "Belief others can hear thoughts.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_073",
+    "question": "Thought insertion means:",
+    "options": [
+      "External thoughts inserted into mind",
+      "Memory loss",
+      "Hallucination",
+      "Fear"
+    ],
+    "answer": "External thoughts inserted into mind",
+    "difficulty": "hard",
+    "explanation": "Psychotic symptom.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_074",
+    "question": "Most important nursing priority in psychosis:",
+    "options": [
+      "Safety",
+      "Food",
+      "Sleep",
+      "Exercise"
+    ],
+    "answer": "Safety",
+    "difficulty": "easy",
+    "explanation": "Prevent harm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_075",
+    "question": "Avolition means:",
+    "options": [
+      "Lack of motivation",
+      "Excess energy",
+      "Fear",
+      "Pain"
+    ],
+    "answer": "Lack of motivation",
+    "difficulty": "hard",
+    "explanation": "Negative symptom of schizophrenia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_076",
+    "question": "Most important feature of OCD:",
+    "options": [
+      "Repetitive thoughts",
+      "Fever",
+      "Pain",
+      "Cough"
+    ],
+    "answer": "Repetitive thoughts",
+    "difficulty": "easy",
+    "explanation": "Obsessions and compulsions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_077",
+    "question": "Compulsion means:",
+    "options": [
+      "Repetitive behavior",
+      "Memory loss",
+      "Fear",
+      "Hallucination"
+    ],
+    "answer": "Repetitive behavior",
+    "difficulty": "medium",
+    "explanation": "Repeated acts to reduce anxiety.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_078",
+    "question": "Most important treatment for OCD:",
+    "options": [
+      "CBT",
+      "Surgery",
+      "ICU",
+      "Radiation"
+    ],
+    "answer": "CBT",
+    "difficulty": "medium",
+    "explanation": "Cognitive behavioral therapy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_079",
+    "question": "Most important symptom of anxiety:",
+    "options": [
+      "Restlessness",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Restlessness",
+    "difficulty": "easy",
+    "explanation": "Psychological arousal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_080",
+    "question": "Panic attack includes:",
+    "options": [
+      "Sudden intense fear",
+      "Fever",
+      "Pain",
+      "Cough"
+    ],
+    "answer": "Sudden intense fear",
+    "difficulty": "easy",
+    "explanation": "Acute anxiety episode.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_081",
+    "question": "Most important sign of panic attack:",
+    "options": [
+      "Palpitations",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Palpitations",
+    "difficulty": "medium",
+    "explanation": "Physical anxiety response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_082",
+    "question": "Most important drug in anxiety:",
+    "options": [
+      "Benzodiazepines",
+      "Antibiotics",
+      "Insulin",
+      "Steroids"
+    ],
+    "answer": "Benzodiazepines",
+    "difficulty": "medium",
+    "explanation": "Sedative anxiolytics.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_083",
+    "question": "Most important side effect of benzodiazepines:",
+    "options": [
+      "Sedation",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Sedation",
+    "difficulty": "easy",
+    "explanation": "CNS depression.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_084",
+    "question": "Most important psychiatric nursing skill:",
+    "options": [
+      "Listening",
+      "Surgery",
+      "Injection",
+      "Radiology"
+    ],
+    "answer": "Listening",
+    "difficulty": "easy",
+    "explanation": "Therapeutic communication.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_085",
+    "question": "Most important phase of nurse-patient relationship:",
+    "options": [
+      "Working phase",
+      "Ending phase",
+      "Start phase",
+      "None"
+    ],
+    "answer": "Working phase",
+    "difficulty": "medium",
+    "explanation": "Therapeutic interaction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_086",
+    "question": "Transference means:",
+    "options": [
+      "Patient transfers feelings to nurse",
+      "Drug effect",
+      "Memory loss",
+      "Pain"
+    ],
+    "answer": "Patient transfers feelings to nurse",
+    "difficulty": "hard",
+    "explanation": "Psychological projection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_087",
+    "question": "Countertransference means:",
+    "options": [
+      "Nurse transfers feelings to patient",
+      "Drug reaction",
+      "Memory loss",
+      "Fever"
+    ],
+    "answer": "Nurse transfers feelings to patient",
+    "difficulty": "hard",
+    "explanation": "Therapist emotional response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_088",
+    "question": "Most important nursing intervention in suicide risk:",
+    "options": [
+      "Remove harmful objects",
+      "Ignore patient",
+      "Leave alone",
+      "Punish"
+    ],
+    "answer": "Remove harmful objects",
+    "difficulty": "easy",
+    "explanation": "Ensure safety.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_089",
+    "question": "Most important sign of suicidal ideation:",
+    "options": [
+      "Talking about death",
+      "Fever",
+      "Pain",
+      "Cough"
+    ],
+    "answer": "Talking about death",
+    "difficulty": "easy",
+    "explanation": "Warning sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_090",
+    "question": "Most important prevention of relapse in mental illness:",
+    "options": [
+      "Medication adherence",
+      "Surgery",
+      "Radiation",
+      "None"
+    ],
+    "answer": "Medication adherence",
+    "difficulty": "medium",
+    "explanation": "Regular treatment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_091",
+    "question": "Most important nursing role in ECT:",
+    "options": [
+      "Pre and post care",
+      "Surgery",
+      "Radiology",
+      "None"
+    ],
+    "answer": "Pre and post care",
+    "difficulty": "medium",
+    "explanation": "Patient preparation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_092",
+    "question": "Most important complication of untreated psychosis:",
+    "options": [
+      "Social breakdown",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Social breakdown",
+    "difficulty": "medium",
+    "explanation": "Functional loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_093",
+    "question": "Most important goal of psychotherapy:",
+    "options": [
+      "Behavior change",
+      "Surgery",
+      "ICU",
+      "Radiology"
+    ],
+    "answer": "Behavior change",
+    "difficulty": "easy",
+    "explanation": "Modify thoughts.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_094",
+    "question": "Group therapy focuses on:",
+    "options": [
+      "Peer interaction",
+      "Surgery",
+      "Drugs",
+      "ICU"
+    ],
+    "answer": "Peer interaction",
+    "difficulty": "easy",
+    "explanation": "Group support.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_095",
+    "question": "Most important advantage of group therapy:",
+    "options": [
+      "Support system",
+      "Isolation",
+      "Fear",
+      "Pain"
+    ],
+    "answer": "Support system",
+    "difficulty": "easy",
+    "explanation": "Shared experiences.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_096",
+    "question": "Most important psychiatric nursing tool:",
+    "options": [
+      "Therapeutic communication",
+      "Surgery",
+      "Radiology",
+      "Lab test"
+    ],
+    "answer": "Therapeutic communication",
+    "difficulty": "easy",
+    "explanation": "Core skill.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_097",
+    "question": "Most important principle in mental health nursing:",
+    "options": [
+      "Acceptance",
+      "Punishment",
+      "Force",
+      "Isolation"
+    ],
+    "answer": "Acceptance",
+    "difficulty": "easy",
+    "explanation": "Non-judgmental approach.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_098",
+    "question": "Most important environmental factor in psychiatry:",
+    "options": [
+      "Safe environment",
+      "Noise",
+      "Crowding",
+      "Heat"
+    ],
+    "answer": "Safe environment",
+    "difficulty": "easy",
+    "explanation": "Reduces agitation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_099",
+    "question": "Most important symptom of anxiety disorder:",
+    "options": [
+      "Excess worry",
+      "Fever",
+      "Pain",
+      "Cough"
+    ],
+    "answer": "Excess worry",
+    "difficulty": "easy",
+    "explanation": "Persistent anxiety.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_100",
+    "question": "Most important goal of psychiatric nursing is:",
+    "options": [
+      "Improve functioning",
+      "Surgery",
+      "ICU care",
+      "Radiology"
+    ],
+    "answer": "Improve functioning",
+    "difficulty": "easy",
+    "explanation": "Restore normal life.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_101",
+    "question": "Most important symptom of PTSD:",
+    "options": [
+      "Flashbacks",
+      "Fever",
+      "Pain",
+      "Cough"
+    ],
+    "answer": "Flashbacks",
+    "difficulty": "medium",
+    "explanation": "Re-experiencing trauma.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_102",
+    "question": "Most important trigger of PTSD:",
+    "options": [
+      "Trauma",
+      "Diet",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Trauma",
+    "difficulty": "easy",
+    "explanation": "Severe life event.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_103",
+    "question": "Most important psychiatric classification system:",
+    "options": [
+      "ICD",
+      "BMI",
+      "ECG",
+      "CT scan"
+    ],
+    "answer": "ICD",
+    "difficulty": "medium",
+    "explanation": "Disease classification.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_104",
+    "question": "Most important nursing documentation in psychiatry:",
+    "options": [
+      "Behavior chart",
+      "Lab report",
+      "X-ray",
+      "ECG"
+    ],
+    "answer": "Behavior chart",
+    "difficulty": "medium",
+    "explanation": "Tracks mental status.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_105",
+    "question": "Most important psychiatric admission reason:",
+    "options": [
+      "Safety risk",
+      "Fever",
+      "Pain",
+      "Cold"
+    ],
+    "answer": "Safety risk",
+    "difficulty": "easy",
+    "explanation": "Self-harm prevention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_106",
+    "question": "Most important cause of hallucination:",
+    "options": [
+      "Psychosis",
+      "Fever",
+      "Cold",
+      "Pain"
+    ],
+    "answer": "Psychosis",
+    "difficulty": "easy",
+    "explanation": "Mental disorder symptom.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_107",
+    "question": "Most important role of nurse in hallucination:",
+    "options": [
+      "Reality orientation",
+      "Surgery",
+      "Drugs only",
+      "Ignore"
+    ],
+    "answer": "Reality orientation",
+    "difficulty": "medium",
+    "explanation": "Bring patient to reality.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_108",
+    "question": "Most important symptom of anxiety attack:",
+    "options": [
+      "Shortness of breath",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Shortness of breath",
+    "difficulty": "easy",
+    "explanation": "Physical anxiety response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_109",
+    "question": "Most important type of psychotherapy:",
+    "options": [
+      "CBT",
+      "Surgery",
+      "Radiation",
+      "ICU"
+    ],
+    "answer": "CBT",
+    "difficulty": "easy",
+    "explanation": "Cognitive behavioral therapy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_110",
+    "question": "Most important psychiatric goal in community:",
+    "options": [
+      "Rehabilitation",
+      "Surgery",
+      "ICU",
+      "Radiology"
+    ],
+    "answer": "Rehabilitation",
+    "difficulty": "medium",
+    "explanation": "Community reintegration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_111",
+    "question": "Most important factor in therapeutic communication:",
+    "options": [
+      "Empathy",
+      "Force",
+      "Fear",
+      "Punishment"
+    ],
+    "answer": "Empathy",
+    "difficulty": "easy",
+    "explanation": "Understanding feelings.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_112",
+    "question": "Most important symptom of dissociation:",
+    "options": [
+      "Memory loss",
+      "Fever",
+      "Pain",
+      "Cough"
+    ],
+    "answer": "Memory loss",
+    "difficulty": "medium",
+    "explanation": "Loss of identity or memory.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_113",
+    "question": "Most important cause of dementia:",
+    "options": [
+      "Alzheimer’s disease",
+      "Fever",
+      "Cold",
+      "Infection"
+    ],
+    "answer": "Alzheimer’s disease",
+    "difficulty": "medium",
+    "explanation": "Neurodegenerative disorder.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_114",
+    "question": "Most important symptom of dementia:",
+    "options": [
+      "Memory loss",
+      "Fever",
+      "Pain",
+      "Cough"
+    ],
+    "answer": "Memory loss",
+    "difficulty": "easy",
+    "explanation": "Cognitive decline.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_115",
+    "question": "Most important nursing care in dementia:",
+    "options": [
+      "Safety",
+      "Surgery",
+      "ICU",
+      "Radiology"
+    ],
+    "answer": "Safety",
+    "difficulty": "easy",
+    "explanation": "Prevent injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_116",
+    "question": "Most important sign of mental illness relapse:",
+    "options": [
+      "Sleep disturbance",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Sleep disturbance",
+    "difficulty": "medium",
+    "explanation": "Early warning sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_117",
+    "question": "Most important psychiatric nursing principle:",
+    "options": [
+      "Confidentiality",
+      "Force",
+      "Punishment",
+      "Neglect"
+    ],
+    "answer": "Confidentiality",
+    "difficulty": "easy",
+    "explanation": "Patient privacy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_118",
+    "question": "Most important therapeutic relationship skill:",
+    "options": [
+      "Trust building",
+      "Surgery",
+      "Radiology",
+      "Injection"
+    ],
+    "answer": "Trust building",
+    "difficulty": "easy",
+    "explanation": "Foundation of care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_119",
+    "question": "Most important outcome of psychiatric nursing:",
+    "options": [
+      "Recovery",
+      "Hospital stay",
+      "Medication only",
+      "Isolation"
+    ],
+    "answer": "Recovery",
+    "difficulty": "easy",
+    "explanation": "Patient improvement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_120",
+    "question": "Final goal of mental health care is:",
+    "options": [
+      "Quality of life",
+      "Hospitalization",
+      "Drugs",
+      "Surgery"
+    ],
+    "answer": "Quality of life",
+    "difficulty": "easy",
+    "explanation": "Wellbeing and functioning.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_121",
+    "question": "Most important feature of personality disorder:",
+    "options": [
+      "Rigid behavior patterns",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Rigid behavior patterns",
+    "difficulty": "medium",
+    "explanation": "Long-term maladaptive behavior.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_122",
+    "question": "Borderline personality disorder is characterized by:",
+    "options": [
+      "Emotional instability",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Emotional instability",
+    "difficulty": "medium",
+    "explanation": "Rapid mood changes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_123",
+    "question": "Most important defense mechanism in borderline personality:",
+    "options": [
+      "Splitting",
+      "Repression",
+      "Denial",
+      "Sublimation"
+    ],
+    "answer": "Splitting",
+    "difficulty": "hard",
+    "explanation": "Seeing people as all good or bad.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_124",
+    "question": "Antisocial personality disorder includes:",
+    "options": [
+      "Lack of empathy",
+      "Excess empathy",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Lack of empathy",
+    "difficulty": "medium",
+    "explanation": "Disregard for others.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_125",
+    "question": "Most important nursing approach in personality disorders:",
+    "options": [
+      "Limit setting",
+      "Ignoring patient",
+      "Isolation",
+      "Punishment"
+    ],
+    "answer": "Limit setting",
+    "difficulty": "medium",
+    "explanation": "Clear boundaries.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_126",
+    "question": "Most important symptom of narcissistic personality:",
+    "options": [
+      "Grandiosity",
+      "Fear",
+      "Pain",
+      "Cough"
+    ],
+    "answer": "Grandiosity",
+    "difficulty": "medium",
+    "explanation": "Exaggerated self-importance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_127",
+    "question": "Most important symptom of OCD spectrum:",
+    "options": [
+      "Intrusive thoughts",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Intrusive thoughts",
+    "difficulty": "easy",
+    "explanation": "Unwanted recurring thoughts.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_128",
+    "question": "Most important treatment for personality disorder:",
+    "options": [
+      "Psychotherapy",
+      "Surgery",
+      "Radiation",
+      "ICU"
+    ],
+    "answer": "Psychotherapy",
+    "difficulty": "easy",
+    "explanation": "Behavioral therapy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_129",
+    "question": "Most important feature of psychotic disorders:",
+    "options": [
+      "Loss of reality",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Loss of reality",
+    "difficulty": "easy",
+    "explanation": "Impaired reality testing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_130",
+    "question": "Most important symptom of schizophrenia spectrum:",
+    "options": [
+      "Delusions",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Delusions",
+    "difficulty": "easy",
+    "explanation": "Fixed false beliefs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_131",
+    "question": "Most important hallucination type in schizophrenia:",
+    "options": [
+      "Auditory",
+      "Visual loss",
+      "Pain",
+      "Taste loss"
+    ],
+    "answer": "Auditory",
+    "difficulty": "medium",
+    "explanation": "Hearing voices.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_132",
+    "question": "Most important cause of delirium tremens:",
+    "options": [
+      "Alcohol withdrawal",
+      "Fever",
+      "Cold",
+      "Injury"
+    ],
+    "answer": "Alcohol withdrawal",
+    "difficulty": "medium",
+    "explanation": "Severe withdrawal state.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_133",
+    "question": "Most important symptom of alcohol withdrawal:",
+    "options": [
+      "Tremors",
+      "Rash",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Tremors",
+    "difficulty": "easy",
+    "explanation": "Physical withdrawal sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_134",
+    "question": "Most important nursing care in withdrawal:",
+    "options": [
+      "Safety monitoring",
+      "Surgery",
+      "Radiation",
+      "None"
+    ],
+    "answer": "Safety monitoring",
+    "difficulty": "medium",
+    "explanation": "Prevent complications.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_135",
+    "question": "Most important drug in alcohol withdrawal:",
+    "options": [
+      "Benzodiazepines",
+      "Antibiotics",
+      "Insulin",
+      "Steroids"
+    ],
+    "answer": "Benzodiazepines",
+    "difficulty": "medium",
+    "explanation": "Reduces withdrawal symptoms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_136",
+    "question": "Most important symptom of depression relapse:",
+    "options": [
+      "Sleep disturbance",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Sleep disturbance",
+    "difficulty": "medium",
+    "explanation": "Early relapse sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_137",
+    "question": "Most important feature of mania relapse:",
+    "options": [
+      "Increased activity",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Increased activity",
+    "difficulty": "easy",
+    "explanation": "Hyperactivity returns.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_138",
+    "question": "Most important nursing intervention in depression:",
+    "options": [
+      "Encourage activity",
+      "Isolation",
+      "Punishment",
+      "Ignore"
+    ],
+    "answer": "Encourage activity",
+    "difficulty": "medium",
+    "explanation": "Behavioral activation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_139",
+    "question": "Most important sign of catatonic schizophrenia:",
+    "options": [
+      "Waxy flexibility",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Waxy flexibility",
+    "difficulty": "hard",
+    "explanation": "Motor symptoms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_140",
+    "question": "Most important goal of psychiatric rehabilitation:",
+    "options": [
+      "Independence",
+      "Hospitalization",
+      "Surgery",
+      "Radiation"
+    ],
+    "answer": "Independence",
+    "difficulty": "easy",
+    "explanation": "Self-functioning.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_141",
+    "question": "Most important principle of community mental health:",
+    "options": [
+      "Early detection",
+      "Isolation",
+      "Punishment",
+      "Force"
+    ],
+    "answer": "Early detection",
+    "difficulty": "easy",
+    "explanation": "Prevent severe illness.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_142",
+    "question": "Most important tool in psychiatric assessment:",
+    "options": [
+      "Mental status examination",
+      "X-ray",
+      "CT scan",
+      "ECG"
+    ],
+    "answer": "Mental status examination",
+    "difficulty": "medium",
+    "explanation": "Core assessment tool.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_143",
+    "question": "Most important aspect of MSE:",
+    "options": [
+      "Appearance",
+      "Blood test",
+      "X-ray",
+      "ECG"
+    ],
+    "answer": "Appearance",
+    "difficulty": "easy",
+    "explanation": "First observation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_144",
+    "question": "Most important nursing diagnosis in psychosis:",
+    "options": [
+      "Risk of violence",
+      "Fever",
+      "Pain",
+      "Cough"
+    ],
+    "answer": "Risk of violence",
+    "difficulty": "medium",
+    "explanation": "Safety priority.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_145",
+    "question": "Most important intervention in aggression:",
+    "options": [
+      "De-escalation",
+      "Force",
+      "Punishment",
+      "Isolation only"
+    ],
+    "answer": "De-escalation",
+    "difficulty": "medium",
+    "explanation": "Calming technique.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_146",
+    "question": "Most important symptom of panic disorder:",
+    "options": [
+      "Sudden fear",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Sudden fear",
+    "difficulty": "easy",
+    "explanation": "Acute anxiety attack.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_147",
+    "question": "Most important cause of insomnia:",
+    "options": [
+      "Anxiety",
+      "Virus",
+      "Bacteria",
+      "Injury"
+    ],
+    "answer": "Anxiety",
+    "difficulty": "easy",
+    "explanation": "Psychological cause.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_148",
+    "question": "Most important sleep disorder:",
+    "options": [
+      "Insomnia",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Insomnia",
+    "difficulty": "easy",
+    "explanation": "Sleep difficulty.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_149",
+    "question": "Most important feature of dementia care:",
+    "options": [
+      "Orientation",
+      "Surgery",
+      "ICU",
+      "Radiation"
+    ],
+    "answer": "Orientation",
+    "difficulty": "easy",
+    "explanation": "Reality awareness.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_150",
+    "question": "Most important symptom of Alzheimer disease:",
+    "options": [
+      "Memory loss",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Memory loss",
+    "difficulty": "easy",
+    "explanation": "Progressive cognitive decline.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_151",
+    "question": "Most important stage of grief (Kubler-Ross):",
+    "options": [
+      "Denial",
+      "Happiness",
+      "Joy",
+      "Relief"
+    ],
+    "answer": "Denial",
+    "difficulty": "easy",
+    "explanation": "First stage of grief.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_152",
+    "question": "Most important final stage of grief:",
+    "options": [
+      "Acceptance",
+      "Denial",
+      "Anger",
+      "Bargaining"
+    ],
+    "answer": "Acceptance",
+    "difficulty": "easy",
+    "explanation": "Final adjustment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_153",
+    "question": "Most important symptom of anger management issue:",
+    "options": [
+      "Aggression",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Aggression",
+    "difficulty": "easy",
+    "explanation": "Loss of control.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_154",
+    "question": "Most important nursing goal in anger:",
+    "options": [
+      "Control behavior",
+      "Increase aggression",
+      "Ignore",
+      "Punish"
+    ],
+    "answer": "Control behavior",
+    "difficulty": "medium",
+    "explanation": "Safety management.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_155",
+    "question": "Most important symptom of phobia:",
+    "options": [
+      "Irrational fear",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Irrational fear",
+    "difficulty": "easy",
+    "explanation": "Specific fear.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_156",
+    "question": "Most important therapy for phobia:",
+    "options": [
+      "Exposure therapy",
+      "Surgery",
+      "ICU",
+      "Radiation"
+    ],
+    "answer": "Exposure therapy",
+    "difficulty": "medium",
+    "explanation": "Gradual exposure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_157",
+    "question": "Most important symptom of PTSD:",
+    "options": [
+      "Avoidance",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Avoidance",
+    "difficulty": "medium",
+    "explanation": "Avoid trauma reminders.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_158",
+    "question": "Most important cause of PTSD:",
+    "options": [
+      "Trauma",
+      "Diet",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Trauma",
+    "difficulty": "easy",
+    "explanation": "Severe event.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_159",
+    "question": "Most important nursing role in PTSD:",
+    "options": [
+      "Supportive care",
+      "Surgery",
+      "Radiology",
+      "ICU"
+    ],
+    "answer": "Supportive care",
+    "difficulty": "medium",
+    "explanation": "Emotional support.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_160",
+    "question": "Most important outcome of mental health nursing:",
+    "options": [
+      "Functional recovery",
+      "Hospital stay",
+      "Drugs only",
+      "Isolation"
+    ],
+    "answer": "Functional recovery",
+    "difficulty": "easy",
+    "explanation": "Return to normal life.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_161",
+    "question": "Most important feature of substance abuse:",
+    "options": [
+      "Dependence",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Dependence",
+    "difficulty": "easy",
+    "explanation": "Addiction behavior.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_162",
+    "question": "Most important sign of withdrawal:",
+    "options": [
+      "Irritability",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Irritability",
+    "difficulty": "easy",
+    "explanation": "Emotional change.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_163",
+    "question": "Most important nursing care in addiction:",
+    "options": [
+      "Rehabilitation",
+      "Surgery",
+      "ICU",
+      "Radiation"
+    ],
+    "answer": "Rehabilitation",
+    "difficulty": "medium",
+    "explanation": "Recovery support.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_164",
+    "question": "Most important psychiatric principle:",
+    "options": [
+      "Non-judgmental attitude",
+      "Punishment",
+      "Force",
+      "Neglect"
+    ],
+    "answer": "Non-judgmental attitude",
+    "difficulty": "easy",
+    "explanation": "Respect patient.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_165",
+    "question": "Most important communication barrier:",
+    "options": [
+      "Language difference",
+      "Clarity",
+      "Trust",
+      "Empathy"
+    ],
+    "answer": "Language difference",
+    "difficulty": "easy",
+    "explanation": "Communication gap.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_166",
+    "question": "Most important therapeutic communication technique:",
+    "options": [
+      "Open-ended questions",
+      "Orders",
+      "Commands",
+      "Ignoring"
+    ],
+    "answer": "Open-ended questions",
+    "difficulty": "medium",
+    "explanation": "Encourages expression.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_167",
+    "question": "Most important psychiatric nursing outcome:",
+    "options": [
+      "Stability",
+      "Hospitalization",
+      "Medication only",
+      "Isolation"
+    ],
+    "answer": "Stability",
+    "difficulty": "easy",
+    "explanation": "Mental balance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_168",
+    "question": "Most important symptom of mania:",
+    "options": [
+      "Euphoria",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Euphoria",
+    "difficulty": "easy",
+    "explanation": "Elevated mood.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_169",
+    "question": "Most important risk in mania:",
+    "options": [
+      "Risk-taking behavior",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Risk-taking behavior",
+    "difficulty": "medium",
+    "explanation": "Impulsive actions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_170",
+    "question": "Most important symptom of depression:",
+    "options": [
+      "Hopelessness",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Hopelessness",
+    "difficulty": "easy",
+    "explanation": "Negative thinking.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_171",
+    "question": "Most important symptom of anxiety:",
+    "options": [
+      "Tension",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Tension",
+    "difficulty": "easy",
+    "explanation": "Physical stress.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_172",
+    "question": "Most important symptom of OCD:",
+    "options": [
+      "Compulsions",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Compulsions",
+    "difficulty": "easy",
+    "explanation": "Repetitive acts.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_173",
+    "question": "Most important symptom of schizophrenia:",
+    "options": [
+      "Disorganized speech",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Disorganized speech",
+    "difficulty": "medium",
+    "explanation": "Thought disorder.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_174",
+    "question": "Most important nursing goal:",
+    "options": [
+      "Recovery",
+      "Hospital stay",
+      "Medication only",
+      "Isolation"
+    ],
+    "answer": "Recovery",
+    "difficulty": "easy",
+    "explanation": "Improved health.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_175",
+    "question": "Most important psychiatric care principle:",
+    "options": [
+      "Respect dignity",
+      "Punish",
+      "Force",
+      "Ignore"
+    ],
+    "answer": "Respect dignity",
+    "difficulty": "easy",
+    "explanation": "Human rights.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_176",
+    "question": "Most important symptom of schizophrenia relapse:",
+    "options": [
+      "Hallucinations return",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Hallucinations return",
+    "difficulty": "medium",
+    "explanation": "Psychotic recurrence.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_177",
+    "question": "Most important psychiatric risk factor:",
+    "options": [
+      "Family history",
+      "Diet",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Family history",
+    "difficulty": "easy",
+    "explanation": "Genetic link.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_178",
+    "question": "Most important nursing intervention:",
+    "options": [
+      "Observation",
+      "Surgery",
+      "Radiology",
+      "ICU"
+    ],
+    "answer": "Observation",
+    "difficulty": "easy",
+    "explanation": "Monitoring behavior.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_179",
+    "question": "Most important psychiatric goal:",
+    "options": [
+      "Quality of life",
+      "Hospital stay",
+      "Drugs only",
+      "Isolation"
+    ],
+    "answer": "Quality of life",
+    "difficulty": "easy",
+    "explanation": "Overall wellbeing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  },
+  {
+    "id": "MHN_180",
+    "question": "Final goal of mental health nursing is:",
+    "options": [
+      "Psychosocial wellbeing",
+      "Hospitalization",
+      "Surgery",
+      "Radiation"
+    ],
+    "answer": "Psychosocial wellbeing",
+    "difficulty": "easy",
+    "explanation": "Healthy mind + society integration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "MENTAL_HEALTH_NURSING"
+  }
+]

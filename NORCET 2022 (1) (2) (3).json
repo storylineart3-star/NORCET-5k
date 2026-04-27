@@ -1,0 +1,2104 @@
+[
+  {
+    "id": "NORCET22_001",
+    "question": "Normal adult oral temperature is:",
+    "options": [
+      "35°C",
+      "36.5°C",
+      "37°C",
+      "38.5°C"
+    ],
+    "answer": "37°C",
+    "difficulty": "easy",
+    "explanation": "Normal oral temperature is around 37°C.",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_002",
+    "question": "Most accurate site for core body temperature:",
+    "options": [
+      "Axilla",
+      "Oral",
+      "Rectal",
+      "Forehead"
+    ],
+    "answer": "Rectal",
+    "difficulty": "easy",
+    "explanation": "Rectal reflects core temperature.",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_003",
+    "question": "Normal pulse rate in adults is:",
+    "options": [
+      "40–60/min",
+      "60–100/min",
+      "100–120/min",
+      "120–140/min"
+    ],
+    "answer": "60–100/min",
+    "difficulty": "easy",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_004",
+    "question": "Pulse deficit means:",
+    "options": [
+      "Difference between apical and radial pulse",
+      "Weak pulse",
+      "Fast pulse",
+      "Irregular pulse"
+    ],
+    "answer": "Difference between apical and radial pulse",
+    "difficulty": "medium",
+    "topic": "Cardiovascular",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_005",
+    "question": "Normal respiratory rate in adults:",
+    "options": [
+      "8–10",
+      "12–20",
+      "20–30",
+      "30–40"
+    ],
+    "answer": "12–20",
+    "difficulty": "easy",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_006",
+    "question": "Best position for blood pressure measurement:",
+    "options": [
+      "Standing",
+      "Sitting or supine",
+      "Prone",
+      "Kneeling"
+    ],
+    "answer": "Sitting or supine",
+    "difficulty": "easy",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_007",
+    "question": "Normal blood pressure is:",
+    "options": [
+      "90/60",
+      "120/80",
+      "140/90",
+      "160/100"
+    ],
+    "answer": "120/80",
+    "difficulty": "easy",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_008",
+    "question": "Kussmaul breathing is seen in:",
+    "options": [
+      "Asthma",
+      "Diabetic ketoacidosis",
+      "Fever",
+      "Anxiety"
+    ],
+    "answer": "Diabetic ketoacidosis",
+    "difficulty": "medium",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_009",
+    "question": "Carotid pulse is checked in:",
+    "options": [
+      "Routine check",
+      "Emergency",
+      "Sleep",
+      "Exercise"
+    ],
+    "answer": "Emergency",
+    "difficulty": "easy",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_010",
+    "question": "First step in BLS is:",
+    "options": [
+      "Check pulse",
+      "Check responsiveness",
+      "Give oxygen",
+      "Start CPR"
+    ],
+    "answer": "Check responsiveness",
+    "difficulty": "easy",
+    "topic": "BLS/CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_011",
+    "question": "Compression to ventilation ratio in adult CPR:",
+    "options": [
+      "15:2",
+      "30:2",
+      "20:2",
+      "10:1"
+    ],
+    "answer": "30:2",
+    "difficulty": "medium",
+    "topic": "BLS/CPR",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_012",
+    "question": "Hand hygiene reduces transmission of:",
+    "options": [
+      "Infection",
+      "Pain",
+      "Fever",
+      "Bleeding"
+    ],
+    "answer": "Infection",
+    "difficulty": "easy",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_013",
+    "question": "Best method of sterilization for surgical instruments:",
+    "options": [
+      "Boiling",
+      "Autoclaving",
+      "Sunlight",
+      "Alcohol wipe"
+    ],
+    "answer": "Autoclaving",
+    "difficulty": "easy",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_014",
+    "question": "Most common hospital acquired infection:",
+    "options": [
+      "UTI",
+      "Malaria",
+      "Typhoid",
+      "TB"
+    ],
+    "answer": "UTI",
+    "difficulty": "medium",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_015",
+    "question": "Universal precaution includes:",
+    "options": [
+      "Gloves use",
+      "Food restriction",
+      "Bed rest",
+      "Exercise"
+    ],
+    "answer": "Gloves use",
+    "difficulty": "easy",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_016",
+    "question": "First line drug for anaphylactic shock:",
+    "options": [
+      "Adrenaline",
+      "Insulin",
+      "Atropine",
+      "Digoxin"
+    ],
+    "answer": "Adrenaline",
+    "difficulty": "medium",
+    "topic": "Emergency Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_017",
+    "question": "Normal urine output per hour:",
+    "options": [
+      "10 ml",
+      "30 ml",
+      "50 ml",
+      "100 ml"
+    ],
+    "answer": "30 ml",
+    "difficulty": "easy",
+    "topic": "Renal",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_018",
+    "question": "Most important sign of dehydration:",
+    "options": [
+      "Dry skin",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Dry skin",
+    "difficulty": "easy",
+    "topic": "Fluid & Electrolyte",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_019",
+    "question": "IV fluid used in shock:",
+    "options": [
+      "Normal saline",
+      "Distilled water",
+      "Oil",
+      "Alcohol"
+    ],
+    "answer": "Normal saline",
+    "difficulty": "medium",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_020",
+    "question": "Most common site for IM injection in adults:",
+    "options": [
+      "Deltoid",
+      "Gluteal",
+      "Forearm",
+      "Abdomen"
+    ],
+    "answer": "Gluteal",
+    "difficulty": "easy",
+    "topic": "Nursing Procedures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_021",
+    "question": "Most common complication of IM injection:",
+    "options": [
+      "Pain",
+      "Blindness",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Pain",
+    "difficulty": "easy",
+    "topic": "Nursing Procedures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_022",
+    "question": "Insulin is given by:",
+    "options": [
+      "IV",
+      "SC",
+      "IM",
+      "Oral"
+    ],
+    "answer": "SC",
+    "difficulty": "easy",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_023",
+    "question": "Most important complication of diabetes:",
+    "options": [
+      "Retinopathy",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Retinopathy",
+    "difficulty": "medium",
+    "topic": "Medical Surgical",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_024",
+    "question": "Normal fasting blood sugar:",
+    "options": [
+      "70–110",
+      "150–200",
+      "200–250",
+      "250–300"
+    ],
+    "answer": "70–110",
+    "difficulty": "easy",
+    "topic": "Endocrine",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_025",
+    "question": "Most common symptom of hypoglycemia:",
+    "options": [
+      "Sweating",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Sweating",
+    "difficulty": "easy",
+    "topic": "Endocrine",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_026",
+    "question": "Most important treatment of hypoglycemia:",
+    "options": [
+      "Glucose",
+      "Insulin",
+      "Antibiotics",
+      "Steroids"
+    ],
+    "answer": "Glucose",
+    "difficulty": "easy",
+    "topic": "Endocrine",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_027",
+    "question": "Most important sign of shock:",
+    "options": [
+      "Hypotension",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Hypotension",
+    "difficulty": "easy",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_028",
+    "question": "Most important organ affected in shock:",
+    "options": [
+      "Brain",
+      "Skin",
+      "Hair",
+      "Nails"
+    ],
+    "answer": "Brain",
+    "difficulty": "medium",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_029",
+    "question": "Best position in shock patient:",
+    "options": [
+      "Supine with legs elevated",
+      "Sitting",
+      "Standing",
+      "Prone"
+    ],
+    "answer": "Supine with legs elevated",
+    "difficulty": "easy",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_030",
+    "question": "Most important sign of infection:",
+    "options": [
+      "Fever",
+      "Cold",
+      "Sleep",
+      "Hunger"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "topic": "Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_031",
+    "question": "Most important cause of UTI:",
+    "options": [
+      "E. coli",
+      "Virus",
+      "Fungus",
+      "Parasite"
+    ],
+    "answer": "E. coli",
+    "difficulty": "medium",
+    "topic": "Microbiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_032",
+    "question": "Most important specimen for TB diagnosis:",
+    "options": [
+      "Sputum",
+      "Urine",
+      "Blood",
+      "Saliva"
+    ],
+    "answer": "Sputum",
+    "difficulty": "easy",
+    "topic": "Microbiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_033",
+    "question": "BCG vaccine prevents:",
+    "options": [
+      "TB",
+      "Polio",
+      "Hepatitis",
+      "Malaria"
+    ],
+    "answer": "TB",
+    "difficulty": "easy",
+    "topic": "Immunization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_034",
+    "question": "OPV vaccine route:",
+    "options": [
+      "Oral",
+      "IM",
+      "IV",
+      "SC"
+    ],
+    "answer": "Oral",
+    "difficulty": "easy",
+    "topic": "Immunization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_035",
+    "question": "Most important vitamin deficiency in night blindness:",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": "Vitamin A",
+    "difficulty": "easy",
+    "topic": "Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_036",
+    "question": "Most important electrolyte in cardiac function:",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Zinc",
+      "Copper"
+    ],
+    "answer": "Potassium",
+    "difficulty": "medium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_037",
+    "question": "Most important symptom of hyperkalemia:",
+    "options": [
+      "Arrhythmia",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Arrhythmia",
+    "difficulty": "hard",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_038",
+    "question": "Most important sign of hypokalemia:",
+    "options": [
+      "Muscle weakness",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Muscle weakness",
+    "difficulty": "medium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_039",
+    "question": "Most important diagnostic tool for heart:",
+    "options": [
+      "ECG",
+      "X-ray",
+      "CT scan",
+      "MRI"
+    ],
+    "answer": "ECG",
+    "difficulty": "easy",
+    "topic": "Cardiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_040",
+    "question": "Normal heart rate in adults:",
+    "options": [
+      "40–60",
+      "60–100",
+      "100–120",
+      "120–140"
+    ],
+    "answer": "60–100",
+    "difficulty": "easy",
+    "topic": "Vital Signs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_041",
+    "question": "Most important symptom of asthma:",
+    "options": [
+      "Wheezing",
+      "Fever",
+      "Rash",
+      "Pain"
+    ],
+    "answer": "Wheezing",
+    "difficulty": "easy",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_042",
+    "question": "Most important drug in asthma attack:",
+    "options": [
+      "Salbutamol",
+      "Insulin",
+      "Antibiotic",
+      "Steroid"
+    ],
+    "answer": "Salbutamol",
+    "difficulty": "medium",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_043",
+    "question": "Most important sign of pneumonia:",
+    "options": [
+      "Fever",
+      "Hair loss",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_044",
+    "question": "Most important diagnostic test for pneumonia:",
+    "options": [
+      "Chest X-ray",
+      "ECG",
+      "EEG",
+      "MRI"
+    ],
+    "answer": "Chest X-ray",
+    "difficulty": "easy",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_045",
+    "question": "Most important position in respiratory distress:",
+    "options": [
+      "High Fowler’s",
+      "Supine",
+      "Prone",
+      "Trendelenburg"
+    ],
+    "answer": "High Fowler’s",
+    "difficulty": "easy",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_046",
+    "question": "Most important complication of immobility:",
+    "options": [
+      "Bed sore",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Bed sore",
+    "difficulty": "easy",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_047",
+    "question": "Most important prevention of bed sore:",
+    "options": [
+      "Position change",
+      "Bed rest",
+      "Sedation",
+      "Isolation"
+    ],
+    "answer": "Position change",
+    "difficulty": "easy",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_048",
+    "question": "Most important site of pressure sore:",
+    "options": [
+      "Sacrum",
+      "Forehead",
+      "Hand",
+      "Arm"
+    ],
+    "answer": "Sacrum",
+    "difficulty": "easy",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_049",
+    "question": "Most important infection control measure:",
+    "options": [
+      "Hand hygiene",
+      "Mask only",
+      "Gloves only",
+      "Gown only"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_050",
+    "question": "Final step of nursing process:",
+    "options": [
+      "Evaluation",
+      "Assessment",
+      "Diagnosis",
+      "Planning"
+    ],
+    "answer": "Evaluation",
+    "difficulty": "easy",
+    "topic": "Nursing Process",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_051",
+    "question": "Most important sign of hypoxia:",
+    "options": [
+      "Cyanosis",
+      "Fever",
+      "Rash",
+      "Pain"
+    ],
+    "answer": "Cyanosis",
+    "difficulty": "easy",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_052",
+    "question": "Normal oxygen saturation is:",
+    "options": [
+      "85–90%",
+      "90–92%",
+      "95–100%",
+      "100–110%"
+    ],
+    "answer": "95–100%",
+    "difficulty": "easy",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_053",
+    "question": "Most important oxygen delivery device for high concentration:",
+    "options": [
+      "Non-rebreather mask",
+      "Nasal cannula",
+      "Simple mask",
+      "Face tent"
+    ],
+    "answer": "Non-rebreather mask",
+    "difficulty": "medium",
+    "topic": "Oxygen Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_054",
+    "question": "Most important complication of oxygen therapy:",
+    "options": [
+      "Oxygen toxicity",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Oxygen toxicity",
+    "difficulty": "medium",
+    "topic": "Oxygen Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_055",
+    "question": "Most important symptom of tuberculosis:",
+    "options": [
+      "Chronic cough",
+      "Fever only",
+      "Rash",
+      "Pain"
+    ],
+    "answer": "Chronic cough",
+    "difficulty": "easy",
+    "topic": "Respiratory",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_056",
+    "question": "Most important drug in TB treatment:",
+    "options": [
+      "Isoniazid",
+      "Insulin",
+      "Adrenaline",
+      "Paracetamol"
+    ],
+    "answer": "Isoniazid",
+    "difficulty": "medium",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_057",
+    "question": "DOTS strategy is used for:",
+    "options": [
+      "Tuberculosis",
+      "Malaria",
+      "Diabetes",
+      "Cancer"
+    ],
+    "answer": "Tuberculosis",
+    "difficulty": "easy",
+    "topic": "Community Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_058",
+    "question": "Most important sign of anemia:",
+    "options": [
+      "Pallor",
+      "Cyanosis",
+      "Jaundice",
+      "Rash"
+    ],
+    "answer": "Pallor",
+    "difficulty": "easy",
+    "topic": "Hematology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_059",
+    "question": "Most important cause of iron deficiency anemia:",
+    "options": [
+      "Blood loss",
+      "Infection",
+      "Virus",
+      "Fever"
+    ],
+    "answer": "Blood loss",
+    "difficulty": "medium",
+    "topic": "Hematology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_060",
+    "question": "Most important nutrient in anemia prevention:",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Zinc",
+      "Iodine"
+    ],
+    "answer": "Iron",
+    "difficulty": "easy",
+    "topic": "Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_061",
+    "question": "Most important vitamin for clotting:",
+    "options": [
+      "Vitamin K",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": "Vitamin K",
+    "difficulty": "easy",
+    "topic": "Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_062",
+    "question": "Most important symptom of stroke:",
+    "options": [
+      "Sudden weakness",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Sudden weakness",
+    "difficulty": "easy",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_063",
+    "question": "Most important emergency in stroke:",
+    "options": [
+      "FAST protocol",
+      "Diet control",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "FAST protocol",
+    "difficulty": "medium",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_064",
+    "question": "Most important diagnostic test for stroke:",
+    "options": [
+      "CT scan",
+      "ECG",
+      "EEG",
+      "X-ray"
+    ],
+    "answer": "CT scan",
+    "difficulty": "easy",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_065",
+    "question": "Most important sign of increased ICP:",
+    "options": [
+      "Headache",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Headache",
+    "difficulty": "medium",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_066",
+    "question": "Most important sign of meningitis:",
+    "options": [
+      "Neck rigidity",
+      "Cough",
+      "Rash",
+      "Pain"
+    ],
+    "answer": "Neck rigidity",
+    "difficulty": "medium",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_067",
+    "question": "Most important vaccine for meningitis prevention:",
+    "options": [
+      "Hib vaccine",
+      "BCG",
+      "OPV",
+      "MMR"
+    ],
+    "answer": "Hib vaccine",
+    "difficulty": "medium",
+    "topic": "Immunization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_068",
+    "question": "Most important cause of peptic ulcer:",
+    "options": [
+      "H. pylori",
+      "Virus",
+      "Fungus",
+      "Parasite"
+    ],
+    "answer": "H. pylori",
+    "difficulty": "easy",
+    "topic": "Gastroenterology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_069",
+    "question": "Most important complication of peptic ulcer:",
+    "options": [
+      "Bleeding",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Bleeding",
+    "difficulty": "medium",
+    "topic": "Gastroenterology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_070",
+    "question": "Most important diet in ulcer:",
+    "options": [
+      "Soft diet",
+      "Spicy food",
+      "Fried food",
+      "Fast food"
+    ],
+    "answer": "Soft diet",
+    "difficulty": "easy",
+    "topic": "Diet",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_071",
+    "question": "Most important organ in diabetes:",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Heart",
+      "Lung"
+    ],
+    "answer": "Pancreas",
+    "difficulty": "easy",
+    "topic": "Endocrine",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_072",
+    "question": "Most important symptom of hyperglycemia:",
+    "options": [
+      "Polyuria",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Polyuria",
+    "difficulty": "easy",
+    "topic": "Endocrine",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_073",
+    "question": "Most important complication of diabetes:",
+    "options": [
+      "Diabetic foot",
+      "Cold",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Diabetic foot",
+    "difficulty": "medium",
+    "topic": "Endocrine",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_074",
+    "question": "Most important insulin complication:",
+    "options": [
+      "Hypoglycemia",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Hypoglycemia",
+    "difficulty": "medium",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_075",
+    "question": "Most important insulin storage:",
+    "options": [
+      "Refrigeration",
+      "Room temp sunlight",
+      "Hot water",
+      "Open air"
+    ],
+    "answer": "Refrigeration",
+    "difficulty": "easy",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_076",
+    "question": "Most important electrolyte imbalance in dehydration:",
+    "options": [
+      "Sodium loss",
+      "Iron loss",
+      "Calcium gain",
+      "Zinc gain"
+    ],
+    "answer": "Sodium loss",
+    "difficulty": "medium",
+    "topic": "Fluids",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_077",
+    "question": "Most important IV complication:",
+    "options": [
+      "Infiltration",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Infiltration",
+    "difficulty": "easy",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_078",
+    "question": "Most important site for IV cannulation:",
+    "options": [
+      "Dorsal hand vein",
+      "Neck",
+      "Chest",
+      "Head"
+    ],
+    "answer": "Dorsal hand vein",
+    "difficulty": "easy",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_079",
+    "question": "Most important sign of infection at IV site:",
+    "options": [
+      "Redness",
+      "Cold",
+      "Pale skin",
+      "Dry skin"
+    ],
+    "answer": "Redness",
+    "difficulty": "easy",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_080",
+    "question": "Most important nursing responsibility:",
+    "options": [
+      "Patient safety",
+      "Documentation only",
+      "Paper work",
+      "Cleaning only"
+    ],
+    "answer": "Patient safety",
+    "difficulty": "easy",
+    "topic": "Nursing Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_081",
+    "question": "Most important principle of ethics:",
+    "options": [
+      "Autonomy",
+      "Force",
+      "Neglect",
+      "Punishment"
+    ],
+    "answer": "Autonomy",
+    "difficulty": "medium",
+    "topic": "Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_082",
+    "question": "Most important type of shock in burns:",
+    "options": [
+      "Hypovolemic",
+      "Cardiogenic",
+      "Neurogenic",
+      "Septic"
+    ],
+    "answer": "Hypovolemic",
+    "difficulty": "medium",
+    "topic": "Burns",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_083",
+    "question": "Most important first aid in burns:",
+    "options": [
+      "Cool water",
+      "Ice directly",
+      "Oil",
+      "Heat"
+    ],
+    "answer": "Cool water",
+    "difficulty": "easy",
+    "topic": "First Aid",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_084",
+    "question": "Most important cause of fracture complication:",
+    "options": [
+      "Infection",
+      "Cold",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Infection",
+    "difficulty": "easy",
+    "topic": "Orthopedics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_085",
+    "question": "Most important immobilization device:",
+    "options": [
+      "Plaster cast",
+      "Bandage only",
+      "Cotton",
+      "Gauze"
+    ],
+    "answer": "Plaster cast",
+    "difficulty": "easy",
+    "topic": "Orthopedics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_086",
+    "question": "Most important complication of immobilization:",
+    "options": [
+      "Bed sore",
+      "Hair loss",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Bed sore",
+    "difficulty": "easy",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_087",
+    "question": "Most important position for unconscious patient:",
+    "options": [
+      "Lateral",
+      "Sitting",
+      "Standing",
+      "Supine flat"
+    ],
+    "answer": "Lateral",
+    "difficulty": "easy",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_088",
+    "question": "Most important airway management tool:",
+    "options": [
+      "Oropharyngeal airway",
+      "Stethoscope",
+      "Thermometer",
+      "Syringe"
+    ],
+    "answer": "Oropharyngeal airway",
+    "difficulty": "medium",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_089",
+    "question": "Most important sign of airway obstruction:",
+    "options": [
+      "Cyanosis",
+      "Fever",
+      "Rash",
+      "Pain"
+    ],
+    "answer": "Cyanosis",
+    "difficulty": "easy",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_090",
+    "question": "Most important CPR site for compression:",
+    "options": [
+      "Lower half of sternum",
+      "Chest side",
+      "Abdomen",
+      "Neck"
+    ],
+    "answer": "Lower half of sternum",
+    "difficulty": "medium",
+    "topic": "BLS",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_091",
+    "question": "Most important shock sign in children:",
+    "options": [
+      "Tachycardia",
+      "Fever",
+      "Rash",
+      "Cough"
+    ],
+    "answer": "Tachycardia",
+    "difficulty": "medium",
+    "topic": "Pediatric",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_092",
+    "question": "Most important pediatric dehydration sign:",
+    "options": [
+      "Sunken eyes",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Sunken eyes",
+    "difficulty": "easy",
+    "topic": "Pediatric",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_093",
+    "question": "Most important ORS use:",
+    "options": [
+      "Diarrhea",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Diarrhea",
+    "difficulty": "easy",
+    "topic": "Pediatric",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_094",
+    "question": "Most important cause of diarrhea:",
+    "options": [
+      "Rotavirus",
+      "TB",
+      "Cancer",
+      "Fracture"
+    ],
+    "answer": "Rotavirus",
+    "difficulty": "medium",
+    "topic": "Microbiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_095",
+    "question": "Most important prevention of diarrhea:",
+    "options": [
+      "Hand hygiene",
+      "Fast food",
+      "Cold drinks",
+      "Skipping meals"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "topic": "Community Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_096",
+    "question": "Most important vaccination schedule source:",
+    "options": [
+      "National Immunization Schedule",
+      "Textbook",
+      "Internet",
+      "Doctor advice only"
+    ],
+    "answer": "National Immunization Schedule",
+    "difficulty": "easy",
+    "topic": "Immunization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_097",
+    "question": "Most important vitamin deficiency disease:",
+    "options": [
+      "Scurvy",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Scurvy",
+    "difficulty": "easy",
+    "topic": "Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_098",
+    "question": "Most important cause of scurvy:",
+    "options": [
+      "Vitamin C deficiency",
+      "Iron deficiency",
+      "Protein excess",
+      "Fat excess"
+    ],
+    "answer": "Vitamin C deficiency",
+    "difficulty": "easy",
+    "topic": "Nutrition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_099",
+    "question": "Most important sign of rickets:",
+    "options": [
+      "Bow legs",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Bow legs",
+    "difficulty": "easy",
+    "topic": "Pediatrics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_100",
+    "question": "Final step of nursing process is:",
+    "options": [
+      "Evaluation",
+      "Assessment",
+      "Diagnosis",
+      "Planning"
+    ],
+    "answer": "Evaluation",
+    "difficulty": "easy",
+    "topic": "Nursing Process",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_101",
+    "question": "Most important complication of immobility in elderly patients:",
+    "options": [
+      "Pressure ulcer",
+      "Fever",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Pressure ulcer",
+    "difficulty": "easy",
+    "topic": "Geriatric Nursing",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_102",
+    "question": "Most important prevention of pressure ulcers:",
+    "options": [
+      "Frequent repositioning",
+      "Bed rest",
+      "Sedation",
+      "Fasting"
+    ],
+    "answer": "Frequent repositioning",
+    "difficulty": "easy",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_103",
+    "question": "Most important stage of pressure sore:",
+    "options": [
+      "Redness only",
+      "Bone exposure",
+      "Deep ulcer",
+      "Amputation"
+    ],
+    "answer": "Redness only",
+    "difficulty": "medium",
+    "topic": "Wound Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_104",
+    "question": "Most important dressing for infected wound:",
+    "options": [
+      "Sterile dressing",
+      "Dry cloth",
+      "Open air",
+      "Oil pack"
+    ],
+    "answer": "Sterile dressing",
+    "difficulty": "easy",
+    "topic": "Wound Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_105",
+    "question": "Most important sign of wound infection:",
+    "options": [
+      "Redness and pus",
+      "Cold skin",
+      "Hair growth",
+      "Numbness"
+    ],
+    "answer": "Redness and pus",
+    "difficulty": "easy",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_106",
+    "question": "Most important cause of surgical site infection:",
+    "options": [
+      "Poor asepsis",
+      "Good hygiene",
+      "Sterile field",
+      "Proper dressing"
+    ],
+    "answer": "Poor asepsis",
+    "difficulty": "easy",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_107",
+    "question": "Most important sterilization method:",
+    "options": [
+      "Autoclave",
+      "Sunlight",
+      "Air drying",
+      "Washing only"
+    ],
+    "answer": "Autoclave",
+    "difficulty": "easy",
+    "topic": "Sterilization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_108",
+    "question": "Most important antiseptic used on skin:",
+    "options": [
+      "Povidone iodine",
+      "Water",
+      "Oil",
+      "Saline only"
+    ],
+    "answer": "Povidone iodine",
+    "difficulty": "easy",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_109",
+    "question": "Most important hospital infection control measure:",
+    "options": [
+      "Hand hygiene",
+      "Mask only",
+      "Gloves only",
+      "Isolation only"
+    ],
+    "answer": "Hand hygiene",
+    "difficulty": "easy",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_110",
+    "question": "Most important PPE includes:",
+    "options": [
+      "Gloves and mask",
+      "Only shoes",
+      "Only cap",
+      "Only apron"
+    ],
+    "answer": "Gloves and mask",
+    "difficulty": "easy",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_111",
+    "question": "Most important sign of hypovolemic shock:",
+    "options": [
+      "Tachycardia",
+      "Fever",
+      "Rash",
+      "Cough"
+    ],
+    "answer": "Tachycardia",
+    "difficulty": "medium",
+    "topic": "Shock",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_112",
+    "question": "Most important fluid in shock management:",
+    "options": [
+      "Normal saline",
+      "Distilled water",
+      "Oil",
+      "Alcohol"
+    ],
+    "answer": "Normal saline",
+    "difficulty": "easy",
+    "topic": "IV Therapy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_113",
+    "question": "Most important sign of dehydration in adults:",
+    "options": [
+      "Dry mucosa",
+      "Hair growth",
+      "Cold feet",
+      "Rash"
+    ],
+    "answer": "Dry mucosa",
+    "difficulty": "easy",
+    "topic": "Fluid & Electrolyte",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_114",
+    "question": "Most important electrolyte lost in vomiting:",
+    "options": [
+      "Potassium",
+      "Iron",
+      "Calcium",
+      "Zinc"
+    ],
+    "answer": "Potassium",
+    "difficulty": "medium",
+    "topic": "Electrolytes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_115",
+    "question": "Most important complication of vomiting:",
+    "options": [
+      "Dehydration",
+      "Fever",
+      "Rash",
+      "Cough"
+    ],
+    "answer": "Dehydration",
+    "difficulty": "easy",
+    "topic": "Fluid Balance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_116",
+    "question": "Most important symptom of appendicitis:",
+    "options": [
+      "Right lower quadrant pain",
+      "Cough",
+      "Fever only",
+      "Rash"
+    ],
+    "answer": "Right lower quadrant pain",
+    "difficulty": "medium",
+    "topic": "Surgery",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_117",
+    "question": "Most important treatment of appendicitis:",
+    "options": [
+      "Appendectomy",
+      "Antibiotics only",
+      "Physiotherapy",
+      "Diet control"
+    ],
+    "answer": "Appendectomy",
+    "difficulty": "easy",
+    "topic": "Surgery",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_118",
+    "question": "Most important sign of intestinal obstruction:",
+    "options": [
+      "Abdominal distension",
+      "Cough",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Abdominal distension",
+    "difficulty": "medium",
+    "topic": "Gastroenterology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_119",
+    "question": "Most important complication of obstruction:",
+    "options": [
+      "Perforation",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Perforation",
+    "difficulty": "hard",
+    "topic": "Surgery",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_120",
+    "question": "Most important preoperative instruction:",
+    "options": [
+      "NPO",
+      "High fat diet",
+      "Exercise",
+      "Bath only"
+    ],
+    "answer": "NPO",
+    "difficulty": "easy",
+    "topic": "Surgery",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_121",
+    "question": "Most important postoperative complication:",
+    "options": [
+      "Infection",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Infection",
+    "difficulty": "easy",
+    "topic": "Postoperative Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_122",
+    "question": "Most important sign of hemorrhage:",
+    "options": [
+      "Low BP",
+      "High BP",
+      "Rash",
+      "Cough"
+    ],
+    "answer": "Low BP",
+    "difficulty": "medium",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_123",
+    "question": "Most important blood transfusion reaction sign:",
+    "options": [
+      "Fever",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Fever",
+    "difficulty": "medium",
+    "topic": "Blood Transfusion",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_124",
+    "question": "Most important blood group donor:",
+    "options": [
+      "O negative",
+      "A positive",
+      "B positive",
+      "AB positive"
+    ],
+    "answer": "O negative",
+    "difficulty": "medium",
+    "topic": "Hematology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_125",
+    "question": "Most important universal recipient blood group:",
+    "options": [
+      "AB positive",
+      "O negative",
+      "A negative",
+      "B negative"
+    ],
+    "answer": "AB positive",
+    "difficulty": "medium",
+    "topic": "Hematology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_126",
+    "question": "Most important sign of heart failure:",
+    "options": [
+      "Dyspnea",
+      "Cough",
+      "Rash",
+      "Fever"
+    ],
+    "answer": "Dyspnea",
+    "difficulty": "medium",
+    "topic": "Cardiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_127",
+    "question": "Most important position in heart failure:",
+    "options": [
+      "High Fowler’s",
+      "Supine",
+      "Prone",
+      "Trendelenburg"
+    ],
+    "answer": "High Fowler’s",
+    "difficulty": "easy",
+    "topic": "Cardiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_128",
+    "question": "Most important symptom of MI:",
+    "options": [
+      "Chest pain",
+      "Fever",
+      "Rash",
+      "Cold"
+    ],
+    "answer": "Chest pain",
+    "difficulty": "easy",
+    "topic": "Cardiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_129",
+    "question": "Most important emergency drug in MI:",
+    "options": [
+      "Morphine",
+      "Insulin",
+      "Paracetamol",
+      "Antibiotic"
+    ],
+    "answer": "Morphine",
+    "difficulty": "medium",
+    "topic": "Emergency Drugs",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_130",
+    "question": "Most important test for MI:",
+    "options": [
+      "ECG",
+      "EEG",
+      "X-ray",
+      "MRI brain"
+    ],
+    "answer": "ECG",
+    "difficulty": "easy",
+    "topic": "Cardiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_131",
+    "question": "Most important neurological emergency:",
+    "options": [
+      "Stroke",
+      "Cold",
+      "Rash",
+      "Cough"
+    ],
+    "answer": "Stroke",
+    "difficulty": "easy",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_132",
+    "question": "Most important stroke symptom:",
+    "options": [
+      "Face drooping",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Face drooping",
+    "difficulty": "medium",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_133",
+    "question": "Most important stroke management window:",
+    "options": [
+      "Golden hour",
+      "24 hours",
+      "1 week",
+      "No limit"
+    ],
+    "answer": "Golden hour",
+    "difficulty": "medium",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_134",
+    "question": "Most important complication of stroke:",
+    "options": [
+      "Paralysis",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Paralysis",
+    "difficulty": "easy",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_135",
+    "question": "Most important seizure drug:",
+    "options": [
+      "Phenytoin",
+      "Insulin",
+      "Antibiotic",
+      "Morphine"
+    ],
+    "answer": "Phenytoin",
+    "difficulty": "medium",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_136",
+    "question": "Most important cause of epilepsy:",
+    "options": [
+      "Brain abnormal activity",
+      "Virus",
+      "Cold",
+      "Fever"
+    ],
+    "answer": "Brain abnormal activity",
+    "difficulty": "easy",
+    "topic": "Neurology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_137",
+    "question": "Most important seizure care:",
+    "options": [
+      "Protect airway",
+      "Feed patient",
+      "Give water",
+      "Restrict oxygen"
+    ],
+    "answer": "Protect airway",
+    "difficulty": "easy",
+    "topic": "Emergency Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_138",
+    "question": "Most important psychiatric symptom:",
+    "options": [
+      "Hallucination",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Hallucination",
+    "difficulty": "easy",
+    "topic": "Mental Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_139",
+    "question": "Most important schizophrenia symptom:",
+    "options": [
+      "Delusion",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Delusion",
+    "difficulty": "easy",
+    "topic": "Mental Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_140",
+    "question": "Most important therapy for schizophrenia:",
+    "options": [
+      "Antipsychotics",
+      "Insulin",
+      "Antibiotics",
+      "Steroids"
+    ],
+    "answer": "Antipsychotics",
+    "difficulty": "medium",
+    "topic": "Pharmacology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_141",
+    "question": "Most important mental illness type:",
+    "options": [
+      "Psychosis",
+      "Cold",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Psychosis",
+    "difficulty": "easy",
+    "topic": "Mental Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_142",
+    "question": "Most important cause of depression:",
+    "options": [
+      "Neurochemical imbalance",
+      "Virus",
+      "Bacteria",
+      "Cold"
+    ],
+    "answer": "Neurochemical imbalance",
+    "difficulty": "medium",
+    "topic": "Mental Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_143",
+    "question": "Most important depression symptom:",
+    "options": [
+      "Low mood",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Low mood",
+    "difficulty": "easy",
+    "topic": "Mental Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_144",
+    "question": "Most important anxiety symptom:",
+    "options": [
+      "Restlessness",
+      "Fever",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Restlessness",
+    "difficulty": "easy",
+    "topic": "Mental Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_145",
+    "question": "Most important treatment of anxiety:",
+    "options": [
+      "Counselling",
+      "Surgery",
+      "Antibiotics",
+      "Radiation"
+    ],
+    "answer": "Counselling",
+    "difficulty": "easy",
+    "topic": "Mental Health",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_146",
+    "question": "Most important substance abuse drug:",
+    "options": [
+      "Alcohol",
+      "Insulin",
+      "Antibiotic",
+      "Steroid"
+    ],
+    "answer": "Alcohol",
+    "difficulty": "easy",
+    "topic": "Addiction",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_147",
+    "question": "Most important withdrawal symptom:",
+    "options": [
+      "Tremor",
+      "Cold",
+      "Rash",
+      "Cough"
+    ],
+    "answer": "Tremor",
+    "difficulty": "medium",
+    "topic": "Addiction",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_148",
+    "question": "Most important rehabilitation goal:",
+    "options": [
+      "Recovery",
+      "Hospital stay",
+      "Isolation",
+      "Sedation"
+    ],
+    "answer": "Recovery",
+    "difficulty": "easy",
+    "topic": "Rehabilitation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_149",
+    "question": "Most important nursing principle:",
+    "options": [
+      "Patient-centered care",
+      "Force",
+      "Neglect",
+      "Punishment"
+    ],
+    "answer": "Patient-centered care",
+    "difficulty": "easy",
+    "topic": "Ethics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NORCET22_150",
+    "question": "Final goal of nursing care:",
+    "options": [
+      "Health restoration",
+      "Hospitalization",
+      "Medication only",
+      "Isolation"
+    ],
+    "answer": "Health restoration",
+    "difficulty": "easy",
+    "topic": "Nursing Process",
+    "chapter": "GENERAL"
+  }
+]

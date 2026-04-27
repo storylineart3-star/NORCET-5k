@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "PH_001",
+    "question": "Pharmacology is the study of:",
+    "options": [
+      "Diseases only",
+      "Drugs and their effects",
+      "Surgery methods",
+      "Microorganisms"
+    ],
+    "answer": "Drugs and their effects",
+    "difficulty": "easy",
+    "explanation": "Pharmacology deals with drugs and their actions on the body.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_002",
+    "question": "Drug is defined as:",
+    "options": [
+      "Any chemical used for diagnosis, treatment or prevention of disease",
+      "Only antibiotics",
+      "Only injections",
+      "Only herbal medicine"
+    ],
+    "answer": "Any chemical used for diagnosis, treatment or prevention of disease",
+    "difficulty": "easy",
+    "explanation": "Drug includes all therapeutic substances.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_003",
+    "question": "Pharmacodynamics means:",
+    "options": [
+      "What body does to drug",
+      "What drug does to body",
+      "Drug manufacturing",
+      "Drug storage"
+    ],
+    "answer": "What drug does to body",
+    "difficulty": "medium",
+    "explanation": "Effect of drug on body.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_004",
+    "question": "Pharmacokinetics means:",
+    "options": [
+      "What drug does to body",
+      "What body does to drug",
+      "Surgery effects",
+      "Disease process"
+    ],
+    "answer": "What body does to drug",
+    "difficulty": "medium",
+    "explanation": "Absorption, distribution, metabolism, excretion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_005",
+    "question": "First pass metabolism occurs in:",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Heart",
+      "Lungs"
+    ],
+    "answer": "Liver",
+    "difficulty": "hard",
+    "explanation": "Drug metabolism before reaching circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_006",
+    "question": "Most common route of drug administration:",
+    "options": [
+      "IV",
+      "Oral",
+      "IM",
+      "Inhalation"
+    ],
+    "answer": "Oral",
+    "difficulty": "easy",
+    "explanation": "Easiest and most used route.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_007",
+    "question": "Fastest route of drug administration:",
+    "options": [
+      "Oral",
+      "IV",
+      "IM",
+      "Subcutaneous"
+    ],
+    "answer": "IV",
+    "difficulty": "easy",
+    "explanation": "Direct entry into bloodstream.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_008",
+    "question": "Intramuscular injection is given in:",
+    "options": [
+      "Vein",
+      "Muscle",
+      "Skin",
+      "Bone"
+    ],
+    "answer": "Muscle",
+    "difficulty": "easy",
+    "explanation": "Drug absorbed via muscle tissue.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_009",
+    "question": "Subcutaneous injection is given in:",
+    "options": [
+      "Muscle",
+      "Skin layer",
+      "Bone",
+      "Vein"
+    ],
+    "answer": "Skin layer",
+    "difficulty": "easy",
+    "explanation": "Under the skin fat layer.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_010",
+    "question": "Sublingual drugs are placed:",
+    "options": [
+      "Under tongue",
+      "On skin",
+      "In muscle",
+      "In vein"
+    ],
+    "answer": "Under tongue",
+    "difficulty": "easy",
+    "explanation": "Rapid absorption via oral mucosa.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_011",
+    "question": "Topical drugs are applied on:",
+    "options": [
+      "Skin",
+      "Blood",
+      "Muscle",
+      "Bone"
+    ],
+    "answer": "Skin",
+    "difficulty": "easy",
+    "explanation": "Local effect on skin surface.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_012",
+    "question": "Rectal route is used when:",
+    "options": [
+      "Patient can swallow",
+      "Oral route not possible",
+      "Injection preferred",
+      "Skin infection"
+    ],
+    "answer": "Oral route not possible",
+    "difficulty": "medium",
+    "explanation": "Used in vomiting/unconscious patients.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_013",
+    "question": "Drug absorption means:",
+    "options": [
+      "Removal from body",
+      "Entry into bloodstream",
+      "Metabolism",
+      "Excretion"
+    ],
+    "answer": "Entry into bloodstream",
+    "difficulty": "medium",
+    "explanation": "Movement of drug into circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_014",
+    "question": "Drug excretion mainly occurs via:",
+    "options": [
+      "Heart",
+      "Kidney",
+      "Brain",
+      "Skin"
+    ],
+    "answer": "Kidney",
+    "difficulty": "easy",
+    "explanation": "Urine is main excretion route.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_015",
+    "question": "Half-life of a drug means:",
+    "options": [
+      "Time to double effect",
+      "Time to reduce half concentration",
+      "Time of overdose",
+      "Time of absorption"
+    ],
+    "answer": "Time to reduce half concentration",
+    "difficulty": "hard",
+    "explanation": "Time for drug level to decrease by 50%.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_016",
+    "question": "Therapeutic effect means:",
+    "options": [
+      "Side effect",
+      "Desired effect",
+      "Toxic effect",
+      "No effect"
+    ],
+    "answer": "Desired effect",
+    "difficulty": "easy",
+    "explanation": "Main intended drug action.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_017",
+    "question": "Side effect is:",
+    "options": [
+      "Desired effect",
+      "Unwanted but predictable effect",
+      "No effect",
+      "Curative effect"
+    ],
+    "answer": "Unwanted but predictable effect",
+    "difficulty": "easy",
+    "explanation": "Secondary drug action.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_018",
+    "question": "Adverse drug reaction is:",
+    "options": [
+      "Beneficial effect",
+      "Harmful unintended reaction",
+      "Desired effect",
+      "Placebo effect"
+    ],
+    "answer": "Harmful unintended reaction",
+    "difficulty": "medium",
+    "explanation": "Undesired harmful response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_019",
+    "question": "Drug toxicity means:",
+    "options": [
+      "Normal effect",
+      "Excess harmful effect",
+      "No effect",
+      "Therapeutic effect"
+    ],
+    "answer": "Excess harmful effect",
+    "difficulty": "medium",
+    "explanation": "Overdose leading to harm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_020",
+    "question": "Allergy to drug is:",
+    "options": [
+      "Dose dependent",
+      "Immune reaction",
+      "Expected effect",
+      "Therapeutic effect"
+    ],
+    "answer": "Immune reaction",
+    "difficulty": "medium",
+    "explanation": "Hypersensitivity response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_021",
+    "question": "Placebo is:",
+    "options": [
+      "Active drug",
+      "Inactive substance",
+      "Antibiotic",
+      "Hormone"
+    ],
+    "answer": "Inactive substance",
+    "difficulty": "easy",
+    "explanation": "No pharmacological effect.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_022",
+    "question": "Antibiotics act on:",
+    "options": [
+      "Viruses",
+      "Bacteria",
+      "Fungi only",
+      "Parasites only"
+    ],
+    "answer": "Bacteria",
+    "difficulty": "easy",
+    "explanation": "Kills or inhibits bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_023",
+    "question": "Analgesic drugs are used for:",
+    "options": [
+      "Pain relief",
+      "Fever only",
+      "Infection",
+      "Sleep"
+    ],
+    "answer": "Pain relief",
+    "difficulty": "easy",
+    "explanation": "Reduces pain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_024",
+    "question": "Antipyretics reduce:",
+    "options": [
+      "Pain",
+      "Fever",
+      "Cough",
+      "Infection"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "explanation": "Lowers body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_025",
+    "question": "Antiseptics are used on:",
+    "options": [
+      "Internal organs",
+      "Skin surfaces",
+      "Blood",
+      "Bone"
+    ],
+    "answer": "Skin surfaces",
+    "difficulty": "medium",
+    "explanation": "Prevents infection on skin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_026",
+    "question": "Disinfectants are used on:",
+    "options": [
+      "Living tissue",
+      "Instruments/surfaces",
+      "Blood",
+      "Muscle"
+    ],
+    "answer": "Instruments/surfaces",
+    "difficulty": "medium",
+    "explanation": "Kills microbes on objects.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_027",
+    "question": "Antihypertensive drugs treat:",
+    "options": [
+      "Low BP",
+      "High BP",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "High BP",
+    "difficulty": "easy",
+    "explanation": "Reduces blood pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_028",
+    "question": "Insulin is used in:",
+    "options": [
+      "Hypertension",
+      "Diabetes",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Diabetes",
+    "difficulty": "easy",
+    "explanation": "Controls blood glucose.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_029",
+    "question": "Antacids reduce:",
+    "options": [
+      "Blood pressure",
+      "Stomach acid",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Stomach acid",
+    "difficulty": "easy",
+    "explanation": "Neutralizes acid.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_030",
+    "question": "Diuretics increase:",
+    "options": [
+      "Urine output",
+      "Pain",
+      "Fever",
+      "BP"
+    ],
+    "answer": "Urine output",
+    "difficulty": "easy",
+    "explanation": "Removes excess fluid.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_031",
+    "question": "Sedatives are used for:",
+    "options": [
+      "Sleep induction",
+      "Pain",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Sleep induction",
+    "difficulty": "easy",
+    "explanation": "Calms CNS.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_032",
+    "question": "Antidepressants act on:",
+    "options": [
+      "Brain neurotransmitters",
+      "Kidney",
+      "Liver",
+      "Skin"
+    ],
+    "answer": "Brain neurotransmitters",
+    "difficulty": "hard",
+    "explanation": "Affects mood chemicals.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_033",
+    "question": "Antihistamines are used for:",
+    "options": [
+      "Allergy",
+      "Pain",
+      "Fever",
+      "Diabetes"
+    ],
+    "answer": "Allergy",
+    "difficulty": "easy",
+    "explanation": "Blocks histamine action.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_034",
+    "question": "Bronchodilators are used in:",
+    "options": [
+      "Asthma",
+      "Diabetes",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Asthma",
+    "difficulty": "easy",
+    "explanation": "Opens airways.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_035",
+    "question": "Vaccines provide:",
+    "options": [
+      "Treatment",
+      "Immunity",
+      "Pain relief",
+      "Fever"
+    ],
+    "answer": "Immunity",
+    "difficulty": "easy",
+    "explanation": "Prevents disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_036",
+    "question": "Anticoagulants prevent:",
+    "options": [
+      "Clot formation",
+      "Fever",
+      "Pain",
+      "Infection"
+    ],
+    "answer": "Clot formation",
+    "difficulty": "medium",
+    "explanation": "Prevents blood clots.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_037",
+    "question": "Aspirin is:",
+    "options": [
+      "Antibiotic",
+      "NSAID",
+      "Insulin",
+      "Antacid"
+    ],
+    "answer": "NSAID",
+    "difficulty": "medium",
+    "explanation": "Pain and inflammation drug.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_038",
+    "question": "Morphine is used for:",
+    "options": [
+      "Severe pain",
+      "Fever",
+      "Allergy",
+      "Cough"
+    ],
+    "answer": "Severe pain",
+    "difficulty": "medium",
+    "explanation": "Strong opioid analgesic.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_039",
+    "question": "Drug dose means:",
+    "options": [
+      "Type of drug",
+      "Amount of drug",
+      "Color of drug",
+      "Taste of drug"
+    ],
+    "answer": "Amount of drug",
+    "difficulty": "easy",
+    "explanation": "Quantity given at one time.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_040",
+    "question": "Overdose means:",
+    "options": [
+      "Normal dose",
+      "Excess dose",
+      "No dose",
+      "Wrong route"
+    ],
+    "answer": "Excess dose",
+    "difficulty": "easy",
+    "explanation": "More than required amount.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_041",
+    "question": "Drug resistance is common in:",
+    "options": [
+      "Antibiotics",
+      "Painkillers",
+      "Antacids",
+      "Diuretics"
+    ],
+    "answer": "Antibiotics",
+    "difficulty": "medium",
+    "explanation": "Bacteria become resistant.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_042",
+    "question": "Generic drugs are:",
+    "options": [
+      "Brand drugs",
+      "Non-branded equivalent drugs",
+      "Illegal drugs",
+      "Herbal only"
+    ],
+    "answer": "Non-branded equivalent drugs",
+    "difficulty": "medium",
+    "explanation": "Same composition, lower cost.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_043",
+    "question": "Drug tolerance means:",
+    "options": [
+      "Allergy",
+      "Reduced effect over time",
+      "Increased effect",
+      "No effect"
+    ],
+    "answer": "Reduced effect over time",
+    "difficulty": "hard",
+    "explanation": "Body adapts to drug.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_044",
+    "question": "Drug interaction means:",
+    "options": [
+      "One drug affects another",
+      "No effect",
+      "Only side effect",
+      "Food only"
+    ],
+    "answer": "One drug affects another",
+    "difficulty": "medium",
+    "explanation": "Changes drug effect.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_045",
+    "question": "Bioavailability means:",
+    "options": [
+      "Drug color",
+      "Drug available in blood",
+      "Drug taste",
+      "Drug storage"
+    ],
+    "answer": "Drug available in blood",
+    "difficulty": "hard",
+    "explanation": "Fraction reaching circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_046",
+    "question": "Loading dose is:",
+    "options": [
+      "Initial high dose",
+      "Maintenance dose",
+      "No dose",
+      "Random dose"
+    ],
+    "answer": "Initial high dose",
+    "difficulty": "hard",
+    "explanation": "Quick therapeutic level.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_047",
+    "question": "Maintenance dose is:",
+    "options": [
+      "Initial dose",
+      "Regular dose to maintain level",
+      "Overdose",
+      "No dose"
+    ],
+    "answer": "Regular dose to maintain level",
+    "difficulty": "hard",
+    "explanation": "Maintains drug level.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_048",
+    "question": "Drug metabolism mainly occurs in:",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Heart",
+      "Brain"
+    ],
+    "answer": "Liver",
+    "difficulty": "easy",
+    "explanation": "Liver breaks down drugs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_049",
+    "question": "Excretion of drugs occurs in:",
+    "options": [
+      "Sweat glands",
+      "Kidney",
+      "Skin only",
+      "Muscle"
+    ],
+    "answer": "Kidney",
+    "difficulty": "easy",
+    "explanation": "Urinary elimination.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_050",
+    "question": "Pharmacology is important for nurses because:",
+    "options": [
+      "Only doctors need it",
+      "Safe medication administration",
+      "Only theory",
+      "Not important"
+    ],
+    "answer": "Safe medication administration",
+    "difficulty": "easy",
+    "explanation": "Ensures patient safety.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_051",
+    "question": "Antibiotic resistance develops due to:",
+    "options": [
+      "Correct use",
+      "Overuse/irregular use",
+      "Low dose vitamins",
+      "Exercise"
+    ],
+    "answer": "Overuse/irregular use",
+    "difficulty": "medium",
+    "explanation": "Incorrect antibiotic use leads to resistance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_052",
+    "question": "Broad spectrum antibiotics act on:",
+    "options": [
+      "Only gram positive bacteria",
+      "Wide range of bacteria",
+      "Viruses",
+      "Fungi only"
+    ],
+    "answer": "Wide range of bacteria",
+    "difficulty": "medium",
+    "explanation": "Effective against multiple bacteria types.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_053",
+    "question": "Narrow spectrum antibiotics act on:",
+    "options": [
+      "All microbes",
+      "Specific bacteria",
+      "Viruses",
+      "Fungi"
+    ],
+    "answer": "Specific bacteria",
+    "difficulty": "medium",
+    "explanation": "Target specific organisms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_054",
+    "question": "Penicillin is classified as:",
+    "options": [
+      "Analgesic",
+      "Antibiotic",
+      "Antacid",
+      "Antipyretic"
+    ],
+    "answer": "Antibiotic",
+    "difficulty": "easy",
+    "explanation": "Used for bacterial infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_055",
+    "question": "Most common allergy caused by:",
+    "options": [
+      "Penicillin",
+      "Paracetamol",
+      "Insulin",
+      "Vitamin C"
+    ],
+    "answer": "Penicillin",
+    "difficulty": "medium",
+    "explanation": "Common drug allergy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_056",
+    "question": "Antifungal drugs act on:",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Viruses",
+      "Parasites only"
+    ],
+    "answer": "Fungi",
+    "difficulty": "easy",
+    "explanation": "Treat fungal infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_057",
+    "question": "Antiviral drugs act on:",
+    "options": [
+      "Bacteria",
+      "Viruses",
+      "Fungi",
+      "Protozoa"
+    ],
+    "answer": "Viruses",
+    "difficulty": "easy",
+    "explanation": "Used in viral infections.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_058",
+    "question": "Antimalarial drugs treat:",
+    "options": [
+      "Tuberculosis",
+      "Malaria",
+      "Diabetes",
+      "Asthma"
+    ],
+    "answer": "Malaria",
+    "difficulty": "easy",
+    "explanation": "Kills Plasmodium parasite.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_059",
+    "question": "ORS is used for:",
+    "options": [
+      "Fever",
+      "Dehydration",
+      "Pain",
+      "Infection"
+    ],
+    "answer": "Dehydration",
+    "difficulty": "easy",
+    "explanation": "Rehydrates patient.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_060",
+    "question": "Electrolyte imbalance affects:",
+    "options": [
+      "Only bones",
+      "Body fluid balance",
+      "Skin only",
+      "Hair growth"
+    ],
+    "answer": "Body fluid balance",
+    "difficulty": "medium",
+    "explanation": "Important for cell function.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_061",
+    "question": "Calcium channel blockers are used in:",
+    "options": [
+      "Diabetes",
+      "Hypertension",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Hypertension",
+    "difficulty": "medium",
+    "explanation": "Lowers blood pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_062",
+    "question": "Beta blockers act on:",
+    "options": [
+      "Heart receptors",
+      "Liver",
+      "Kidney",
+      "Skin"
+    ],
+    "answer": "Heart receptors",
+    "difficulty": "hard",
+    "explanation": "Reduce heart rate and BP.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_063",
+    "question": "ACE inhibitors are used for:",
+    "options": [
+      "Diabetes",
+      "Hypertension",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Hypertension",
+    "difficulty": "medium",
+    "explanation": "Lowers blood pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_064",
+    "question": "Statins are used to reduce:",
+    "options": [
+      "Sugar",
+      "Cholesterol",
+      "Pain",
+      "Fever"
+    ],
+    "answer": "Cholesterol",
+    "difficulty": "medium",
+    "explanation": "Lipid-lowering drugs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_065",
+    "question": "Heparin is:",
+    "options": [
+      "Anticoagulant",
+      "Antibiotic",
+      "Analgesic",
+      "Antipyretic"
+    ],
+    "answer": "Anticoagulant",
+    "difficulty": "medium",
+    "explanation": "Prevents clot formation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_066",
+    "question": "Warfarin is used for:",
+    "options": [
+      "Fever",
+      "Blood thinning",
+      "Pain",
+      "Diabetes"
+    ],
+    "answer": "Blood thinning",
+    "difficulty": "medium",
+    "explanation": "Prevents thrombosis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_067",
+    "question": "Insulin is secreted by:",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Kidney",
+      "Brain"
+    ],
+    "answer": "Pancreas",
+    "difficulty": "easy",
+    "explanation": "Beta cells of pancreas.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_068",
+    "question": "Glucagon increases:",
+    "options": [
+      "Blood glucose",
+      "BP",
+      "Heart rate only",
+      "Pain"
+    ],
+    "answer": "Blood glucose",
+    "difficulty": "medium",
+    "explanation": "Opposes insulin action.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_069",
+    "question": "Oral hypoglycemics are used in:",
+    "options": [
+      "Type 1 diabetes only",
+      "Type 2 diabetes",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Type 2 diabetes",
+    "difficulty": "medium",
+    "explanation": "Controls blood sugar orally.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_070",
+    "question": "Paracetamol is mainly used for:",
+    "options": [
+      "Pain and fever",
+      "Diabetes",
+      "Hypertension",
+      "Infection"
+    ],
+    "answer": "Pain and fever",
+    "difficulty": "easy",
+    "explanation": "Common antipyretic analgesic.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_071",
+    "question": "NSAIDs reduce:",
+    "options": [
+      "Pain and inflammation",
+      "Sugar",
+      "BP",
+      "Infection"
+    ],
+    "answer": "Pain and inflammation",
+    "difficulty": "easy",
+    "explanation": "Anti-inflammatory drugs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_072",
+    "question": "Corticosteroids are used for:",
+    "options": [
+      "Allergy and inflammation",
+      "Diabetes",
+      "Pain only",
+      "Fever only"
+    ],
+    "answer": "Allergy and inflammation",
+    "difficulty": "medium",
+    "explanation": "Strong anti-inflammatory drugs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_073",
+    "question": "Adrenaline is used in:",
+    "options": [
+      "Anaphylaxis",
+      "Diabetes",
+      "Hypertension",
+      "Fever"
+    ],
+    "answer": "Anaphylaxis",
+    "difficulty": "medium",
+    "explanation": "Life-saving allergic reaction drug.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_074",
+    "question": "Epinephrine is another name of:",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Aspirin",
+      "Heparin"
+    ],
+    "answer": "Adrenaline",
+    "difficulty": "medium",
+    "explanation": "Same drug, different name.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_075",
+    "question": "Digoxin is used in:",
+    "options": [
+      "Heart failure",
+      "Diabetes",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Heart failure",
+    "difficulty": "hard",
+    "explanation": "Improves heart contraction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_076",
+    "question": "Bronchodilators are used for:",
+    "options": [
+      "Asthma",
+      "Diabetes",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Asthma",
+    "difficulty": "easy",
+    "explanation": "Opens airways.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_077",
+    "question": "Antitussives suppress:",
+    "options": [
+      "Cough",
+      "Fever",
+      "Pain",
+      "BP"
+    ],
+    "answer": "Cough",
+    "difficulty": "easy",
+    "explanation": "Cough suppressants.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_078",
+    "question": "Expectorants help in:",
+    "options": [
+      "Dry cough",
+      "Mucus removal",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Mucus removal",
+    "difficulty": "medium",
+    "explanation": "Loosens secretions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_079",
+    "question": "Antiemetics are used for:",
+    "options": [
+      "Vomiting",
+      "Pain",
+      "Fever",
+      "Diabetes"
+    ],
+    "answer": "Vomiting",
+    "difficulty": "easy",
+    "explanation": "Prevents nausea.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_080",
+    "question": "Laxatives are used for:",
+    "options": [
+      "Diarrhea",
+      "Constipation",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Constipation",
+    "difficulty": "easy",
+    "explanation": "Promotes bowel movement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_081",
+    "question": "Antidiarrheal drugs treat:",
+    "options": [
+      "Constipation",
+      "Diarrhea",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Diarrhea",
+    "difficulty": "easy",
+    "explanation": "Reduces bowel frequency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_082",
+    "question": "Vitamin deficiency causes:",
+    "options": [
+      "Improved health",
+      "Diseases",
+      "High BP",
+      "Pain relief"
+    ],
+    "answer": "Diseases",
+    "difficulty": "easy",
+    "explanation": "Deficiency disorders occur.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_083",
+    "question": "Iron supplements treat:",
+    "options": [
+      "Diabetes",
+      "Anemia",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Anemia",
+    "difficulty": "easy",
+    "explanation": "Increases hemoglobin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_084",
+    "question": "Folic acid is important in:",
+    "options": [
+      "Bone health",
+      "RBC formation",
+      "BP control",
+      "Pain relief"
+    ],
+    "answer": "RBC formation",
+    "difficulty": "medium",
+    "explanation": "Prevents anemia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_085",
+    "question": "Vitamin D deficiency causes:",
+    "options": [
+      "Rickets",
+      "Diabetes",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Rickets",
+    "difficulty": "easy",
+    "explanation": "Weak bones in children.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_086",
+    "question": "Calcium is important for:",
+    "options": [
+      "Muscles and bones",
+      "Only skin",
+      "Hair only",
+      "Fever"
+    ],
+    "answer": "Muscles and bones",
+    "difficulty": "easy",
+    "explanation": "Structural mineral.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_087",
+    "question": "Potassium imbalance affects:",
+    "options": [
+      "Heart rhythm",
+      "Skin color",
+      "Hair growth",
+      "Vision"
+    ],
+    "answer": "Heart rhythm",
+    "difficulty": "medium",
+    "explanation": "Important for cardiac function.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_088",
+    "question": "Magnesium is important for:",
+    "options": [
+      "Muscle function",
+      "Vision only",
+      "Skin only",
+      "Fever"
+    ],
+    "answer": "Muscle function",
+    "difficulty": "medium",
+    "explanation": "Supports neuromuscular activity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_089",
+    "question": "Drug compliance means:",
+    "options": [
+      "Skipping dose",
+      "Following prescription correctly",
+      "Overdose",
+      "Random use"
+    ],
+    "answer": "Following prescription correctly",
+    "difficulty": "easy",
+    "explanation": "Adherence to treatment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_090",
+    "question": "Patient education in drugs improves:",
+    "options": [
+      "Side effects",
+      "Compliance",
+      "Toxicity",
+      "Resistance"
+    ],
+    "answer": "Compliance",
+    "difficulty": "easy",
+    "explanation": "Better drug adherence.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_091",
+    "question": "Drug storage should be:",
+    "options": [
+      "Hot and humid",
+      "Cool and dry",
+      "Open sunlight",
+      "Random"
+    ],
+    "answer": "Cool and dry",
+    "difficulty": "easy",
+    "explanation": "Maintains drug stability.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_092",
+    "question": "Expired drugs should be:",
+    "options": [
+      "Used",
+      "Discarded",
+      "Diluted",
+      "Mixed"
+    ],
+    "answer": "Discarded",
+    "difficulty": "easy",
+    "explanation": "Avoid toxicity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_093",
+    "question": "Injection site rotation prevents:",
+    "options": [
+      "Pain only",
+      "Tissue damage",
+      "Fever",
+      "Infection only"
+    ],
+    "answer": "Tissue damage",
+    "difficulty": "medium",
+    "explanation": "Prevents lipodystrophy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_094",
+    "question": "Drug incompatibility means:",
+    "options": [
+      "Safe combination",
+      "Drug interaction causing harm",
+      "No effect",
+      "Same drug use"
+    ],
+    "answer": "Drug interaction causing harm",
+    "difficulty": "medium",
+    "explanation": "Unsafe drug combination.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_095",
+    "question": "Therapeutic index is:",
+    "options": [
+      "Safety margin of drug",
+      "Drug color",
+      "Drug taste",
+      "Drug weight"
+    ],
+    "answer": "Safety margin of drug",
+    "difficulty": "hard",
+    "explanation": "Difference between safe and toxic dose.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_096",
+    "question": "Controlled drugs require:",
+    "options": [
+      "No record",
+      "Strict documentation",
+      "Free use",
+      "No supervision"
+    ],
+    "answer": "Strict documentation",
+    "difficulty": "easy",
+    "explanation": "Regulated drugs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_097",
+    "question": "Drug prescription is given by:",
+    "options": [
+      "Nurse",
+      "Doctor",
+      "Patient",
+      "Pharmacist only"
+    ],
+    "answer": "Doctor",
+    "difficulty": "easy",
+    "explanation": "Legal authority.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_098",
+    "question": "OTC drugs means:",
+    "options": [
+      "Over the counter",
+      "Only tablets",
+      "Only injections",
+      "Illegal drugs"
+    ],
+    "answer": "Over the counter",
+    "difficulty": "easy",
+    "explanation": "No prescription needed.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_099",
+    "question": "Drug name written on prescription is:",
+    "options": [
+      "Brand or generic",
+      "Only color",
+      "Only shape",
+      "Only size"
+    ],
+    "answer": "Brand or generic",
+    "difficulty": "easy",
+    "explanation": "Medication identification.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_100",
+    "question": "Main aim of pharmacology is:",
+    "options": [
+      "Drug misuse",
+      "Safe drug therapy",
+      "No treatment",
+      "Random dosing"
+    ],
+    "answer": "Safe drug therapy",
+    "difficulty": "easy",
+    "explanation": "Ensures patient safety.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_101",
+    "question": "Which organ is most affected in drug toxicity?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Skin",
+      "Eye"
+    ],
+    "answer": "Liver",
+    "difficulty": "medium",
+    "explanation": "Liver metabolizes most drugs, so it is commonly affected.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_102",
+    "question": "Renal clearance of drugs depends on:",
+    "options": [
+      "Liver function",
+      "Kidney function",
+      "Heart rate",
+      "Lung capacity"
+    ],
+    "answer": "Kidney function",
+    "difficulty": "medium",
+    "explanation": "Kidneys eliminate most drugs via urine.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_103",
+    "question": "Steady state concentration is reached after:",
+    "options": [
+      "1 dose",
+      "4–5 half-lives",
+      "1 hour",
+      "1 day"
+    ],
+    "answer": "4–5 half-lives",
+    "difficulty": "hard",
+    "explanation": "Drug reaches stable level after repeated dosing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_104",
+    "question": "Intravenous drugs bypass:",
+    "options": [
+      "Kidney",
+      "Liver first pass metabolism",
+      "Heart",
+      "Brain"
+    ],
+    "answer": "Liver first pass metabolism",
+    "difficulty": "medium",
+    "explanation": "IV drugs directly enter circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_105",
+    "question": "Most important factor affecting drug absorption:",
+    "options": [
+      "Color of drug",
+      "Route of administration",
+      "Taste",
+      "Cost"
+    ],
+    "answer": "Route of administration",
+    "difficulty": "easy",
+    "explanation": "Route determines absorption speed.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_106",
+    "question": "Bioequivalence refers to:",
+    "options": [
+      "Same drug strength",
+      "Same therapeutic effect of two formulations",
+      "Drug color similarity",
+      "Drug packaging"
+    ],
+    "answer": "Same therapeutic effect of two formulations",
+    "difficulty": "hard",
+    "explanation": "Generic and brand have same effect.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_107",
+    "question": "Volume of distribution indicates:",
+    "options": [
+      "Drug taste",
+      "Drug distribution in body",
+      "Drug cost",
+      "Drug color"
+    ],
+    "answer": "Drug distribution in body",
+    "difficulty": "hard",
+    "explanation": "Extent drug spreads in body tissues.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_108",
+    "question": "Enzyme induction leads to:",
+    "options": [
+      "Increased drug metabolism",
+      "Decreased metabolism",
+      "No change",
+      "Drug toxicity always"
+    ],
+    "answer": "Increased drug metabolism",
+    "difficulty": "hard",
+    "explanation": "Drugs are broken down faster.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_109",
+    "question": "Enzyme inhibition leads to:",
+    "options": [
+      "Faster metabolism",
+      "Slower metabolism",
+      "No effect",
+      "Immediate excretion"
+    ],
+    "answer": "Slower metabolism",
+    "difficulty": "hard",
+    "explanation": "Drug stays longer in body.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_110",
+    "question": "Therapeutic drug monitoring is used for:",
+    "options": [
+      "All drugs",
+      "Narrow therapeutic index drugs",
+      "Vitamins",
+      "Antacids only"
+    ],
+    "answer": "Narrow therapeutic index drugs",
+    "difficulty": "hard",
+    "explanation": "To avoid toxicity or underdose.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_111",
+    "question": "Example of narrow therapeutic index drug:",
+    "options": [
+      "Paracetamol",
+      "Digoxin",
+      "Vitamin C",
+      "ORS"
+    ],
+    "answer": "Digoxin",
+    "difficulty": "hard",
+    "explanation": "Small dose change causes toxicity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_112",
+    "question": "Drug accumulation occurs when:",
+    "options": [
+      "Excretion > intake",
+      "Intake > excretion",
+      "No intake",
+      "No metabolism"
+    ],
+    "answer": "Intake > excretion",
+    "difficulty": "medium",
+    "explanation": "Drug builds up in body.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_113",
+    "question": "Receptor theory explains:",
+    "options": [
+      "Drug packaging",
+      "Drug action mechanism",
+      "Drug cost",
+      "Drug storage"
+    ],
+    "answer": "Drug action mechanism",
+    "difficulty": "hard",
+    "explanation": "Drugs act via receptors.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_114",
+    "question": "Agonist is a drug that:",
+    "options": [
+      "Blocks receptor",
+      "Activates receptor",
+      "Destroys receptor",
+      "Has no effect"
+    ],
+    "answer": "Activates receptor",
+    "difficulty": "hard",
+    "explanation": "Produces biological response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_115",
+    "question": "Antagonist is a drug that:",
+    "options": [
+      "Activates receptor",
+      "Blocks receptor",
+      "Increases metabolism",
+      "Causes toxicity"
+    ],
+    "answer": "Blocks receptor",
+    "difficulty": "hard",
+    "explanation": "Prevents drug action.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_116",
+    "question": "Competitive antagonism means:",
+    "options": [
+      "Same site competition",
+      "Different site action",
+      "No action",
+      "Toxic effect"
+    ],
+    "answer": "Same site competition",
+    "difficulty": "hard",
+    "explanation": "Drugs compete for same receptor.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_117",
+    "question": "Synergism means:",
+    "options": [
+      "Opposite effect",
+      "Combined increased effect",
+      "No effect",
+      "Toxic effect always"
+    ],
+    "answer": "Combined increased effect",
+    "difficulty": "medium",
+    "explanation": "Two drugs enhance each other.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_118",
+    "question": "Antagonism in drugs means:",
+    "options": [
+      "Same effect",
+      "Opposite effect",
+      "No change",
+      "Increased absorption"
+    ],
+    "answer": "Opposite effect",
+    "difficulty": "medium",
+    "explanation": "One drug blocks another.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_119",
+    "question": "Drug tolerance develops due to:",
+    "options": [
+      "Single dose",
+      "Repeated use",
+      "No use",
+      "Injection only"
+    ],
+    "answer": "Repeated use",
+    "difficulty": "medium",
+    "explanation": "Body adapts to drug.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_120",
+    "question": "Drug dependence is:",
+    "options": [
+      "Optional use",
+      "Physical/psychological need",
+      "No effect",
+      "Single use"
+    ],
+    "answer": "Physical/psychological need",
+    "difficulty": "medium",
+    "explanation": "Need for drug continuation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_121",
+    "question": "Withdrawal symptoms occur when:",
+    "options": [
+      "Drug is increased",
+      "Drug is stopped suddenly",
+      "Drug is started",
+      "Dose is normal"
+    ],
+    "answer": "Drug is stopped suddenly",
+    "difficulty": "medium",
+    "explanation": "Body reacts to absence.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_122",
+    "question": "Placebo effect depends on:",
+    "options": [
+      "Drug strength",
+      "Patient belief",
+      "Injection type",
+      "Dose size"
+    ],
+    "answer": "Patient belief",
+    "difficulty": "easy",
+    "explanation": "Psychological effect.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_123",
+    "question": "Orphan drugs are used for:",
+    "options": [
+      "Common diseases",
+      "Rare diseases",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Rare diseases",
+    "difficulty": "medium",
+    "explanation": "Low incidence conditions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_124",
+    "question": "OTC drugs require:",
+    "options": [
+      "Prescription",
+      "No prescription",
+      "Hospital admission",
+      "Injection only"
+    ],
+    "answer": "No prescription",
+    "difficulty": "easy",
+    "explanation": "Over the counter availability.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_125",
+    "question": "Controlled drugs are regulated because of:",
+    "options": [
+      "Safety",
+      "Abuse potential",
+      "Taste",
+      "Color"
+    ],
+    "answer": "Abuse potential",
+    "difficulty": "medium",
+    "explanation": "Risk of addiction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_126",
+    "question": "Drug schedule system is used for:",
+    "options": [
+      "Food control",
+      "Drug regulation",
+      "Surgery",
+      "Diagnosis"
+    ],
+    "answer": "Drug regulation",
+    "difficulty": "medium",
+    "explanation": "Legal classification of drugs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_127",
+    "question": "Parenteral route means:",
+    "options": [
+      "Oral",
+      "Injection",
+      "Topical",
+      "Sublingual"
+    ],
+    "answer": "Injection",
+    "difficulty": "easy",
+    "explanation": "Bypassing GI tract.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_128",
+    "question": "Intravenous injection effect is:",
+    "options": [
+      "Slow",
+      "Immediate",
+      "Delayed",
+      "No effect"
+    ],
+    "answer": "Immediate",
+    "difficulty": "easy",
+    "explanation": "Direct bloodstream entry.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_129",
+    "question": "Intramuscular injection absorption is:",
+    "options": [
+      "Very slow",
+      "Moderate",
+      "No absorption",
+      "Instant"
+    ],
+    "answer": "Moderate",
+    "difficulty": "medium",
+    "explanation": "Muscle absorption rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_130",
+    "question": "Subcutaneous injection is slower than:",
+    "options": [
+      "Oral",
+      "Intravenous",
+      "Inhalation",
+      "Rectal"
+    ],
+    "answer": "Intravenous",
+    "difficulty": "easy",
+    "explanation": "SC absorption is slower.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_131",
+    "question": "Inhalation route is used for:",
+    "options": [
+      "Local lung effect",
+      "Bone treatment",
+      "Skin infection",
+      "Diabetes"
+    ],
+    "answer": "Local lung effect",
+    "difficulty": "easy",
+    "explanation": "Direct respiratory action.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_132",
+    "question": "Topical drugs act:",
+    "options": [
+      "Systemically",
+      "Locally",
+      "Only in blood",
+      "Only in liver"
+    ],
+    "answer": "Locally",
+    "difficulty": "easy",
+    "explanation": "Surface application.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_133",
+    "question": "Transdermal patches deliver drugs via:",
+    "options": [
+      "Oral route",
+      "Skin",
+      "Injection",
+      "IV"
+    ],
+    "answer": "Skin",
+    "difficulty": "medium",
+    "explanation": "Continuous absorption.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_134",
+    "question": "Rectal drug absorption is:",
+    "options": [
+      "Poor",
+      "Moderate",
+      "Very fast",
+      "None"
+    ],
+    "answer": "Moderate",
+    "difficulty": "medium",
+    "explanation": "Useful alternative route.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_135",
+    "question": "Drug allergy is:",
+    "options": [
+      "Expected effect",
+      "Immune reaction",
+      "Dose effect",
+      "Therapeutic effect"
+    ],
+    "answer": "Immune reaction",
+    "difficulty": "medium",
+    "explanation": "Hypersensitivity response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_136",
+    "question": "Anaphylaxis is:",
+    "options": [
+      "Mild allergy",
+      "Severe allergic reaction",
+      "Pain response",
+      "Fever"
+    ],
+    "answer": "Severe allergic reaction",
+    "difficulty": "medium",
+    "explanation": "Life-threatening allergy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_137",
+    "question": "Drug overdose treatment includes:",
+    "options": [
+      "Ignore",
+      "Antidote",
+      "Increase dose",
+      "Stop food"
+    ],
+    "answer": "Antidote",
+    "difficulty": "medium",
+    "explanation": "Neutralizes toxic effect.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_138",
+    "question": "Antidote means:",
+    "options": [
+      "Drug poison",
+      "Drug that counteracts poison",
+      "Painkiller",
+      "Antibiotic"
+    ],
+    "answer": "Drug that counteracts poison",
+    "difficulty": "easy",
+    "explanation": "Reverses toxicity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_139",
+    "question": "Activated charcoal is used in:",
+    "options": [
+      "Fever",
+      "Poisoning",
+      "Pain",
+      "Diabetes"
+    ],
+    "answer": "Poisoning",
+    "difficulty": "medium",
+    "explanation": "Absorbs toxins.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_140",
+    "question": "Drug prescription includes:",
+    "options": [
+      "Only name",
+      "Dose, route, time",
+      "Only cost",
+      "Only color"
+    ],
+    "answer": "Dose, route, time",
+    "difficulty": "easy",
+    "explanation": "Complete medication order.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_141",
+    "question": "Drug incompatibility occurs when:",
+    "options": [
+      "Drugs are same",
+      "Drugs react adversely together",
+      "Single drug use",
+      "No effect"
+    ],
+    "answer": "Drugs react adversely together",
+    "difficulty": "medium",
+    "explanation": "Unsafe combination.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_142",
+    "question": "IV drug should be given slowly to prevent:",
+    "options": [
+      "Pain only",
+      "Toxicity",
+      "Fever",
+      "Sleep"
+    ],
+    "answer": "Toxicity",
+    "difficulty": "medium",
+    "explanation": "Avoids rapid adverse effects.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_143",
+    "question": "Drug reconciliation is:",
+    "options": [
+      "Mixing drugs",
+      "Checking medication history",
+      "Giving overdose",
+      "Stopping drugs"
+    ],
+    "answer": "Checking medication history",
+    "difficulty": "medium",
+    "explanation": "Ensures correct medication.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_144",
+    "question": "Adherence means:",
+    "options": [
+      "Skipping drugs",
+      "Following prescription",
+      "Overdose",
+      "No treatment"
+    ],
+    "answer": "Following prescription",
+    "difficulty": "easy",
+    "explanation": "Patient compliance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_145",
+    "question": "Drug abuse means:",
+    "options": [
+      "Correct use",
+      "Improper use",
+      "Doctor prescription",
+      "Therapeutic use"
+    ],
+    "answer": "Improper use",
+    "difficulty": "easy",
+    "explanation": "Non-medical use.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_146",
+    "question": "Drug addiction is:",
+    "options": [
+      "Optional use",
+      "Compulsive use",
+      "Single use",
+      "Medical use"
+    ],
+    "answer": "Compulsive use",
+    "difficulty": "medium",
+    "explanation": "Psychological dependence.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_147",
+    "question": "Toxicology is study of:",
+    "options": [
+      "Food",
+      "Poison effects",
+      "Bones",
+      "Skin"
+    ],
+    "answer": "Poison effects",
+    "difficulty": "medium",
+    "explanation": "Study of harmful substances.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_148",
+    "question": "Drug compliance improves:",
+    "options": [
+      "Disease progression",
+      "Treatment outcome",
+      "Side effects",
+      "Resistance"
+    ],
+    "answer": "Treatment outcome",
+    "difficulty": "easy",
+    "explanation": "Better recovery.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_149",
+    "question": "Drug safety monitoring is called:",
+    "options": [
+      "Pharmacovigilance",
+      "Pharmacology",
+      "Pathology",
+      "Microbiology"
+    ],
+    "answer": "Pharmacovigilance",
+    "difficulty": "hard",
+    "explanation": "Monitoring adverse effects.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_150",
+    "question": "Main goal of pharmacology in nursing:",
+    "options": [
+      "Drug sales",
+      "Safe medication administration",
+      "Drug production",
+      "Research only"
+    ],
+    "answer": "Safe medication administration",
+    "difficulty": "easy",
+    "explanation": "Ensures patient safety.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_151",
+    "question": "Pharmacovigilance primarily deals with:",
+    "options": [
+      "Drug production",
+      "Adverse drug reactions monitoring",
+      "Drug sales",
+      "Drug storage"
+    ],
+    "answer": "Adverse drug reactions monitoring",
+    "difficulty": "medium",
+    "explanation": "It monitors safety of drugs after marketing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_152",
+    "question": "ADR stands for:",
+    "options": [
+      "Active drug reaction",
+      "Adverse drug reaction",
+      "Average drug response",
+      "Acute disease reaction"
+    ],
+    "answer": "Adverse drug reaction",
+    "difficulty": "easy",
+    "explanation": "Harmful reaction to a drug.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_153",
+    "question": "Type A adverse drug reactions are:",
+    "options": [
+      "Unpredictable",
+      "Predictable and dose-related",
+      "Allergic only",
+      "Genetic only"
+    ],
+    "answer": "Predictable and dose-related",
+    "difficulty": "hard",
+    "explanation": "Common and dose dependent reactions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_154",
+    "question": "Type B ADRs are:",
+    "options": [
+      "Predictable",
+      "Unpredictable",
+      "Dose related",
+      "Therapeutic"
+    ],
+    "answer": "Unpredictable",
+    "difficulty": "hard",
+    "explanation": "Rare and allergic reactions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_155",
+    "question": "Drug hypersensitivity is:",
+    "options": [
+      "Normal effect",
+      "Immune reaction",
+      "Dose effect",
+      "Therapeutic effect"
+    ],
+    "answer": "Immune reaction",
+    "difficulty": "medium",
+    "explanation": "Allergic response to drugs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_156",
+    "question": "First pass metabolism occurs in:",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Heart",
+      "Lungs"
+    ],
+    "answer": "Liver",
+    "difficulty": "medium",
+    "explanation": "Drug metabolism before systemic circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_157",
+    "question": "Which route avoids first pass effect?",
+    "options": [
+      "Oral",
+      "IV",
+      "Rectal",
+      "Sublingual"
+    ],
+    "answer": "IV",
+    "difficulty": "hard",
+    "explanation": "Direct bloodstream entry.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_158",
+    "question": "Sublingual drugs are placed:",
+    "options": [
+      "Under tongue",
+      "In stomach",
+      "In muscle",
+      "In skin"
+    ],
+    "answer": "Under tongue",
+    "difficulty": "easy",
+    "explanation": "Fast absorption via oral mucosa.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_159",
+    "question": "Drug half-life means:",
+    "options": [
+      "Time to double dose",
+      "Time to reduce drug by 50%",
+      "Time to cure disease",
+      "Time to peak effect"
+    ],
+    "answer": "Time to reduce drug by 50%",
+    "difficulty": "hard",
+    "explanation": "Elimination rate concept.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_160",
+    "question": "Loading dose is given to:",
+    "options": [
+      "Maintain steady state quickly",
+      "Stop drug",
+      "Reduce toxicity",
+      "Avoid absorption"
+    ],
+    "answer": "Maintain steady state quickly",
+    "difficulty": "hard",
+    "explanation": "Rapidly achieves therapeutic level.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_161",
+    "question": "Maintenance dose is:",
+    "options": [
+      "Initial high dose",
+      "Regular dose to maintain drug level",
+      "Emergency dose",
+      "Single dose only"
+    ],
+    "answer": "Regular dose to maintain drug level",
+    "difficulty": "medium",
+    "explanation": "Keeps drug concentration stable.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_162",
+    "question": "Drug potency refers to:",
+    "options": [
+      "Drug strength at low dose",
+      "Drug color",
+      "Drug cost",
+      "Drug shape"
+    ],
+    "answer": "Drug strength at low dose",
+    "difficulty": "hard",
+    "explanation": "Amount needed for effect.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_163",
+    "question": "Efficacy means:",
+    "options": [
+      "Drug safety",
+      "Maximum response of drug",
+      "Drug price",
+      "Drug taste"
+    ],
+    "answer": "Maximum response of drug",
+    "difficulty": "hard",
+    "explanation": "Maximum effect achievable.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_164",
+    "question": "Placebo contains:",
+    "options": [
+      "Active drug",
+      "No active drug",
+      "Antibiotic",
+      "Steroid"
+    ],
+    "answer": "No active drug",
+    "difficulty": "easy",
+    "explanation": "Inactive substance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_165",
+    "question": "Drug metabolism mainly occurs in:",
+    "options": [
+      "Heart",
+      "Liver",
+      "Brain",
+      "Skin"
+    ],
+    "answer": "Liver",
+    "difficulty": "easy",
+    "explanation": "Hepatic enzymes process drugs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_166",
+    "question": "Excretion of drugs occurs mainly through:",
+    "options": [
+      "Liver",
+      "Kidneys",
+      "Heart",
+      "Skin"
+    ],
+    "answer": "Kidneys",
+    "difficulty": "easy",
+    "explanation": "Urine is major route.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_167",
+    "question": "Drug toxicity is:",
+    "options": [
+      "Therapeutic effect",
+      "Harmful drug effect",
+      "Desired effect",
+      "Placebo effect"
+    ],
+    "answer": "Harmful drug effect",
+    "difficulty": "easy",
+    "explanation": "Overdose or adverse reaction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_168",
+    "question": "Therapeutic window is:",
+    "options": [
+      "Drug color range",
+      "Safe dose range",
+      "Drug size",
+      "Drug packaging"
+    ],
+    "answer": "Safe dose range",
+    "difficulty": "hard",
+    "explanation": "Between effective and toxic dose.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_169",
+    "question": "Route giving fastest drug action:",
+    "options": [
+      "Oral",
+      "Intravenous",
+      "Rectal",
+      "Topical"
+    ],
+    "answer": "Intravenous",
+    "difficulty": "easy",
+    "explanation": "Direct bloodstream entry.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_170",
+    "question": "Drug interaction may:",
+    "options": [
+      "Always help",
+      "Increase or decrease effect",
+      "No change",
+      "Only increase effect"
+    ],
+    "answer": "Increase or decrease effect",
+    "difficulty": "medium",
+    "explanation": "Drugs may alter each other’s action.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_171",
+    "question": "Synergistic drug effect is:",
+    "options": [
+      "Opposite action",
+      "Combined increased effect",
+      "No effect",
+      "Toxic effect only"
+    ],
+    "answer": "Combined increased effect",
+    "difficulty": "medium",
+    "explanation": "Two drugs enhance each other.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_172",
+    "question": "Antagonistic drug effect is:",
+    "options": [
+      "Same effect",
+      "Opposite effect",
+      "No effect",
+      "Increased absorption"
+    ],
+    "answer": "Opposite effect",
+    "difficulty": "medium",
+    "explanation": "One blocks another.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_173",
+    "question": "Drug allergy may cause:",
+    "options": [
+      "Headache only",
+      "Rash, anaphylaxis",
+      "No symptoms",
+      "Only fever"
+    ],
+    "answer": "Rash, anaphylaxis",
+    "difficulty": "medium",
+    "explanation": "Immune response reaction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_174",
+    "question": "Emergency drug for anaphylaxis:",
+    "options": [
+      "Paracetamol",
+      "Adrenaline",
+      "Insulin",
+      "ORS"
+    ],
+    "answer": "Adrenaline",
+    "difficulty": "easy",
+    "explanation": "Life-saving drug.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_175",
+    "question": "Drug dose depends on:",
+    "options": [
+      "Age, weight",
+      "Hair color",
+      "Height only",
+      "Skin color"
+    ],
+    "answer": "Age, weight",
+    "difficulty": "easy",
+    "explanation": "Patient-specific factors.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_176",
+    "question": "Pediatric dose is usually:",
+    "options": [
+      "Same as adult",
+      "Lower than adult",
+      "Higher than adult",
+      "Random"
+    ],
+    "answer": "Lower than adult",
+    "difficulty": "easy",
+    "explanation": "Based on body weight.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_177",
+    "question": "Geriatric patients need:",
+    "options": [
+      "Higher dose",
+      "Lower dose",
+      "No dose",
+      "Same dose always"
+    ],
+    "answer": "Lower dose",
+    "difficulty": "medium",
+    "explanation": "Reduced metabolism.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_178",
+    "question": "Drug prescription error may cause:",
+    "options": [
+      "No harm",
+      "Adverse effects",
+      "Better outcome",
+      "No change"
+    ],
+    "answer": "Adverse effects",
+    "difficulty": "easy",
+    "explanation": "Can be dangerous.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_179",
+    "question": "Safe medication administration follows:",
+    "options": [
+      "5 rights",
+      "2 rights",
+      "No rules",
+      "Random method"
+    ],
+    "answer": "5 rights",
+    "difficulty": "easy",
+    "explanation": "Right patient, drug, dose, route, time.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  },
+  {
+    "id": "PH_180",
+    "question": "Final goal of pharmacology:",
+    "options": [
+      "Drug marketing",
+      "Patient safety and cure",
+      "Drug production only",
+      "Research only"
+    ],
+    "answer": "Patient safety and cure",
+    "difficulty": "easy",
+    "explanation": "Core nursing objective.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PHARMACOLOGY_BASICS"
+  }
+]
