@@ -12,7 +12,7 @@ logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=lo
 logger = logging.getLogger(__name__)
 
 # ------------------------- CONFIG -------------------------
-BOT_TOKEN = "8659698523:AAHZ2AZAOK62Aqau9UGIhsSUW4XmEeHai3c"
+BOT_TOKEN = "8636252501:AAEFLhyuYCEUnXitRcQrHxCmoSj3h3qgs_U"
 ADMIN_IDS = [2067674349]               
 QUESTIONS_FOLDER = "questions"        
 DB_FILE = "bot.db"
