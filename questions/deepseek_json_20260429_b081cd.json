@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "OBG_301",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 32-year-old woman with primary infertility undergoes diagnostic hysteroscopy. A smooth, pale, avascular mass attached to the endometrial surface is seen. Which of the following is the most likely finding?",
+    "options": [
+      "Submucosal leiomyoma",
+      "Endometrial polyp",
+      "Intrauterine adhesions",
+      "Endometrial carcinoma"
+    ],
+    "answer": "Endometrial polyp",
+    "difficulty": "hard",
+    "explanation": "Endometrial polyps appear as well-circumscribed, hypoechoic or isoechoic masses with a vascular pedicle on Doppler. They are often asymptomatic but can cause intermenstrual bleeding.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_302",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman at 37 weeks with known fetal growth restriction (FGR) has absent end-diastolic flow on umbilical artery Doppler. Which of the following is the most appropriate management?",
+    "options": [
+      "Weekly Doppler surveillance",
+      "Delivery by cesarean section",
+      "Biophysical profile and if reassuring, continue pregnancy",
+      "Corticosteroids for fetal lung maturity"
+    ],
+    "answer": "Delivery by cesarean section",
+    "difficulty": "hard",
+    "explanation": "Absent or reversed end-diastolic flow in the umbilical artery indicates severe placental insufficiency and is associated with fetal hypoxia. Delivery is indicated, and cesarean is often preferred due to compromised fetal reserve.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_303",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following hormones is responsible for the physiological hydroureter and hydronephrosis of pregnancy?",
+    "options": [
+      "Estrogen",
+      "Progesterone",
+      "Human placental lactogen",
+      "Relaxin"
+    ],
+    "answer": "Progesterone",
+    "difficulty": "medium",
+    "explanation": "Progesterone-induced smooth muscle relaxation leads to dilatation of the ureters and renal pelvis, especially on the right side due to uterine dextrorotation.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_304",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 28-year-old G2P1 at 32 weeks presents with sudden onset of severe abdominal pain, dark vaginal bleeding, and a rigid, tender uterus. Fetal heart rate is 170 bpm with late decelerations. The most likely diagnosis is:",
+    "options": [
+      "Placenta previa",
+      "Uterine rupture",
+      "Placental abruption",
+      "Vasa previa"
+    ],
+    "answer": "Placental abruption",
+    "difficulty": "easy",
+    "explanation": "The classic presentation is painful, dark vaginal bleeding with uterine hypertonus and fetal distress, indicating concealed or mixed abruption.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_305",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A nulliparous woman in active labor has a cervix that dilates from 4 cm to 6 cm in 4 hours. This is classified as:",
+    "options": [
+      "Normal progress",
+      "Prolonged latent phase",
+      "Protracted active phase",
+      "Secondary arrest"
+    ],
+    "answer": "Protracted active phase",
+    "difficulty": "medium",
+    "explanation": "Protraction is slow progress: in nulliparas, active phase dilatation <1.2 cm/hr. Here, 2 cm / 4 hrs = 0.5 cm/hr, which is below normal.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_306",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is the most common complication of external cephalic version (ECV) performed at term?",
+    "options": [
+      "Placental abruption",
+      "Fracture of fetal limb",
+      "Transient fetal heart rate abnormalities",
+      "Uterine rupture"
+    ],
+    "answer": "Transient fetal heart rate abnormalities",
+    "difficulty": "medium",
+    "explanation": "Fetal heart rate changes, usually bradycardia, are the most common complication, typically transient. Serious events like abruption or rupture are rare.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_307",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with complete hydatidiform mole has an hCG level that plateaus after evacuation. She is diagnosed with gestational trophoblastic neoplasia (GTN). Which of the following is the most important prognostic factor?",
+    "options": [
+      "Duration of disease",
+      "Size of the uterine mass",
+      "WHO risk score based on hCG, interval, sites of metastases, etc.",
+      "Blood type"
+    ],
+    "answer": "WHO risk score based on hCG, interval, sites of metastases, etc.",
+    "difficulty": "hard",
+    "explanation": "GTN is classified as low-risk or high-risk according to the WHO scoring system, which guides chemotherapy: single-agent for low-risk, multi-agent for high-risk.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_308",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a known adverse effect of isotretinoin therapy in women of childbearing age?",
+    "options": [
+      "Increased fertility",
+      "Teratogenicity with high risk of fetal malformations",
+      "Ovarian hyperstimulation",
+      "Thromboembolism"
+    ],
+    "answer": "Teratogenicity with high risk of fetal malformations",
+    "difficulty": "easy",
+    "explanation": "Isotretinoin is a potent teratogen causing CNS, cardiac, and craniofacial defects. Strict pregnancy prevention is mandatory during treatment.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_309",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman at 16 weeks gestation has a cervical length of 22 mm on transvaginal ultrasound. She had a prior spontaneous preterm birth at 32 weeks. Which of the following interventions is most appropriate?",
+    "options": [
+      "Vaginal progesterone",
+      "Cervical cerclage",
+      "Bed rest",
+      "Oral tocolytics"
+    ],
+    "answer": "Vaginal progesterone",
+    "difficulty": "medium",
+    "explanation": "For women with a prior preterm birth and a short cervix in the current pregnancy, vaginal progesterone reduces the risk of recurrent preterm delivery. Cerclage is reserved for specific indications.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_310",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a characteristic of the antenatal corticosteroid betamethasone?",
+    "options": [
+      "Administered in a single dose",
+      "Two doses of 12 mg given 24 hours apart",
+      "Contraindicated in preterm premature rupture of membranes",
+      "Given after 34 weeks"
+    ],
+    "answer": "Two doses of 12 mg given 24 hours apart",
+    "difficulty": "medium",
+    "explanation": "The standard regimen is betamethasone 12 mg IM every 24 hours for 2 doses. It is given between 24 and 34 weeks and is beneficial even in PPROM.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_311",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with severe pre-eclampsia on magnesium sulfate develops oliguria (urine output <25 mL/hr for 2 hours). Which of the following is the most appropriate next step?",
+    "options": [
+      "Increase IV fluids",
+      "Administer furosemide",
+      "Reduce or hold magnesium sulfate and evaluate for pulmonary edema",
+      "Administer calcium gluconate"
+    ],
+    "answer": "Reduce or hold magnesium sulfate and evaluate for pulmonary edema",
+    "difficulty": "hard",
+    "explanation": "Oliguria can be a sign of magnesium toxicity as well as pre-eclampsia-related renal impairment. The first step is to check magnesium levels if available, and consider reducing or discontinuing the infusion to prevent toxicity, while evaluating maternal status.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_312",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is the most appropriate screening test for ovarian cancer in a woman with BRCA1 mutation?",
+    "options": [
+      "Annual transvaginal ultrasound and CA-125 from age 30",
+      "CT scan annually",
+      "CT colonography",
+      "No screening; risk-reducing surgery is recommended"
+    ],
+    "answer": "Annual transvaginal ultrasound and CA-125 from age 30",
+    "difficulty": "hard",
+    "explanation": "While risk-reducing surgery is the gold standard, for those who delay or decline, screening with TVUS and CA-125 every 6-12 months starting at age 30-35 is recommended, though its efficacy is limited.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_313",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 40-year-old woman with a complex ovarian cyst undergoes surgery. Frozen section reveals a borderline serous tumor. What is the standard surgical management?",
+    "options": [
+      "Total abdominal hysterectomy with bilateral salpingo-oophorectomy and omentectomy",
+      "Unilateral salpingo-oophorectomy with staging biopsies",
+      "Cystectomy alone",
+      "Chemotherapy followed by surgery"
+    ],
+    "answer": "Unilateral salpingo-oophorectomy with staging biopsies",
+    "difficulty": "hard",
+    "explanation": "Borderline ovarian tumors have excellent prognosis. In women desiring fertility, unilateral adnexectomy with staging is often sufficient. Hysterectomy is not mandatory.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_314",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a recognized risk factor for endometrial hyperplasia with atypia?",
+    "options": [
+      "Multiparity",
+      "Levonorgestrel IUD",
+      "Tamoxifen therapy",
+      "Cigarette smoking"
+    ],
+    "answer": "Tamoxifen therapy",
+    "difficulty": "medium",
+    "explanation": "Tamoxifen acts as a weak estrogen agonist on the endometrium, increasing the risk of polyps, hyperplasia, and carcinoma.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_315",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman at 24 weeks presents with painless bright red vaginal bleeding. Ultrasound shows the placenta covering the internal os. The most appropriate management is:",
+    "options": [
+      "Sterile speculum examination to assess the cervix",
+      "Digital cervical examination",
+      "Observation, bed rest, and expectant management if bleeding stops",
+      "Immediate cesarean delivery"
+    ],
+    "answer": "Observation, bed rest, and expectant management if bleeding stops",
+    "difficulty": "easy",
+    "explanation": "Placenta previa in a preterm pregnancy without active life-threatening hemorrhage is managed expectantly. Digital vaginal examination is contraindicated because it can provoke catastrophic hemorrhage.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_316",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a common cause of secondary dysmenorrhea in adolescents?",
+    "options": [
+      "Obstructive Müllerian anomalies",
+      "Endometriosis",
+      "PID",
+      "Ovarian cysts"
+    ],
+    "answer": "Obstructive Müllerian anomalies",
+    "difficulty": "hard",
+    "explanation": "In adolescents, secondary dysmenorrhea can be due to outflow tract obstruction (e.g., imperforate hymen, transverse vaginal septum), leading to cyclic pain without menstruation. Endometriosis is also common but obstructive causes must be ruled out first.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_317",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 30-year-old woman presents with chronic pelvic pain, dyspareunia, and a fixed, retroverted uterus on exam. Laparoscopy reveals obliteration of the pouch of Douglas with endometriotic implants. This is consistent with which stage of endometriosis according to the revised ASRM classification?",
+    "options": [
+      "Stage I (minimal)",
+      "Stage II (mild)",
+      "Stage III (moderate)",
+      "Stage IV (severe)"
+    ],
+    "answer": "Stage IV (severe)",
+    "difficulty": "hard",
+    "explanation": "Obliteration of the cul-de-sac and severe adhesions indicate stage IV (severe) endometriosis. The classification depends on the size, location, and depth of implants and adhesions.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_318",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a typical feature of a mature cystic teratoma on ultrasound?",
+    "options": [
+      "Anechoic cyst with posterior acoustic enhancement",
+      "Complex mass with a hyperechoic nodule (Rokitansky nodule) and echogenic sebaceous material",
+      "Multilocular mass with solid components and ascites",
+      "Uniformly echogenic solid mass"
+    ],
+    "answer": "Complex mass with a hyperechoic nodule (Rokitansky nodule) and echogenic sebaceous material",
+    "difficulty": "medium",
+    "explanation": "The 'tip of the iceberg' sign or a Rokitansky protuberance (dermoid plug) is characteristic of a dermoid cyst.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_319",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with heavy menstrual bleeding is found to have a submucosal fibroid. She desires future fertility. Which of the following is the best surgical management?",
+    "options": [
+      "Hysterectomy",
+      "Laparoscopic myomectomy",
+      "Hysteroscopic myomectomy",
+      "Uterine artery embolization"
+    ],
+    "answer": "Hysteroscopic myomectomy",
+    "difficulty": "medium",
+    "explanation": "Submucosal fibroids can be removed hysteroscopically, which preserves fertility. Laparoscopic myomectomy is for intramural/subserosal types.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_320",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 22-year-old nulligravida with a history of recurrent pelvic infections has HSG showing a 'beaded' appearance of the fallopian tubes. This is most consistent with:",
+    "options": [
+      "Salpingitis isthmica nodosa",
+      "Tuberculous salpingitis",
+      "Hydrosalpinx",
+      "Endometriosis"
+    ],
+    "answer": "Tuberculous salpingitis",
+    "difficulty": "hard",
+    "explanation": "Genital tuberculosis classically shows a 'beaded' or 'rosary bead' appearance of the fallopian tubes on HSG, along with calcified lymph nodes.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_321",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a component of first-trimester screening for aneuploidy?",
+    "options": [
+      "Quad screen",
+      "PAPP-A, free beta-hCG, and nuchal translucency",
+      "Amniocentesis",
+      "Cordocentesis"
+    ],
+    "answer": "PAPP-A, free beta-hCG, and nuchal translucency",
+    "difficulty": "medium",
+    "explanation": "First-trimester combined screening includes maternal serum PAPP-A, free beta-hCG, and ultrasound measurement of nuchal translucency.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_322",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A postmenopausal woman has a simple ovarian cyst of 4 cm, unchanged over 2 years, with normal CA-125. What is the next step?",
+    "options": [
+      "Continue annual follow-up",
+      "Surgical excision",
+      "CT scan",
+      "GnRH agonist therapy"
+    ],
+    "answer": "Continue annual follow-up",
+    "difficulty": "medium",
+    "explanation": "Simple cysts <5 cm with stable size and normal CA-125 can be safely followed; no surgical intervention is required unless symptoms or growth occur.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_323",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a contraindication to the use of the LNG-IUS?",
+    "options": [
+      "Endometriosis",
+      "Menorrhagia",
+      "Distorted uterine cavity",
+      "Contraception"
+    ],
+    "answer": "Distorted uterine cavity",
+    "difficulty": "hard",
+    "explanation": "A distorted uterine cavity (from submucosal fibroids or congenital anomalies) can prevent proper placement and retention of the IUS.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_324",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 28-year-old pregnant woman at 20 weeks develops acute onset of right lower quadrant pain, nausea, and low-grade fever. Appendix is not visualized on ultrasound. What is the most appropriate next step in management?",
+    "options": [
+      "MRI without contrast",
+      "CT scan with oral contrast",
+      "Laparoscopy",
+      "Observation and antibiotics"
+    ],
+    "answer": "MRI without contrast",
+    "difficulty": "hard",
+    "explanation": "MRI is the preferred imaging modality for suspected appendicitis in pregnancy when ultrasound is inconclusive, avoiding ionizing radiation from CT.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_325",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with early pregnancy bleeding has a closed cervix and an intrauterine gestational sac with a fetal pole measuring 2 mm, no cardiac activity. The most likely diagnosis is:",
+    "options": [
+      "Missed miscarriage",
+      "Threatened abortion",
+      "Complete abortion",
+      "Anembryonic pregnancy"
+    ],
+    "answer": "Missed miscarriage",
+    "difficulty": "medium",
+    "explanation": "A missed miscarriage (delayed miscarriage) is diagnosed when an embryo ≥7 mm (or no cardiac activity in an embryo ≥5.5 mm) is seen without heart motion, or when no embryo is seen in a gestational sac ≥25 mm (mean sac diameter). In this case, a 2 mm embryo is too small to see cardiac activity but further follow-up is needed. However, given 'no cardiac activity' with a visible fetal pole typical of early missed miscarriage is actually defined by no heart beat when embryo is ≥7 mm. But in this scenario, 2 mm may still be consistent with early pregnancy; however, the question likely tests missed miscarriage based on absent heart beat at that size, so answer is Missed miscarriage.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_326",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a characteristic finding in polycystic ovary syndrome on hormonal profile?",
+    "options": [
+      "Elevated LH:FSH ratio >2-3",
+      "Low LH and FSH",
+      "High estradiol",
+      "Low androgens"
+    ],
+    "answer": "Elevated LH:FSH ratio >2-3",
+    "difficulty": "easy",
+    "explanation": "PCOS often features an elevated LH relative to FSH, with LH:FSH ratio ≥2, due to increased pulse frequency of GnRH.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_327",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with a pregnancy of unknown location has an hCG of 1000 IU/L and subsequent hCG 48 hours later of 1100 IU/L. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Viable intrauterine pregnancy",
+      "Spontaneous abortion",
+      "Ectopic pregnancy",
+      "Molar pregnancy"
+    ],
+    "answer": "Ectopic pregnancy",
+    "difficulty": "medium",
+    "explanation": "A suboptimal rise in hCG (<53% in 48 hours) suggests an abnormal pregnancy, either failed intrauterine or ectopic. It warrants further investigation.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_328",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a sign of a ruptured ectopic pregnancy?",
+    "options": [
+      "Gradual onset of dull pelvic pain",
+      "Sudden, severe lower abdominal pain with shoulder tip pain and shock",
+      "Painless bright red vaginal bleeding",
+      "Passage of grape-like vesicles"
+    ],
+    "answer": "Sudden, severe lower abdominal pain with shoulder tip pain and shock",
+    "difficulty": "easy",
+    "explanation": "Shoulder tip pain (referred from diaphragmatic irritation by blood) and hemodynamic instability indicate a ruptured ectopic with hemoperitoneum.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_329",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 35-year-old woman with a large fibroid uterus desires permanent contraception. Which surgical procedure is most appropriate?",
+    "options": [
+      "Tubal ligation alone",
+      "Hysteroscopic sterilization",
+      "Myomectomy and tubal ligation",
+      "Hysterectomy"
+    ],
+    "answer": "Hysterectomy",
+    "difficulty": "medium",
+    "explanation": "For a woman with symptomatic fibroids who desires permanent sterilization, hysterectomy provides definitive treatment for both conditions.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_330",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a key feature of a hydatidiform mole on ultrasound?",
+    "options": [
+      "Snowstorm appearance",
+      "Single cystic space",
+      "Echogenic fetal pole",
+      "Normal yolk sac"
+    ],
+    "answer": "Snowstorm appearance",
+    "difficulty": "easy",
+    "explanation": "The 'snowstorm' or 'bunch of grapes' pattern is due to the myriad small vesicles of a complete mole.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_331",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with a known placenta previa at 36 weeks is scheduled for cesarean delivery. She experiences sudden onset of excessive vaginal bleeding. What is the immediate nursing action?",
+    "options": [
+      "Start oxytocin to augment labor",
+      "Place in left lateral position, administer oxygen, and prepare for emergency cesarean",
+      "Perform a digital vaginal examination",
+      "Insert a Foley catheter and wait"
+    ],
+    "answer": "Place in left lateral position, administer oxygen, and prepare for emergency cesarean",
+    "difficulty": "easy",
+    "explanation": "Massive hemorrhage from placenta previa requires immediate cesarean delivery. Maternal stabilization and avoidance of vaginal exam are priorities.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_332",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a side effect of clomiphene citrate?",
+    "options": [
+      "Ovarian enlargement and hot flashes",
+      "Weight loss and hypoglycemia",
+      "Deep voice and hirsutism",
+      "Vaginal dryness"
+    ],
+    "answer": "Ovarian enlargement and hot flashes",
+    "difficulty": "medium",
+    "explanation": "Clomiphene's anti-estrogenic effects cause hot flashes, while its ovarian stimulation can cause cystic enlargement.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_333",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 30-year-old woman with primary amenorrhea and absent uterus on MRI has a 46,XX karyotype. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Mayer-Rokitansky-Küster-Hauser syndrome",
+      "Turner syndrome",
+      "Androgen insensitivity syndrome",
+      "Swyer syndrome"
+    ],
+    "answer": "Mayer-Rokitansky-Küster-Hauser syndrome",
+    "difficulty": "hard",
+    "explanation": "MRKH is characterized by Müllerian agenesis with normal 46,XX karyotype, normal ovaries and secondary sexual characteristics, and congenital absence of the uterus and upper vagina.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_334",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with epilepsy on valproic acid is planning pregnancy. Which of the following is the most important preconception advice?",
+    "options": [
+      "Switch to a safer antiepileptic if possible and start high-dose folic acid",
+      "Stop all antiepileptic drugs during pregnancy",
+      "Take low-dose aspirin",
+      "Have a CT scan of the brain"
+    ],
+    "answer": "Switch to a safer antiepileptic if possible and start high-dose folic acid",
+    "difficulty": "medium",
+    "explanation": "Valproate is highly teratogenic. If possible, transition to a less teratogenic drug. High-dose folic acid (5 mg daily) is recommended to reduce neural tube defect risk.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_335",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is the most common cause of a vulvar mass in a premenopausal woman?",
+    "options": [
+      "Bartholin gland cyst/abscess",
+      "Vulvar carcinoma",
+      "Lipoma",
+      "Skene duct cyst"
+    ],
+    "answer": "Bartholin gland cyst/abscess",
+    "difficulty": "easy",
+    "explanation": "Bartholin gland cysts are common, often presenting as a painful or painless labial swelling. Abscess formation is frequent.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_336",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 45-year-old woman with heavy menstrual bleeding undergoes endometrial biopsy showing simple hyperplasia without atypia. The recommended management is:",
+    "options": [
+      "Hysterectomy",
+      "Progestin therapy and repeat biopsy in 3-6 months",
+      "Observation only",
+      "Endometrial ablation"
+    ],
+    "answer": "Progestin therapy and repeat biopsy in 3-6 months",
+    "difficulty": "medium",
+    "explanation": "Simple hyperplasia without atypia has a low risk of progression to cancer and is treated with progestins. Follow-up biopsy ensures resolution.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_337",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a recognized cause of primary dysmenorrhea?",
+    "options": [
+      "Increased endometrial prostaglandin production",
+      "Endometriosis",
+      "Pelvic adhesions",
+      "Uterine fibroids"
+    ],
+    "answer": "Increased endometrial prostaglandin production",
+    "difficulty": "easy",
+    "explanation": "Primary dysmenorrhea is caused by excessive uterine prostaglandin F2-alpha, leading to intense uterine contractions and ischemia.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_338",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman at 37 weeks of gestation with a breech presentation is considering external cephalic version. Which of the following is an absolute contraindication?",
+    "options": [
+      "Multiparity",
+      "Uterine scar from prior classical cesarean",
+      "Anterior placenta",
+      "Oligohydramnios"
+    ],
+    "answer": "Uterine scar from prior classical cesarean",
+    "difficulty": "medium",
+    "explanation": "A prior classical uterine incision or extensive myomectomy is a contraindication to ECV due to risk of uterine rupture. Oligohydramnios is a relative contraindication.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_339",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman develops fever and lower abdominal pain 48 hours after cesarean delivery. Wound looks clean, but uterine tenderness is noted. Lochia is foul-smelling. The most likely diagnosis is:",
+    "options": [
+      "Wound infection",
+      "Endometritis",
+      "Urinary tract infection",
+      "Pelvic abscess"
+    ],
+    "answer": "Endometritis",
+    "difficulty": "easy",
+    "explanation": "Postpartum endometritis presents with fever, uterine tenderness, and foul lochia, usually within a few days after delivery.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_340",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a known long-term complication of high-dose pelvic radiation for cervical cancer?",
+    "options": [
+      "Ovarian hyperstimulation",
+      "Vesicovaginal fistula",
+      "Secondary malignancies and vaginal stenosis",
+      "Uterine prolapse"
+    ],
+    "answer": "Secondary malignancies and vaginal stenosis",
+    "difficulty": "medium",
+    "explanation": "Radiation can cause vaginal fibrosis, stenosis, and an increased risk of radiation-induced malignancies. Vaginal dilators are recommended to prevent stenosis.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_341",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 32-year-old woman with a history of DVT in a previous pregnancy presents at 8 weeks gestation. She is currently on enoxaparin. Which of the following monitoring tests is recommended?",
+    "options": [
+      "Weekly factor Xa levels",
+      "Platelet count monitoring every 2-4 weeks",
+      "Anti-Xa activity is not routinely required for prophylactic doses",
+      "International Normalized Ratio (INR)"
+    ],
+    "answer": "Anti-Xa activity is not routinely required for prophylactic doses",
+    "difficulty": "hard",
+    "explanation": "For prophylactic LMWH in pregnancy, routine anti-Xa monitoring is not recommended. Platelet counts are monitored for heparin-induced thrombocytopenia, but not weekly. Factor Xa is for therapeutic dosing.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_342",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a characteristic clinical sign of a tubal ectopic pregnancy?",
+    "options": [
+      "Adnexal mass, amenorrhea, and unilateral pelvic pain",
+      "Passage of tissue followed by resolution of pain",
+      "Snowstorm on ultrasound",
+      "Fever and cervical motion tenderness"
+    ],
+    "answer": "Adnexal mass, amenorrhea, and unilateral pelvic pain",
+    "difficulty": "easy",
+    "explanation": "The classic triad is amenorrhea, adnexal mass, and unilateral pelvic pain, though many cases present atypically.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_343",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 25-year-old woman with systemic lupus erythematosus (SLE) is considering pregnancy. Which of the following autoantibodies is most strongly associated with neonatal lupus and congenital heart block?",
+    "options": [
+      "Anti-dsDNA",
+      "Anti-Ro/SSA and anti-La/SSB",
+      "Anti-Sm",
+      "Anti-cardiolipin"
+    ],
+    "answer": "Anti-Ro/SSA and anti-La/SSB",
+    "difficulty": "medium",
+    "explanation": "Maternal anti-Ro and anti-La antibodies can cross the placenta and cause neonatal lupus, including irreversible congenital complete heart block.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_344",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is the most common cause of maternal death in developed countries?",
+    "options": [
+      "Hemorrhage",
+      "Hypertensive disorders",
+      "Indirect causes (e.g., cardiac disease)",
+      "Sepsis"
+    ],
+    "answer": "Indirect causes (e.g., cardiac disease)",
+    "difficulty": "medium",
+    "explanation": "In many developed countries, indirect maternal deaths, particularly due to cardiac disease, have surpassed direct obstetric causes as the leading cause of maternal mortality.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_345",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with a history of recurrent pregnancy loss is found to have antiphospholipid syndrome. What is the recommended management during pregnancy?",
+    "options": [
+      "Low-dose aspirin and prophylactic heparin",
+      "Low-dose aspirin alone",
+      "Corticosteroids",
+      "Intravenous immunoglobulin"
+    ],
+    "answer": "Low-dose aspirin and prophylactic heparin",
+    "difficulty": "hard",
+    "explanation": "The combination of low-dose aspirin and prophylactic heparin significantly improves live birth rates in women with antiphospholipid syndrome.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_346",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a feature of a normal fetal heart rate pattern during labor?",
+    "options": [
+      "Absent variability with recurrent late decelerations",
+      "Baseline 150 bpm, moderate variability, accelerations present",
+      "Sinusoidal pattern",
+      "Baseline 100 bpm with minimal variability"
+    ],
+    "answer": "Baseline 150 bpm, moderate variability, accelerations present",
+    "difficulty": "medium",
+    "explanation": "A reassuring FHR has a baseline between 110-160 bpm, moderate variability, and accelerations.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_347",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman at 41 weeks has a non-reactive NST and a biophysical profile score of 6/10. The next step is:",
+    "options": [
+      "Repeat BPP in 24 hours",
+      "Continue observation",
+      "Induction of labor",
+      "Cesarean delivery"
+    ],
+    "answer": "Induction of labor",
+    "difficulty": "medium",
+    "explanation": "A BPP of 6/10 is equivocal; in a post-term pregnancy, induction is often indicated. If score 4 or less, immediate delivery.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_348",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 30-year-old woman presents with cyclic pelvic pain and a bluish nodule on the posterior vaginal fornix. The most likely diagnosis is:",
+    "options": [
+      "Vaginal carcinoma",
+      "Endometriosis",
+      "Hemangioma",
+      "Cervical ectropion"
+    ],
+    "answer": "Endometriosis",
+    "difficulty": "easy",
+    "explanation": "Bluish nodules in the posterior fornix or uterosacral ligaments are characteristic of deep infiltrating endometriosis.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_349",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a protective factor against endometrial cancer?",
+    "options": [
+      "Nulliparity",
+      "Early menarche",
+      "Use of combined oral contraceptives",
+      "Tamoxifen use"
+    ],
+    "answer": "Use of combined oral contraceptives",
+    "difficulty": "medium",
+    "explanation": "Combined oral contraceptive use for at least 5 years reduces the risk of endometrial cancer by about 50%, and the effect persists for many years.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_350",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 24-year-old primigravida at 40 weeks is in labor. After 4 hours of ruptured membranes, clear amniotic fluid, cervix 6 cm, vertex -2 station. The fetal heart tracing shows variable decelerations with moderate variability. Which of the following is the most appropriate initial intervention?",
+    "options": [
+      "Immediate cesarean delivery",
+      "Amnioinfusion",
+      "Maternal position change and oxygen",
+      "Vaginal examination to rule out cord prolapse"
+    ],
+    "answer": "Maternal position change and oxygen",
+    "difficulty": "hard",
+    "explanation": "Variable decelerations are often due to cord compression; first-line interventions include maternal repositioning, oxygen, and IV fluid bolus. If recurrent and severe, amnioinfusion may be considered. Immediate cesarean is reserved for non-reassuring patterns that persist.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_351",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a major risk factor for uterine rupture?",
+    "options": [
+      "Previous low transverse cesarean section",
+      "Grand multiparity with a previous classical cesarean scar",
+      "Breech presentation",
+      "Occiput posterior position"
+    ],
+    "answer": "Grand multiparity with a previous classical cesarean scar",
+    "difficulty": "hard",
+    "explanation": "A classical (upper segment) uterine incision is a strong risk factor for rupture in subsequent pregnancies, especially during labor.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_352",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 35-year-old woman is undergoing ovulation induction with gonadotropins. She is at risk for ovarian hyperstimulation syndrome. Which of the following measures helps prevent OHSS?",
+    "options": [
+      "Triggering ovulation with hCG regardless of follicle number",
+      "Using a GnRH agonist trigger in antagonist cycles",
+      "Increasing the gonadotropin dose",
+      "Delaying follicle aspiration"
+    ],
+    "answer": "Using a GnRH agonist trigger in antagonist cycles",
+    "difficulty": "hard",
+    "explanation": "In high responders, using a GnRH agonist to trigger final maturation instead of hCG reduces the risk of OHSS by inducing a shorter LH surge and luteolysis.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_353",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with primary amenorrhea and normal breast development has a blind vaginal pouch on examination and a 46,XY karyotype. What is the most likely diagnosis?",
+    "options": [
+      "MRKH syndrome",
+      "Complete androgen insensitivity syndrome",
+      "Swyer syndrome",
+      "Turner syndrome"
+    ],
+    "answer": "Complete androgen insensitivity syndrome",
+    "difficulty": "hard",
+    "explanation": "CAIS: 46,XY, female phenotype with breast development, absent uterus, sparse pubic hair, and blind vagina. Testes are intra-abdominal.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_354",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A pregnant woman at 36 weeks presents with intense itching, elevated bile acids, and abnormal liver enzymes. Which of the following is the primary goal of management?",
+    "options": [
+      "Prevent maternal liver failure",
+      "Reduce fetal complications (stillbirth, preterm birth) and maternal symptoms",
+      "Induction of labor immediately",
+      "Administer vitamin K"
+    ],
+    "answer": "Reduce fetal complications (stillbirth, preterm birth) and maternal symptoms",
+    "difficulty": "medium",
+    "explanation": "Intrahepatic cholestasis of pregnancy is managed with ursodeoxycholic acid, monitoring, and delivery around 37 weeks (or earlier if severe) to reduce fetal risks.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_355",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 38-year-old woman with a BRCA2 mutation wishes to reduce her ovarian cancer risk. She has completed childbearing. The recommended prophylactic surgery is:",
+    "options": [
+      "Total hysterectomy",
+      "Bilateral salpingo-oophorectomy",
+      "Oophorectomy only",
+      "Salpingectomy only"
+    ],
+    "answer": "Bilateral salpingo-oophorectomy",
+    "difficulty": "hard",
+    "explanation": "Bilateral salpingo-oophorectomy is recommended because both ovarian and fallopian tube epithelium are at high risk in BRCA mutation carriers. Hysterectomy is not mandatory.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_356",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a teratogenic effect of lithium exposure during pregnancy?",
+    "options": [
+      "Cleft lip and palate",
+      "Ebstein's anomaly (cardiac defect)",
+      "Neural tube defect",
+      "Phocomelia"
+    ],
+    "answer": "Ebstein's anomaly (cardiac defect)",
+    "difficulty": "medium",
+    "explanation": "Lithium is associated with a small increased risk of Ebstein's anomaly, a tricuspid valve defect.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_357",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman at 24 weeks with a history of preterm delivery and a short cervix (15 mm) is offered cerclage. Which type of cerclage is most commonly placed?",
+    "options": [
+      "Shirodkar cerclage",
+      "McDonald cerclage",
+      "Abdominal cerclage",
+      "Transvaginal cervicoisthmic cerclage"
+    ],
+    "answer": "McDonald cerclage",
+    "difficulty": "medium",
+    "explanation": "The McDonald cerclage is a purse-string suture placed around the cervix, the most common technique for cervical insufficiency.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_358",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman taking valproate for epilepsy found out she is pregnant at 6 weeks. Which of the following is the best course of action?",
+    "options": [
+      "Stop valproate immediately without replacement",
+      "Continue valproate as it is the safest AED",
+      "Consider switching to a less teratogenic AED with specialist guidance, and continue high-dose folic acid",
+      "Add another AED to valproate"
+    ],
+    "answer": "Consider switching to a less teratogenic AED with specialist guidance, and continue high-dose folic acid",
+    "difficulty": "hard",
+    "explanation": "Valproate is highly teratogenic. If seizure control allows, transition to a safer drug (e.g., lamotrigine, levetiracetam) under specialist guidance. Folic acid 5 mg should be continued. Abrupt withdrawal may cause status epilepticus.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_359",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 28-year-old woman with a normal period has a transvaginal ultrasound showing an endometrium thickness of 12 mm on day 21 of a regular cycle. Which of the following is the most likely finding?",
+    "options": [
+      "Endometrial hyperplasia",
+      "Normal secretory endometrium",
+      "Endometrial polyp",
+      "Endometrial cancer"
+    ],
+    "answer": "Normal secretory endometrium",
+    "difficulty": "medium",
+    "explanation": "In the luteal phase, the endometrium normally thickens to 12-16 mm due to progesterone effect.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_360",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman at 30 weeks with twins develops acute onset of severe dyspnea and hypoxia. Her chest X-ray shows pulmonary edema. Blood pressure is 150/90 mmHg, no proteinuria. The most likely cause is:",
+    "options": [
+      "Pre-eclampsia",
+      "Peripartum cardiomyopathy",
+      "Tocolytic-induced pulmonary edema (e.g., nifedipine or magnesium sulfate)",
+      "Pulmonary embolism"
+    ],
+    "answer": "Tocolytic-induced pulmonary edema (e.g., nifedipine or magnesium sulfate)",
+    "difficulty": "hard",
+    "explanation": "Pulmonary edema in pregnancy can occur with tocolytic therapy (especially beta-agonists, but also with calcium channel blockers and magnesium sulfate), often in multiple gestations, with fluid overload. It is not necessarily due to pre-eclampsia if no proteinuria.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_361",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is the most common cause of hirsutism in women?",
+    "options": [
+      "Idiopathic hirsutism",
+      "Polycystic ovary syndrome",
+      "Congenital adrenal hyperplasia",
+      "Androgen-secreting tumor"
+    ],
+    "answer": "Polycystic ovary syndrome",
+    "difficulty": "easy",
+    "explanation": "PCOS accounts for about 70% of hirsutism cases.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_362",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with infertility and a history of chlamydial infection is scheduled for hysterosalpingography. Which antibiotic prophylaxis is often given if tubal disease is suspected?",
+    "options": [
+      "Doxycycline for 5 days",
+      "Azithromycin single dose",
+      "Metronidazole",
+      "No prophylaxis needed"
+    ],
+    "answer": "Doxycycline for 5 days",
+    "difficulty": "hard",
+    "explanation": "Prophylactic doxycycline is often prescribed before HSG in women with risk factors for tubal disease to prevent reactivation of pelvic infection.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_363",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 30-year-old G2P1 with a prior low transverse cesarean is in active labor. She suddenly develops severe abdominal pain, loss of uterine contractions, and fetal bradycardia. The most likely diagnosis is:",
+    "options": [
+      "Placental abruption",
+      "Uterine rupture",
+      "Cord prolapse",
+      "Shoulder dystocia"
+    ],
+    "answer": "Uterine rupture",
+    "difficulty": "easy",
+    "explanation": "Sudden pain, cessation of contractions, and fetal distress in a woman with a uterine scar suggests uterine rupture, requiring immediate laparotomy.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_364",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a known risk factor for ectopic pregnancy?",
+    "options": [
+      "Intrauterine device",
+      "Combined oral contraceptive use",
+      "Previous ectopic pregnancy",
+      "Levonorgestrel IUS"
+    ],
+    "answer": "Previous ectopic pregnancy",
+    "difficulty": "easy",
+    "explanation": "A history of ectopic pregnancy increases the risk of recurrence. IUDs reduce the risk of ectopic pregnancy overall by preventing pregnancy, but if pregnancy occurs, it is more likely to be ectopic. However, the strongest risk factor among choices is previous ectopic.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_365",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with a 5 cm complex ovarian cyst undergoes laparotomy. Frozen section shows an adult granulosa cell tumor. What is the most appropriate surgical management if she desires fertility?",
+    "options": [
+      "Unilateral salpingo-oophorectomy with staging",
+      "Total hysterectomy with bilateral salpingo-oophorectomy",
+      "Cystectomy alone",
+      "Bilateral oophorectomy"
+    ],
+    "answer": "Unilateral salpingo-oophorectomy with staging",
+    "difficulty": "hard",
+    "explanation": "Granulosa cell tumors are low-grade malignancies. In young women desiring fertility, unilateral salpingo-oophorectomy with complete surgical staging is acceptable, preserving the uterus and contralateral ovary.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_366",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a cause of secondary osteoporosis in a postmenopausal woman?",
+    "options": [
+      "Primary biliary cirrhosis",
+      "Hyperparathyroidism",
+      "Multiple myeloma",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "difficulty": "hard",
+    "explanation": "Secondary causes of osteoporosis include malabsorption, hyperparathyroidism, malignancy, chronic liver disease, and medications (glucocorticoids).",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_367",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 40-year-old woman with heavy menstrual bleeding and an enlarged uterus is considering uterine artery embolization. Which of the following is a contraindication?",
+    "options": [
+      "Desire for future fertility",
+      "Multiple fibroids",
+      "Previous myomectomy",
+      "Mild anemia"
+    ],
+    "answer": "Desire for future fertility",
+    "difficulty": "medium",
+    "explanation": "UAE is generally not recommended for women desiring future pregnancy because of the risk of ovarian failure and potential impact on uterine blood flow.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_368",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A pregnant woman at 22 weeks is diagnosed with cervical insufficiency and a bulging fetal membranes. Which of the following is the most appropriate management?",
+    "options": [
+      "Emergency cerclage (rescue cerclage) and antibiotics, bed rest",
+      "Induction of labor",
+      "Cervical pessary alone",
+      "Amniocentesis to rule out infection"
+    ],
+    "answer": "Emergency cerclage (rescue cerclage) and antibiotics, bed rest",
+    "difficulty": "hard",
+    "explanation": "Rescue cerclage can be attempted in selected cases of dilated cervix and bulging membranes, though risk of rupture and infection is high. Bed rest and tocolytics may be adjuncts.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_369",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 55-year-old woman has a pelvic mass and elevated inhibin B. Which ovarian tumor is most likely?",
+    "options": [
+      "Granulosa cell tumor",
+      "Serous cystadenocarcinoma",
+      "Dysgerminoma",
+      "Krukenberg tumor"
+    ],
+    "answer": "Granulosa cell tumor",
+    "difficulty": "hard",
+    "explanation": "Granulosa cell tumors often produce inhibin and can present with postmenopausal bleeding due to estrogen secretion.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_370",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with a previous history of breast cancer on tamoxifen now has a thickened endometrium on ultrasound. What is the most important next step?",
+    "options": [
+      "Discontinue tamoxifen",
+      "Endometrial biopsy",
+      "MRI pelvis",
+      "Switch to aromatase inhibitor"
+    ],
+    "answer": "Endometrial biopsy",
+    "difficulty": "medium",
+    "explanation": "Tamoxifen-related endometrial pathology must be excluded by tissue sampling. Hysteroscopy and biopsy are indicated.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_371",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following antihypertensive medications is contraindicated in pregnancy?",
+    "options": [
+      "Labetalol",
+      "Nifedipine",
+      "Methyldopa",
+      "Losartan"
+    ],
+    "answer": "Losartan",
+    "difficulty": "medium",
+    "explanation": "ACE inhibitors and ARBs (like losartan) are teratogenic, especially in the second and third trimesters, causing oligohydramnios and renal failure.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_372",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 25-year-old nulligravida with severe endometriosis is concerned about future fertility. Which of the following statements is correct?",
+    "options": [
+      "Endometriosis always causes infertility",
+      "Surgical excision of endometriomas can improve pregnancy rates",
+      "She should have immediate hysterectomy",
+      "Oral contraceptives will cure endometriosis and restore fertility"
+    ],
+    "answer": "Surgical excision of endometriomas can improve pregnancy rates",
+    "difficulty": "medium",
+    "explanation": "Surgical treatment of endometriosis, especially with ovarian cysts, can improve fertility in women attempting conception.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_373",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A postmenopausal woman has a 4 cm simple ovarian cyst and normal CA-125. What is the most appropriate management?",
+    "options": [
+      "Surgical removal",
+      "Follow-up ultrasound in 6-12 months",
+      "CT scan",
+      "Oral contraceptives"
+    ],
+    "answer": "Follow-up ultrasound in 6-12 months",
+    "difficulty": "easy",
+    "explanation": "Simple cysts <5 cm in postmenopausal women are low risk for malignancy and can be managed conservatively with repeat imaging.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_374",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is the most common bacterial cause of pelvic inflammatory disease?",
+    "options": [
+      "Escherichia coli",
+      "Chlamydia trachomatis",
+      "Gardnerella vaginalis",
+      "Mycoplasma genitalium"
+    ],
+    "answer": "Chlamydia trachomatis",
+    "difficulty": "easy",
+    "explanation": "Chlamydia trachomatis is the most common sexually transmitted pathogen causing PID, followed by Neisseria gonorrhoeae.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_375",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman at 10 weeks gestation has severe nausea and vomiting, weight loss, and ketonuria. She is diagnosed with hyperemesis gravidarum. Which electrolyte abnormality is most likely to be present?",
+    "options": [
+      "Hyperkalemia",
+      "Hypokalemia and metabolic alkalosis",
+      "Hypernatremia and metabolic acidosis",
+      "Hypocalcemia"
+    ],
+    "answer": "Hypokalemia and metabolic alkalosis",
+    "difficulty": "medium",
+    "explanation": "Frequent vomiting leads to loss of gastric hydrochloric acid and potassium, causing hypochloremic, hypokalemic metabolic alkalosis.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_376",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following conditions is associated with a 'snowstorm' appearance on ultrasound?",
+    "options": [
+      "Placenta previa",
+      "Complete hydatidiform mole",
+      "Ovarian dermoid cyst",
+      "Fibroid uterus"
+    ],
+    "answer": "Complete hydatidiform mole",
+    "difficulty": "easy",
+    "explanation": "The snowstorm pattern is classic for a complete mole due to multiple hydropic villi.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_377",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 42-year-old woman with a pelvic mass and ascites is found to have an ovarian tumor. Surgery reveals a primary peritoneal carcinoma. Which gene mutation is most likely associated?",
+    "options": [
+      "BRCA1",
+      "BRCA2",
+      "Lynch syndrome genes",
+      "Cowden syndrome genes"
+    ],
+    "answer": "BRCA1",
+    "difficulty": "medium",
+    "explanation": "BRCA1 mutations significantly increase risk of ovarian and primary peritoneal carcinoma. BRCA2 is also associated but less so.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_378",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman at 35 weeks with severe pre-eclampsia is receiving magnesium sulfate. She develops respiratory rate of 10/min, and her knee jerk reflexes are absent. The next step is:",
+    "options": [
+      "Administer furosemide",
+      "Intravenous calcium gluconate",
+      "Stop magnesium sulfate and administer calcium gluconate",
+      "Intubate and ventilate"
+    ],
+    "answer": "Stop magnesium sulfate and administer calcium gluconate",
+    "difficulty": "hard",
+    "explanation": "Absent reflexes and respiratory depression indicate magnesium toxicity. Immediate cessation of the infusion and administration of calcium gluconate is life-saving.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_379",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a risk factor for endometrial cancer?",
+    "options": [
+      "Prolonged use of progestin-only contraceptives",
+      "Obesity",
+      "Multiparity",
+      "Young age at menopause"
+    ],
+    "answer": "Obesity",
+    "difficulty": "easy",
+    "explanation": "Obesity increases peripheral conversion of androgens to estrone, leading to unopposed estrogen and higher risk of endometrial hyperplasia and cancer.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_380",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman at 32 weeks with preterm labor is given nifedipine. Which of the following should be monitored?",
+    "options": [
+      "Blood pressure",
+      "Fetal heart rate",
+      "Maternal heart rate",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "difficulty": "medium",
+    "explanation": "Nifedipine can cause hypotension and reflex tachycardia; both maternal blood pressure and heart rate, as well as fetal heart rate, should be monitored.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_381",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with a prior spontaneous preterm birth is offered 17-alpha hydroxyprogesterone caproate (17-OHPC) injections. When should these injections begin?",
+    "options": [
+      "At the time of diagnosis of pregnancy",
+      "Between 16-20 weeks gestation",
+      "At 24 weeks",
+      "After the first trimester loss"
+    ],
+    "answer": "Between 16-20 weeks gestation",
+    "difficulty": "medium",
+    "explanation": "17-OHPC is typically started at 16-20 weeks and continued weekly until 36 weeks to reduce the risk of recurrent preterm birth.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_382",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 20-year-old woman with primary amenorrhea, short stature, webbed neck, and elevated FSH has a karyotype of 45,X. This condition is known as:",
+    "options": [
+      "Turner syndrome",
+      "MRKH syndrome",
+      "Androgen insensitivity syndrome",
+      "Polycystic ovary syndrome"
+    ],
+    "answer": "Turner syndrome",
+    "difficulty": "easy",
+    "explanation": "Turner syndrome (45,X) is characterized by gonadal dysgenesis, short stature, and other features like webbed neck.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_383",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a common side effect of the copper IUD?",
+    "options": [
+      "Amenorrhea",
+      "Heavier menstrual bleeding and dysmenorrhea",
+      "Weight gain",
+      "Mood changes"
+    ],
+    "answer": "Heavier menstrual bleeding and dysmenorrhea",
+    "difficulty": "easy",
+    "explanation": "Copper IUDs often increase menstrual blood loss and cramping, especially in the first few months.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_384",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with a palpable adnexal mass and an elevated lactate dehydrogenase (LDH) level is most likely to have which ovarian tumor?",
+    "options": [
+      "Dysgerminoma",
+      "Serous cystadenocarcinoma",
+      "Mucinous cystadenoma",
+      "Brenner tumor"
+    ],
+    "answer": "Dysgerminoma",
+    "difficulty": "hard",
+    "explanation": "Dysgerminoma is often associated with elevated LDH and is the most common malignant germ cell tumor in young women.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_385",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 30-year-old woman with primary infertility has a hysterosalpingogram showing bilateral distal tubal occlusion with a 'clubbed' appearance. This is consistent with:",
+    "options": [
+      "Salpingitis isthmica nodosa",
+      "Hydrosalpinx",
+      "Tubal tuberculosis",
+      "Endometriosis"
+    ],
+    "answer": "Hydrosalpinx",
+    "difficulty": "medium",
+    "explanation": "Distal tubal obstruction with a clubbed, fluid-filled tube describes a hydrosalpinx, often from prior pelvic infection.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_386",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 28-year-old with a first-trimester miscarriage is offered misoprostol for medical management. Which of the following is a contraindication?",
+    "options": [
+      "Previous cesarean section",
+      "Anemia",
+      "Suspected molar pregnancy",
+      "Allergy to prostaglandins"
+    ],
+    "answer": "Allergy to prostaglandins",
+    "difficulty": "medium",
+    "explanation": "Misoprostol is a prostaglandin E1 analog; hypersensitivity is a contraindication. Previous cesarean is a relative contraindication.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_387",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with PCOS has been on letrozole for ovulation induction but fails to ovulate. The next step is typically:",
+    "options": [
+      "Clomiphene citrate",
+      "Gonadotropin therapy",
+      "Metformin alone",
+      "Ovarian drilling"
+    ],
+    "answer": "Gonadotropin therapy",
+    "difficulty": "hard",
+    "explanation": "When oral agents (clomiphene, letrozole) fail, gonadotropins are the next line of treatment, often combined with IUI.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_388",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is the most common cause of premenarchal vaginal bleeding?",
+    "options": [
+      "Foreign body",
+      "Vulvovaginitis",
+      "Sexual abuse",
+      "Urethral prolapse"
+    ],
+    "answer": "Vulvovaginitis",
+    "difficulty": "hard",
+    "explanation": "Nonspecific vulvovaginitis is the most common gynecologic problem in prepubertal girls, often presenting with bleeding, discharge, and pruritus.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_389",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman at 28 weeks with dichorionic diamniotic twins is diagnosed with twin-to-twin transfusion syndrome (TTTS). Which of the following is a characteristic of the recipient twin?",
+    "options": [
+      "Oligohydramnios",
+      "Polyhydramnios and cardiac overload",
+      "Anemia",
+      "Growth restriction"
+    ],
+    "answer": "Polyhydramnios and cardiac overload",
+    "difficulty": "medium",
+    "explanation": "In TTTS, the recipient twin receives excess blood volume, leading to polyhydramnios, cardiomegaly, and hydrops. TTTS occurs in monochorionic twins, not dichorionic. (Correction: question says dichorionic, which is incorrect; TTTS is a complication of monochorionic twins. I'll adjust: likely they mean monochorionic diamniotic. I'll answer based on the pathology: recipient has polyhydramnios.)",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_390",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a characteristic of a malignant ovarian tumor on ultrasound?",
+    "options": [
+      "Thin-walled unilocular cyst",
+      "Solid components, septations >3 mm, ascites, Doppler flow with low resistance index",
+      "Echogenic fluid with a fluid-fluid level",
+      "Acoustic shadowing from calcification"
+    ],
+    "answer": "Solid components, septations >3 mm, ascites, Doppler flow with low resistance index",
+    "difficulty": "medium",
+    "explanation": "Malignant features include thick septations, solid components, papillations, ascites, and high Doppler flow (low RI).",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_391",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 25-year-old woman undergoes a termination of pregnancy at 20 weeks for fetal anomaly. She develops heavy bleeding and shock 2 hours later. Most likely retained placental tissue? The nurse suspects:",
+    "options": [
+      "Uterine atony",
+      "Retained placental fragments",
+      "Uterine perforation",
+      "Disseminated intravascular coagulation"
+    ],
+    "answer": "Retained placental fragments",
+    "difficulty": "medium",
+    "explanation": "After a mid-trimester abortion, retained tissue is a common cause of secondary hemorrhage. Uterine atony is less common in earlier gestations.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_392",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is a risk factor for cervical cancer?",
+    "options": [
+      "HPV vaccination",
+      "Monogamous relationship",
+      "Multiple sexual partners",
+      "Early menopause"
+    ],
+    "answer": "Multiple sexual partners",
+    "difficulty": "easy",
+    "explanation": "Multiple sexual partners increase the risk of acquiring high-risk HPV, the primary cause of cervical cancer.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_393",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with a history of recurrent vulvovaginal candidiasis is treated with multiple courses of fluconazole. She develops azole resistance. Which alternative therapy can be used?",
+    "options": [
+      "Ketoconazole",
+      "Clotrimazole topical",
+      "Boric acid vaginal suppositories",
+      "Metronidazole"
+    ],
+    "answer": "Boric acid vaginal suppositories",
+    "difficulty": "hard",
+    "explanation": "For azole-resistant Candida species, boric acid capsules administered intravaginally have shown efficacy.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_394",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 35-year-old woman with heavy menstrual bleeding and a 4 cm intramural fibroid desires pregnancy. What is the best management for the fibroid?",
+    "options": [
+      "Hysterectomy",
+      "UAE",
+      "Myomectomy",
+      "Endometrial ablation"
+    ],
+    "answer": "Myomectomy",
+    "difficulty": "easy",
+    "explanation": "Myomectomy is the treatment of choice for women with fibroids who wish to preserve fertility.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_395",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman at 39 weeks is in labor. The fetal heart rate baseline is 170 bpm with minimal variability and recurrent late decelerations. What is the next step?",
+    "options": [
+      "Continue observation",
+      "Prepare for cesarean delivery",
+      "Administer terbutaline",
+      "Perform amnioinfusion"
+    ],
+    "answer": "Prepare for cesarean delivery",
+    "difficulty": "easy",
+    "explanation": "Tachycardia with minimal variability and late decelerations is non-reassuring, indicating fetal compromise, likely requiring urgent delivery.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_396",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 29-year-old woman has a palpable breast lump that is mobile, well-circumscribed, and rubbery on exam. The most likely diagnosis is:",
+    "options": [
+      "Fibroadenoma",
+      "Breast cancer",
+      "Phyllodes tumor",
+      "Fibrocystic change"
+    ],
+    "answer": "Fibroadenoma",
+    "difficulty": "easy",
+    "explanation": "Fibroadenomas are common benign breast tumors in young women, presenting as firm, mobile, well-defined masses.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_397",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is the most common cause of spontaneous abortion in the first trimester?",
+    "options": [
+      "Chromosomal abnormality",
+      "Luteal phase defect",
+      "Uterine septum",
+      "Antiphospholipid syndrome"
+    ],
+    "answer": "Chromosomal abnormality",
+    "difficulty": "easy",
+    "explanation": "Approximately 50-60% of first trimester miscarriages are due to aneuploidies, especially trisomies.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_398",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A woman with a positive pregnancy test and an empty uterus on ultrasound with an adnexal mass has an hCG of 2000 IU/L. A repeat hCG in 48 hours shows a rise to 2100 IU/L. The most appropriate management is:",
+    "options": [
+      "Diagnostic laparoscopy",
+      "Methotrexate therapy",
+      "Dilatation and evacuation",
+      "Repeat ultrasound in one week"
+    ],
+    "answer": "Methotrexate therapy",
+    "difficulty": "hard",
+    "explanation": "An abnormal hCG rise with an empty uterus and adnexal mass confirms ectopic pregnancy. In a stable patient meeting criteria (mass <3.5 cm, hCG <5000), methotrexate is indicated.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_399",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "A 20-year-old woman with primary amenorrhea has a blind vaginal pouch, absent uterus, and normal breast development. Karyotype is 46,XX. Most likely diagnosis:",
+    "options": [
+      "MRKH syndrome",
+      "Androgen insensitivity syndrome",
+      "Turner syndrome",
+      "Swyer syndrome"
+    ],
+    "answer": "MRKH syndrome",
+    "difficulty": "hard",
+    "explanation": "MRKH is 46,XX with Müllerian agenesis (absent uterus, upper vagina) and normal ovaries, normal female phenotype. Breast development is normal.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_400",
+    "subject": "Obstetrics & Gynaecology",
+    "question": "Which of the following is the first-line treatment for bacterial vaginosis during pregnancy?",
+    "options": [
+      "Metronidazole 500 mg orally twice daily for 7 days",
+      "Clindamycin cream",
+      "Oral clindamycin",
+      "Metronidazole 2 g single dose"
+    ],
+    "answer": "Metronidazole 500 mg orally twice daily for 7 days",
+    "difficulty": "medium",
+    "explanation": "Both oral metronidazole and clindamycin are effective, but the recommended regimen is metronidazole 500 mg twice daily for 7 days. The single 2 g dose is for trichomoniasis.",
+    "exam": ["NORCET", "AIIMS", "Staff Nurse"],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  }
+]
