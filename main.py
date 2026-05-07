@@ -1,15 +1,12 @@
-import json, os, random, datetime, sqlite3, asyncio, glob, logging
+import json, os, random, sqlite3, asyncio, glob, logging, hashlib, re
+from datetime import datetime, timedelta
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
     Application, CommandHandler, CallbackQueryHandler, ContextTypes,
-    ConversationHandler
+    ConversationHandler, MessageHandler, filters
 )
 from telegram.constants import ParseMode
-from telegram.error import NetworkError
-
-# Logging
-logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
-logger = logging.getLogger(__name__)
+from telegram.error import Forbidden
 
 # ------------------------- CONFIG -------------------------
 BOT_TOKEN = "8636252501:AAEFLhyuYCEUnXitRcQrHxCmoSj3h3qgs_U"
@@ -17,251 +14,285 @@ ADMIN_IDS = [2067674349]
 QUESTIONS_FOLDER = "questions"        
 DB_FILE = "bot.db"
 
-(PRACTICE_CHOOSE_CHAPTER, PRACTICE_CHOOSE_DIFF, PRACTICE_CHOOSE_NUM) = range(3)
-QUIZ_ACTIVE = 100 
+# Logging setup to help you see errors
+logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
+logger = logging.getLogger(__name__)
 
-# ------------------------- DATABASE -------------------------
+# Conversation States
+(CHOOSE_SUBJECT, CHOOSE_DIFF, CHOOSE_COUNT, QUIZ_RUNNING, BROADCAST_S) = range(5)
+
+# ------------------------- DATABASE & REGISTRATION -------------------------
 def init_db():
     conn = sqlite3.connect(DB_FILE)
     cur = conn.cursor()
-    cur.execute("CREATE TABLE IF NOT EXISTS users (user_id INTEGER PRIMARY KEY, username TEXT, first_name TEXT, total_quizzes INTEGER DEFAULT 0, total_questions INTEGER DEFAULT 0, correct_answers INTEGER DEFAULT 0, best_score REAL DEFAULT 0, last_active TIMESTAMP DEFAULT CURRENT_TIMESTAMP)")
-    cur.execute("CREATE TABLE IF NOT EXISTS seen (user_id INTEGER, question_id TEXT, PRIMARY KEY (user_id, question_id))")
-    cur.execute("CREATE TABLE IF NOT EXISTS sessions (id INTEGER PRIMARY KEY AUTOINCREMENT, user_id INTEGER, mode TEXT, score INTEGER, total INTEGER, percentage REAL, started TIMESTAMP DEFAULT CURRENT_TIMESTAMP, finished TIMESTAMP DEFAULT CURRENT_TIMESTAMP)")
+    cur.execute("""CREATE TABLE IF NOT EXISTS users (
+        user_id INTEGER PRIMARY KEY, username TEXT, first_name TEXT, 
+        total_quizzes INTEGER DEFAULT 0, correct_answers INTEGER DEFAULT 0, 
+        best_score REAL DEFAULT 0, last_active TIMESTAMP DEFAULT CURRENT_TIMESTAMP)""")
+    cur.execute("""CREATE TABLE IF NOT EXISTS sessions (
+        id INTEGER PRIMARY KEY AUTOINCREMENT, user_id INTEGER, mode TEXT, 
+        score INTEGER, total INTEGER, perc REAL DEFAULT 0.0, date TIMESTAMP DEFAULT CURRENT_TIMESTAMP)""")
+    cur.execute("""CREATE TABLE IF NOT EXISTS seen (
+        user_id INTEGER, question_id TEXT, mode TEXT, PRIMARY KEY (user_id, question_id, mode))""")
+    
+    # Migration for 'mode' column
+    cur.execute("PRAGMA table_info(seen)")
+    if 'mode' not in [col[1] for col in cur.fetchall()]:
+        cur.execute("ALTER TABLE seen ADD COLUMN mode TEXT DEFAULT 'PRACTICE'")
     conn.commit()
     conn.close()
 
 def register_user(user):
     conn = sqlite3.connect(DB_FILE)
-    cur = conn.cursor()
-    cur.execute("INSERT OR IGNORE INTO users (user_id, username, first_name) VALUES (?,?,?)", (user.id, user.username, user.first_name))
-    cur.execute("UPDATE users SET username=?, first_name=?, last_active=CURRENT_TIMESTAMP WHERE user_id=?", (user.username, user.first_name, user.id))
+    conn.execute("INSERT OR IGNORE INTO users (user_id, username, first_name) VALUES (?,?,?)", (user.id, user.username, user.first_name))
+    conn.execute("UPDATE users SET last_active=CURRENT_TIMESTAMP WHERE user_id=?", (user.id,))
     conn.commit()
     conn.close()
 
-# ------------------------- QUESTION LOADER -------------------------
+# ------------------------- QUESTION ENGINE -------------------------
 def load_all_questions():
     all_q = []
-    if not os.path.exists(QUESTIONS_FOLDER): os.makedirs(QUESTIONS_FOLDER)
-    for filepath in glob.glob(os.path.join(QUESTIONS_FOLDER, "*.json")):
+    # Search in root and questions folder
+    json_files = glob.glob("*.json") + glob.glob(os.path.join(QUESTIONS_FOLDER, "*.json"))
+    
+    for filepath in set(json_files):
         try:
-            with open(filepath, "r") as f:
+            with open(filepath, "r", encoding="utf-8-sig") as f:
                 data = json.load(f)
-                questions = data if isinstance(data, list) else data.get("questions", [])
-                chapter = os.path.splitext(os.path.basename(filepath))[0]
+                if isinstance(data, dict):
+                    root_sub = data.get("subject") or data.get("chapter_id")
+                    questions = data.get("questions", [])
+                else:
+                    root_sub = None
+                    questions = data
+                
+                if not root_sub:
+                    root_sub = os.path.basename(filepath).replace(".json", "").strip()
+                
                 for q in questions:
-                    if "chapter" not in q: q["chapter"] = chapter
+                    # Generate unique ID based on question text to prevent collisions across files
+                    q["id"] = hashlib.md5(str(q.get("question", "")).encode()).hexdigest()
+                    q["chapter"] = str(q.get("chapter") or root_sub).replace("_", " ").title()
+                    if not q.get("difficulty"): q["difficulty"] = "medium"
                     all_q.append(q)
-        except Exception as e: logger.error(f"Error loading {filepath}: {e}")
+            logger.info(f"Successfully loaded {len(questions)} questions from {filepath}")
+        except Exception as e:
+            # THIS WILL PRINT THE EXACT ERROR FOR YOUR 700 JSON FILE IN YOUR TERMINAL
+            logger.error(f"❌ FAILED TO LOAD {filepath}: {e}")
     return all_q
 
-def get_unseen_questions(user_id, filters, count):
+def get_unseen_questions(user_id, count, chapter=None, difficulty=None, is_mock=False):
     conn = sqlite3.connect(DB_FILE)
-    seen = {row[0] for row in conn.execute("SELECT question_id FROM seen WHERE user_id=?", (user_id,))}
+    mode_label = "MOCK" if is_mock else "PRACTICE"
+    seen = {row[0] for row in conn.execute("SELECT question_id FROM seen WHERE user_id=? AND mode=?", (user_id, mode_label)).fetchall()}
     conn.close()
+
     all_q = load_all_questions()
-    available = [q for q in all_q if str(q.get("id", "")) not in seen]
-    if filters.get("chapter") and filters["chapter"] != "All":
-        available = [q for q in available if q.get("chapter") == filters["chapter"]]
-    if not available: available = all_q
-    return random.sample(available, min(count, len(available)))
+    available = [q for q in all_q if q["id"] not in seen]
+    
+    if chapter and chapter != "All":
+        available = [q for q in available if q.get("chapter") == chapter]
+        
+    if not available: return []
 
-def save_session(user_id, mode, score, total):
-    perc = round(score/total*100, 2) if total else 0
+    selected = []
+    if is_mock:
+        # 70% Hard, 20% Med, 10% Easy
+        h_p = [q for q in available if str(q.get("difficulty","")).lower() == "hard"]
+        m_p = [q for q in available if str(q.get("difficulty","")).lower() in ["medium", "med", "normal"]]
+        e_p = [q for q in available if str(q.get("difficulty","")).lower() == "easy"]
+        h_req, m_req = int(count * 0.70), int(count * 0.20)
+        e_req = count - h_req - m_req
+        selected = random.sample(h_p, min(h_req, len(h_p))) + random.sample(m_p, min(m_req, len(m_p))) + random.sample(e_p, min(e_req, len(e_p)))
+        if len(selected) < count:
+            remaining = [q for q in available if q not in selected]
+            selected += random.sample(remaining, min(count - len(selected), len(remaining)))
+        random.shuffle(selected)
+    else:
+        if difficulty and difficulty != "All":
+            available = [q for q in available if str(q.get("difficulty", "")).lower() == difficulty.lower()]
+        selected = random.sample(available, min(count, len(available)))
+
+    for q in selected:
+        o = q["options"][:]
+        random.shuffle(o)
+        q["_shuffled"] = o
+    return selected
+
+# ------------------------- ADMIN & BROADCAST -------------------------
+async def admin_stats(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Admin feature to verify file loading"""
+    if update.effective_user.id not in ADMIN_IDS: return
+    all_q = load_all_questions()
+    breakdown = {}
+    for q in all_q:
+        ch = q["chapter"]
+        breakdown[ch] = breakdown.get(ch, 0) + 1
+    
+    items = "\n".join([f"• <b>{k}</b>: {v} Qs" for k,v in breakdown.items()])
+    msg = f"<b>👑 ADMIN GLOBAL STATS</b>\n\nTotal Questions Loaded: {len(all_q)}\n\n<b>Breakdown:</b>\n{items}"
+    await update.message.reply_text(msg, parse_mode=ParseMode.HTML)
+
+async def broadcast_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    if update.effective_user.id not in ADMIN_IDS: return
+    await update.message.reply_text("📣 Send the message to broadcast (text/image/file), or /cancel.")
+    return BROADCAST_S
+
+async def do_broadcast(update: Update, context: ContextTypes.DEFAULT_TYPE):
     conn = sqlite3.connect(DB_FILE)
-    conn.execute("INSERT INTO sessions (user_id, mode, score, total, percentage) VALUES (?,?,?,?,?)", (user_id, mode, score, total, perc))
-    conn.execute("UPDATE users SET total_quizzes=total_quizzes+1, total_questions=total_questions+?, correct_answers=correct_answers+?, best_score=MAX(best_score, ?) WHERE user_id=?", (total, score, perc, user_id))
-    conn.commit()
+    users = conn.execute("SELECT user_id FROM users").fetchall()
     conn.close()
-    return perc
-
-# ------------------------- UI DESIGN -------------------------
-def main_menu_kb():
-    return InlineKeyboardMarkup([
-        [InlineKeyboardButton("📚 Start Practice", callback_data="practice")],
-        [InlineKeyboardButton("🧪 Full Mock Test", callback_data="mock_start")],
-        [InlineKeyboardButton("📊 My Stats", callback_data="mystats")],
-        [InlineKeyboardButton("🏆 Leaderboard", callback_data="leaderboard")]
-    ])
-
-def get_quiz_kb(q, mode):
-    opts = q["_shuffled_opts"]
-    kb = []
-    for i in range(0, len(opts), 2):
-        row = [InlineKeyboardButton(f"{chr(65+j)}", callback_data=f"ans_{mode}_{j}") for j in range(i, min(i+2, len(opts)))]
-        kb.append(row)
-    kb.append([
-        InlineKeyboardButton("⬅️ Prev", callback_data=f"prev_{mode}"),
-        InlineKeyboardButton("⏭️ Skip", callback_data=f"skip_{mode}"),
-        InlineKeyboardButton("🛑 Stop", callback_data=f"stop_{mode}")
-    ])
-    return InlineKeyboardMarkup(kb)
-
-# ------------------------- RESILIENCE WRAPPER -------------------------
-async def safe_edit(query, text, reply_markup=None):
-    """Retries editing a message to handle minor network blips gracefully."""
-    for _ in range(3):
+    count = 0
+    for (uid,) in users:
         try:
-            return await query.edit_message_text(text, parse_mode=ParseMode.MARKDOWN, reply_markup=reply_markup)
-        except NetworkError:
-            await asyncio.sleep(0.5)
-    logger.warning("Safe edit failed after 3 retries.")
+            await update.message.copy(chat_id=uid)
+            count += 1
+            await asyncio.sleep(0.05)
+        except Exception: pass
+    await update.message.reply_text(f"✅ Broadcast sent to {count} users.")
+    return ConversationHandler.END
 
-# ------------------------- HANDLERS -------------------------
-async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
+# ------------------------- MAIN HANDLERS -------------------------
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     register_user(update.effective_user)
-    await update.message.reply_text("🏥 *NORCET AI Preparation*\nChoose your mode:", parse_mode=ParseMode.MARKDOWN, reply_markup=main_menu_kb())
+    all_q = load_all_questions()
+    kb = [
+        [InlineKeyboardButton("📚 Practice Mode", callback_data="start_practice")],
+        [InlineKeyboardButton("🧪 Mock (PRE)", callback_data="mock_pre"), InlineKeyboardButton("🔥 Mock (MAINS)", callback_data="mock_mains")],
+        [InlineKeyboardButton("📊 My Stats", callback_data="stats"), InlineKeyboardButton("🏆 Leaderboard", callback_data="leaderboard")],
+        [InlineKeyboardButton("❓ Help", callback_data="help_info")]
+    ]
+    text = f"🏥 <b>NORCET AI PORTAL</b>\n\nTotal Questions: <code>{len(all_q)}</code>\nSelect your session:"
+    if update.callback_query: await update.callback_query.edit_message_text(text, reply_markup=InlineKeyboardMarkup(kb), parse_mode=ParseMode.HTML)
+    else: await update.message.reply_text(text, reply_markup=InlineKeyboardMarkup(kb), parse_mode=ParseMode.HTML)
 
-async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
+async def leaderboard(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    conn = sqlite3.connect(DB_FILE)
+    top = conn.execute("SELECT first_name, correct_answers FROM users ORDER BY correct_answers DESC LIMIT 10").fetchall()
+    conn.close()
+    text = "🏆 <b>TOP 10 LEADERBOARD</b>\n\n" + "\n".join([f"{i+1}. {u[0]} - {u[1]} Correct" for i, u in enumerate(top)])
+    await update.callback_query.edit_message_text(text, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("« Back", callback_data="main_menu")]]), parse_mode=ParseMode.HTML)
+
+async def handle_callbacks(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
-    try: await query.answer() 
-    except: pass
+    data, uid = query.data, update.effective_user.id
+    await query.answer()
 
-    data = query.data
-    if data == "practice":
-        chapters = sorted({q.get("chapter", "Gen") for q in load_all_questions()})
-        if not chapters:
-            await safe_edit(query, "❌ No questions found. Please add JSON files to the folder.", main_menu_kb())
-            return ConversationHandler.END
-        kb = [[InlineKeyboardButton(f"📂 {ch}", callback_data=f"pchap_{ch}")] for ch in chapters]
-        kb.append([InlineKeyboardButton("« Back", callback_data="main")])
-        await safe_edit(query, "🎯 *Select Subject:*", InlineKeyboardMarkup(kb))
-        return PRACTICE_CHOOSE_CHAPTER
-    
-    elif data.startswith("pchap_"):
-        context.user_data["p_chapter"] = data[6:]
-        kb = [[InlineKeyboardButton(d, callback_data=f"pdiff_{d}")] for d in ["Easy", "Medium", "Hard", "All"]]
-        await safe_edit(query, "⚖️ *Select Difficulty:*", InlineKeyboardMarkup(kb))
-        return PRACTICE_CHOOSE_DIFF
+    if data == "main_menu": await start(update, context); return ConversationHandler.END
+    if data == "leaderboard": await leaderboard(update, context); return
+    if data == "help_info": 
+        await query.edit_message_text("📢 Support: @StorylineArtBots", reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("« Back", callback_data="main_menu")]]))
+        return
 
-    elif data.startswith("pdiff_"):
-        context.user_data["p_diff"] = data[6:]
-        kb = [[InlineKeyboardButton(str(n), callback_data=f"pnum_{n}")] for n in [10, 20, 50, 100]]
-        await safe_edit(query, "🔢 *Questions:*", InlineKeyboardMarkup(kb))
-        return PRACTICE_CHOOSE_NUM
+    if data == "start_practice":
+        chapters = sorted({q["chapter"] for q in load_all_questions()})
+        context.user_data["ch_list"] = chapters
+        kb = [[InlineKeyboardButton(f"📂 {c}", callback_data=f"setch_{i}")] for i, c in enumerate(chapters)]
+        kb.append([InlineKeyboardButton("« Back", callback_data="main_menu")])
+        await query.edit_message_text("🎯 <b>Select Subject:</b>", reply_markup=InlineKeyboardMarkup(kb), parse_mode=ParseMode.HTML)
+        return CHOOSE_SUBJECT
 
-    elif data.startswith("pnum_"):
-        num = int(data[5:])
-        qs = get_unseen_questions(update.effective_user.id, {"chapter": context.user_data["p_chapter"]}, num)
+    if data.startswith("setch_"):
+        context.user_data["temp_ch"] = context.user_data["ch_list"][int(data.split("_")[1])]
+        kb = [[InlineKeyboardButton(d, callback_data=f"sd_{d}")] for d in ["Easy", "Medium", "Hard", "All"]]
+        await query.edit_message_text("⚖️ <b>Difficulty:</b>", reply_markup=InlineKeyboardMarkup(kb), parse_mode=ParseMode.HTML)
+        return CHOOSE_DIFF
+
+    if data.startswith("sd_"):
+        context.user_data["temp_diff"] = data.split("_")[1]
+        kb = [[InlineKeyboardButton(str(n), callback_data=f"sn_{n}")] for n in [10, 20, 50]]
+        await query.edit_message_text("🔢 <b>Question Count:</b>", reply_markup=InlineKeyboardMarkup(kb), parse_mode=ParseMode.HTML)
+        return CHOOSE_COUNT
+
+    if data.startswith("sn_"):
+        cnt = int(data.split("_")[1])
+        qs = get_unseen_questions(uid, cnt, context.user_data["temp_ch"], context.user_data["temp_diff"])
         if not qs:
-            await safe_edit(query, "⚠️ No matching questions found.", main_menu_kb())
+            await query.edit_message_text("❌ No new questions!", reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("« Back", callback_data="main_menu")]]))
             return ConversationHandler.END
-            
-        for q in qs:
-            o = q["options"][:]
-            random.shuffle(o)
-            q["_shuffled_opts"] = o
-        context.user_data.update({"qs": qs, "idx": 0, "correct": 0, "mode": "practice"})
-        await send_q(query, context)
-        return QUIZ_ACTIVE
+        context.user_data.update({"qs": qs, "idx": 0, "correct": 0, "mode": "PRACTICE"})
+        await send_question(query, context); return QUIZ_RUNNING
 
-    elif data == "mock_start":
-        qs = get_unseen_questions(update.effective_user.id, {}, 100)
-        if not qs:
-            await safe_edit(query, "⚠️ Question database is empty.", main_menu_kb())
-            return ConversationHandler.END
-            
-        for q in qs:
-            o = q["options"][:]
-            random.shuffle(o)
-            q["_shuffled_opts"] = o
-        context.user_data.update({"qs": qs, "idx": 0, "correct": 0, "mode": "mock"})
-        await send_q(query, context)
-        return QUIZ_ACTIVE
-    
-    elif data == "main":
-        await safe_edit(query, "🏥 *Main Menu:*", main_menu_kb())
-        return ConversationHandler.END
+    if data.startswith("mock_"):
+        cnt = 100 if "pre" in data else 150
+        qs = get_unseen_questions(uid, cnt, is_mock=True)
+        context.user_data.update({"qs": qs, "idx": 0, "correct": 0, "mode": "MOCK"})
+        await send_question(query, context); return QUIZ_RUNNING
 
-async def send_q(query, context):
-    idx = context.user_data.get("idx", 0)
-    qs = context.user_data.get("qs", [])
-    mode = context.user_data.get("mode", "practice")
-    
-    if idx >= len(qs): 
-        return await finish(query, context)
-        
-    q = qs[idx]
-    opts_text = "\n".join([f"*{chr(65+i)}.* {opt}" for i, opt in enumerate(q["_shuffled_opts"])])
-    txt = f"📝 *Question {idx+1}/{len(qs)}*\n\n{q['question']}\n\n{opts_text}"
-    
-    await safe_edit(query, txt, get_quiz_kb(q, mode))
+async def send_question(query, context):
+    ud = context.user_data
+    q = ud["qs"][ud["idx"]]
+    opts = "\n".join([f"<b>{chr(65+i)}.</b> {opt}" for i, opt in enumerate(q["_shuffled"])])
+    text = f"✨ <b>Q {ud['idx']+1}/{len(ud['qs'])}</b>\n\n{q['question']}\n\n{opts}"
+    await query.edit_message_text(text, reply_markup=InlineKeyboardMarkup([
+        [InlineKeyboardButton("A", callback_data="ans_0"), InlineKeyboardButton("B", callback_data="ans_1")],
+        [InlineKeyboardButton("C", callback_data="ans_2"), InlineKeyboardButton("D", callback_data="ans_3")],
+        [InlineKeyboardButton("⏭️ Skip", callback_data="nav_skip"), InlineKeyboardButton("🛑 Stop", callback_data="nav_stop")]
+    ]), parse_mode=ParseMode.HTML)
 
-async def quiz_logic(update: Update, context: ContextTypes.DEFAULT_TYPE):
+async def quiz_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
-    data_parts = query.data.split("_")
-    action, mode = data_parts[0], data_parts[1]
-    
-    idx = context.user_data.get("idx", 0)
-    qs = context.user_data.get("qs", [])
-    
-    # Safety Check: Prevent IndexError
-    if idx >= len(qs):
-        await finish(query, context)
-        return ConversationHandler.END
-        
-    if action == "ans":
-        ans_idx = int(data_parts[2])
-        q = qs[idx]
-        is_cor = q["_shuffled_opts"][ans_idx] == q["answer"]
-        
-        feedback = "✅ Correct!" if is_cor else f"❌ Wrong! Ans: {q['answer']}"
-        try: await query.answer(feedback, show_alert=False) 
-        except: pass
+    ud, data, uid = context.user_data, query.data, update.effective_user.id
 
-        if is_cor: context.user_data["correct"] += 1
+    if data.startswith("ans_"):
+        idx = int(data.split("_")[1])
+        q = ud["qs"][ud["idx"]]
+        is_cor = q["_shuffled"][idx] == q["answer"]
+        if is_cor: ud["correct"] += 1
         
-        if mode == "practice":
-            res_txt = f"{feedback}\n\n📖 *Explanation:*\n{q.get('explanation', 'Not provided.')}"
-            kb = InlineKeyboardMarkup([[InlineKeyboardButton("Next Question ➡️", callback_data=f"skip_{mode}")]])
-            await safe_edit(query, res_txt, kb)
+        conn = sqlite3.connect(DB_FILE)
+        conn.execute("INSERT OR IGNORE INTO seen (user_id, question_id, mode) VALUES (?,?,?)", (uid, q["id"], ud["mode"]))
+        conn.commit(); conn.close()
+        
+        if ud["mode"] == "PRACTICE":
+            txt = f"{'✅' if is_cor else '❌'} <b>Ans:</b> <code>{q['answer']}</code>\n\n📖 {q.get('explanation','-')}"
+            await query.edit_message_text(txt, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Next ➡️", callback_data="nav_skip")]]), parse_mode=ParseMode.HTML)
         else:
-            context.user_data["idx"] += 1
-            await send_q(query, context)
-            
-    elif action == "skip":
-        context.user_data["idx"] += 1
-        await send_q(query, context)
-    elif action == "prev" and idx > 0:
-        context.user_data["idx"] -= 1
-        await send_q(query, context)
-    elif action == "stop":
-        await finish(query, context)
-        return ConversationHandler.END
+            ud["idx"] += 1
+            if ud["idx"] >= len(ud["qs"]): await finish_quiz(query, context)
+            else: await send_question(query, context)
 
-async def finish(query, context):
-    mode = context.user_data.get("mode", "practice")
-    total_attempted = context.user_data.get("idx", 0)
-    if total_attempted == 0: total_attempted = 1 
-    perc = save_session(query.from_user.id, mode, context.user_data.get("correct", 0), total_attempted)
-    
-    txt = f"🏁 *Test Finished!*\n\n✅ Correct: `{context.user_data.get('correct', 0)}`\n📊 Accuracy: `{perc}%`"
-    await safe_edit(query, txt, main_menu_kb())
+    elif data == "nav_skip":
+        ud["idx"] += 1
+        if ud["idx"] >= len(ud["qs"]): await finish_quiz(query, context)
+        else: await send_question(query, context)
+    elif data == "nav_stop": await finish_quiz(query, context, "🛑 Stopped")
 
-# ------------------------- MAIN -------------------------
+async def finish_quiz(query, context, reason="🏁 Completed"):
+    ud = context.user_data
+    cor, tot = ud["correct"], max(ud["idx"], 1)
+    await query.edit_message_text(f"{reason}\n✅ <b>Score:</b> <code>{cor}/{tot}</code>", reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Menu", callback_data="main_menu")]]), parse_mode=ParseMode.HTML)
+    return ConversationHandler.END
+
 def main():
     init_db()
-    
-    # Direct connection for Pella (No proxy needed)
     app = Application.builder().token(BOT_TOKEN).build()
-
-    conv = ConversationHandler(
-        entry_points=[CallbackQueryHandler(button_handler, pattern="^(practice|mock_start|main)$")],
-        states={
-            PRACTICE_CHOOSE_CHAPTER: [CallbackQueryHandler(button_handler, pattern="^pchap_")],
-            PRACTICE_CHOOSE_DIFF: [CallbackQueryHandler(button_handler, pattern="^pdiff_")],
-            PRACTICE_CHOOSE_NUM: [CallbackQueryHandler(button_handler, pattern="^pnum_")],
-            QUIZ_ACTIVE: [CallbackQueryHandler(quiz_logic, pattern="^(ans|skip|prev|stop)_")],
-        },
-        fallbacks=[CommandHandler("start", start_cmd)],
+    
+    bc_handler = ConversationHandler(
+        entry_points=[CommandHandler("broadcast", broadcast_start)],
+        states={BROADCAST_S: [MessageHandler(filters.ALL & ~filters.COMMAND, do_broadcast)]},
+        fallbacks=[CommandHandler("cancel", lambda u, c: ConversationHandler.END)]
     )
 
-    app.add_handler(CommandHandler("start", start_cmd))
-    app.add_handler(conv)
+    quiz_conv = ConversationHandler(
+        entry_points=[CallbackQueryHandler(handle_callbacks, pattern="^(start_practice|mock_pre|mock_mains)$")],
+        states={
+            CHOOSE_SUBJECT: [CallbackQueryHandler(handle_callbacks, pattern="^setch_")],
+            CHOOSE_DIFF: [CallbackQueryHandler(handle_callbacks, pattern="^sd_")],
+            CHOOSE_COUNT: [CallbackQueryHandler(handle_callbacks, pattern="^sn_")],
+            QUIZ_RUNNING: [CallbackQueryHandler(quiz_handler, pattern="^(ans_|nav_)")],
+        },
+        fallbacks=[CommandHandler("start", start)],
+        allow_reentry=True
+    )
     
-    print("Bot starting on Pella with Direct Connection...")
-    # Fast polling interval for instant responses
-    app.run_polling(poll_interval=1.0)
+    app.add_handler(CommandHandler("start", start))
+    app.add_handler(CommandHandler("stats", admin_stats))
+    app.add_handler(bc_handler)
+    app.add_handler(CallbackQueryHandler(handle_callbacks, pattern="^(help_info|main_menu|leaderboard)$"))
+    app.add_handler(quiz_conv)
+    
+    print("Bot is LIVE...")
+    app.run_polling()
 
-if __name__ == "__main__":
-    main()
-        
+if __name__ == "__main__": main()
