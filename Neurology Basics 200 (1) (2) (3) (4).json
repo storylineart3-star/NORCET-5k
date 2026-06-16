@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "NEURO_001",
+    "question": "Normal Glasgow Coma Scale score is:",
+    "options": [
+      "15",
+      "10",
+      "8",
+      "3"
+    ],
+    "answer": "15",
+    "topic": "GCS",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_002",
+    "question": "Lowest Glasgow Coma Scale score is:",
+    "options": [
+      "3",
+      "5",
+      "0",
+      "1"
+    ],
+    "answer": "3",
+    "topic": "GCS",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_003",
+    "question": "A patient with GCS 8 requires priority attention for:",
+    "options": [
+      "Airway protection",
+      "Hair care",
+      "Bathing",
+      "Diet"
+    ],
+    "answer": "Airway protection",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_004",
+    "question": "Pupil constriction is called:",
+    "options": [
+      "Miosis",
+      "Mydriasis",
+      "Ptosis",
+      "Diplopia"
+    ],
+    "answer": "Miosis",
+    "topic": "Neuro Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_005",
+    "question": "Pupil dilation is called:",
+    "options": [
+      "Mydriasis",
+      "Miosis",
+      "Ataxia",
+      "Aphasia"
+    ],
+    "answer": "Mydriasis",
+    "topic": "Neuro Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_006",
+    "question": "Unequal pupils are termed:",
+    "options": [
+      "Anisocoria",
+      "Ataxia",
+      "Apraxia",
+      "Agnosia"
+    ],
+    "answer": "Anisocoria",
+    "topic": "Neuro Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_007",
+    "question": "Loss of coordination is called:",
+    "options": [
+      "Ataxia",
+      "Aphasia",
+      "Amnesia",
+      "Apnea"
+    ],
+    "answer": "Ataxia",
+    "topic": "Cerebellum",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_008",
+    "question": "Loss of speech due to brain lesion is:",
+    "options": [
+      "Aphasia",
+      "Dysphagia",
+      "Diplopia",
+      "Dyspnea"
+    ],
+    "answer": "Aphasia",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_009",
+    "question": "Difficulty swallowing is:",
+    "options": [
+      "Dysphagia",
+      "Aphasia",
+      "Ataxia",
+      "Amnesia"
+    ],
+    "answer": "Dysphagia",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_010",
+    "question": "One-sided paralysis is called:",
+    "options": [
+      "Hemiplegia",
+      "Paraplegia",
+      "Quadriplegia",
+      "Monoplegia"
+    ],
+    "answer": "Hemiplegia",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_011",
+    "question": "Weakness of one side of body is:",
+    "options": [
+      "Hemiparesis",
+      "Hemiplegia",
+      "Paraplegia",
+      "Tetany"
+    ],
+    "answer": "Hemiparesis",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_012",
+    "question": "Paralysis of both lower limbs is:",
+    "options": [
+      "Paraplegia",
+      "Hemiplegia",
+      "Monoplegia",
+      "Ataxia"
+    ],
+    "answer": "Paraplegia",
+    "topic": "Spinal Cord",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_013",
+    "question": "Paralysis of all four limbs is:",
+    "options": [
+      "Quadriplegia",
+      "Hemiplegia",
+      "Paraplegia",
+      "Monoplegia"
+    ],
+    "answer": "Quadriplegia",
+    "topic": "Spinal Cord",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_014",
+    "question": "Most common cause of stroke:",
+    "options": [
+      "Ischemia",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Ischemia",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_015",
+    "question": "Stroke due to clot is:",
+    "options": [
+      "Ischemic stroke",
+      "Hemorrhagic stroke",
+      "TIA",
+      "Migraine"
+    ],
+    "answer": "Ischemic stroke",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_016",
+    "question": "Stroke due to bleeding is:",
+    "options": [
+      "Hemorrhagic stroke",
+      "Ischemic stroke",
+      "TIA",
+      "Vertigo"
+    ],
+    "answer": "Hemorrhagic stroke",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_017",
+    "question": "Sudden facial droop suggests:",
+    "options": [
+      "Stroke",
+      "Cold",
+      "Hair loss",
+      "Rash"
+    ],
+    "answer": "Stroke",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_018",
+    "question": "FAST in stroke stands for F:",
+    "options": [
+      "Face drooping",
+      "Fever",
+      "Fall",
+      "Food"
+    ],
+    "answer": "Face drooping",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_019",
+    "question": "FAST in stroke stands for A:",
+    "options": [
+      "Arm weakness",
+      "Airway",
+      "Aphasia",
+      "Ataxia"
+    ],
+    "answer": "Arm weakness",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_020",
+    "question": "FAST in stroke stands for S:",
+    "options": [
+      "Speech difficulty",
+      "Seizure",
+      "Sleep",
+      "Shock"
+    ],
+    "answer": "Speech difficulty",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_021",
+    "question": "FAST in stroke stands for T:",
+    "options": [
+      "Time to call help",
+      "Temperature",
+      "Tremor",
+      "Tachycardia"
+    ],
+    "answer": "Time to call help",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_022",
+    "question": "First imaging in suspected stroke:",
+    "options": [
+      "CT brain",
+      "X-ray chest",
+      "ECG",
+      "USG abdomen"
+    ],
+    "answer": "CT brain",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_023",
+    "question": "CT brain first helps differentiate:",
+    "options": [
+      "Bleed vs clot",
+      "Kidney vs liver",
+      "Cold vs fever",
+      "Hair vs skin"
+    ],
+    "answer": "Bleed vs clot",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_024",
+    "question": "Drug used in eligible ischemic stroke:",
+    "options": [
+      "Thrombolytic",
+      "Antibiotic",
+      "Steroid",
+      "Insulin"
+    ],
+    "answer": "Thrombolytic",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_025",
+    "question": "Transient neurological deficit resolving within 24 hours is:",
+    "options": [
+      "TIA",
+      "Stroke",
+      "Seizure",
+      "Migraine"
+    ],
+    "answer": "TIA",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_026",
+    "question": "TIA means:",
+    "options": [
+      "Transient ischemic attack",
+      "Total intracranial attack",
+      "Temporary infection area",
+      "None"
+    ],
+    "answer": "Transient ischemic attack",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_027",
+    "question": "Most common seizure type with tonic-clonic movements:",
+    "options": [
+      "Generalized seizure",
+      "Absence seizure",
+      "Focal aware seizure",
+      "TIA"
+    ],
+    "answer": "Generalized seizure",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_028",
+    "question": "Short staring spells in children are:",
+    "options": [
+      "Absence seizure",
+      "Tonic-clonic seizure",
+      "Stroke",
+      "Migraine"
+    ],
+    "answer": "Absence seizure",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_029",
+    "question": "First nursing action during seizure:",
+    "options": [
+      "Protect from injury",
+      "Force mouth open",
+      "Give water",
+      "Restrain tightly"
+    ],
+    "answer": "Protect from injury",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_030",
+    "question": "During seizure, do NOT:",
+    "options": [
+      "Put object in mouth",
+      "Turn sideward",
+      "Time seizure",
+      "Protect head"
+    ],
+    "answer": "Put object in mouth",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_031",
+    "question": "Best position after seizure:",
+    "options": [
+      "Recovery position",
+      "Prone flat",
+      "Trendelenburg",
+      "Standing"
+    ],
+    "answer": "Recovery position",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_032",
+    "question": "Status epilepticus means seizure lasting:",
+    "options": [
+      ">5 minutes or recurrent",
+      ">30 sec",
+      "<1 min",
+      "Only during sleep"
+    ],
+    "answer": ">5 minutes or recurrent",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_033",
+    "question": "First-line emergency drug in status epilepticus:",
+    "options": [
+      "Benzodiazepine",
+      "Antibiotic",
+      "Insulin",
+      "Steroid"
+    ],
+    "answer": "Benzodiazepine",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_034",
+    "question": "Common benzodiazepine used in seizure emergency:",
+    "options": [
+      "Lorazepam",
+      "Metformin",
+      "Aspirin",
+      "Furosemide"
+    ],
+    "answer": "Lorazepam",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_035",
+    "question": "Most common cause of raised ICP symptom:",
+    "options": [
+      "Headache",
+      "Hair loss",
+      "Rash",
+      "Cough"
+    ],
+    "answer": "Headache",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_036",
+    "question": "Projectile vomiting suggests:",
+    "options": [
+      "Raised ICP",
+      "Cold",
+      "Hair loss",
+      "Rash"
+    ],
+    "answer": "Raised ICP",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_037",
+    "question": "Late sign of raised ICP:",
+    "options": [
+      "Altered consciousness",
+      "Hair growth",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Altered consciousness",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_038",
+    "question": "Cushing triad includes bradycardia, hypertension and:",
+    "options": [
+      "Irregular respiration",
+      "Tachycardia",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Irregular respiration",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_039",
+    "question": "Best head position in raised ICP:",
+    "options": [
+      "Head elevated 30°",
+      "Flat",
+      "Head low",
+      "Prone"
+    ],
+    "answer": "Head elevated 30°",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_040",
+    "question": "Drug used to reduce cerebral edema:",
+    "options": [
+      "Mannitol",
+      "Insulin",
+      "Warfarin",
+      "Iron"
+    ],
+    "answer": "Mannitol",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_041",
+    "question": "Meningitis commonly presents with fever, headache and:",
+    "options": [
+      "Neck stiffness",
+      "Hair loss",
+      "Rash always",
+      "Leg fracture"
+    ],
+    "answer": "Neck stiffness",
+    "topic": "Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_042",
+    "question": "Positive Kernig sign suggests:",
+    "options": [
+      "Meningeal irritation",
+      "MI",
+      "Renal failure",
+      "Diabetes"
+    ],
+    "answer": "Meningeal irritation",
+    "topic": "Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_043",
+    "question": "Positive Brudzinski sign suggests:",
+    "options": [
+      "Meningitis",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Meningitis",
+    "topic": "Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_044",
+    "question": "Lumbar puncture is used to obtain:",
+    "options": [
+      "CSF",
+      "Urine",
+      "Blood",
+      "Bile"
+    ],
+    "answer": "CSF",
+    "topic": "Diagnostics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_045",
+    "question": "CSF stands for:",
+    "options": [
+      "Cerebrospinal fluid",
+      "Cardiac serum flow",
+      "Central skin fluid",
+      "None"
+    ],
+    "answer": "Cerebrospinal fluid",
+    "topic": "Diagnostics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_046",
+    "question": "Parkinson disease commonly shows:",
+    "options": [
+      "Resting tremor",
+      "Hemiplegia",
+      "Seizure",
+      "Miosis"
+    ],
+    "answer": "Resting tremor",
+    "topic": "Movement Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_047",
+    "question": "Classic Parkinson triad includes tremor, rigidity and:",
+    "options": [
+      "Bradykinesia",
+      "Tachycardia",
+      "Ataxia",
+      "Aphasia"
+    ],
+    "answer": "Bradykinesia",
+    "topic": "Movement Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_048",
+    "question": "Most common drug for Parkinson disease:",
+    "options": [
+      "Levodopa",
+      "Insulin",
+      "Warfarin",
+      "Digoxin"
+    ],
+    "answer": "Levodopa",
+    "topic": "Movement Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_049",
+    "question": "Sudden severe worst headache suggests:",
+    "options": [
+      "Subarachnoid hemorrhage",
+      "Cold",
+      "Hair loss",
+      "Rash"
+    ],
+    "answer": "Subarachnoid hemorrhage",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_050",
+    "question": "Overall priority in neurological emergency:",
+    "options": [
+      "Airway, breathing, circulation",
+      "Hair care",
+      "Bathing",
+      "Diet"
+    ],
+    "answer": "Airway, breathing, circulation",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_051",
+    "question": "The most common cause of raised intracranial pressure is:",
+    "options": [
+      "Head injury",
+      "Diabetes",
+      "Asthma",
+      "Anemia"
+    ],
+    "answer": "Head injury",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_052",
+    "question": "Normal intracranial pressure in adults is approximately:",
+    "options": [
+      "5–15 mmHg",
+      "20–30 mmHg",
+      "30–40 mmHg",
+      "0 mmHg"
+    ],
+    "answer": "5–15 mmHg",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_053",
+    "question": "A patient with GCS score of 3 indicates:",
+    "options": [
+      "Deep coma",
+      "Mild confusion",
+      "Alert state",
+      "Normal consciousness"
+    ],
+    "answer": "Deep coma",
+    "topic": "GCS",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_054",
+    "question": "A GCS score below 8 usually indicates need for:",
+    "options": [
+      "Intubation",
+      "Oral feeding",
+      "Walking exercise",
+      "Discharge"
+    ],
+    "answer": "Intubation",
+    "topic": "GCS",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_055",
+    "question": "Decerebrate posturing indicates lesion in:",
+    "options": [
+      "Brainstem",
+      "Cerebellum",
+      "Frontal lobe",
+      "Temporal lobe"
+    ],
+    "answer": "Brainstem",
+    "topic": "Neuro Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_056",
+    "question": "Decorticate posturing indicates lesion above:",
+    "options": [
+      "Brainstem",
+      "Spinal cord",
+      "Kidney",
+      "Lungs"
+    ],
+    "answer": "Brainstem",
+    "topic": "Neuro Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_057",
+    "question": "A unilateral dilated pupil may indicate:",
+    "options": [
+      "Brain herniation",
+      "Normal finding",
+      "Asthma",
+      "Diabetes"
+    ],
+    "answer": "Brain herniation",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_058",
+    "question": "The best immediate test in head trauma with LOC is:",
+    "options": [
+      "CT brain",
+      "MRI after 1 week",
+      "X-ray leg",
+      "Urine test"
+    ],
+    "answer": "CT brain",
+    "topic": "Diagnostics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_059",
+    "question": "Most common type of stroke is:",
+    "options": [
+      "Ischemic",
+      "Hemorrhagic",
+      "Subdural",
+      "Epidural"
+    ],
+    "answer": "Ischemic",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_060",
+    "question": "Sudden thunderclap headache suggests:",
+    "options": [
+      "Subarachnoid hemorrhage",
+      "Migraine",
+      "Sinusitis",
+      "Tension headache"
+    ],
+    "answer": "Subarachnoid hemorrhage",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_061",
+    "question": "Most common artery involved in stroke is:",
+    "options": [
+      "Middle cerebral artery",
+      "Renal artery",
+      "Femoral artery",
+      "Pulmonary artery"
+    ],
+    "answer": "Middle cerebral artery",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_062",
+    "question": "Aphasia commonly occurs with lesion in:",
+    "options": [
+      "Dominant hemisphere",
+      "Spinal cord",
+      "Cerebellum",
+      "Medulla"
+    ],
+    "answer": "Dominant hemisphere",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_063",
+    "question": "Right-sided weakness usually suggests lesion in:",
+    "options": [
+      "Left hemisphere",
+      "Right hemisphere",
+      "Cerebellum",
+      "Brainstem"
+    ],
+    "answer": "Left hemisphere",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_064",
+    "question": "Best time-sensitive treatment for eligible ischemic stroke:",
+    "options": [
+      "Thrombolysis",
+      "Antibiotics",
+      "Steroids",
+      "Insulin"
+    ],
+    "answer": "Thrombolysis",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_065",
+    "question": "Drug commonly used for thrombolysis in stroke:",
+    "options": [
+      "Alteplase",
+      "Paracetamol",
+      "Heparin",
+      "Metformin"
+    ],
+    "answer": "Alteplase",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_066",
+    "question": "Main contraindication to thrombolysis is:",
+    "options": [
+      "Intracranial bleed",
+      "Hypertension controlled",
+      "Age >20",
+      "Mild fever"
+    ],
+    "answer": "Intracranial bleed",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_067",
+    "question": "Best nursing action for dysphagia after stroke:",
+    "options": [
+      "Swallow assessment before feeding",
+      "Give water quickly",
+      "Flat position feeding",
+      "Ignore complaint"
+    ],
+    "answer": "Swallow assessment before feeding",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_068",
+    "question": "Main complication of immobility after stroke:",
+    "options": [
+      "Pressure sores",
+      "Hair loss",
+      "Cold",
+      "Myopia"
+    ],
+    "answer": "Pressure sores",
+    "topic": "Stroke Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_069",
+    "question": "Best prevention of aspiration in stroke patient:",
+    "options": [
+      "Head elevation during feeding",
+      "Feed lying flat",
+      "Large bites",
+      "Sedate patient"
+    ],
+    "answer": "Head elevation during feeding",
+    "topic": "Stroke Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_070",
+    "question": "Most common post-stroke mood issue:",
+    "options": [
+      "Depression",
+      "Euphoria",
+      "Hallucination always",
+      "Mania always"
+    ],
+    "answer": "Depression",
+    "topic": "Stroke Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_071",
+    "question": "The gold standard test for epilepsy tendency is:",
+    "options": [
+      "EEG",
+      "ECG",
+      "X-ray",
+      "USG"
+    ],
+    "answer": "EEG",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_072",
+    "question": "EEG stands for:",
+    "options": [
+      "Electroencephalogram",
+      "Electrocardiogram",
+      "Echo energy graph",
+      "None"
+    ],
+    "answer": "Electroencephalogram",
+    "topic": "Diagnostics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_073",
+    "question": "Most common trigger for seizure recurrence:",
+    "options": [
+      "Missed medication",
+      "Haircut",
+      "Bathing",
+      "Reading"
+    ],
+    "answer": "Missed medication",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_074",
+    "question": "After seizure patient commonly enters:",
+    "options": [
+      "Postictal phase",
+      "Coma always",
+      "Stroke",
+      "Shock"
+    ],
+    "answer": "Postictal phase",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_075",
+    "question": "Common postictal symptom:",
+    "options": [
+      "Confusion",
+      "Permanent paralysis always",
+      "Fever always",
+      "Blindness always"
+    ],
+    "answer": "Confusion",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_076",
+    "question": "First line maintenance drug example for seizures:",
+    "options": [
+      "Sodium valproate",
+      "Insulin",
+      "Warfarin",
+      "Digoxin"
+    ],
+    "answer": "Sodium valproate",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_077",
+    "question": "Another common antiepileptic drug is:",
+    "options": [
+      "Phenytoin",
+      "Furosemide",
+      "Aspirin",
+      "Atropine"
+    ],
+    "answer": "Phenytoin",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_078",
+    "question": "Rapid IV anticonvulsant often used after benzodiazepine:",
+    "options": [
+      "Phenytoin",
+      "Metformin",
+      "Iron",
+      "Morphine"
+    ],
+    "answer": "Phenytoin",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_079",
+    "question": "Most important monitoring during status epilepticus:",
+    "options": [
+      "Airway and oxygenation",
+      "Hair growth",
+      "Skin tone",
+      "Nail color"
+    ],
+    "answer": "Airway and oxygenation",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_080",
+    "question": "Hypoglycemia can mimic:",
+    "options": [
+      "Seizure or stroke",
+      "Fracture",
+      "Appendicitis",
+      "Dermatitis"
+    ],
+    "answer": "Seizure or stroke",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_081",
+    "question": "Classic sign of meningitis:",
+    "options": [
+      "Neck rigidity",
+      "Pedal edema",
+      "Jaundice",
+      "Clubbing"
+    ],
+    "answer": "Neck rigidity",
+    "topic": "Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_082",
+    "question": "Isolation precaution in suspected meningococcal meningitis:",
+    "options": [
+      "Droplet precautions",
+      "No precautions",
+      "Contact only",
+      "Reverse isolation"
+    ],
+    "answer": "Droplet precautions",
+    "topic": "Infection Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_083",
+    "question": "Common CSF finding in bacterial meningitis:",
+    "options": [
+      "High neutrophils",
+      "Low cells",
+      "No protein",
+      "Very high glucose"
+    ],
+    "answer": "High neutrophils",
+    "topic": "Diagnostics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_084",
+    "question": "Before lumbar puncture in raised ICP suspicion, do:",
+    "options": [
+      "CT brain first",
+      "Immediate LP always",
+      "Give food",
+      "Walk patient"
+    ],
+    "answer": "CT brain first",
+    "topic": "Diagnostics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_085",
+    "question": "Main danger of LP in raised ICP:",
+    "options": [
+      "Brain herniation",
+      "Hair loss",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "Brain herniation",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_086",
+    "question": "Parkinson disease is due to low dopamine in:",
+    "options": [
+      "Basal ganglia",
+      "Kidney",
+      "Liver",
+      "Lung"
+    ],
+    "answer": "Basal ganglia",
+    "topic": "Movement Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_087",
+    "question": "Shuffling gait is seen in:",
+    "options": [
+      "Parkinson disease",
+      "Stroke only",
+      "Asthma",
+      "UTI"
+    ],
+    "answer": "Parkinson disease",
+    "topic": "Movement Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_088",
+    "question": "Mask-like face is seen in:",
+    "options": [
+      "Parkinson disease",
+      "Meningitis",
+      "Migraine",
+      "TIA"
+    ],
+    "answer": "Parkinson disease",
+    "topic": "Movement Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_089",
+    "question": "Memory decline severe enough to affect function suggests:",
+    "options": [
+      "Dementia",
+      "Ataxia",
+      "Diplopia",
+      "Miosis"
+    ],
+    "answer": "Dementia",
+    "topic": "Cognition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_090",
+    "question": "Most common dementia type:",
+    "options": [
+      "Alzheimer disease",
+      "Parkinson disease",
+      "Meningitis",
+      "Epilepsy"
+    ],
+    "answer": "Alzheimer disease",
+    "topic": "Cognition",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_091",
+    "question": "Sudden spinning sensation is commonly:",
+    "options": [
+      "Vertigo",
+      "Stroke always",
+      "Seizure",
+      "Coma"
+    ],
+    "answer": "Vertigo",
+    "topic": "General Neuro",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_092",
+    "question": "Cranial nerve responsible for facial expression:",
+    "options": [
+      "Facial nerve (VII)",
+      "Optic nerve",
+      "Vagus nerve",
+      "Hypoglossal nerve"
+    ],
+    "answer": "Facial nerve (VII)",
+    "topic": "Cranial Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_093",
+    "question": "Cranial nerve for vision is:",
+    "options": [
+      "Optic nerve (II)",
+      "Facial nerve",
+      "Accessory nerve",
+      "Glossopharyngeal"
+    ],
+    "answer": "Optic nerve (II)",
+    "topic": "Cranial Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_094",
+    "question": "Cranial nerve for tongue movement:",
+    "options": [
+      "Hypoglossal (XII)",
+      "Optic",
+      "Trigeminal",
+      "Vestibular"
+    ],
+    "answer": "Hypoglossal (XII)",
+    "topic": "Cranial Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_095",
+    "question": "Positive Babinski in adult suggests:",
+    "options": [
+      "Upper motor neuron lesion",
+      "Normal finding",
+      "Kidney disease",
+      "Diabetes"
+    ],
+    "answer": "Upper motor neuron lesion",
+    "topic": "Neuro Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_096",
+    "question": "Main nursing priority in unconscious patient:",
+    "options": [
+      "Maintain airway",
+      "Hair wash",
+      "Ambulation",
+      "Solid feeding"
+    ],
+    "answer": "Maintain airway",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_097",
+    "question": "Best position for unconscious but breathing patient:",
+    "options": [
+      "Recovery position",
+      "Standing",
+      "Trendelenburg",
+      "Prone flat"
+    ],
+    "answer": "Recovery position",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_098",
+    "question": "A patient with sudden weakness + slurred speech should be treated as:",
+    "options": [
+      "Stroke emergency",
+      "Routine OPD",
+      "Skin disease",
+      "Anxiety only"
+    ],
+    "answer": "Stroke emergency",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_099",
+    "question": "Overall goal in neurological nursing care:",
+    "options": [
+      "Preserve brain function",
+      "Increase ICP",
+      "Delay treatment",
+      "Restrict oxygen"
+    ],
+    "answer": "Preserve brain function",
+    "topic": "Neuro Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_100",
+    "question": "Primary priority in all neuro emergencies:",
+    "options": [
+      "Airway, breathing, circulation",
+      "Hair care",
+      "Bathing",
+      "Documentation first"
+    ],
+    "answer": "Airway, breathing, circulation",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_101",
+    "question": "The cerebellum mainly controls:",
+    "options": [
+      "Balance and coordination",
+      "Vision only",
+      "Speech only",
+      "Respiration only"
+    ],
+    "answer": "Balance and coordination",
+    "topic": "Brain Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_102",
+    "question": "Damage to cerebellum causes:",
+    "options": [
+      "Ataxia",
+      "Aphasia",
+      "Hemianopia",
+      "Paralysis only"
+    ],
+    "answer": "Ataxia",
+    "topic": "Brain Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_103",
+    "question": "The medulla oblongata controls:",
+    "options": [
+      "Respiration and cardiac center",
+      "Memory",
+      "Hearing only",
+      "Taste only"
+    ],
+    "answer": "Respiration and cardiac center",
+    "topic": "Brain Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_104",
+    "question": "The frontal lobe is associated with:",
+    "options": [
+      "Personality and motor function",
+      "Hearing",
+      "Vision",
+      "Balance"
+    ],
+    "answer": "Personality and motor function",
+    "topic": "Brain Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_105",
+    "question": "The temporal lobe is mainly related to:",
+    "options": [
+      "Hearing and memory",
+      "Vision",
+      "Balance",
+      "Motor reflexes"
+    ],
+    "answer": "Hearing and memory",
+    "topic": "Brain Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_106",
+    "question": "The occipital lobe is responsible for:",
+    "options": [
+      "Vision",
+      "Speech",
+      "Swallowing",
+      "Touch only"
+    ],
+    "answer": "Vision",
+    "topic": "Brain Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_107",
+    "question": "The parietal lobe mainly interprets:",
+    "options": [
+      "Sensory input",
+      "Breathing",
+      "Vision only",
+      "Balance"
+    ],
+    "answer": "Sensory input",
+    "topic": "Brain Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_108",
+    "question": "Broca area damage causes:",
+    "options": [
+      "Expressive aphasia",
+      "Blindness",
+      "Vertigo",
+      "Ataxia"
+    ],
+    "answer": "Expressive aphasia",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_109",
+    "question": "Wernicke area damage causes:",
+    "options": [
+      "Receptive aphasia",
+      "Hemiplegia",
+      "Anosmia",
+      "Ptosis"
+    ],
+    "answer": "Receptive aphasia",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_110",
+    "question": "The meninges consist of dura, arachnoid and:",
+    "options": [
+      "Pia mater",
+      "Pleura",
+      "Peritoneum",
+      "Myelin"
+    ],
+    "answer": "Pia mater",
+    "topic": "Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_111",
+    "question": "CSF is mainly produced by:",
+    "options": [
+      "Choroid plexus",
+      "Pituitary gland",
+      "Thyroid gland",
+      "Cerebellum"
+    ],
+    "answer": "Choroid plexus",
+    "topic": "Physiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_112",
+    "question": "Normal adult CSF is clear and:",
+    "options": [
+      "Colorless",
+      "Bright red",
+      "Green",
+      "Black"
+    ],
+    "answer": "Colorless",
+    "topic": "Diagnostics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_113",
+    "question": "Hydrocephalus means:",
+    "options": [
+      "Excess CSF accumulation",
+      "Brain infection",
+      "Brain tumor",
+      "Stroke"
+    ],
+    "answer": "Excess CSF accumulation",
+    "topic": "Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_114",
+    "question": "Common treatment of hydrocephalus:",
+    "options": [
+      "VP shunt",
+      "Dialysis",
+      "Pacemaker",
+      "Splint"
+    ],
+    "answer": "VP shunt",
+    "topic": "Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_115",
+    "question": "VP shunt stands for:",
+    "options": [
+      "Ventriculoperitoneal shunt",
+      "Venous pressure shunt",
+      "Vital pulse shunt",
+      "None"
+    ],
+    "answer": "Ventriculoperitoneal shunt",
+    "topic": "Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_116",
+    "question": "Most common symptom of meningitis in infants may be:",
+    "options": [
+      "Bulging fontanelle",
+      "Chest pain",
+      "Hair loss",
+      "Jaundice"
+    ],
+    "answer": "Bulging fontanelle",
+    "topic": "Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_117",
+    "question": "Photophobia is commonly seen in:",
+    "options": [
+      "Meningitis",
+      "Fracture",
+      "Anemia",
+      "UTI"
+    ],
+    "answer": "Meningitis",
+    "topic": "Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_118",
+    "question": "Most important immediate treatment in bacterial meningitis:",
+    "options": [
+      "IV antibiotics",
+      "Insulin",
+      "Warfarin",
+      "Antacid"
+    ],
+    "answer": "IV antibiotics",
+    "topic": "Infection",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_119",
+    "question": "A patient with sudden severe headache, vomiting and neck stiffness may have:",
+    "options": [
+      "Subarachnoid hemorrhage",
+      "Asthma",
+      "UTI",
+      "Dermatitis"
+    ],
+    "answer": "Subarachnoid hemorrhage",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_120",
+    "question": "Berry aneurysm rupture commonly causes:",
+    "options": [
+      "Subarachnoid hemorrhage",
+      "Parkinson disease",
+      "TIA",
+      "Bell palsy"
+    ],
+    "answer": "Subarachnoid hemorrhage",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_121",
+    "question": "Bell palsy affects cranial nerve:",
+    "options": [
+      "VII",
+      "II",
+      "X",
+      "XII"
+    ],
+    "answer": "VII",
+    "topic": "Cranial Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_122",
+    "question": "Bell palsy usually presents with:",
+    "options": [
+      "Facial weakness",
+      "Leg paralysis only",
+      "Coma",
+      "Seizure"
+    ],
+    "answer": "Facial weakness",
+    "topic": "Cranial Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_123",
+    "question": "Trigeminal nerve is cranial nerve:",
+    "options": [
+      "V",
+      "III",
+      "VIII",
+      "XI"
+    ],
+    "answer": "V",
+    "topic": "Cranial Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_124",
+    "question": "Trigeminal nerve is mainly for:",
+    "options": [
+      "Facial sensation and chewing",
+      "Vision",
+      "Hearing",
+      "Tongue movement"
+    ],
+    "answer": "Facial sensation and chewing",
+    "topic": "Cranial Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_125",
+    "question": "Vestibulocochlear nerve is cranial nerve:",
+    "options": [
+      "VIII",
+      "VI",
+      "IV",
+      "IX"
+    ],
+    "answer": "VIII",
+    "topic": "Cranial Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_126",
+    "question": "Vestibulocochlear nerve controls:",
+    "options": [
+      "Hearing and balance",
+      "Speech",
+      "Taste only",
+      "Swallowing only"
+    ],
+    "answer": "Hearing and balance",
+    "topic": "Cranial Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_127",
+    "question": "Sciatic nerve injury may cause pain in:",
+    "options": [
+      "Back to leg",
+      "Arm only",
+      "Face only",
+      "Chest only"
+    ],
+    "answer": "Back to leg",
+    "topic": "Peripheral Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_128",
+    "question": "Carpal tunnel syndrome affects nerve:",
+    "options": [
+      "Median nerve",
+      "Facial nerve",
+      "Vagus nerve",
+      "Optic nerve"
+    ],
+    "answer": "Median nerve",
+    "topic": "Peripheral Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_129",
+    "question": "Sudden unilateral facial weakness with forehead spared suggests:",
+    "options": [
+      "Stroke",
+      "Bell palsy",
+      "Migraine",
+      "Vertigo"
+    ],
+    "answer": "Stroke",
+    "topic": "Stroke",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_130",
+    "question": "Forehead involvement with facial weakness suggests:",
+    "options": [
+      "Bell palsy",
+      "Stroke always",
+      "TIA always",
+      "Meningitis"
+    ],
+    "answer": "Bell palsy",
+    "topic": "Cranial Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_131",
+    "question": "Most common type of headache is:",
+    "options": [
+      "Tension headache",
+      "Brain tumor",
+      "Stroke",
+      "Meningitis"
+    ],
+    "answer": "Tension headache",
+    "topic": "Headache",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_132",
+    "question": "Migraine commonly presents with:",
+    "options": [
+      "Throbbing headache",
+      "Jaundice",
+      "Edema",
+      "Bradycardia"
+    ],
+    "answer": "Throbbing headache",
+    "topic": "Headache",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_133",
+    "question": "Migraine may be associated with:",
+    "options": [
+      "Photophobia",
+      "Hair loss",
+      "Polyuria",
+      "Hematuria"
+    ],
+    "answer": "Photophobia",
+    "topic": "Headache",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_134",
+    "question": "Cluster headache is usually:",
+    "options": [
+      "Severe unilateral orbital pain",
+      "Whole body pain",
+      "Leg pain",
+      "Neck fracture"
+    ],
+    "answer": "Severe unilateral orbital pain",
+    "topic": "Headache",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_135",
+    "question": "Lumbar puncture site in adults is usually:",
+    "options": [
+      "L3-L4 or L4-L5",
+      "C1-C2",
+      "T1-T2",
+      "S1-S2"
+    ],
+    "answer": "L3-L4 or L4-L5",
+    "topic": "Diagnostics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_136",
+    "question": "Common complication after lumbar puncture:",
+    "options": [
+      "Headache",
+      "Hair loss",
+      "MI",
+      "Fracture"
+    ],
+    "answer": "Headache",
+    "topic": "Diagnostics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_137",
+    "question": "Multiple sclerosis is a disease of:",
+    "options": [
+      "Demyelination",
+      "Bone fracture",
+      "Kidney stones",
+      "Liver failure"
+    ],
+    "answer": "Demyelination",
+    "topic": "Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_138",
+    "question": "MS commonly affects:",
+    "options": [
+      "Young adults",
+      "Only neonates",
+      "Only elderly men",
+      "Only children"
+    ],
+    "answer": "Young adults",
+    "topic": "Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_139",
+    "question": "Guillain-Barré syndrome usually causes:",
+    "options": [
+      "Ascending paralysis",
+      "Descending rash",
+      "Jaundice",
+      "Chest pain"
+    ],
+    "answer": "Ascending paralysis",
+    "topic": "Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_140",
+    "question": "Dangerous complication of Guillain-Barré syndrome:",
+    "options": [
+      "Respiratory failure",
+      "Hair loss",
+      "Myopia",
+      "UTI"
+    ],
+    "answer": "Respiratory failure",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_141",
+    "question": "Myasthenia gravis mainly causes:",
+    "options": [
+      "Muscle weakness worsens with use",
+      "Rigidity",
+      "Ataxia",
+      "Coma"
+    ],
+    "answer": "Muscle weakness worsens with use",
+    "topic": "Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_142",
+    "question": "Common eye sign in myasthenia gravis:",
+    "options": [
+      "Ptosis",
+      "Miosis",
+      "Anisocoria",
+      "Blindness always"
+    ],
+    "answer": "Ptosis",
+    "topic": "Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_143",
+    "question": "Drug used in myasthenia gravis:",
+    "options": [
+      "Pyridostigmine",
+      "Digoxin",
+      "Warfarin",
+      "Mannitol"
+    ],
+    "answer": "Pyridostigmine",
+    "topic": "Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_144",
+    "question": "Spinal cord compression may present with:",
+    "options": [
+      "Weakness + bladder symptoms",
+      "Hair loss",
+      "Cough only",
+      "Jaundice"
+    ],
+    "answer": "Weakness + bladder symptoms",
+    "topic": "Spinal Cord",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_145",
+    "question": "Cauda equina syndrome is a:",
+    "options": [
+      "Neurosurgical emergency",
+      "Skin disease",
+      "Cardiac arrhythmia",
+      "Eye disorder"
+    ],
+    "answer": "Neurosurgical emergency",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_146",
+    "question": "Most important nursing priority in seizure patient:",
+    "options": [
+      "Prevent injury",
+      "Force oral medicine during seizure",
+      "Restrain tightly",
+      "Leave alone"
+    ],
+    "answer": "Prevent injury",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_147",
+    "question": "Most important nursing priority in stroke patient:",
+    "options": [
+      "Airway and swallow safety",
+      "Hair styling",
+      "Long walk immediately",
+      "Solid meal first"
+    ],
+    "answer": "Airway and swallow safety",
+    "topic": "Stroke Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_148",
+    "question": "Most important nursing priority in unconscious patient:",
+    "options": [
+      "Airway maintenance",
+      "Hair care",
+      "Exercise",
+      "Oral feeding"
+    ],
+    "answer": "Airway maintenance",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_149",
+    "question": "Overall aim of neuro critical care:",
+    "options": [
+      "Preserve cerebral perfusion",
+      "Increase ICP",
+      "Delay oxygen",
+      "Restrict monitoring"
+    ],
+    "answer": "Preserve cerebral perfusion",
+    "topic": "Critical Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_150",
+    "question": "Primary priority in all neurological emergencies:",
+    "options": [
+      "Airway, breathing, circulation",
+      "Documentation first",
+      "Bathing",
+      "Hair care"
+    ],
+    "answer": "Airway, breathing, circulation",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_151",
+    "question": "The neuron is the functional unit of:",
+    "options": [
+      "Nervous system",
+      "Respiratory system",
+      "Digestive system",
+      "Endocrine system"
+    ],
+    "answer": "Nervous system",
+    "topic": "Basic Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_152",
+    "question": "Myelin sheath mainly helps in:",
+    "options": [
+      "Faster nerve conduction",
+      "Blood production",
+      "Hormone secretion",
+      "Muscle growth"
+    ],
+    "answer": "Faster nerve conduction",
+    "topic": "Physiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_153",
+    "question": "Cells producing myelin in CNS are:",
+    "options": [
+      "Oligodendrocytes",
+      "Schwann cells",
+      "Neutrophils",
+      "Platelets"
+    ],
+    "answer": "Oligodendrocytes",
+    "topic": "Neurophysiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_154",
+    "question": "Cells producing myelin in PNS are:",
+    "options": [
+      "Schwann cells",
+      "Astrocytes",
+      "RBC",
+      "Macrophages"
+    ],
+    "answer": "Schwann cells",
+    "topic": "Neurophysiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_155",
+    "question": "The largest part of brain is:",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Pons"
+    ],
+    "answer": "Cerebrum",
+    "topic": "Brain Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_156",
+    "question": "The pons is part of:",
+    "options": [
+      "Brainstem",
+      "Cerebellum",
+      "Spinal cord only",
+      "Pituitary gland"
+    ],
+    "answer": "Brainstem",
+    "topic": "Brain Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_157",
+    "question": "The thalamus mainly acts as:",
+    "options": [
+      "Sensory relay station",
+      "Respiratory center",
+      "Vision center",
+      "Balance center"
+    ],
+    "answer": "Sensory relay station",
+    "topic": "Brain Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_158",
+    "question": "Hypothalamus regulates:",
+    "options": [
+      "Temperature and hormones",
+      "Hearing only",
+      "Smell only",
+      "Bone marrow"
+    ],
+    "answer": "Temperature and hormones",
+    "topic": "Brain Anatomy",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_159",
+    "question": "Normal adult brain weight is about:",
+    "options": [
+      "1.2–1.4 kg",
+      "300 g",
+      "5 kg",
+      "50 g"
+    ],
+    "answer": "1.2–1.4 kg",
+    "topic": "General",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_160",
+    "question": "The spinal cord ends around:",
+    "options": [
+      "L1-L2",
+      "C1-C2",
+      "T12 only",
+      "S5"
+    ],
+    "answer": "L1-L2",
+    "topic": "Spinal Cord",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_161",
+    "question": "The autonomic nervous system includes sympathetic and:",
+    "options": [
+      "Parasympathetic",
+      "Somatic",
+      "Sensory",
+      "Cortical"
+    ],
+    "answer": "Parasympathetic",
+    "topic": "Physiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_162",
+    "question": "Fight or flight response is due to:",
+    "options": [
+      "Sympathetic system",
+      "Parasympathetic system",
+      "Cerebellum",
+      "Occipital lobe"
+    ],
+    "answer": "Sympathetic system",
+    "topic": "Physiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_163",
+    "question": "Rest and digest response is due to:",
+    "options": [
+      "Parasympathetic system",
+      "Sympathetic system",
+      "Frontal lobe",
+      "Basal ganglia"
+    ],
+    "answer": "Parasympathetic system",
+    "topic": "Physiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_164",
+    "question": "Neurotransmitter at neuromuscular junction is:",
+    "options": [
+      "Acetylcholine",
+      "Dopamine",
+      "Serotonin",
+      "Insulin"
+    ],
+    "answer": "Acetylcholine",
+    "topic": "Physiology",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_165",
+    "question": "Low dopamine is associated with:",
+    "options": [
+      "Parkinson disease",
+      "Meningitis",
+      "Stroke",
+      "TIA"
+    ],
+    "answer": "Parkinson disease",
+    "topic": "Movement Disorders",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_166",
+    "question": "Raised serotonin is linked to mood regulation in:",
+    "options": [
+      "Depression treatment",
+      "Stroke imaging",
+      "Fracture healing",
+      "UTI"
+    ],
+    "answer": "Depression treatment",
+    "topic": "General Neuro",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_167",
+    "question": "The commonest cause of coma worldwide is:",
+    "options": [
+      "Metabolic/drug causes",
+      "Hair loss",
+      "Fracture",
+      "Otitis"
+    ],
+    "answer": "Metabolic/drug causes",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_168",
+    "question": "Pinpoint pupils may be seen in:",
+    "options": [
+      "Opioid overdose",
+      "Bell palsy",
+      "Parkinson disease",
+      "Migraine"
+    ],
+    "answer": "Opioid overdose",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_169",
+    "question": "Fixed dilated pupils may indicate:",
+    "options": [
+      "Severe brain injury",
+      "Normal sleep",
+      "UTI",
+      "Anemia"
+    ],
+    "answer": "Severe brain injury",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_170",
+    "question": "Best first step in unconscious patient:",
+    "options": [
+      "Check airway and breathing",
+      "Give food",
+      "Walk patient",
+      "Check haircut"
+    ],
+    "answer": "Check airway and breathing",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_171",
+    "question": "The most common cause of subdural hematoma is:",
+    "options": [
+      "Head trauma",
+      "Diabetes",
+      "Asthma",
+      "Appendicitis"
+    ],
+    "answer": "Head trauma",
+    "topic": "Trauma",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_172",
+    "question": "Subdural hematoma is usually venous bleed from:",
+    "options": [
+      "Bridging veins",
+      "Aorta",
+      "Coronary artery",
+      "Carotid body"
+    ],
+    "answer": "Bridging veins",
+    "topic": "Trauma",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_173",
+    "question": "Epidural hematoma classically involves:",
+    "options": [
+      "Middle meningeal artery",
+      "Femoral vein",
+      "Jugular vein",
+      "Portal vein"
+    ],
+    "answer": "Middle meningeal artery",
+    "topic": "Trauma",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_174",
+    "question": "Lucid interval is classically seen in:",
+    "options": [
+      "Epidural hematoma",
+      "Meningitis",
+      "Parkinson disease",
+      "MS"
+    ],
+    "answer": "Epidural hematoma",
+    "topic": "Trauma",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_175",
+    "question": "Best urgent test for intracranial bleed:",
+    "options": [
+      "CT head",
+      "EEG",
+      "X-ray chest",
+      "USG abdomen"
+    ],
+    "answer": "CT head",
+    "topic": "Diagnostics",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_176",
+    "question": "Mannitol works by:",
+    "options": [
+      "Osmotic diuresis",
+      "Sedation",
+      "Anticoagulation",
+      "Vasoconstriction only"
+    ],
+    "answer": "Osmotic diuresis",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_177",
+    "question": "Main nursing care after mannitol is monitor:",
+    "options": [
+      "Fluid balance",
+      "Hair growth",
+      "Vision color only",
+      "Tongue size"
+    ],
+    "answer": "Fluid balance",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_178",
+    "question": "Hyperventilation temporarily lowers ICP by:",
+    "options": [
+      "Reducing cerebral blood flow",
+      "Increasing CSF",
+      "Increasing edema",
+      "Causing fever"
+    ],
+    "answer": "Reducing cerebral blood flow",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_179",
+    "question": "Best bed position in raised ICP:",
+    "options": [
+      "Head elevated 30 degrees",
+      "Flat supine",
+      "Trendelenburg",
+      "Prone"
+    ],
+    "answer": "Head elevated 30 degrees",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_180",
+    "question": "Avoid in raised ICP:",
+    "options": [
+      "Neck flexion/venous obstruction",
+      "Neutral neck",
+      "Quiet room",
+      "Oxygenation"
+    ],
+    "answer": "Neck flexion/venous obstruction",
+    "topic": "ICP",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_181",
+    "question": "Most common site of lumbar disc prolapse is:",
+    "options": [
+      "L4-L5 or L5-S1",
+      "C1-C2",
+      "T1-T2",
+      "S1-S2"
+    ],
+    "answer": "L4-L5 or L5-S1",
+    "topic": "Spinal Cord",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_182",
+    "question": "Sciatica commonly causes pain radiating to:",
+    "options": [
+      "Leg",
+      "Arm",
+      "Face",
+      "Chest"
+    ],
+    "answer": "Leg",
+    "topic": "Peripheral Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_183",
+    "question": "Loss of bladder control with back pain may indicate:",
+    "options": [
+      "Cauda equina syndrome",
+      "Migraine",
+      "Bell palsy",
+      "TIA"
+    ],
+    "answer": "Cauda equina syndrome",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_184",
+    "question": "Babinski sign in infant is usually:",
+    "options": [
+      "Normal",
+      "Always pathological",
+      "Stroke sign only",
+      "Coma sign"
+    ],
+    "answer": "Normal",
+    "topic": "Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_185",
+    "question": "Positive Romberg test suggests problem with:",
+    "options": [
+      "Balance/proprioception",
+      "Kidney",
+      "Liver",
+      "Lung"
+    ],
+    "answer": "Balance/proprioception",
+    "topic": "Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_186",
+    "question": "Nystagmus means:",
+    "options": [
+      "Involuntary eye movement",
+      "Hearing loss",
+      "Tongue weakness",
+      "Facial rash"
+    ],
+    "answer": "Involuntary eye movement",
+    "topic": "Assessment",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_187",
+    "question": "Vertigo commonly originates from:",
+    "options": [
+      "Vestibular system",
+      "Kidney",
+      "Liver",
+      "Pancreas"
+    ],
+    "answer": "Vestibular system",
+    "topic": "General Neuro",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_188",
+    "question": "Most common benign vertigo type:",
+    "options": [
+      "BPPV",
+      "Stroke",
+      "Meningitis",
+      "Epilepsy"
+    ],
+    "answer": "BPPV",
+    "topic": "General Neuro",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_189",
+    "question": "BPPV stands for:",
+    "options": [
+      "Benign paroxysmal positional vertigo",
+      "Basic pressure positional vagus",
+      "Brain perfusion pressure variant",
+      "None"
+    ],
+    "answer": "Benign paroxysmal positional vertigo",
+    "topic": "General Neuro",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_190",
+    "question": "Most important warning sign headache needing urgent review:",
+    "options": [
+      "Sudden worst headache",
+      "Mild stress headache",
+      "Headache after study",
+      "Headache relieved by rest"
+    ],
+    "answer": "Sudden worst headache",
+    "topic": "Headache",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_191",
+    "question": "The most common cause of peripheral neuropathy is:",
+    "options": [
+      "Diabetes mellitus",
+      "Appendicitis",
+      "Asthma",
+      "Migraine"
+    ],
+    "answer": "Diabetes mellitus",
+    "topic": "Peripheral Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_192",
+    "question": "Stocking-glove sensory loss suggests:",
+    "options": [
+      "Peripheral neuropathy",
+      "Stroke",
+      "Bell palsy",
+      "Meningitis"
+    ],
+    "answer": "Peripheral neuropathy",
+    "topic": "Peripheral Nerves",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_193",
+    "question": "Best prevention of pressure sores in paralyzed patient:",
+    "options": [
+      "Regular repositioning",
+      "No movement",
+      "Tight restraints",
+      "Less fluids only"
+    ],
+    "answer": "Regular repositioning",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_194",
+    "question": "Best DVT prevention in immobile neuro patient:",
+    "options": [
+      "Leg exercises/compression as ordered",
+      "Absolute no movement always",
+      "High sugar diet",
+      "Sedation only"
+    ],
+    "answer": "Leg exercises/compression as ordered",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_195",
+    "question": "Main aspiration prevention in dysphagia patient:",
+    "options": [
+      "Swallow screening",
+      "Flat feeding",
+      "Rapid feeding",
+      "No oral hygiene"
+    ],
+    "answer": "Swallow screening",
+    "topic": "Nursing Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_196",
+    "question": "Main goal in stroke rehabilitation:",
+    "options": [
+      "Maximize independence",
+      "Bed rest forever",
+      "No exercise",
+      "Isolation"
+    ],
+    "answer": "Maximize independence",
+    "topic": "Rehabilitation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_197",
+    "question": "Main goal in seizure education:",
+    "options": [
+      "Medication adherence",
+      "Skip doses",
+      "Sleep deprivation",
+      "Alcohol excess"
+    ],
+    "answer": "Medication adherence",
+    "topic": "Seizures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_198",
+    "question": "Main goal in head injury care:",
+    "options": [
+      "Prevent secondary brain injury",
+      "Increase ICP",
+      "Delay oxygen",
+      "Ignore vitals"
+    ],
+    "answer": "Prevent secondary brain injury",
+    "topic": "Trauma",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_199",
+    "question": "Overall aim of neuro ICU nursing:",
+    "options": [
+      "Maintain cerebral perfusion and oxygenation",
+      "Restrict monitoring",
+      "Cause hypotension",
+      "Delay treatment"
+    ],
+    "answer": "Maintain cerebral perfusion and oxygenation",
+    "topic": "Critical Care",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "NEURO_200",
+    "question": "Primary priority in all neurological emergencies:",
+    "options": [
+      "Airway, breathing, circulation",
+      "Documentation first",
+      "Hair care",
+      "Routine discharge"
+    ],
+    "answer": "Airway, breathing, circulation",
+    "topic": "Emergency",
+    "chapter": "GENERAL"
+  }
+]

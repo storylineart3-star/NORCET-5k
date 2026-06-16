@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "PA_001",
+    "question": "Pathology is the study of:",
+    "options": [
+      "Drugs",
+      "Diseases",
+      "Nutrition",
+      "Bones"
+    ],
+    "answer": "Diseases",
+    "difficulty": "easy",
+    "explanation": "Pathology deals with disease causes and effects.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_002",
+    "question": "Inflammation is:",
+    "options": [
+      "Normal state",
+      "Body response to injury",
+      "Drug effect",
+      "Genetic change"
+    ],
+    "answer": "Body response to injury",
+    "difficulty": "easy",
+    "explanation": "Protective response of tissues.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_003",
+    "question": "Redness, heat, pain, swelling are signs of:",
+    "options": [
+      "Healing",
+      "Inflammation",
+      "Fever",
+      "Cancer"
+    ],
+    "answer": "Inflammation",
+    "difficulty": "easy",
+    "explanation": "Classical signs of inflammation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_004",
+    "question": "Fever is caused by:",
+    "options": [
+      "Hypothermia",
+      "Pyrogens",
+      "Vitamin deficiency",
+      "Trauma"
+    ],
+    "answer": "Pyrogens",
+    "difficulty": "medium",
+    "explanation": "Chemicals that raise body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_005",
+    "question": "Normal body cell death is called:",
+    "options": [
+      "Necrosis",
+      "Apoptosis",
+      "Tumor",
+      "Inflammation"
+    ],
+    "answer": "Apoptosis",
+    "difficulty": "medium",
+    "explanation": "Programmed cell death.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_006",
+    "question": "Uncontrolled cell growth is called:",
+    "options": [
+      "Apoptosis",
+      "Cancer",
+      "Healing",
+      "Repair"
+    ],
+    "answer": "Cancer",
+    "difficulty": "easy",
+    "explanation": "Abnormal cell proliferation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_007",
+    "question": "Benign tumor means:",
+    "options": [
+      "Cancerous",
+      "Non-cancerous",
+      "Infectious",
+      "Dead tissue"
+    ],
+    "answer": "Non-cancerous",
+    "difficulty": "easy",
+    "explanation": "Does not spread.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_008",
+    "question": "Malignant tumor means:",
+    "options": [
+      "Harmless",
+      "Cancerous",
+      "Infection",
+      "Normal growth"
+    ],
+    "answer": "Cancerous",
+    "difficulty": "easy",
+    "explanation": "Spreads to other tissues.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_009",
+    "question": "Metastasis refers to:",
+    "options": [
+      "Healing",
+      "Spread of cancer",
+      "Inflammation",
+      "Fever"
+    ],
+    "answer": "Spread of cancer",
+    "difficulty": "medium",
+    "explanation": "Cancer spreading to other organs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_010",
+    "question": "Biopsy means:",
+    "options": [
+      "Blood test",
+      "Tissue sample examination",
+      "Urine test",
+      "X-ray"
+    ],
+    "answer": "Tissue sample examination",
+    "difficulty": "medium",
+    "explanation": "Diagnostic tissue study.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_011",
+    "question": "Histopathology studies:",
+    "options": [
+      "Blood",
+      "Tissues",
+      "Urine",
+      "Bones only"
+    ],
+    "answer": "Tissues",
+    "difficulty": "easy",
+    "explanation": "Microscopic tissue study.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_012",
+    "question": "Hematology is study of:",
+    "options": [
+      "Skin",
+      "Blood",
+      "Brain",
+      "Liver"
+    ],
+    "answer": "Blood",
+    "difficulty": "easy",
+    "explanation": "Blood and blood disorders.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_013",
+    "question": "Anemia means:",
+    "options": [
+      "High BP",
+      "Low hemoglobin",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Low hemoglobin",
+    "difficulty": "easy",
+    "explanation": "Reduced oxygen-carrying capacity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_014",
+    "question": "Leukocytosis means:",
+    "options": [
+      "Low WBC",
+      "High WBC",
+      "Low RBC",
+      "High RBC"
+    ],
+    "answer": "High WBC",
+    "difficulty": "medium",
+    "explanation": "Increase in white blood cells.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_015",
+    "question": "Leukopenia means:",
+    "options": [
+      "High WBC",
+      "Low WBC",
+      "High RBC",
+      "Low platelets"
+    ],
+    "answer": "Low WBC",
+    "difficulty": "medium",
+    "explanation": "Decreased immunity cells.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_016",
+    "question": "Thrombocytes are:",
+    "options": [
+      "RBC",
+      "WBC",
+      "Platelets",
+      "Plasma"
+    ],
+    "answer": "Platelets",
+    "difficulty": "easy",
+    "explanation": "Help in clotting.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_017",
+    "question": "Thrombocytopenia means:",
+    "options": [
+      "High platelets",
+      "Low platelets",
+      "High RBC",
+      "Low WBC"
+    ],
+    "answer": "Low platelets",
+    "difficulty": "medium",
+    "explanation": "Bleeding risk increases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_018",
+    "question": "Normal RBC function:",
+    "options": [
+      "Fight infection",
+      "Carry oxygen",
+      "Clot blood",
+      "Produce hormones"
+    ],
+    "answer": "Carry oxygen",
+    "difficulty": "easy",
+    "explanation": "Hemoglobin function.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_019",
+    "question": "Plasma is:",
+    "options": [
+      "Solid blood",
+      "Liquid part of blood",
+      "Cell",
+      "Protein only"
+    ],
+    "answer": "Liquid part of blood",
+    "difficulty": "easy",
+    "explanation": "Carries nutrients and hormones.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_020",
+    "question": "Hemostasis means:",
+    "options": [
+      "Bleeding",
+      "Stopping bleeding",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Stopping bleeding",
+    "difficulty": "medium",
+    "explanation": "Blood clotting process.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_021",
+    "question": "Coagulation is:",
+    "options": [
+      "Blood thinning",
+      "Blood clotting",
+      "Digestion",
+      "Respiration"
+    ],
+    "answer": "Blood clotting",
+    "difficulty": "easy",
+    "explanation": "Prevents bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_022",
+    "question": "Normal hemoglobin in adult female:",
+    "options": [
+      "8–10 g/dL",
+      "12–16 g/dL",
+      "18–20 g/dL",
+      "20–25 g/dL"
+    ],
+    "answer": "12–16 g/dL",
+    "difficulty": "medium",
+    "explanation": "Normal Hb range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_023",
+    "question": "Normal hemoglobin in adult male:",
+    "options": [
+      "12–16 g/dL",
+      "13–18 g/dL",
+      "8–10 g/dL",
+      "18–22 g/dL"
+    ],
+    "answer": "13–18 g/dL",
+    "difficulty": "medium",
+    "explanation": "Male Hb range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_024",
+    "question": "Iron deficiency causes:",
+    "options": [
+      "Leukemia",
+      "Anemia",
+      "Cancer",
+      "Diabetes"
+    ],
+    "answer": "Anemia",
+    "difficulty": "easy",
+    "explanation": "Most common anemia type.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_025",
+    "question": "Sickle cell disease affects:",
+    "options": [
+      "RBC shape",
+      "WBC count",
+      "Platelets",
+      "Plasma"
+    ],
+    "answer": "RBC shape",
+    "difficulty": "medium",
+    "explanation": "Abnormal hemoglobin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_026",
+    "question": "Tuberculosis mainly affects:",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Brain",
+      "Kidney"
+    ],
+    "answer": "Lungs",
+    "difficulty": "easy",
+    "explanation": "Mycobacterium infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_027",
+    "question": "TB is caused by:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungus",
+      "Parasite"
+    ],
+    "answer": "Bacteria",
+    "difficulty": "easy",
+    "explanation": "Mycobacterium tuberculosis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_028",
+    "question": "Inflammatory exudate contains:",
+    "options": [
+      "Only water",
+      "Cells and proteins",
+      "Only fat",
+      "Only oxygen"
+    ],
+    "answer": "Cells and proteins",
+    "difficulty": "medium",
+    "explanation": "Leakage during inflammation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_029",
+    "question": "Edema means:",
+    "options": [
+      "Dehydration",
+      "Swelling due to fluid",
+      "Weight loss",
+      "Fever"
+    ],
+    "answer": "Swelling due to fluid",
+    "difficulty": "easy",
+    "explanation": "Fluid accumulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_030",
+    "question": "Gangrene is:",
+    "options": [
+      "Normal tissue",
+      "Tissue death",
+      "Infection only",
+      "Fever"
+    ],
+    "answer": "Tissue death",
+    "difficulty": "medium",
+    "explanation": "Loss of blood supply.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_031",
+    "question": "Ischemia means:",
+    "options": [
+      "Increased blood flow",
+      "Reduced blood flow",
+      "Infection",
+      "Pain"
+    ],
+    "answer": "Reduced blood flow",
+    "difficulty": "medium",
+    "explanation": "Lack of oxygen supply.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_032",
+    "question": "Necrosis is:",
+    "options": [
+      "Normal cell growth",
+      "Cell death",
+      "Cell division",
+      "Healing"
+    ],
+    "answer": "Cell death",
+    "difficulty": "medium",
+    "explanation": "Irreversible damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_033",
+    "question": "Hyperplasia means:",
+    "options": [
+      "Decrease in cells",
+      "Increase in cell number",
+      "Cell death",
+      "Infection"
+    ],
+    "answer": "Increase in cell number",
+    "difficulty": "medium",
+    "explanation": "Tissue growth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_034",
+    "question": "Hypertrophy means:",
+    "options": [
+      "Cell size increase",
+      "Cell number increase",
+      "Cell death",
+      "Fever"
+    ],
+    "answer": "Cell size increase",
+    "difficulty": "medium",
+    "explanation": "Enlargement of cells.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_035",
+    "question": "Atrophy means:",
+    "options": [
+      "Growth",
+      "Shrinking of cells",
+      "Inflammation",
+      "Fever"
+    ],
+    "answer": "Shrinking of cells",
+    "difficulty": "easy",
+    "explanation": "Loss of tissue mass.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_036",
+    "question": "Tumor marker is used for:",
+    "options": [
+      "Blood sugar",
+      "Cancer detection",
+      "Fever",
+      "BP"
+    ],
+    "answer": "Cancer detection",
+    "difficulty": "medium",
+    "explanation": "Helps identify malignancy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_037",
+    "question": "Carcinoma is cancer of:",
+    "options": [
+      "Bone",
+      "Epithelial tissue",
+      "Blood",
+      "Muscle"
+    ],
+    "answer": "Epithelial tissue",
+    "difficulty": "medium",
+    "explanation": "Most common cancer type.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_038",
+    "question": "Sarcoma is cancer of:",
+    "options": [
+      "Epithelial tissue",
+      "Connective tissue",
+      "Blood",
+      "Skin only"
+    ],
+    "answer": "Connective tissue",
+    "difficulty": "medium",
+    "explanation": "Soft tissue cancer.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_039",
+    "question": "Leukemia affects:",
+    "options": [
+      "Bones",
+      "Blood and bone marrow",
+      "Skin",
+      "Liver"
+    ],
+    "answer": "Blood and bone marrow",
+    "difficulty": "medium",
+    "explanation": "Blood cancer.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_040",
+    "question": "Metaplasia means:",
+    "options": [
+      "Normal tissue",
+      "Change of one cell type to another",
+      "Death",
+      "Fever"
+    ],
+    "answer": "Change of one cell type to another",
+    "difficulty": "hard",
+    "explanation": "Adaptive change.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_041",
+    "question": "A biopsy report is used for:",
+    "options": [
+      "Blood pressure",
+      "Diagnosis",
+      "Fever",
+      "Pulse"
+    ],
+    "answer": "Diagnosis",
+    "difficulty": "easy",
+    "explanation": "Confirms disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_042",
+    "question": "Cytology studies:",
+    "options": [
+      "Tissues",
+      "Cells",
+      "Organs",
+      "Bones"
+    ],
+    "answer": "Cells",
+    "difficulty": "medium",
+    "explanation": "Microscopic cell study.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_043",
+    "question": "Histology is study of:",
+    "options": [
+      "Cells",
+      "Tissues",
+      "Blood",
+      "Bones"
+    ],
+    "answer": "Tissues",
+    "difficulty": "easy",
+    "explanation": "Microscopic tissue structure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_044",
+    "question": "Autopsy is performed after:",
+    "options": [
+      "Birth",
+      "Death",
+      "Infection",
+      "Surgery"
+    ],
+    "answer": "Death",
+    "difficulty": "easy",
+    "explanation": "Post-mortem examination.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_045",
+    "question": "RBC life span is:",
+    "options": [
+      "30 days",
+      "60 days",
+      "120 days",
+      "1 year"
+    ],
+    "answer": "120 days",
+    "difficulty": "medium",
+    "explanation": "Normal RBC survival.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_046",
+    "question": "WBC function is:",
+    "options": [
+      "Oxygen transport",
+      "Immunity",
+      "Clotting",
+      "Digestion"
+    ],
+    "answer": "Immunity",
+    "difficulty": "easy",
+    "explanation": "Defense against infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_047",
+    "question": "Platelets function:",
+    "options": [
+      "Immunity",
+      "Clotting",
+      "Oxygen transport",
+      "Hormone production"
+    ],
+    "answer": "Clotting",
+    "difficulty": "easy",
+    "explanation": "Prevents bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_048",
+    "question": "Hemophilia is:",
+    "options": [
+      "High BP",
+      "Bleeding disorder",
+      "Fever",
+      "Cancer"
+    ],
+    "answer": "Bleeding disorder",
+    "difficulty": "medium",
+    "explanation": "Clotting factor deficiency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_049",
+    "question": "Thrombosis means:",
+    "options": [
+      "Bleeding",
+      "Clot formation",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Clot formation",
+    "difficulty": "medium",
+    "explanation": "Blood clot in vessel.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_050",
+    "question": "Embolism is:",
+    "options": [
+      "Local clot",
+      "Moving clot",
+      "Bleeding",
+      "Fever"
+    ],
+    "answer": "Moving clot",
+    "difficulty": "medium",
+    "explanation": "Clot travels in bloodstream.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_051",
+    "question": "Septicemia means:",
+    "options": [
+      "Skin infection",
+      "Blood infection",
+      "Bone fracture",
+      "Allergy"
+    ],
+    "answer": "Blood infection",
+    "difficulty": "medium",
+    "explanation": "Severe systemic infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_052",
+    "question": "Abscess is:",
+    "options": [
+      "Fluid collection",
+      "Pus collection",
+      "Blood clot",
+      "Tumor"
+    ],
+    "answer": "Pus collection",
+    "difficulty": "easy",
+    "explanation": "Localized infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_053",
+    "question": "Pus contains:",
+    "options": [
+      "RBC only",
+      "WBC, bacteria, dead tissue",
+      "Plasma",
+      "Oxygen"
+    ],
+    "answer": "WBC, bacteria, dead tissue",
+    "difficulty": "medium",
+    "explanation": "Infection by-product.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_054",
+    "question": "Granulation tissue appears during:",
+    "options": [
+      "Infection",
+      "Wound healing",
+      "Fever",
+      "Cancer"
+    ],
+    "answer": "Wound healing",
+    "difficulty": "medium",
+    "explanation": "New tissue formation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_055",
+    "question": "Scar formation is called:",
+    "options": [
+      "Regeneration",
+      "Fibrosis",
+      "Inflammation",
+      "Fever"
+    ],
+    "answer": "Fibrosis",
+    "difficulty": "medium",
+    "explanation": "Repair by fibrous tissue.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_056",
+    "question": "Regeneration means:",
+    "options": [
+      "Damage",
+      "Repair of same tissue",
+      "Death",
+      "Infection"
+    ],
+    "answer": "Repair of same tissue",
+    "difficulty": "medium",
+    "explanation": "Restoration of function.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_057",
+    "question": "Carcinogens are:",
+    "options": [
+      "Healing agents",
+      "Cancer-causing agents",
+      "Vitamins",
+      "Antibiotics"
+    ],
+    "answer": "Cancer-causing agents",
+    "difficulty": "easy",
+    "explanation": "Cause mutations.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_058",
+    "question": "Radiation can cause:",
+    "options": [
+      "Healing",
+      "Cancer",
+      "Nutrition",
+      "Growth"
+    ],
+    "answer": "Cancer",
+    "difficulty": "medium",
+    "explanation": "DNA damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_059",
+    "question": "Tumor grading refers to:",
+    "options": [
+      "Size",
+      "Aggressiveness",
+      "Location",
+      "Color"
+    ],
+    "answer": "Aggressiveness",
+    "difficulty": "hard",
+    "explanation": "Severity of cancer cells.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_060",
+    "question": "Final goal of pathology is:",
+    "options": [
+      "Treatment only",
+      "Diagnosis of disease",
+      "Surgery",
+      "Diet"
+    ],
+    "answer": "Diagnosis of disease",
+    "difficulty": "easy",
+    "explanation": "Core purpose of pathology.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_061",
+    "question": "Which organ is primarily affected in hepatitis?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Kidney",
+      "Brain"
+    ],
+    "answer": "Liver",
+    "difficulty": "easy",
+    "explanation": "Hepatitis is inflammation of liver.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_062",
+    "question": "Hepatitis B is caused by:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungus",
+      "Parasite"
+    ],
+    "answer": "Virus",
+    "difficulty": "easy",
+    "explanation": "HBV is a viral infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_063",
+    "question": "Jaundice is due to increase in:",
+    "options": [
+      "Glucose",
+      "Bilirubin",
+      "Hemoglobin",
+      "WBC"
+    ],
+    "answer": "Bilirubin",
+    "difficulty": "easy",
+    "explanation": "Yellow discoloration due to bilirubin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_064",
+    "question": "Normal bilirubin level in blood is:",
+    "options": [
+      "0.1–1.2 mg/dL",
+      "2–5 mg/dL",
+      "5–10 mg/dL",
+      "10–15 mg/dL"
+    ],
+    "answer": "0.1–1.2 mg/dL",
+    "difficulty": "hard",
+    "explanation": "Normal physiological range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_065",
+    "question": "Cirrhosis mainly affects:",
+    "options": [
+      "Heart",
+      "Liver",
+      "Lungs",
+      "Kidney"
+    ],
+    "answer": "Liver",
+    "difficulty": "medium",
+    "explanation": "Chronic liver damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_066",
+    "question": "Fatty liver is due to:",
+    "options": [
+      "Protein deficiency",
+      "Fat accumulation",
+      "Iron excess",
+      "Infection"
+    ],
+    "answer": "Fat accumulation",
+    "difficulty": "easy",
+    "explanation": "Steatosis of liver.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_067",
+    "question": "Kidney failure is called:",
+    "options": [
+      "Hepatitis",
+      "Renal failure",
+      "Pneumonia",
+      "Anemia"
+    ],
+    "answer": "Renal failure",
+    "difficulty": "easy",
+    "explanation": "Loss of kidney function.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_068",
+    "question": "Dialysis is required in:",
+    "options": [
+      "Heart failure",
+      "Kidney failure",
+      "Liver disease",
+      "Fever"
+    ],
+    "answer": "Kidney failure",
+    "difficulty": "easy",
+    "explanation": "Removes waste products.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_069",
+    "question": "Glomerulonephritis affects:",
+    "options": [
+      "Heart",
+      "Kidney glomeruli",
+      "Liver",
+      "Lungs"
+    ],
+    "answer": "Kidney glomeruli",
+    "difficulty": "medium",
+    "explanation": "Inflammation of filtration units.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_070",
+    "question": "Nephrotic syndrome causes:",
+    "options": [
+      "Protein loss in urine",
+      "Fever",
+      "Cough",
+      "Skin rash"
+    ],
+    "answer": "Protein loss in urine",
+    "difficulty": "medium",
+    "explanation": "Kidney damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_071",
+    "question": "Edema in nephrotic syndrome is due to:",
+    "options": [
+      "Low protein",
+      "High sugar",
+      "High iron",
+      "Infection"
+    ],
+    "answer": "Low protein",
+    "difficulty": "hard",
+    "explanation": "Loss of albumin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_072",
+    "question": "Urinary tract infection mainly affects:",
+    "options": [
+      "Skin",
+      "Urinary system",
+      "Brain",
+      "Liver"
+    ],
+    "answer": "Urinary system",
+    "difficulty": "easy",
+    "explanation": "Infection of urinary tract.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_073",
+    "question": "Most common cause of UTI is:",
+    "options": [
+      "E. coli",
+      "TB bacteria",
+      "Virus",
+      "Fungus"
+    ],
+    "answer": "E. coli",
+    "difficulty": "medium",
+    "explanation": "Gram-negative bacteria.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_074",
+    "question": "Pneumonia affects:",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Kidney",
+      "Liver"
+    ],
+    "answer": "Lungs",
+    "difficulty": "easy",
+    "explanation": "Lung infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_075",
+    "question": "Pneumonia is caused by:",
+    "options": [
+      "Virus only",
+      "Bacteria or virus",
+      "Fungus only",
+      "Parasite only"
+    ],
+    "answer": "Bacteria or virus",
+    "difficulty": "medium",
+    "explanation": "Common respiratory infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_076",
+    "question": "Tuberculosis spreads through:",
+    "options": [
+      "Water",
+      "Air droplets",
+      "Food only",
+      "Touch"
+    ],
+    "answer": "Air droplets",
+    "difficulty": "easy",
+    "explanation": "Airborne transmission.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_077",
+    "question": "COPD stands for:",
+    "options": [
+      "Chronic Obstructive Pulmonary Disease",
+      "Cardiac Output Pressure Disorder",
+      "Chronic Oxygen Problem Disease",
+      "None"
+    ],
+    "answer": "Chronic Obstructive Pulmonary Disease",
+    "difficulty": "medium",
+    "explanation": "Long-term lung disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_078",
+    "question": "Asthma is characterized by:",
+    "options": [
+      "Bone pain",
+      "Airway narrowing",
+      "Skin rash",
+      "Fever only"
+    ],
+    "answer": "Airway narrowing",
+    "difficulty": "easy",
+    "explanation": "Bronchospasm condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_079",
+    "question": "Emphysema affects:",
+    "options": [
+      "Alveoli",
+      "Heart valves",
+      "Liver cells",
+      "Kidney tubules"
+    ],
+    "answer": "Alveoli",
+    "difficulty": "medium",
+    "explanation": "Destruction of air sacs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_080",
+    "question": "Most common symptom of lung disease:",
+    "options": [
+      "Cough",
+      "Headache",
+      "Vomiting",
+      "Hair loss"
+    ],
+    "answer": "Cough",
+    "difficulty": "easy",
+    "explanation": "Respiratory symptom.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_081",
+    "question": "Heart attack is also called:",
+    "options": [
+      "Stroke",
+      "Myocardial infarction",
+      "Asthma",
+      "TB"
+    ],
+    "answer": "Myocardial infarction",
+    "difficulty": "medium",
+    "explanation": "Blockage of coronary artery.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_082",
+    "question": "Stroke affects:",
+    "options": [
+      "Heart",
+      "Brain",
+      "Lungs",
+      "Kidney"
+    ],
+    "answer": "Brain",
+    "difficulty": "easy",
+    "explanation": "Cerebral blood flow loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_083",
+    "question": "Hypertension means:",
+    "options": [
+      "Low BP",
+      "High BP",
+      "Normal BP",
+      "No BP"
+    ],
+    "answer": "High BP",
+    "difficulty": "easy",
+    "explanation": "Elevated blood pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_084",
+    "question": "Normal BP is:",
+    "options": [
+      "90/60",
+      "120/80",
+      "140/100",
+      "160/110"
+    ],
+    "answer": "120/80",
+    "difficulty": "easy",
+    "explanation": "Normal adult BP.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_085",
+    "question": "Atherosclerosis affects:",
+    "options": [
+      "Veins only",
+      "Arteries",
+      "Nerves",
+      "Skin"
+    ],
+    "answer": "Arteries",
+    "difficulty": "medium",
+    "explanation": "Plaque in arteries.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_086",
+    "question": "Diabetes is disorder of:",
+    "options": [
+      "Protein",
+      "Sugar metabolism",
+      "Calcium",
+      "Iron"
+    ],
+    "answer": "Sugar metabolism",
+    "difficulty": "easy",
+    "explanation": "Insulin-related disorder.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_087",
+    "question": "Normal fasting blood sugar:",
+    "options": [
+      "50–70 mg/dL",
+      "70–100 mg/dL",
+      "120–160 mg/dL",
+      "200–250 mg/dL"
+    ],
+    "answer": "70–100 mg/dL",
+    "difficulty": "medium",
+    "explanation": "Normal glucose level.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_088",
+    "question": "Type 1 diabetes is:",
+    "options": [
+      "Insulin dependent",
+      "Non-insulin dependent",
+      "Temporary",
+      "Infection"
+    ],
+    "answer": "Insulin dependent",
+    "difficulty": "medium",
+    "explanation": "Autoimmune destruction of beta cells.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_089",
+    "question": "Type 2 diabetes is due to:",
+    "options": [
+      "Insulin resistance",
+      "Virus",
+      "Fever",
+      "Injury"
+    ],
+    "answer": "Insulin resistance",
+    "difficulty": "medium",
+    "explanation": "Common adult diabetes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_090",
+    "question": "Hypoglycemia means:",
+    "options": [
+      "High sugar",
+      "Low sugar",
+      "Normal sugar",
+      "No sugar"
+    ],
+    "answer": "Low sugar",
+    "difficulty": "easy",
+    "explanation": "Dangerously low glucose.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_091",
+    "question": "Hyperglycemia means:",
+    "options": [
+      "Low sugar",
+      "High sugar",
+      "Normal sugar",
+      "No sugar"
+    ],
+    "answer": "High sugar",
+    "difficulty": "easy",
+    "explanation": "Elevated glucose level.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_092",
+    "question": "Insulin is produced by:",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Kidney",
+      "Heart"
+    ],
+    "answer": "Pancreas",
+    "difficulty": "easy",
+    "explanation": "Beta cells in pancreas.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_093",
+    "question": "Goiter affects:",
+    "options": [
+      "Liver",
+      "Thyroid gland",
+      "Kidney",
+      "Heart"
+    ],
+    "answer": "Thyroid gland",
+    "difficulty": "easy",
+    "explanation": "Enlarged thyroid.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_094",
+    "question": "Hypothyroidism means:",
+    "options": [
+      "High hormone",
+      "Low hormone",
+      "Normal hormone",
+      "No gland"
+    ],
+    "answer": "Low hormone",
+    "difficulty": "medium",
+    "explanation": "Reduced thyroid function.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_095",
+    "question": "Hyperthyroidism causes:",
+    "options": [
+      "Weight gain",
+      "Weight loss",
+      "Fever only",
+      "Pain"
+    ],
+    "answer": "Weight loss",
+    "difficulty": "medium",
+    "explanation": "Increased metabolism.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_096",
+    "question": "Autoimmune disease means:",
+    "options": [
+      "Body attacks itself",
+      "External infection",
+      "Fever",
+      "Allergy only"
+    ],
+    "answer": "Body attacks itself",
+    "difficulty": "medium",
+    "explanation": "Immune system error.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_097",
+    "question": "Allergy is:",
+    "options": [
+      "Normal response",
+      "Excess immune response",
+      "Infection",
+      "Cancer"
+    ],
+    "answer": "Excess immune response",
+    "difficulty": "easy",
+    "explanation": "Hypersensitivity reaction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_098",
+    "question": "Anaphylaxis is:",
+    "options": [
+      "Mild allergy",
+      "Severe allergic reaction",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Severe allergic reaction",
+    "difficulty": "medium",
+    "explanation": "Life-threatening condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_099",
+    "question": "Histamine is released in:",
+    "options": [
+      "Cancer",
+      "Allergy",
+      "Fracture",
+      "Diabetes"
+    ],
+    "answer": "Allergy",
+    "difficulty": "easy",
+    "explanation": "Causes symptoms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_100",
+    "question": "Final purpose of pathology diagnosis:",
+    "options": [
+      "Money",
+      "Disease identification",
+      "Hospital stay",
+      "Pain control"
+    ],
+    "answer": "Disease identification",
+    "difficulty": "easy",
+    "explanation": "Core medical purpose.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_101",
+    "question": "Severe infection of blood is:",
+    "options": [
+      "Fever",
+      "Sepsis",
+      "Cold",
+      "Allergy"
+    ],
+    "answer": "Sepsis",
+    "difficulty": "medium",
+    "explanation": "Life-threatening response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_102",
+    "question": "Shock in pathology refers to:",
+    "options": [
+      "High BP",
+      "Low tissue perfusion",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Low tissue perfusion",
+    "difficulty": "medium",
+    "explanation": "Organ failure risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_103",
+    "question": "Hypoxia means:",
+    "options": [
+      "High oxygen",
+      "Low oxygen",
+      "Normal oxygen",
+      "No blood"
+    ],
+    "answer": "Low oxygen",
+    "difficulty": "easy",
+    "explanation": "Oxygen deficiency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_104",
+    "question": "Ischemia leads to:",
+    "options": [
+      "Better flow",
+      "Tissue damage",
+      "Healing",
+      "Growth"
+    ],
+    "answer": "Tissue damage",
+    "difficulty": "medium",
+    "explanation": "Lack of oxygen.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_105",
+    "question": "Reversible injury means:",
+    "options": [
+      "Permanent damage",
+      "Recoverable damage",
+      "Death",
+      "Cancer"
+    ],
+    "answer": "Recoverable damage",
+    "difficulty": "medium",
+    "explanation": "Cells can recover.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_106",
+    "question": "Irreversible injury leads to:",
+    "options": [
+      "Healing",
+      "Cell death",
+      "Recovery",
+      "Growth"
+    ],
+    "answer": "Cell death",
+    "difficulty": "medium",
+    "explanation": "Permanent damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_107",
+    "question": "Fibrin is involved in:",
+    "options": [
+      "Digestion",
+      "Clotting",
+      "Breathing",
+      "Vision"
+    ],
+    "answer": "Clotting",
+    "difficulty": "medium",
+    "explanation": "Forms blood clot mesh.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_108",
+    "question": "Hemorrhage means:",
+    "options": [
+      "Clotting",
+      "Bleeding",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Bleeding",
+    "difficulty": "easy",
+    "explanation": "Blood loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_109",
+    "question": "Varicose veins are:",
+    "options": [
+      "Normal veins",
+      "Enlarged veins",
+      "Blocked arteries",
+      "Infected veins"
+    ],
+    "answer": "Enlarged veins",
+    "difficulty": "medium",
+    "explanation": "Poor venous return.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_110",
+    "question": "Aneurysm is:",
+    "options": [
+      "Nerve damage",
+      "Blood vessel dilation",
+      "Bone fracture",
+      "Skin infection"
+    ],
+    "answer": "Blood vessel dilation",
+    "difficulty": "hard",
+    "explanation": "Weak artery wall.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_111",
+    "question": "Thrombus is:",
+    "options": [
+      "Air bubble",
+      "Stationary clot",
+      "Moving clot",
+      "Infection"
+    ],
+    "answer": "Stationary clot",
+    "difficulty": "medium",
+    "explanation": "Fixed blood clot.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_112",
+    "question": "Embolus is:",
+    "options": [
+      "Stationary clot",
+      "Moving clot",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Moving clot",
+    "difficulty": "medium",
+    "explanation": "Travels in blood.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_113",
+    "question": "Edema fluid is:",
+    "options": [
+      "Inside cells",
+      "Outside cells",
+      "Only blood",
+      "Only urine"
+    ],
+    "answer": "Outside cells",
+    "difficulty": "medium",
+    "explanation": "Interstitial fluid accumulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_114",
+    "question": "Hyperemia means:",
+    "options": [
+      "Low blood flow",
+      "Increased blood flow",
+      "No flow",
+      "Bleeding"
+    ],
+    "answer": "Increased blood flow",
+    "difficulty": "medium",
+    "explanation": "Active congestion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_115",
+    "question": "Congestion is:",
+    "options": [
+      "Active flow",
+      "Passive blood accumulation",
+      "Healing",
+      "Infection"
+    ],
+    "answer": "Passive blood accumulation",
+    "difficulty": "hard",
+    "explanation": "Venous blockage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_116",
+    "question": "Shock can lead to:",
+    "options": [
+      "Recovery",
+      "Organ failure",
+      "Weight gain",
+      "Hair growth"
+    ],
+    "answer": "Organ failure",
+    "difficulty": "easy",
+    "explanation": "Severe perfusion loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_117",
+    "question": "Tissue hypoxia results in:",
+    "options": [
+      "Better function",
+      "Cell death",
+      "Growth",
+      "Immunity"
+    ],
+    "answer": "Cell death",
+    "difficulty": "medium",
+    "explanation": "Oxygen deprivation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_118",
+    "question": "Hyperkalemia means:",
+    "options": [
+      "Low potassium",
+      "High potassium",
+      "Normal potassium",
+      "No potassium"
+    ],
+    "answer": "High potassium",
+    "difficulty": "medium",
+    "explanation": "Electrolyte imbalance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_119",
+    "question": "Hyponatremia means:",
+    "options": [
+      "High sodium",
+      "Low sodium",
+      "Normal sodium",
+      "No sodium"
+    ],
+    "answer": "Low sodium",
+    "difficulty": "medium",
+    "explanation": "Electrolyte imbalance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_120",
+    "question": "Final aim of pathology in nursing:",
+    "options": [
+      "Only lab work",
+      "Patient diagnosis & care support",
+      "Billing",
+      "Reports only"
+    ],
+    "answer": "Patient diagnosis & care support",
+    "difficulty": "easy",
+    "explanation": "Supports clinical decisions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_121",
+    "question": "Cancer staging refers to:",
+    "options": [
+      "Cell shape",
+      "Extent of spread",
+      "Blood type",
+      "Pain level"
+    ],
+    "answer": "Extent of spread",
+    "difficulty": "medium",
+    "explanation": "Describes how far cancer has spread.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_122",
+    "question": "Stage IV cancer means:",
+    "options": [
+      "Early stage",
+      "Localized tumor",
+      "Advanced spread",
+      "No disease"
+    ],
+    "answer": "Advanced spread",
+    "difficulty": "medium",
+    "explanation": "Metastatic disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_123",
+    "question": "Biopsy is important for:",
+    "options": [
+      "Treatment only",
+      "Definitive diagnosis",
+      "Pain relief",
+      "Fever control"
+    ],
+    "answer": "Definitive diagnosis",
+    "difficulty": "easy",
+    "explanation": "Confirms disease type.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_124",
+    "question": "FNAC stands for:",
+    "options": [
+      "Fine Needle Aspiration Cytology",
+      "Final Needle Analysis Check",
+      "Fluid Needle Aspirate Culture",
+      "Fine Normal Aspiration Count"
+    ],
+    "answer": "Fine Needle Aspiration Cytology",
+    "difficulty": "medium",
+    "explanation": "Diagnostic cell sampling technique.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_125",
+    "question": "Metastasis commonly occurs via:",
+    "options": [
+      "Skin",
+      "Blood and lymph",
+      "Bones only",
+      "Urine"
+    ],
+    "answer": "Blood and lymph",
+    "difficulty": "medium",
+    "explanation": "Cancer spreads through circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_126",
+    "question": "Tumor suppressor genes:",
+    "options": [
+      "Increase cancer",
+      "Prevent cancer",
+      "Cause fever",
+      "Cause infection"
+    ],
+    "answer": "Prevent cancer",
+    "difficulty": "hard",
+    "explanation": "Control cell growth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_127",
+    "question": "Oncogenes are:",
+    "options": [
+      "Protective genes",
+      "Cancer-causing genes",
+      "Immune genes",
+      "Hormones"
+    ],
+    "answer": "Cancer-causing genes",
+    "difficulty": "hard",
+    "explanation": "Promote tumor growth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_128",
+    "question": "Carcinoma in situ means:",
+    "options": [
+      "Spread cancer",
+      "Early cancer",
+      "Dead tissue",
+      "Infection"
+    ],
+    "answer": "Early cancer",
+    "difficulty": "hard",
+    "explanation": "Localized malignant cells.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_129",
+    "question": "Cachexia in cancer means:",
+    "options": [
+      "Weight gain",
+      "Severe weight loss",
+      "Fever",
+      "Swelling"
+    ],
+    "answer": "Severe weight loss",
+    "difficulty": "medium",
+    "explanation": "Cancer-related wasting.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_130",
+    "question": "Metabolic acidosis causes:",
+    "options": [
+      "Slow breathing",
+      "Kussmaul breathing",
+      "No change",
+      "Fever"
+    ],
+    "answer": "Kussmaul breathing",
+    "difficulty": "medium",
+    "explanation": "Deep rapid breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_131",
+    "question": "Respiratory acidosis is caused by:",
+    "options": [
+      "Hyperventilation",
+      "Hypoventilation",
+      "Exercise",
+      "Fever"
+    ],
+    "answer": "Hypoventilation",
+    "difficulty": "hard",
+    "explanation": "CO₂ retention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_132",
+    "question": "Respiratory alkalosis is caused by:",
+    "options": [
+      "Hypoventilation",
+      "Hyperventilation",
+      "Shock",
+      "Infection"
+    ],
+    "answer": "Hyperventilation",
+    "difficulty": "hard",
+    "explanation": "Excess CO₂ loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_133",
+    "question": "Acidosis means:",
+    "options": [
+      "High pH",
+      "Low pH",
+      "Normal pH",
+      "No change"
+    ],
+    "answer": "Low pH",
+    "difficulty": "medium",
+    "explanation": "Increased acidity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_134",
+    "question": "Alkalosis means:",
+    "options": [
+      "Low pH",
+      "High pH",
+      "Normal pH",
+      "No change"
+    ],
+    "answer": "High pH",
+    "difficulty": "medium",
+    "explanation": "Increased alkalinity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_135",
+    "question": "Normal blood pH is:",
+    "options": [
+      "6.8–7.0",
+      "7.35–7.45",
+      "7.8–8.2",
+      "6.0–6.5"
+    ],
+    "answer": "7.35–7.45",
+    "difficulty": "easy",
+    "explanation": "Physiological range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_136",
+    "question": "Shock leads to:",
+    "options": [
+      "Increased oxygen",
+      "Cell death",
+      "Weight gain",
+      "Healing"
+    ],
+    "answer": "Cell death",
+    "difficulty": "medium",
+    "explanation": "Tissue hypoxia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_137",
+    "question": "Anaphylactic shock is:",
+    "options": [
+      "Heart disease",
+      "Severe allergy reaction",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Severe allergy reaction",
+    "difficulty": "medium",
+    "explanation": "Life-threatening allergy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_138",
+    "question": "Septic shock is due to:",
+    "options": [
+      "Allergy",
+      "Severe infection",
+      "Trauma only",
+      "Bleeding only"
+    ],
+    "answer": "Severe infection",
+    "difficulty": "medium",
+    "explanation": "Systemic infection response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_139",
+    "question": "Cardiogenic shock is caused by:",
+    "options": [
+      "Brain injury",
+      "Heart failure",
+      "Liver disease",
+      "Skin infection"
+    ],
+    "answer": "Heart failure",
+    "difficulty": "hard",
+    "explanation": "Pump failure of heart.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_140",
+    "question": "Hypovolemic shock is due to:",
+    "options": [
+      "Excess fluid",
+      "Blood loss",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Blood loss",
+    "difficulty": "medium",
+    "explanation": "Reduced circulating volume.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_141",
+    "question": "Hemoglobin carries:",
+    "options": [
+      "CO₂ only",
+      "Oxygen",
+      "Glucose",
+      "Hormones"
+    ],
+    "answer": "Oxygen",
+    "difficulty": "easy",
+    "explanation": "Oxygen transport protein.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_142",
+    "question": "Erythropoietin is produced by:",
+    "options": [
+      "Heart",
+      "Kidney",
+      "Liver",
+      "Brain"
+    ],
+    "answer": "Kidney",
+    "difficulty": "medium",
+    "explanation": "Stimulates RBC production.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_143",
+    "question": "Leukemia is cancer of:",
+    "options": [
+      "Bone",
+      "Blood-forming tissues",
+      "Skin",
+      "Muscle"
+    ],
+    "answer": "Blood-forming tissues",
+    "difficulty": "medium",
+    "explanation": "Bone marrow disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_144",
+    "question": "Lymphoma affects:",
+    "options": [
+      "Lymphatic system",
+      "Heart",
+      "Liver",
+      "Skin"
+    ],
+    "answer": "Lymphatic system",
+    "difficulty": "medium",
+    "explanation": "Immune system cancer.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_145",
+    "question": "Multiple myeloma affects:",
+    "options": [
+      "RBC",
+      "Plasma cells",
+      "WBC only",
+      "Platelets"
+    ],
+    "answer": "Plasma cells",
+    "difficulty": "hard",
+    "explanation": "Bone marrow cancer.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_146",
+    "question": "Bone marrow produces:",
+    "options": [
+      "Hormones",
+      "Blood cells",
+      "Enzymes",
+      "Urine"
+    ],
+    "answer": "Blood cells",
+    "difficulty": "easy",
+    "explanation": "Hematopoiesis site.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_147",
+    "question": "Thalassemia is:",
+    "options": [
+      "Infection",
+      "Genetic blood disorder",
+      "Cancer",
+      "Fever"
+    ],
+    "answer": "Genetic blood disorder",
+    "difficulty": "medium",
+    "explanation": "Abnormal hemoglobin production.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_148",
+    "question": "Hemophilia is due to deficiency of:",
+    "options": [
+      "RBC",
+      "Clotting factors",
+      "WBC",
+      "Plasma"
+    ],
+    "answer": "Clotting factors",
+    "difficulty": "medium",
+    "explanation": "Bleeding disorder.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_149",
+    "question": "Vitamin K is important for:",
+    "options": [
+      "Vision",
+      "Clotting",
+      "Breathing",
+      "Digestion"
+    ],
+    "answer": "Clotting",
+    "difficulty": "easy",
+    "explanation": "Coagulation factor synthesis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_150",
+    "question": "DIC stands for:",
+    "options": [
+      "Disseminated Intravascular Coagulation",
+      "Direct Internal Circulation",
+      "Disease Infection Control",
+      "None"
+    ],
+    "answer": "Disseminated Intravascular Coagulation",
+    "difficulty": "hard",
+    "explanation": "Widespread clotting disorder.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_151",
+    "question": "Atherosclerotic plaque consists of:",
+    "options": [
+      "Sugar",
+      "Fat and cholesterol",
+      "Protein only",
+      "Water"
+    ],
+    "answer": "Fat and cholesterol",
+    "difficulty": "medium",
+    "explanation": "Artery narrowing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_152",
+    "question": "Ischemic heart disease is due to:",
+    "options": [
+      "Virus",
+      "Blocked coronary arteries",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "Blocked coronary arteries",
+    "difficulty": "medium",
+    "explanation": "Reduced heart blood flow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_153",
+    "question": "Myocardial infarction is:",
+    "options": [
+      "Brain attack",
+      "Heart attack",
+      "Lung infection",
+      "Kidney failure"
+    ],
+    "answer": "Heart attack",
+    "difficulty": "easy",
+    "explanation": "Death of heart muscle.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_154",
+    "question": "Stroke is also called:",
+    "options": [
+      "MI",
+      "CVA",
+      "TB",
+      "COPD"
+    ],
+    "answer": "CVA",
+    "difficulty": "medium",
+    "explanation": "Cerebrovascular accident.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_155",
+    "question": "CVA affects:",
+    "options": [
+      "Heart",
+      "Brain",
+      "Lungs",
+      "Kidney"
+    ],
+    "answer": "Brain",
+    "difficulty": "easy",
+    "explanation": "Brain blood flow loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_156",
+    "question": "Alzheimer disease affects:",
+    "options": [
+      "Heart",
+      "Brain",
+      "Liver",
+      "Kidney"
+    ],
+    "answer": "Brain",
+    "difficulty": "easy",
+    "explanation": "Neurodegenerative disease.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_157",
+    "question": "Parkinson disease affects:",
+    "options": [
+      "Muscles",
+      "Brain movement control",
+      "Lungs",
+      "Heart"
+    ],
+    "answer": "Brain movement control",
+    "difficulty": "medium",
+    "explanation": "Dopamine deficiency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_158",
+    "question": "Edema in heart failure is due to:",
+    "options": [
+      "Fluid overload",
+      "Infection",
+      "Cancer",
+      "Allergy"
+    ],
+    "answer": "Fluid overload",
+    "difficulty": "medium",
+    "explanation": "Poor circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_159",
+    "question": "Ascites is fluid in:",
+    "options": [
+      "Chest",
+      "Abdomen",
+      "Brain",
+      "Skin"
+    ],
+    "answer": "Abdomen",
+    "difficulty": "easy",
+    "explanation": "Fluid accumulation in peritoneum.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_160",
+    "question": "Pleural effusion is fluid in:",
+    "options": [
+      "Heart",
+      "Pleural cavity",
+      "Abdomen",
+      "Brain"
+    ],
+    "answer": "Pleural cavity",
+    "difficulty": "medium",
+    "explanation": "Fluid around lungs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_161",
+    "question": "Cyst is:",
+    "options": [
+      "Solid tumor",
+      "Fluid-filled sac",
+      "Bone growth",
+      "Skin rash"
+    ],
+    "answer": "Fluid-filled sac",
+    "difficulty": "easy",
+    "explanation": "Encapsulated structure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_162",
+    "question": "Abscess contains:",
+    "options": [
+      "Blood",
+      "Pus",
+      "Water",
+      "Fat"
+    ],
+    "answer": "Pus",
+    "difficulty": "easy",
+    "explanation": "Infected collection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_163",
+    "question": "Fistula is:",
+    "options": [
+      "Normal tube",
+      "Abnormal connection",
+      "Cancer",
+      "Infection"
+    ],
+    "answer": "Abnormal connection",
+    "difficulty": "medium",
+    "explanation": "Between organs or skin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_164",
+    "question": "Ulcer is:",
+    "options": [
+      "Skin growth",
+      "Break in epithelium",
+      "Bone injury",
+      "Tumor"
+    ],
+    "answer": "Break in epithelium",
+    "difficulty": "easy",
+    "explanation": "Tissue erosion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_165",
+    "question": "Scar tissue is made of:",
+    "options": [
+      "Muscle",
+      "Fibrous tissue",
+      "Blood",
+      "Fat"
+    ],
+    "answer": "Fibrous tissue",
+    "difficulty": "easy",
+    "explanation": "Healing tissue.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_166",
+    "question": "Granuloma is seen in:",
+    "options": [
+      "TB",
+      "Diabetes",
+      "Fever",
+      "Hypertension"
+    ],
+    "answer": "TB",
+    "difficulty": "medium",
+    "explanation": "Chronic inflammation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_167",
+    "question": "Necrotizing fasciitis is:",
+    "options": [
+      "Mild infection",
+      "Severe tissue infection",
+      "Cancer",
+      "Allergy"
+    ],
+    "answer": "Severe tissue infection",
+    "difficulty": "hard",
+    "explanation": "Rapid tissue destruction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_168",
+    "question": "Gangrene is due to:",
+    "options": [
+      "Excess blood flow",
+      "Loss of blood supply",
+      "Infection only",
+      "Fever"
+    ],
+    "answer": "Loss of blood supply",
+    "difficulty": "medium",
+    "explanation": "Tissue death.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_169",
+    "question": "Dry gangrene is:",
+    "options": [
+      "Wet infected tissue",
+      "Dry mummified tissue",
+      "Fever",
+      "Pain only"
+    ],
+    "answer": "Dry mummified tissue",
+    "difficulty": "medium",
+    "explanation": "No infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_170",
+    "question": "Wet gangrene is:",
+    "options": [
+      "Dry tissue",
+      "Infected moist tissue",
+      "Healthy tissue",
+      "Bone growth"
+    ],
+    "answer": "Infected moist tissue",
+    "difficulty": "medium",
+    "explanation": "Bacterial infection present.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_171",
+    "question": "Melanoma is cancer of:",
+    "options": [
+      "Bone",
+      "Skin",
+      "Blood",
+      "Liver"
+    ],
+    "answer": "Skin",
+    "difficulty": "easy",
+    "explanation": "Pigment cell cancer.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_172",
+    "question": "Leukoplakia is:",
+    "options": [
+      "Normal patch",
+      "White precancerous lesion",
+      "Fever",
+      "Infection"
+    ],
+    "answer": "White precancerous lesion",
+    "difficulty": "medium",
+    "explanation": "Oral mucosal change.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_173",
+    "question": "Dysplasia means:",
+    "options": [
+      "Normal growth",
+      "Abnormal cell development",
+      "Healing",
+      "Death"
+    ],
+    "answer": "Abnormal cell development",
+    "difficulty": "medium",
+    "explanation": "Pre-cancer stage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_174",
+    "question": "Hyperplasia is:",
+    "options": [
+      "Decrease cells",
+      "Increase cell number",
+      "Cell death",
+      "Infection"
+    ],
+    "answer": "Increase cell number",
+    "difficulty": "easy",
+    "explanation": "Tissue growth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_175",
+    "question": "Hypertrophy is:",
+    "options": [
+      "Increase cell size",
+      "Decrease size",
+      "Death",
+      "Infection"
+    ],
+    "answer": "Increase cell size",
+    "difficulty": "easy",
+    "explanation": "Enlarged cells.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_176",
+    "question": "Atrophy is:",
+    "options": [
+      "Growth",
+      "Shrinkage",
+      "Cancer",
+      "Inflammation"
+    ],
+    "answer": "Shrinkage",
+    "difficulty": "easy",
+    "explanation": "Loss of tissue mass.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_177",
+    "question": "Metaplasia is:",
+    "options": [
+      "Cell death",
+      "Cell type change",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Cell type change",
+    "difficulty": "hard",
+    "explanation": "Adaptive change.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_178",
+    "question": "Neoplasia means:",
+    "options": [
+      "New abnormal growth",
+      "Healing",
+      "Infection",
+      "Fever"
+    ],
+    "answer": "New abnormal growth",
+    "difficulty": "medium",
+    "explanation": "Tumor formation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_179",
+    "question": "Pathology helps in:",
+    "options": [
+      "Cooking",
+      "Disease diagnosis",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Disease diagnosis",
+    "difficulty": "easy",
+    "explanation": "Medical foundation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  },
+  {
+    "id": "PA_180",
+    "question": "Final aim of pathology is:",
+    "options": [
+      "Entertainment",
+      "Disease identification & treatment support",
+      "Sports",
+      "Food"
+    ],
+    "answer": "Disease identification & treatment support",
+    "difficulty": "easy",
+    "explanation": "Clinical decision support.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "PATHOLOGY_BASICS"
+  }
+]

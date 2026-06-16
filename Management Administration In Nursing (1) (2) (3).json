@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "MAN_001",
+    "question": "The first step of management process is:",
+    "options": [
+      "Planning",
+      "Staffing",
+      "Directing",
+      "Controlling"
+    ],
+    "answer": "Planning",
+    "topic": "Management Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_002",
+    "question": "Organizing means:",
+    "options": [
+      "Arranging resources to achieve objectives",
+      "Checking attendance only",
+      "Giving medicines",
+      "Disciplining staff only"
+    ],
+    "answer": "Arranging resources to achieve objectives",
+    "topic": "Management Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_003",
+    "question": "Staffing includes:",
+    "options": [
+      "Recruitment, selection and placement",
+      "Only budgeting",
+      "Only auditing",
+      "Only discipline"
+    ],
+    "answer": "Recruitment, selection and placement",
+    "topic": "Management Functions",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_004",
+    "question": "Directing mainly involves:",
+    "options": [
+      "Leading, supervising and motivating staff",
+      "Building construction",
+      "Purchasing land",
+      "Research analysis"
+    ],
+    "answer": "Leading, supervising and motivating staff",
+    "topic": "Management Functions",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_005",
+    "question": "Controlling in management means:",
+    "options": [
+      "Comparing actual performance with standards",
+      "Punishing employees",
+      "Stopping all work",
+      "Reducing salary"
+    ],
+    "answer": "Comparing actual performance with standards",
+    "topic": "Management Functions",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_006",
+    "question": "Unity of command means an employee should receive orders from:",
+    "options": [
+      "One superior only",
+      "All seniors",
+      "Peers only",
+      "Patients only"
+    ],
+    "answer": "One superior only",
+    "topic": "Management Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_007",
+    "question": "Span of control refers to:",
+    "options": [
+      "Number of subordinates supervised by one manager",
+      "Hospital area size",
+      "Salary scale",
+      "Number of patients admitted"
+    ],
+    "answer": "Number of subordinates supervised by one manager",
+    "topic": "Organization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_008",
+    "question": "Delegation means:",
+    "options": [
+      "Assigning authority with responsibility",
+      "Escaping work",
+      "Punishing juniors",
+      "Only giving instructions"
+    ],
+    "answer": "Assigning authority with responsibility",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_009",
+    "question": "Responsibility can be delegated but accountability is:",
+    "options": [
+      "Retained by delegator",
+      "Always transferred fully",
+      "Never exists",
+      "Only legal term"
+    ],
+    "answer": "Retained by delegator",
+    "topic": "Delegation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_010",
+    "question": "The most democratic leadership style is:",
+    "options": [
+      "Participative",
+      "Autocratic",
+      "Laissez-faire",
+      "Bureaucratic"
+    ],
+    "answer": "Participative",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_011",
+    "question": "Autocratic leadership is most useful in:",
+    "options": [
+      "Emergency situations requiring quick decisions",
+      "Routine brainstorming only",
+      "Student counseling only",
+      "Creative workshops only"
+    ],
+    "answer": "Emergency situations requiring quick decisions",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_012",
+    "question": "Laissez-faire leadership often results in:",
+    "options": [
+      "Low direction and possible confusion",
+      "Strict discipline",
+      "Rapid control",
+      "Immediate crisis action"
+    ],
+    "answer": "Low direction and possible confusion",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_013",
+    "question": "Motivation theory associated with hierarchy of needs was given by:",
+    "options": [
+      "Maslow",
+      "Taylor",
+      "Fayol",
+      "Herzberg"
+    ],
+    "answer": "Maslow",
+    "topic": "Motivation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_014",
+    "question": "According to Maslow, basic physiological needs include:",
+    "options": [
+      "Food, water, rest",
+      "Recognition",
+      "Self-esteem",
+      "Self-actualization"
+    ],
+    "answer": "Food, water, rest",
+    "topic": "Motivation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_015",
+    "question": "Herzberg classified salary and working conditions as:",
+    "options": [
+      "Hygiene factors",
+      "Motivators",
+      "Growth factors",
+      "Social needs"
+    ],
+    "answer": "Hygiene factors",
+    "topic": "Motivation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_016",
+    "question": "Which is a motivator according to Herzberg?",
+    "options": [
+      "Achievement",
+      "Hospital policy",
+      "Salary",
+      "Job security"
+    ],
+    "answer": "Achievement",
+    "topic": "Motivation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_017",
+    "question": "The process of influencing people to achieve goals is:",
+    "options": [
+      "Leadership",
+      "Inventory",
+      "Auditing",
+      "Budgeting"
+    ],
+    "answer": "Leadership",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_018",
+    "question": "A formal line of authority from top to bottom is called:",
+    "options": [
+      "Chain of command",
+      "Grapevine",
+      "Span of control",
+      "Committee"
+    ],
+    "answer": "Chain of command",
+    "topic": "Organization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_019",
+    "question": "Informal communication in organization is known as:",
+    "options": [
+      "Grapevine",
+      "Minutes",
+      "Circular",
+      "Policy"
+    ],
+    "answer": "Grapevine",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_020",
+    "question": "The best method to resolve staff conflict is:",
+    "options": [
+      "Open communication and problem solving",
+      "Ignoring permanently",
+      "Immediate punishment always",
+      "Transfer everyone"
+    ],
+    "answer": "Open communication and problem solving",
+    "topic": "Conflict Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_021",
+    "question": "Budget is best defined as:",
+    "options": [
+      "Financial plan for a specific period",
+      "Patient chart",
+      "Duty roster",
+      "Annual report only"
+    ],
+    "answer": "Financial plan for a specific period",
+    "topic": "Budgeting",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_022",
+    "question": "Zero-based budgeting starts with:",
+    "options": [
+      "No previous allocation assumed",
+      "Last year’s budget only",
+      "Double funds",
+      "Emergency reserve only"
+    ],
+    "answer": "No previous allocation assumed",
+    "topic": "Budgeting",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_023",
+    "question": "A duty roster is prepared mainly to ensure:",
+    "options": [
+      "Adequate staff coverage",
+      "Salary deduction",
+      "Patient discharge",
+      "Drug storage"
+    ],
+    "answer": "Adequate staff coverage",
+    "topic": "Staffing",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_024",
+    "question": "Patient classification system helps in:",
+    "options": [
+      "Determining staffing needs",
+      "Food menu only",
+      "Visitor control",
+      "Building design"
+    ],
+    "answer": "Determining staffing needs",
+    "topic": "Staffing",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_025",
+    "question": "The most common indicator of quality nursing care is:",
+    "options": [
+      "Patient outcomes",
+      "Wall color",
+      "Uniform style",
+      "Shift timing"
+    ],
+    "answer": "Patient outcomes",
+    "topic": "Quality Assurance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_026",
+    "question": "Nursing audit is used to evaluate:",
+    "options": [
+      "Quality of nursing care",
+      "Building strength",
+      "Water supply",
+      "Tax returns"
+    ],
+    "answer": "Quality of nursing care",
+    "topic": "Quality Assurance",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_027",
+    "question": "Concurrent audit is conducted:",
+    "options": [
+      "During patient care",
+      "After discharge only",
+      "Before admission",
+      "Once yearly only"
+    ],
+    "answer": "During patient care",
+    "topic": "Audit",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_028",
+    "question": "Retrospective audit is done:",
+    "options": [
+      "After care is completed",
+      "Before treatment",
+      "During surgery only",
+      "Before recruitment"
+    ],
+    "answer": "After care is completed",
+    "topic": "Audit",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_029",
+    "question": "The best inventory control method for expensive vital items is:",
+    "options": [
+      "ABC analysis",
+      "Bed making",
+      "Gantt chart",
+      "Brainstorming"
+    ],
+    "answer": "ABC analysis",
+    "topic": "Inventory Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_030",
+    "question": "VED analysis classifies items as:",
+    "options": [
+      "Vital, Essential, Desirable",
+      "Very Easy Difficult",
+      "Value Expense Demand",
+      "Visible Effective Durable"
+    ],
+    "answer": "Vital, Essential, Desirable",
+    "topic": "Inventory Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_031",
+    "question": "Combining ABC and VED analysis helps in:",
+    "options": [
+      "Better priority inventory control",
+      "Patient counseling",
+      "Teaching students",
+      "Shift handover"
+    ],
+    "answer": "Better priority inventory control",
+    "topic": "Inventory Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_032",
+    "question": "The principle of right person for right job relates to:",
+    "options": [
+      "Placement",
+      "Discipline",
+      "Budgeting",
+      "Audit"
+    ],
+    "answer": "Placement",
+    "topic": "Staffing",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_033",
+    "question": "Orientation program for new nurses mainly aims to:",
+    "options": [
+      "Introduce policies and work environment",
+      "Give promotion",
+      "Terminate service",
+      "Replace training"
+    ],
+    "answer": "Introduce policies and work environment",
+    "topic": "Staff Development",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_034",
+    "question": "In-service education means:",
+    "options": [
+      "Training given while employed",
+      "College admission process",
+      "Vacation course only",
+      "Retirement seminar"
+    ],
+    "answer": "Training given while employed",
+    "topic": "Staff Development",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_035",
+    "question": "Performance appraisal is mainly done to:",
+    "options": [
+      "Assess employee performance and growth needs",
+      "Punish everyone",
+      "Increase workload only",
+      "Replace attendance"
+    ],
+    "answer": "Assess employee performance and growth needs",
+    "topic": "Human Resource Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_036",
+    "question": "A grievance is best defined as:",
+    "options": [
+      "Formal employee complaint",
+      "Annual bonus",
+      "Promotion letter",
+      "Shift rotation"
+    ],
+    "answer": "Formal employee complaint",
+    "topic": "HR Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_037",
+    "question": "The best first response to grievance is:",
+    "options": [
+      "Listen and investigate fairly",
+      "Ignore complaint",
+      "Punish complainant",
+      "Transfer immediately"
+    ],
+    "answer": "Listen and investigate fairly",
+    "topic": "HR Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_038",
+    "question": "Supervision in nursing primarily ensures:",
+    "options": [
+      "Standards of care are maintained",
+      "Only attendance marking",
+      "Only discipline",
+      "Only medicine purchase"
+    ],
+    "answer": "Standards of care are maintained",
+    "topic": "Supervision",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_039",
+    "question": "Incident report should be completed when:",
+    "options": [
+      "Any unusual event affecting patient/staff occurs",
+      "Patient asks for water",
+      "Every discharge",
+      "Every admission only"
+    ],
+    "answer": "Any unusual event affecting patient/staff occurs",
+    "topic": "Risk Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_040",
+    "question": "Root cause analysis is used after:",
+    "options": [
+      "Serious adverse event",
+      "Tea break",
+      "Routine rounds",
+      "Salary issue"
+    ],
+    "answer": "Serious adverse event",
+    "topic": "Risk Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_041",
+    "question": "Time management by nurse manager is improved most by:",
+    "options": [
+      "Prioritization and scheduling",
+      "Postponing all work",
+      "Doing everything alone",
+      "Ignoring deadlines"
+    ],
+    "answer": "Prioritization and scheduling",
+    "topic": "Management Skills",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_042",
+    "question": "The principle of exception means managers should focus on:",
+    "options": [
+      "Significant deviations from standards",
+      "Every tiny task only",
+      "No reports",
+      "Uniform colors"
+    ],
+    "answer": "Significant deviations from standards",
+    "topic": "Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_043",
+    "question": "Centralization means decision-making is concentrated at:",
+    "options": [
+      "Higher management level",
+      "Ward attendants",
+      "Patients",
+      "All levels equally"
+    ],
+    "answer": "Higher management level",
+    "topic": "Organization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_044",
+    "question": "Decentralization often improves:",
+    "options": [
+      "Speed and local responsiveness",
+      "Delays always",
+      "Confusion always",
+      "No accountability"
+    ],
+    "answer": "Speed and local responsiveness",
+    "topic": "Organization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_045",
+    "question": "Which is an example of non-monetary incentive?",
+    "options": [
+      "Recognition award",
+      "Salary increment",
+      "Bonus cash",
+      "Overtime pay"
+    ],
+    "answer": "Recognition award",
+    "topic": "Motivation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_046",
+    "question": "The nurse manager’s best action during sudden mass casualty arrival is:",
+    "options": [
+      "Rapid resource coordination and delegation",
+      "Wait for routine meeting",
+      "Close ward",
+      "Ignore staffing"
+    ],
+    "answer": "Rapid resource coordination and delegation",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_047",
+    "question": "Benchmarking means comparing performance with:",
+    "options": [
+      "Best standards or similar organizations",
+      "Only past rumors",
+      "Random opinions",
+      "Patients only"
+    ],
+    "answer": "Best standards or similar organizations",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_048",
+    "question": "Continuous Quality Improvement (CQI) focuses on:",
+    "options": [
+      "Ongoing system improvement",
+      "One-time punishment",
+      "Ignoring errors",
+      "Only inspections"
+    ],
+    "answer": "Ongoing system improvement",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_049",
+    "question": "The ultimate goal of nursing administration is:",
+    "options": [
+      "Efficient delivery of safe quality patient care",
+      "Only reduce costs",
+      "Only paperwork",
+      "Only promotions"
+    ],
+    "answer": "Efficient delivery of safe quality patient care",
+    "topic": "Administration Goals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_050",
+    "question": "Best indicator of successful nurse manager leadership is:",
+    "options": [
+      "Motivated staff with good patient outcomes",
+      "Strict fear among staff",
+      "Maximum complaints",
+      "No communication"
+    ],
+    "answer": "Motivated staff with good patient outcomes",
+    "topic": "Leadership Outcomes",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_051",
+    "question": "Management by Objectives (MBO) emphasizes:",
+    "options": [
+      "Joint goal setting and measurable outcomes",
+      "Punishment-based control",
+      "No planning",
+      "Top-down secrecy only"
+    ],
+    "answer": "Joint goal setting and measurable outcomes",
+    "topic": "Management Theories",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_052",
+    "question": "SMART objectives should be:",
+    "options": [
+      "Specific, Measurable, Achievable, Relevant, Time-bound",
+      "Simple, Manual, Accurate, Real, True",
+      "Short, Major, Active, Rapid, Timed",
+      "Safe, Modern, Advanced, Ready, Total"
+    ],
+    "answer": "Specific, Measurable, Achievable, Relevant, Time-bound",
+    "topic": "Planning",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_053",
+    "question": "Strategic planning in a hospital usually focuses on:",
+    "options": [
+      "Long-term direction and priorities",
+      "Daily duty roster only",
+      "Bed making routine",
+      "Immediate handover only"
+    ],
+    "answer": "Long-term direction and priorities",
+    "topic": "Planning",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_054",
+    "question": "Operational planning is mainly concerned with:",
+    "options": [
+      "Day-to-day implementation",
+      "10-year expansion only",
+      "National policy only",
+      "Research publication only"
+    ],
+    "answer": "Day-to-day implementation",
+    "topic": "Planning",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_055",
+    "question": "Contingency planning is best described as planning for:",
+    "options": [
+      "Unexpected events or emergencies",
+      "Routine lunch breaks",
+      "Only promotions",
+      "Holiday celebrations"
+    ],
+    "answer": "Unexpected events or emergencies",
+    "topic": "Planning",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_056",
+    "question": "SWOT analysis includes strengths, weaknesses, opportunities and:",
+    "options": [
+      "Threats",
+      "Targets",
+      "Timelines",
+      "Teams"
+    ],
+    "answer": "Threats",
+    "topic": "Planning Tools",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_057",
+    "question": "A policy is best defined as:",
+    "options": [
+      "General guide for decision-making",
+      "Detailed step-by-step task list",
+      "One-time verbal order",
+      "Budget statement"
+    ],
+    "answer": "General guide for decision-making",
+    "topic": "Policies & Procedures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_058",
+    "question": "A procedure differs from policy because procedure describes:",
+    "options": [
+      "How work is done step-by-step",
+      "Why organization exists",
+      "Only values",
+      "Only punishments"
+    ],
+    "answer": "How work is done step-by-step",
+    "topic": "Policies & Procedures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_059",
+    "question": "Protocol in nursing administration usually means:",
+    "options": [
+      "Standardized evidence-based process",
+      "Salary ledger",
+      "Building map",
+      "Attendance book"
+    ],
+    "answer": "Standardized evidence-based process",
+    "topic": "Policies & Procedures",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_060",
+    "question": "Organizational chart mainly shows:",
+    "options": [
+      "Authority relationships and structure",
+      "Drug expiry dates",
+      "Patient diagnosis",
+      "Laundry schedule"
+    ],
+    "answer": "Authority relationships and structure",
+    "topic": "Organization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_061",
+    "question": "Line authority means authority flowing directly through:",
+    "options": [
+      "Chain of command",
+      "Informal groups",
+      "Patients council",
+      "External vendors"
+    ],
+    "answer": "Chain of command",
+    "topic": "Organization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_062",
+    "question": "Staff authority commonly provides:",
+    "options": [
+      "Advice and expertise",
+      "Direct command over all units",
+      "Legal punishment only",
+      "Patient treatment orders"
+    ],
+    "answer": "Advice and expertise",
+    "topic": "Organization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_063",
+    "question": "Matrix structure may create difficulty due to:",
+    "options": [
+      "Dual reporting relationships",
+      "No expertise",
+      "No communication",
+      "No staff at all"
+    ],
+    "answer": "Dual reporting relationships",
+    "topic": "Organization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_064",
+    "question": "Centralized purchasing may mainly improve:",
+    "options": [
+      "Standardization and bulk economy",
+      "Local autonomy only",
+      "Ward isolation",
+      "Duplicate orders"
+    ],
+    "answer": "Standardization and bulk economy",
+    "topic": "Administration",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_065",
+    "question": "Decentralized decisions are most beneficial when situations need:",
+    "options": [
+      "Rapid local responses",
+      "Uniform national law only",
+      "No accountability",
+      "Long delays"
+    ],
+    "answer": "Rapid local responses",
+    "topic": "Organization",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_066",
+    "question": "The primary purpose of delegation is to:",
+    "options": [
+      "Extend manager effectiveness through others",
+      "Avoid responsibility",
+      "Punish juniors",
+      "Reduce documentation only"
+    ],
+    "answer": "Extend manager effectiveness through others",
+    "topic": "Delegation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_067",
+    "question": "Which task should NOT be delegated by RN to unlicensed assistive personnel?",
+    "options": [
+      "Initial nursing assessment",
+      "Transporting stable patient",
+      "Making occupied bed",
+      "Recording intake/output"
+    ],
+    "answer": "Initial nursing assessment",
+    "topic": "Delegation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_068",
+    "question": "Five rights of delegation include right task, circumstance, person, direction and:",
+    "options": [
+      "Supervision/evaluation",
+      "Salary",
+      "Promotion",
+      "Punishment"
+    ],
+    "answer": "Supervision/evaluation",
+    "topic": "Delegation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_069",
+    "question": "Micromanagement often leads to:",
+    "options": [
+      "Low morale and dependency",
+      "High autonomy",
+      "Creative growth",
+      "Better trust always"
+    ],
+    "answer": "Low morale and dependency",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_070",
+    "question": "Transformational leaders mainly inspire staff through:",
+    "options": [
+      "Vision and empowerment",
+      "Fear and threats",
+      "Rigid silence",
+      "Ignoring ideas"
+    ],
+    "answer": "Vision and empowerment",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_071",
+    "question": "Transactional leadership emphasizes:",
+    "options": [
+      "Rewards and corrective actions",
+      "Shared vision only",
+      "No rules",
+      "Complete freedom always"
+    ],
+    "answer": "Rewards and corrective actions",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_072",
+    "question": "Servant leadership prioritizes:",
+    "options": [
+      "Growth and needs of team members",
+      "Leader ego",
+      "Strict punishment",
+      "Budget cuts only"
+    ],
+    "answer": "Growth and needs of team members",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_073",
+    "question": "Emotional intelligence in managers most strongly supports:",
+    "options": [
+      "Self-awareness and relationship management",
+      "Inventory math only",
+      "Building design",
+      "Payroll coding"
+    ],
+    "answer": "Self-awareness and relationship management",
+    "topic": "Leadership Skills",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_074",
+    "question": "Best response to resistant employee during change is to:",
+    "options": [
+      "Listen concerns and involve them",
+      "Threaten immediately",
+      "Ignore forever",
+      "Transfer without discussion"
+    ],
+    "answer": "Listen concerns and involve them",
+    "topic": "Change Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_075",
+    "question": "Lewin’s first stage of change model is:",
+    "options": [
+      "Unfreezing",
+      "Refreezing",
+      "Moving",
+      "Auditing"
+    ],
+    "answer": "Unfreezing",
+    "topic": "Change Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_076",
+    "question": "After implementing new workflow, stabilizing it into routine is Lewin’s:",
+    "options": [
+      "Refreezing",
+      "Unfreezing",
+      "Storming",
+      "Norming"
+    ],
+    "answer": "Refreezing",
+    "topic": "Change Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_077",
+    "question": "Tuckman stage where team conflict commonly appears is:",
+    "options": [
+      "Storming",
+      "Forming",
+      "Performing",
+      "Adjourning"
+    ],
+    "answer": "Storming",
+    "topic": "Team Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_078",
+    "question": "Team stage marked by high productivity and maturity is:",
+    "options": [
+      "Performing",
+      "Forming",
+      "Storming",
+      "Dependency"
+    ],
+    "answer": "Performing",
+    "topic": "Team Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_079",
+    "question": "The best scheduling principle for fairness is to:",
+    "options": [
+      "Use transparent criteria consistently",
+      "Favor senior favorites",
+      "Change rules secretly",
+      "Ignore leave requests always"
+    ],
+    "answer": "Use transparent criteria consistently",
+    "topic": "Staffing",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_080",
+    "question": "Skill mix in staffing refers to:",
+    "options": [
+      "Combination of staff with different competencies",
+      "Only number of beds",
+      "Only doctors count",
+      "Salary bands only"
+    ],
+    "answer": "Combination of staff with different competencies",
+    "topic": "Staffing",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_081",
+    "question": "High nurse-patient ratios are associated with higher risk of:",
+    "options": [
+      "Adverse patient outcomes",
+      "Automatic efficiency",
+      "No documentation",
+      "Lower workload"
+    ],
+    "answer": "Adverse patient outcomes",
+    "topic": "Staffing",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_082",
+    "question": "Variance report is mainly used to analyze:",
+    "options": [
+      "Difference between planned and actual results",
+      "Holiday roster",
+      "Patient menu",
+      "Building map"
+    ],
+    "answer": "Difference between planned and actual results",
+    "topic": "Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_083",
+    "question": "Capital budget generally covers:",
+    "options": [
+      "Major equipment/buildings",
+      "Daily stationery only",
+      "Tea expenses only",
+      "Overtime meals"
+    ],
+    "answer": "Major equipment/buildings",
+    "topic": "Budgeting",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_084",
+    "question": "Operating budget mainly covers:",
+    "options": [
+      "Routine recurring expenses",
+      "New hospital land purchase",
+      "One-time building construction",
+      "Share market trading"
+    ],
+    "answer": "Routine recurring expenses",
+    "topic": "Budgeting",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_085",
+    "question": "Cost-benefit analysis compares:",
+    "options": [
+      "Expected gains versus costs",
+      "Only staff complaints",
+      "Only bed occupancy",
+      "Only audit forms"
+    ],
+    "answer": "Expected gains versus costs",
+    "topic": "Financial Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_086",
+    "question": "FIFO in stores means:",
+    "options": [
+      "First in, first out",
+      "Fast issue, fast order",
+      "File in, file out",
+      "Fixed item flow order"
+    ],
+    "answer": "First in, first out",
+    "topic": "Inventory Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_087",
+    "question": "Reorder level indicates:",
+    "options": [
+      "Stock point at which new order should be placed",
+      "Maximum shelf height",
+      "Expired stock count",
+      "Annual leave balance"
+    ],
+    "answer": "Stock point at which new order should be placed",
+    "topic": "Inventory Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_088",
+    "question": "Sentinel event usually refers to:",
+    "options": [
+      "Unexpected serious event requiring investigation",
+      "Minor delay in tea service",
+      "Routine discharge",
+      "Planned surgery"
+    ],
+    "answer": "Unexpected serious event requiring investigation",
+    "topic": "Risk Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_089",
+    "question": "Near miss in patient safety means:",
+    "options": [
+      "Error occurred but no harm reached patient",
+      "Patient death",
+      "Normal discharge",
+      "Scheduled medication"
+    ],
+    "answer": "Error occurred but no harm reached patient",
+    "topic": "Risk Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_090",
+    "question": "Just culture balances accountability with:",
+    "options": [
+      "Learning from system factors",
+      "Automatic punishment only",
+      "Ignoring all errors",
+      "Secrecy"
+    ],
+    "answer": "Learning from system factors",
+    "topic": "Patient Safety",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_091",
+    "question": "Benchmarking is best used to:",
+    "options": [
+      "Compare performance to best practices",
+      "Hide data",
+      "Increase gossip",
+      "Avoid standards"
+    ],
+    "answer": "Compare performance to best practices",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_092",
+    "question": "PDCA cycle stands for Plan, Do, Check and:",
+    "options": [
+      "Act",
+      "Ask",
+      "Assign",
+      "Approve"
+    ],
+    "answer": "Act",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_093",
+    "question": "Root cause analysis focuses primarily on:",
+    "options": [
+      "Underlying system causes",
+      "Blaming one person only",
+      "Public punishment",
+      "Ignoring evidence"
+    ],
+    "answer": "Underlying system causes",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_094",
+    "question": "Staff burnout is reduced most effectively by:",
+    "options": [
+      "Reasonable workload and support",
+      "Extra fear",
+      "No breaks",
+      "Constant criticism"
+    ],
+    "answer": "Reasonable workload and support",
+    "topic": "Human Resource Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_095",
+    "question": "Absenteeism data are most useful as indicator of:",
+    "options": [
+      "Workforce morale and issues",
+      "Building paint quality",
+      "Patient diagnosis",
+      "Drug efficacy"
+    ],
+    "answer": "Workforce morale and issues",
+    "topic": "HR Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_096",
+    "question": "Most ethical basis for disciplinary action is:",
+    "options": [
+      "Consistent due process and documentation",
+      "Manager anger",
+      "Rumors",
+      "Personal dislike"
+    ],
+    "answer": "Consistent due process and documentation",
+    "topic": "HR Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_097",
+    "question": "The most important outcome of effective nurse management is:",
+    "options": [
+      "Safe high-quality patient care",
+      "Longest meetings",
+      "More paperwork only",
+      "Fearful staff"
+    ],
+    "answer": "Safe high-quality patient care",
+    "topic": "Administration Goals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_098",
+    "question": "Shared governance models aim to increase nurses’:",
+    "options": [
+      "Participation in decisions",
+      "Payroll deductions",
+      "Uniform changes only",
+      "Night shifts only"
+    ],
+    "answer": "Participation in decisions",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_099",
+    "question": "Magnet-style healthy work environments emphasize:",
+    "options": [
+      "Professional autonomy and quality culture",
+      "Punitive silence",
+      "Understaffing",
+      "No development"
+    ],
+    "answer": "Professional autonomy and quality culture",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_100",
+    "question": "Ultimate purpose of nursing administration is to align people and resources toward:",
+    "options": [
+      "Excellent patient outcomes",
+      "Only lower salaries",
+      "Only larger offices",
+      "Only hierarchy"
+    ],
+    "answer": "Excellent patient outcomes",
+    "topic": "Administration Goals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_101",
+    "question": "The principle of scalar chain refers to:",
+    "options": [
+      "Clear line of authority from top to bottom",
+      "Equal pay for all staff",
+      "Inventory control process",
+      "Nurse-patient ratio formula"
+    ],
+    "answer": "Clear line of authority from top to bottom",
+    "topic": "Management Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_102",
+    "question": "Esprit de corps in management encourages:",
+    "options": [
+      "Team spirit and unity",
+      "Strict punishment",
+      "Isolation of departments",
+      "Financial secrecy"
+    ],
+    "answer": "Team spirit and unity",
+    "topic": "Management Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_103",
+    "question": "Subordination of individual interest to general interest means:",
+    "options": [
+      "Organization goals take priority over personal goals",
+      "Manager benefits first",
+      "Ignore all staff needs",
+      "Patients come last"
+    ],
+    "answer": "Organization goals take priority over personal goals",
+    "topic": "Management Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_104",
+    "question": "Authority without responsibility often results in:",
+    "options": [
+      "Misuse of power",
+      "Better teamwork",
+      "Perfect accountability",
+      "Higher morale automatically"
+    ],
+    "answer": "Misuse of power",
+    "topic": "Management Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_105",
+    "question": "Responsibility without authority commonly leads to:",
+    "options": [
+      "Frustration and poor performance",
+      "Strong empowerment",
+      "Rapid decisions",
+      "Better delegation always"
+    ],
+    "answer": "Frustration and poor performance",
+    "topic": "Management Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_106",
+    "question": "Program Evaluation Review Technique (PERT) is mainly used for:",
+    "options": [
+      "Project planning and scheduling",
+      "Patient diagnosis",
+      "Drug dosage calculation",
+      "Ward cleaning audit"
+    ],
+    "answer": "Project planning and scheduling",
+    "topic": "Planning Tools",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_107",
+    "question": "Gantt chart is especially useful for:",
+    "options": [
+      "Tracking tasks over time",
+      "Conflict counseling",
+      "Clinical examination",
+      "Medication reconciliation"
+    ],
+    "answer": "Tracking tasks over time",
+    "topic": "Planning Tools",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_108",
+    "question": "Decision-making under certainty means:",
+    "options": [
+      "Outcomes of alternatives are known",
+      "No data are available",
+      "Only guesses are used",
+      "Crisis conditions always"
+    ],
+    "answer": "Outcomes of alternatives are known",
+    "topic": "Decision Making",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_109",
+    "question": "Decision-making under uncertainty means:",
+    "options": [
+      "Probabilities or outcomes are unclear",
+      "All outcomes guaranteed",
+      "Only one option exists",
+      "Policies already decide"
+    ],
+    "answer": "Probabilities or outcomes are unclear",
+    "topic": "Decision Making",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_110",
+    "question": "Brainstorming is best used during decision-making to:",
+    "options": [
+      "Generate many ideas without early criticism",
+      "Finalize salary structure",
+      "Punish poor staff",
+      "Conduct appraisal only"
+    ],
+    "answer": "Generate many ideas without early criticism",
+    "topic": "Decision Making",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_111",
+    "question": "Nominal group technique differs from brainstorming because it includes:",
+    "options": [
+      "Structured ranking of ideas",
+      "No participation",
+      "Anonymous punishment",
+      "Only online voting"
+    ],
+    "answer": "Structured ranking of ideas",
+    "topic": "Decision Making",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_112",
+    "question": "Delphi technique is characterized by:",
+    "options": [
+      "Anonymous expert rounds to reach consensus",
+      "Immediate face-to-face debate",
+      "Patient interviews only",
+      "Random guessing"
+    ],
+    "answer": "Anonymous expert rounds to reach consensus",
+    "topic": "Decision Making",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_113",
+    "question": "Satisficing in management means choosing:",
+    "options": [
+      "An acceptable option rather than perfect one",
+      "Worst option intentionally",
+      "Most expensive option",
+      "No option at all"
+    ],
+    "answer": "An acceptable option rather than perfect one",
+    "topic": "Decision Making",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_114",
+    "question": "Evidence-based management decisions rely most on:",
+    "options": [
+      "Best available data plus expertise",
+      "Rumors only",
+      "Tradition only",
+      "Random selection"
+    ],
+    "answer": "Best available data plus expertise",
+    "topic": "Decision Making",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_115",
+    "question": "The major risk of groupthink is:",
+    "options": [
+      "Poor decisions due to pressure for consensus",
+      "Too much creativity",
+      "Higher transparency",
+      "Better debate always"
+    ],
+    "answer": "Poor decisions due to pressure for consensus",
+    "topic": "Decision Making",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_116",
+    "question": "Power derived from position in organization is:",
+    "options": [
+      "Legitimate power",
+      "Expert power",
+      "Referent power",
+      "Informal power"
+    ],
+    "answer": "Legitimate power",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_117",
+    "question": "Power based on knowledge and skill is:",
+    "options": [
+      "Expert power",
+      "Coercive power",
+      "Reward power",
+      "Legitimate power"
+    ],
+    "answer": "Expert power",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_118",
+    "question": "Referent power arises mainly from:",
+    "options": [
+      "Admiration and trust",
+      "Job title only",
+      "Fear of punishment",
+      "Control of supplies"
+    ],
+    "answer": "Admiration and trust",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_119",
+    "question": "Coercive power depends on ability to:",
+    "options": [
+      "Punish or threaten sanctions",
+      "Inspire vision",
+      "Provide expertise",
+      "Offer friendship only"
+    ],
+    "answer": "Punish or threaten sanctions",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_120",
+    "question": "Reward power depends on ability to provide:",
+    "options": [
+      "Benefits or recognition",
+      "Threats only",
+      "Clinical diagnosis",
+      "Policies only"
+    ],
+    "answer": "Benefits or recognition",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_121",
+    "question": "The most sustainable source of leader influence in nursing is often:",
+    "options": [
+      "Expert and referent power",
+      "Coercive power only",
+      "Fear only",
+      "Title alone"
+    ],
+    "answer": "Expert and referent power",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_122",
+    "question": "Horizontal communication occurs between:",
+    "options": [
+      "Peers at similar level",
+      "CEO and staff nurse only",
+      "Nurse and patient only",
+      "Vendor and patient"
+    ],
+    "answer": "Peers at similar level",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_123",
+    "question": "Vertical downward communication commonly includes:",
+    "options": [
+      "Policies and instructions from supervisors",
+      "Feedback from juniors upward",
+      "Peer gossip",
+      "Patient complaints"
+    ],
+    "answer": "Policies and instructions from supervisors",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_124",
+    "question": "Upward communication is most valuable for obtaining:",
+    "options": [
+      "Feedback from frontline staff",
+      "Drug stock expiry only",
+      "Laundry schedules",
+      "Visitor passes"
+    ],
+    "answer": "Feedback from frontline staff",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_125",
+    "question": "Communication overload most often causes:",
+    "options": [
+      "Missed key messages",
+      "Perfect recall",
+      "Better morale automatically",
+      "No stress"
+    ],
+    "answer": "Missed key messages",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_126",
+    "question": "Selective perception in communication means receiver:",
+    "options": [
+      "Interprets message through personal bias",
+      "Understands everything objectively",
+      "Never uses emotions",
+      "Only hears noise"
+    ],
+    "answer": "Interprets message through personal bias",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_127",
+    "question": "The best way to reduce rumor spread in hospital is:",
+    "options": [
+      "Timely transparent official communication",
+      "Punish all questions",
+      "Ignore staff concerns",
+      "Close meetings"
+    ],
+    "answer": "Timely transparent official communication",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_128",
+    "question": "Conflict caused by unclear responsibilities is best prevented by:",
+    "options": [
+      "Clear role definitions",
+      "More gossip",
+      "Frequent transfers",
+      "Less documentation"
+    ],
+    "answer": "Clear role definitions",
+    "topic": "Conflict Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_129",
+    "question": "Collaboration conflict style aims for:",
+    "options": [
+      "Win-win solution satisfying both sides",
+      "One side wins only",
+      "Avoiding issue",
+      "Immediate surrender"
+    ],
+    "answer": "Win-win solution satisfying both sides",
+    "topic": "Conflict Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_130",
+    "question": "Compromise conflict style usually means:",
+    "options": [
+      "Each side gives up something",
+      "One side dominates",
+      "Issue ignored completely",
+      "Relationship ends"
+    ],
+    "answer": "Each side gives up something",
+    "topic": "Conflict Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_131",
+    "question": "A nurse manager should use mediation when:",
+    "options": [
+      "Two parties cannot resolve conflict themselves",
+      "There is no disagreement",
+      "Patient discharged",
+      "Inventory is full"
+    ],
+    "answer": "Two parties cannot resolve conflict themselves",
+    "topic": "Conflict Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_132",
+    "question": "Absenteeism rising suddenly may indicate:",
+    "options": [
+      "Low morale or workplace problems",
+      "Perfect satisfaction",
+      "Too much training success",
+      "No staffing issue"
+    ],
+    "answer": "Low morale or workplace problems",
+    "topic": "HR Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_133",
+    "question": "Turnover rate refers to:",
+    "options": [
+      "Employees leaving and being replaced",
+      "Patient bed rotation",
+      "Inventory movement only",
+      "Shift handover speed"
+    ],
+    "answer": "Employees leaving and being replaced",
+    "topic": "HR Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_134",
+    "question": "Exit interviews are useful mainly to identify:",
+    "options": [
+      "Reasons staff leave organization",
+      "Drug errors",
+      "Patient diagnosis",
+      "Laundry losses"
+    ],
+    "answer": "Reasons staff leave organization",
+    "topic": "HR Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_135",
+    "question": "Succession planning prepares organization for:",
+    "options": [
+      "Future leadership vacancies",
+      "Patient discharge only",
+      "Ward painting",
+      "Uniform supply"
+    ],
+    "answer": "Future leadership vacancies",
+    "topic": "HR Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_136",
+    "question": "Competency assessment primarily verifies:",
+    "options": [
+      "Ability to perform required job standards",
+      "Years of age",
+      "Friendship level",
+      "Attendance only"
+    ],
+    "answer": "Ability to perform required job standards",
+    "topic": "Staff Development",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_137",
+    "question": "Mentoring differs from preceptorship because mentoring is usually:",
+    "options": [
+      "Longer-term career development support",
+      "One-shift orientation only",
+      "Punitive supervision",
+      "Payroll counseling"
+    ],
+    "answer": "Longer-term career development support",
+    "topic": "Staff Development",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_138",
+    "question": "Preceptor role is most associated with:",
+    "options": [
+      "Guiding new staff in clinical practice",
+      "Annual budgeting",
+      "Union negotiation",
+      "Fire safety audit"
+    ],
+    "answer": "Guiding new staff in clinical practice",
+    "topic": "Staff Development",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_139",
+    "question": "Variance between scheduled and actual staffing hours should trigger:",
+    "options": [
+      "Review of staffing efficiency and needs",
+      "Automatic termination",
+      "Ignore data",
+      "Close ward permanently"
+    ],
+    "answer": "Review of staffing efficiency and needs",
+    "topic": "Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_140",
+    "question": "A dashboard in administration is used to display:",
+    "options": [
+      "Key performance indicators",
+      "Patient x-rays",
+      "Drug labels",
+      "Payroll slips only"
+    ],
+    "answer": "Key performance indicators",
+    "topic": "Quality Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_141",
+    "question": "Balanced scorecard often measures finance, internal process, learning and:",
+    "options": [
+      "Customer/patient perspective",
+      "Laundry perspective",
+      "Parking perspective",
+      "Canteen perspective"
+    ],
+    "answer": "Customer/patient perspective",
+    "topic": "Quality Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_142",
+    "question": "Lean management primarily seeks to reduce:",
+    "options": [
+      "Waste in processes",
+      "All staffing",
+      "All meetings",
+      "All documentation"
+    ],
+    "answer": "Waste in processes",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_143",
+    "question": "Six Sigma focuses on reducing:",
+    "options": [
+      "Process variation and defects",
+      "Leadership entirely",
+      "Patient numbers",
+      "Clinical education"
+    ],
+    "answer": "Process variation and defects",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_144",
+    "question": "A cause-and-effect diagram is also called:",
+    "options": [
+      "Fishbone/Ishikawa diagram",
+      "Pie chart",
+      "Scatter map",
+      "Run sheet"
+    ],
+    "answer": "Fishbone/Ishikawa diagram",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_145",
+    "question": "Pareto principle suggests many problems come from:",
+    "options": [
+      "Few vital causes",
+      "Equal random causes",
+      "No causes",
+      "Only external causes"
+    ],
+    "answer": "Few vital causes",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_146",
+    "question": "In disaster surge planning, first managerial priority is:",
+    "options": [
+      "Rapid resource allocation and triage support",
+      "Routine annual leave",
+      "Furniture replacement",
+      "Budget ceremony"
+    ],
+    "answer": "Rapid resource allocation and triage support",
+    "topic": "Emergency Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_147",
+    "question": "Ethical allocation of scarce ICU beds should be based on:",
+    "options": [
+      "Fair transparent criteria",
+      "Personal favoritism",
+      "Political pressure",
+      "Staff friendships"
+    ],
+    "answer": "Fair transparent criteria",
+    "topic": "Ethics in Administration",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_148",
+    "question": "The strongest indicator of healthy organizational culture is:",
+    "options": [
+      "Safety, trust, accountability, learning",
+      "Fear and silence",
+      "Rumor dominance",
+      "Frequent resignations"
+    ],
+    "answer": "Safety, trust, accountability, learning",
+    "topic": "Organizational Culture",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_149",
+    "question": "High reliability organizations are characterized by:",
+    "options": [
+      "Constant attention to preventing failure",
+      "Ignoring small errors",
+      "Punishing all reporting",
+      "Random processes"
+    ],
+    "answer": "Constant attention to preventing failure",
+    "topic": "Patient Safety",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_150",
+    "question": "Ultimate success of nursing administration is best reflected by:",
+    "options": [
+      "Excellent patient care with engaged staff",
+      "Largest hierarchy chart",
+      "Most meetings held",
+      "Strictest punishments"
+    ],
+    "answer": "Excellent patient care with engaged staff",
+    "topic": "Administration Goals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_151",
+    "question": "A nurse manager notices rising medication errors after shift changes. The best first management action is to:",
+    "options": [
+      "Analyze handover process and contributing factors",
+      "Punish all night staff",
+      "Replace all nurses immediately",
+      "Ignore if no death occurred"
+    ],
+    "answer": "Analyze handover process and contributing factors",
+    "topic": "Quality Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_152",
+    "question": "The principle of management most directly supporting fairness in discipline is:",
+    "options": [
+      "Equity",
+      "Centralization",
+      "Scalar chain",
+      "Order"
+    ],
+    "answer": "Equity",
+    "topic": "Management Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_153",
+    "question": "When two senior nurses give contradictory instructions to one staff nurse, which principle is violated?",
+    "options": [
+      "Unity of command",
+      "Remuneration",
+      "Initiative",
+      "Discipline"
+    ],
+    "answer": "Unity of command",
+    "topic": "Management Principles",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_154",
+    "question": "The most appropriate indicator of productivity in a nursing unit is:",
+    "options": [
+      "Safe care delivered relative to resources used",
+      "Number of meetings held",
+      "Amount of paperwork filed",
+      "Manager’s office size"
+    ],
+    "answer": "Safe care delivered relative to resources used",
+    "topic": "Productivity",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_155",
+    "question": "A nurse manager who shares data openly and invites suggestions is demonstrating:",
+    "options": [
+      "Transparent leadership",
+      "Coercive control",
+      "Defensive management",
+      "Avoidance"
+    ],
+    "answer": "Transparent leadership",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_156",
+    "question": "The most common cause of failure in delegated tasks is:",
+    "options": [
+      "Unclear expectations and follow-up",
+      "Too much praise",
+      "Excessive staffing",
+      "Low patient census"
+    ],
+    "answer": "Unclear expectations and follow-up",
+    "topic": "Delegation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_157",
+    "question": "Which situation best reflects underdelegation?",
+    "options": [
+      "Manager performs tasks staff could safely do",
+      "Manager supervises delegated task",
+      "RN assesses unstable patient",
+      "Charge nurse checks outcomes"
+    ],
+    "answer": "Manager performs tasks staff could safely do",
+    "topic": "Delegation",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_158",
+    "question": "Which staffing pattern best supports continuity of care?",
+    "options": [
+      "Primary nursing",
+      "Random assignment daily",
+      "No assignment method",
+      "Self-selected patients only"
+    ],
+    "answer": "Primary nursing",
+    "topic": "Staffing Models",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_159",
+    "question": "Functional nursing model may be efficient but risks:",
+    "options": [
+      "Fragmentation of care",
+      "Too much continuity",
+      "Excess autonomy",
+      "No task clarity"
+    ],
+    "answer": "Fragmentation of care",
+    "topic": "Staffing Models",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_160",
+    "question": "Team nursing works best when leader has strong:",
+    "options": [
+      "Coordination and communication skills",
+      "Punitive style",
+      "No clinical knowledge",
+      "Minimal involvement"
+    ],
+    "answer": "Coordination and communication skills",
+    "topic": "Staffing Models",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_161",
+    "question": "The most reliable early sign of poor morale in a unit is:",
+    "options": [
+      "Rising absenteeism and turnover",
+      "Fresh paint requests",
+      "Larger meetings",
+      "More uniforms issued"
+    ],
+    "answer": "Rising absenteeism and turnover",
+    "topic": "HR Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_162",
+    "question": "A preceptor’s primary responsibility is to:",
+    "options": [
+      "Support transition of new staff into role",
+      "Approve annual budgets",
+      "Negotiate contracts",
+      "Run disciplinary hearings"
+    ],
+    "answer": "Support transition of new staff into role",
+    "topic": "Staff Development",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_163",
+    "question": "The best method to identify training needs in staff is:",
+    "options": [
+      "Gap analysis of required vs current competencies",
+      "Guesswork",
+      "Seniority list only",
+      "Uniform inspection"
+    ],
+    "answer": "Gap analysis of required vs current competencies",
+    "topic": "Staff Development",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_164",
+    "question": "A nurse manager using coaching would most likely:",
+    "options": [
+      "Develop staff performance through feedback",
+      "Issue punishment only",
+      "Avoid conversations",
+      "Delegate without support"
+    ],
+    "answer": "Develop staff performance through feedback",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_165",
+    "question": "The strongest advantage of shared governance is:",
+    "options": [
+      "Greater nurse participation in decisions",
+      "No accountability",
+      "Less communication",
+      "Automatic promotions"
+    ],
+    "answer": "Greater nurse participation in decisions",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_166",
+    "question": "A budget variance showing overspending should first prompt:",
+    "options": [
+      "Investigation of causes and corrective plan",
+      "Immediate blame",
+      "Ignore until year end",
+      "Cancel all supplies"
+    ],
+    "answer": "Investigation of causes and corrective plan",
+    "topic": "Financial Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_167",
+    "question": "Capital expenditure usually includes:",
+    "options": [
+      "Ventilator purchase",
+      "Daily gauze use",
+      "Tea expenses",
+      "Routine printing paper"
+    ],
+    "answer": "Ventilator purchase",
+    "topic": "Budgeting",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_168",
+    "question": "The purpose of cost-effectiveness analysis is to compare:",
+    "options": [
+      "Cost relative to outcomes achieved",
+      "Only salaries",
+      "Only revenue",
+      "Only patient complaints"
+    ],
+    "answer": "Cost relative to outcomes achieved",
+    "topic": "Financial Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_169",
+    "question": "Inventory carrying cost rises mainly with:",
+    "options": [
+      "Excess stock held over time",
+      "Low reorder points",
+      "Frequent audits",
+      "Barcoding"
+    ],
+    "answer": "Excess stock held over time",
+    "topic": "Inventory Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_170",
+    "question": "The most suitable method for controlling high-value items is:",
+    "options": [
+      "ABC analysis",
+      "Bed census",
+      "Fishbone diagram",
+      "SWOT only"
+    ],
+    "answer": "ABC analysis",
+    "topic": "Inventory Control",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_171",
+    "question": "A near-miss reporting system is valuable because it helps:",
+    "options": [
+      "Prevent harm before recurrence",
+      "Hide mistakes",
+      "Punish staff automatically",
+      "Reduce documentation only"
+    ],
+    "answer": "Prevent harm before recurrence",
+    "topic": "Risk Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_172",
+    "question": "Which action best reflects a just culture?",
+    "options": [
+      "Differentiate human error from reckless behavior",
+      "Punish every mistake equally",
+      "Ignore unsafe acts",
+      "Keep errors secret"
+    ],
+    "answer": "Differentiate human error from reckless behavior",
+    "topic": "Patient Safety",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_173",
+    "question": "Sentinel event review should focus first on:",
+    "options": [
+      "System causes and safeguards",
+      "Public blame",
+      "Media response only",
+      "Salary deduction"
+    ],
+    "answer": "System causes and safeguards",
+    "topic": "Risk Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_174",
+    "question": "A run chart is most useful to display:",
+    "options": [
+      "Performance trends over time",
+      "Hierarchy levels",
+      "Building map",
+      "Job descriptions"
+    ],
+    "answer": "Performance trends over time",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_175",
+    "question": "Pareto analysis helps managers prioritize by identifying:",
+    "options": [
+      "Few causes creating most problems",
+      "All causes equally",
+      "No measurable causes",
+      "Random incidents only"
+    ],
+    "answer": "Few causes creating most problems",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_176",
+    "question": "Resistance to organizational change decreases most when staff are:",
+    "options": [
+      "Involved early in planning",
+      "Threatened publicly",
+      "Ignored completely",
+      "Overloaded suddenly"
+    ],
+    "answer": "Involved early in planning",
+    "topic": "Change Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_177",
+    "question": "Lewin’s change model sequence is:",
+    "options": [
+      "Unfreeze → Change → Refreeze",
+      "Change → Freeze → Unfreeze",
+      "Plan → Fire → Hire",
+      "Assess → Punish → Repeat"
+    ],
+    "answer": "Unfreeze → Change → Refreeze",
+    "topic": "Change Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_178",
+    "question": "The main purpose of pilot testing a new process is to:",
+    "options": [
+      "Evaluate on small scale before full rollout",
+      "Delay permanently",
+      "Avoid measurement",
+      "Replace all policies"
+    ],
+    "answer": "Evaluate on small scale before full rollout",
+    "topic": "Change Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_179",
+    "question": "Which communication method best reduces rumor during change?",
+    "options": [
+      "Frequent honest updates",
+      "Silence",
+      "Secret memos only",
+      "Punishing questions"
+    ],
+    "answer": "Frequent honest updates",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_180",
+    "question": "The biggest danger of poor handoff communication is:",
+    "options": [
+      "Patient safety incidents",
+      "Extra tea breaks",
+      "Uniform mismatch",
+      "Longer meetings"
+    ],
+    "answer": "Patient safety incidents",
+    "topic": "Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_181",
+    "question": "SBAR communication format stands for Situation, Background, Assessment and:",
+    "options": [
+      "Recommendation",
+      "Response",
+      "Review",
+      "Result"
+    ],
+    "answer": "Recommendation",
+    "topic": "Clinical Communication",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_182",
+    "question": "Horizontal violence in nursing teams refers to:",
+    "options": [
+      "Peer-to-peer bullying or hostility",
+      "Emergency disaster triage",
+      "Physical exercise training",
+      "Management restructuring"
+    ],
+    "answer": "Peer-to-peer bullying or hostility",
+    "topic": "Workplace Behavior",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_183",
+    "question": "Psychological safety in a unit means staff feel safe to:",
+    "options": [
+      "Speak up about concerns and mistakes",
+      "Hide errors",
+      "Avoid questions",
+      "Fear punishment always"
+    ],
+    "answer": "Speak up about concerns and mistakes",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_184",
+    "question": "The most effective response to chronic lateness is:",
+    "options": [
+      "Document pattern, discuss causes, apply policy fairly",
+      "Ignore forever",
+      "Humiliate publicly",
+      "Terminate instantly always"
+    ],
+    "answer": "Document pattern, discuss causes, apply policy fairly",
+    "topic": "HR Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_185",
+    "question": "Progressive discipline typically begins with:",
+    "options": [
+      "Verbal counseling/warning",
+      "Immediate dismissal",
+      "Police complaint",
+      "Transfer to ICU"
+    ],
+    "answer": "Verbal counseling/warning",
+    "topic": "HR Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_186",
+    "question": "The best indicator that orientation program is effective is:",
+    "options": [
+      "Competent confident new staff performance",
+      "Long speeches given",
+      "Number of handouts",
+      "Canteen usage"
+    ],
+    "answer": "Competent confident new staff performance",
+    "topic": "Staff Development",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_187",
+    "question": "Succession planning mainly protects the organization from:",
+    "options": [
+      "Leadership gaps",
+      "Patient falls",
+      "Drug expiry",
+      "Rain damage"
+    ],
+    "answer": "Leadership gaps",
+    "topic": "HR Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_188",
+    "question": "Benchmarking compares unit performance against:",
+    "options": [
+      "Best performers or standards",
+      "Random gossip",
+      "Personal opinions",
+      "Only previous holidays"
+    ],
+    "answer": "Best performers or standards",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_189",
+    "question": "Lean management in healthcare mainly aims to remove:",
+    "options": [
+      "Waste and non-value steps",
+      "All staff",
+      "All policies",
+      "All meetings permanently"
+    ],
+    "answer": "Waste and non-value steps",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_190",
+    "question": "Six Sigma emphasizes reducing:",
+    "options": [
+      "Defects and variation",
+      "Communication",
+      "Leadership",
+      "Documentation only"
+    ],
+    "answer": "Defects and variation",
+    "topic": "Quality Improvement",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_191",
+    "question": "The most ethical basis for staff scheduling is:",
+    "options": [
+      "Fair transparent criteria with service needs",
+      "Favoritism",
+      "Secret rotation",
+      "Punishment shifts"
+    ],
+    "answer": "Fair transparent criteria with service needs",
+    "topic": "Ethics in Administration",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_192",
+    "question": "Disaster surge capacity planning mainly concerns beds, staff, supplies and:",
+    "options": [
+      "Systems/space coordination",
+      "Holiday leaves",
+      "Marketing",
+      "Uniform color"
+    ],
+    "answer": "Systems/space coordination",
+    "topic": "Emergency Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_193",
+    "question": "During mass casualty triage, management priority is:",
+    "options": [
+      "Greatest good for greatest number",
+      "Treat VIP first",
+      "First come first serve",
+      "Longest case first"
+    ],
+    "answer": "Greatest good for greatest number",
+    "topic": "Emergency Management",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_194",
+    "question": "A healthy organizational culture is most associated with:",
+    "options": [
+      "Trust, learning, accountability",
+      "Fear, blame, secrecy",
+      "Rumors, turnover, silence",
+      "Rigid hierarchy only"
+    ],
+    "answer": "Trust, learning, accountability",
+    "topic": "Organizational Culture",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_195",
+    "question": "High reliability organizations are preoccupied with:",
+    "options": [
+      "Failure prevention and early warning signs",
+      "Image only",
+      "Punishment only",
+      "Meeting frequency"
+    ],
+    "answer": "Failure prevention and early warning signs",
+    "topic": "Patient Safety",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_196",
+    "question": "The strongest sign of manager emotional intelligence is:",
+    "options": [
+      "Self-control with empathy under pressure",
+      "Anger during stress",
+      "Avoiding feedback",
+      "Ignoring team emotions"
+    ],
+    "answer": "Self-control with empathy under pressure",
+    "topic": "Leadership",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_197",
+    "question": "If staff fear reporting incidents, the manager should first improve:",
+    "options": [
+      "Non-punitive reporting climate",
+      "Security cameras only",
+      "Uniform policy",
+      "Parking access"
+    ],
+    "answer": "Non-punitive reporting climate",
+    "topic": "Patient Safety",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_198",
+    "question": "The most strategic role of a nurse administrator is to:",
+    "options": [
+      "Align people, systems and vision",
+      "Check pens daily only",
+      "Do all bedside care alone",
+      "Avoid decisions"
+    ],
+    "answer": "Align people, systems and vision",
+    "topic": "Administration Goals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_199",
+    "question": "Best overall measure of successful nursing administration is:",
+    "options": [
+      "Excellent outcomes with engaged workforce",
+      "Largest office",
+      "Most circulars issued",
+      "Strictest punishments"
+    ],
+    "answer": "Excellent outcomes with engaged workforce",
+    "topic": "Administration Goals",
+    "chapter": "GENERAL"
+  },
+  {
+    "id": "MAN_200",
+    "question": "Ultimate purpose of management in nursing is to ensure:",
+    "options": [
+      "Safe, efficient, compassionate quality care",
+      "Only profit",
+      "Only hierarchy",
+      "Only attendance compliance"
+    ],
+    "answer": "Safe, efficient, compassionate quality care",
+    "topic": "Administration Goals",
+    "chapter": "GENERAL"
+  }
+]

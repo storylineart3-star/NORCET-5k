@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "OBG_001",
+    "question": "Normal duration of pregnancy is:",
+    "options": [
+      "28 weeks",
+      "32 weeks",
+      "40 weeks",
+      "44 weeks"
+    ],
+    "answer": "40 weeks",
+    "difficulty": "easy",
+    "explanation": "Full term pregnancy is 40 weeks (280 days).",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_002",
+    "question": "First trimester of pregnancy is:",
+    "options": [
+      "0–12 weeks",
+      "13–24 weeks",
+      "25–36 weeks",
+      "37–40 weeks"
+    ],
+    "answer": "0–12 weeks",
+    "difficulty": "easy",
+    "explanation": "First 3 months of pregnancy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_003",
+    "question": "Quickening refers to:",
+    "options": [
+      "First fetal movement",
+      "First heartbeat",
+      "Labour pain",
+      "Delivery"
+    ],
+    "answer": "First fetal movement",
+    "difficulty": "medium",
+    "explanation": "Usually felt at 16–20 weeks.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_004",
+    "question": "Expected date of delivery (EDD) is calculated by:",
+    "options": [
+      "Naegele’s rule",
+      "Broca’s rule",
+      "Koch’s rule",
+      "Park’s rule"
+    ],
+    "answer": "Naegele’s rule",
+    "difficulty": "medium",
+    "explanation": "LMP + 9 months + 7 days.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_005",
+    "question": "Gravida means:",
+    "options": [
+      "Number of pregnancies",
+      "Number of children",
+      "Abortions",
+      "Live births"
+    ],
+    "answer": "Number of pregnancies",
+    "difficulty": "easy",
+    "explanation": "Total number of pregnancies.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_006",
+    "question": "Para means:",
+    "options": [
+      "Number of deliveries after 28 weeks",
+      "Pregnancies",
+      "Abortions",
+      "Conceptions"
+    ],
+    "answer": "Number of deliveries after 28 weeks",
+    "difficulty": "medium",
+    "explanation": "Viable births.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_007",
+    "question": "First sign of pregnancy is:",
+    "options": [
+      "Amenorrhea",
+      "Vomiting",
+      "Weight gain",
+      "Fetal movement"
+    ],
+    "answer": "Amenorrhea",
+    "difficulty": "easy",
+    "explanation": "Missed periods.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_008",
+    "question": "Probable sign of pregnancy is:",
+    "options": [
+      "Positive urine test",
+      "Fetal heart sound",
+      "Fetal movement",
+      "Ultrasound only"
+    ],
+    "answer": "Positive urine test",
+    "difficulty": "medium",
+    "explanation": "hCG detection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_009",
+    "question": "Positive sign of pregnancy is:",
+    "options": [
+      "Fetal heart sound",
+      "Nausea",
+      "Amenorrhea",
+      "Fatigue"
+    ],
+    "answer": "Fetal heart sound",
+    "difficulty": "medium",
+    "explanation": "Definitive pregnancy sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_010",
+    "question": "Fetal heart sound is heard by:",
+    "options": [
+      "Doppler",
+      "Stethoscope only",
+      "BP apparatus",
+      "Thermometer"
+    ],
+    "answer": "Doppler",
+    "difficulty": "easy",
+    "explanation": "Used after 10–12 weeks.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_011",
+    "question": "Normal fetal heart rate is:",
+    "options": [
+      "60–80 bpm",
+      "100–120 bpm",
+      "120–160 bpm",
+      "160–200 bpm"
+    ],
+    "answer": "120–160 bpm",
+    "difficulty": "easy",
+    "explanation": "Normal range for fetus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_012",
+    "question": "Leopold maneuvers are used for:",
+    "options": [
+      "Fetal position",
+      "Blood pressure",
+      "Temperature",
+      "Pulse"
+    ],
+    "answer": "Fetal position",
+    "difficulty": "medium",
+    "explanation": "Abdominal examination.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_013",
+    "question": "First stage of labour is:",
+    "options": [
+      "Dilatation",
+      "Expulsion",
+      "Placenta delivery",
+      "Recovery"
+    ],
+    "answer": "Dilatation",
+    "difficulty": "easy",
+    "explanation": "Cervix opens.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_014",
+    "question": "Second stage of labour is:",
+    "options": [
+      "Expulsion of baby",
+      "Dilatation",
+      "Placenta delivery",
+      "Rest"
+    ],
+    "answer": "Expulsion of baby",
+    "difficulty": "easy",
+    "explanation": "Baby is delivered.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_015",
+    "question": "Third stage of labour is:",
+    "options": [
+      "Placenta delivery",
+      "Cervical dilation",
+      "Baby movement",
+      "Rest"
+    ],
+    "answer": "Placenta delivery",
+    "difficulty": "easy",
+    "explanation": "After birth placenta expulsion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_016",
+    "question": "Fourth stage of labour is:",
+    "options": [
+      "Recovery period",
+      "Delivery",
+      "Dilation",
+      "Conception"
+    ],
+    "answer": "Recovery period",
+    "difficulty": "medium",
+    "explanation": "Post-delivery monitoring.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_017",
+    "question": "Normal duration of first stage labour is:",
+    "options": [
+      "1–2 hrs",
+      "6–12 hrs",
+      "20–30 hrs",
+      "30–40 hrs"
+    ],
+    "answer": "6–12 hrs",
+    "difficulty": "medium",
+    "explanation": "Primigravida longer.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_018",
+    "question": "Oxytocin is used for:",
+    "options": [
+      "Induce labour",
+      "Pain relief",
+      "Infection",
+      "Fever"
+    ],
+    "answer": "Induce labour",
+    "difficulty": "easy",
+    "explanation": "Stimulates uterine contractions.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_019",
+    "question": "Eclampsia is:",
+    "options": [
+      "Seizure in pregnancy",
+      "Fever",
+      "Cough",
+      "Diabetes"
+    ],
+    "answer": "Seizure in pregnancy",
+    "difficulty": "medium",
+    "explanation": "Complication of preeclampsia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_020",
+    "question": "Preeclampsia triad includes:",
+    "options": [
+      "BP, proteinuria, edema",
+      "Fever, cough, pain",
+      "Sugar, BP, weight",
+      "None"
+    ],
+    "answer": "BP, proteinuria, edema",
+    "difficulty": "medium",
+    "explanation": "Classic signs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_021",
+    "question": "Most important complication of preeclampsia:",
+    "options": [
+      "Eclampsia",
+      "Cough",
+      "Cold",
+      "Hair loss"
+    ],
+    "answer": "Eclampsia",
+    "difficulty": "easy",
+    "explanation": "Seizure condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_022",
+    "question": "Magnesium sulphate is used for:",
+    "options": [
+      "Eclampsia",
+      "Diabetes",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Eclampsia",
+    "difficulty": "medium",
+    "explanation": "Prevents seizures.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_023",
+    "question": "Most common cause of postpartum hemorrhage:",
+    "options": [
+      "Uterine atony",
+      "Infection",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Uterine atony",
+    "difficulty": "medium",
+    "explanation": "Poor uterine contraction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_024",
+    "question": "Normal blood loss in vaginal delivery:",
+    "options": [
+      "500 ml",
+      "1000 ml",
+      "2000 ml",
+      "100 ml"
+    ],
+    "answer": "500 ml",
+    "difficulty": "easy",
+    "explanation": "Physiological limit.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_025",
+    "question": "Normal blood loss in cesarean section:",
+    "options": [
+      "1000 ml",
+      "500 ml",
+      "200 ml",
+      "1500 ml"
+    ],
+    "answer": "1000 ml",
+    "difficulty": "easy",
+    "explanation": "Higher than vaginal birth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_026",
+    "question": "Most common cause of abortion:",
+    "options": [
+      "Chromosomal abnormalities",
+      "Infection only",
+      "Diet",
+      "Exercise"
+    ],
+    "answer": "Chromosomal abnormalities",
+    "difficulty": "medium",
+    "explanation": "Genetic issues.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_027",
+    "question": "Threatened abortion means:",
+    "options": [
+      "Bleeding with viable fetus",
+      "Complete expulsion",
+      "No pregnancy",
+      "Pain only"
+    ],
+    "answer": "Bleeding with viable fetus",
+    "difficulty": "medium",
+    "explanation": "Pregnancy still continuing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_028",
+    "question": "Incomplete abortion means:",
+    "options": [
+      "Part of fetus expelled",
+      "No fetus",
+      "Normal pregnancy",
+      "Twins"
+    ],
+    "answer": "Part of fetus expelled",
+    "difficulty": "medium",
+    "explanation": "Retained products remain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_029",
+    "question": "Complete abortion means:",
+    "options": [
+      "All products expelled",
+      "Bleeding only",
+      "No pregnancy",
+      "Pain only"
+    ],
+    "answer": "All products expelled",
+    "difficulty": "medium",
+    "explanation": "Uterus empty.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_030",
+    "question": "Ectopic pregnancy means:",
+    "options": [
+      "Implantation outside uterus",
+      "Normal pregnancy",
+      "Twin pregnancy",
+      "Abortion"
+    ],
+    "answer": "Implantation outside uterus",
+    "difficulty": "easy",
+    "explanation": "Usually in fallopian tube.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_031",
+    "question": "Most common site of ectopic pregnancy:",
+    "options": [
+      "Fallopian tube",
+      "Uterus",
+      "Ovary",
+      "Cervix"
+    ],
+    "answer": "Fallopian tube",
+    "difficulty": "easy",
+    "explanation": "Tubal pregnancy most common.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_032",
+    "question": "Most common symptom of ectopic pregnancy:",
+    "options": [
+      "Abdominal pain",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Abdominal pain",
+    "difficulty": "easy",
+    "explanation": "Pelvic pain common.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_033",
+    "question": "Placenta previa means:",
+    "options": [
+      "Placenta covering cervix",
+      "Normal placenta",
+      "No placenta",
+      "Twins"
+    ],
+    "answer": "Placenta covering cervix",
+    "difficulty": "medium",
+    "explanation": "Causes bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_034",
+    "question": "Abruptio placentae means:",
+    "options": [
+      "Early separation of placenta",
+      "Normal delivery",
+      "No placenta",
+      "Twins"
+    ],
+    "answer": "Early separation of placenta",
+    "difficulty": "medium",
+    "explanation": "Medical emergency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_035",
+    "question": "Most important sign of placenta previa:",
+    "options": [
+      "Painless bleeding",
+      "Painful bleeding",
+      "Cough",
+      "Fever"
+    ],
+    "answer": "Painless bleeding",
+    "difficulty": "medium",
+    "explanation": "No pain bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_036",
+    "question": "Most important sign of abruption:",
+    "options": [
+      "Painful bleeding",
+      "No bleeding",
+      "Cough",
+      "Fever"
+    ],
+    "answer": "Painful bleeding",
+    "difficulty": "medium",
+    "explanation": "Abdominal pain present.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_037",
+    "question": "Most common contraceptive method:",
+    "options": [
+      "Condom",
+      "Surgery",
+      "Injection",
+      "None"
+    ],
+    "answer": "Condom",
+    "difficulty": "easy",
+    "explanation": "Barrier method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_038",
+    "question": "IUCD stands for:",
+    "options": [
+      "Intrauterine contraceptive device",
+      "Injection",
+      "Implant",
+      "Tablet"
+    ],
+    "answer": "Intrauterine contraceptive device",
+    "difficulty": "easy",
+    "explanation": "Copper-T example.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_039",
+    "question": "Most common IUCD is:",
+    "options": [
+      "Copper-T",
+      "Condom",
+      "Implant",
+      "Injection"
+    ],
+    "answer": "Copper-T",
+    "difficulty": "easy",
+    "explanation": "Widely used device.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_040",
+    "question": "Emergency contraceptive pill is used within:",
+    "options": [
+      "72 hours",
+      "1 week",
+      "1 month",
+      "24 hours only"
+    ],
+    "answer": "72 hours",
+    "difficulty": "medium",
+    "explanation": "After unprotected intercourse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_041",
+    "question": "Most important maternal health indicator:",
+    "options": [
+      "Maternal mortality rate",
+      "Weight",
+      "Height",
+      "BP only"
+    ],
+    "answer": "Maternal mortality rate",
+    "difficulty": "medium",
+    "explanation": "Health status indicator.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_042",
+    "question": "Iron is given in pregnancy to prevent:",
+    "options": [
+      "Anemia",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Anemia",
+    "difficulty": "easy",
+    "explanation": "Hemoglobin support.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_043",
+    "question": "Folic acid prevents:",
+    "options": [
+      "Neural tube defects",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Neural tube defects",
+    "difficulty": "medium",
+    "explanation": "Brain/spinal protection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_044",
+    "question": "Most important antenatal visit schedule:",
+    "options": [
+      "4 visits minimum",
+      "1 visit",
+      "10 visits",
+      "No visits"
+    ],
+    "answer": "4 visits minimum",
+    "difficulty": "easy",
+    "explanation": "WHO recommendation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_045",
+    "question": "First antenatal visit should include:",
+    "options": [
+      "Complete checkup",
+      "Only weight",
+      "Only BP",
+      "Only scan"
+    ],
+    "answer": "Complete checkup",
+    "difficulty": "easy",
+    "explanation": "Baseline assessment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_046",
+    "question": "Normal uterine involution takes:",
+    "options": [
+      "6 weeks",
+      "1 week",
+      "10 weeks",
+      "1 day"
+    ],
+    "answer": "6 weeks",
+    "difficulty": "medium",
+    "explanation": "Postpartum uterus return.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_047",
+    "question": "Lochia is:",
+    "options": [
+      "Postpartum discharge",
+      "Urine",
+      "Blood pressure",
+      "Fever"
+    ],
+    "answer": "Postpartum discharge",
+    "difficulty": "easy",
+    "explanation": "Uterine shedding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_048",
+    "question": "Most dangerous lochia is:",
+    "options": [
+      "Foul smelling",
+      "Clear",
+      "White",
+      "None"
+    ],
+    "answer": "Foul smelling",
+    "difficulty": "medium",
+    "explanation": "Indicates infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_049",
+    "question": "Breastfeeding should start within:",
+    "options": [
+      "1 hour",
+      "24 hours",
+      "3 days",
+      "1 week"
+    ],
+    "answer": "1 hour",
+    "difficulty": "easy",
+    "explanation": "Early initiation recommended.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_050",
+    "question": "Colostrum is:",
+    "options": [
+      "First breast milk",
+      "Water",
+      "Blood",
+      "None"
+    ],
+    "answer": "First breast milk",
+    "difficulty": "easy",
+    "explanation": "Rich in antibodies.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_051",
+    "question": "Most important benefit of breastfeeding:",
+    "options": [
+      "Immunity",
+      "Weight gain",
+      "Sleep",
+      "Hair growth"
+    ],
+    "answer": "Immunity",
+    "difficulty": "easy",
+    "explanation": "Protects newborn.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_052",
+    "question": "Postpartum blues occurs in:",
+    "options": [
+      "Mothers",
+      "Children",
+      "Men",
+      "Elderly"
+    ],
+    "answer": "Mothers",
+    "difficulty": "medium",
+    "explanation": "Emotional changes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_053",
+    "question": "Most common cause of infertility:",
+    "options": [
+      "Ovulation disorder",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Ovulation disorder",
+    "difficulty": "medium",
+    "explanation": "Hormonal imbalance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_054",
+    "question": "HCG hormone is produced by:",
+    "options": [
+      "Placenta",
+      "Kidney",
+      "Liver",
+      "Heart"
+    ],
+    "answer": "Placenta",
+    "difficulty": "easy",
+    "explanation": "Maintains pregnancy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_055",
+    "question": "Most important fetal growth monitoring tool:",
+    "options": [
+      "Ultrasound",
+      "BP",
+      "Pulse",
+      "Temperature"
+    ],
+    "answer": "Ultrasound",
+    "difficulty": "easy",
+    "explanation": "Fetal assessment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_056",
+    "question": "Amniotic fluid surrounds:",
+    "options": [
+      "Fetus",
+      "Mother",
+      "Placenta",
+      "Uterus only"
+    ],
+    "answer": "Fetus",
+    "difficulty": "easy",
+    "explanation": "Protects fetus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_057",
+    "question": "Normal amniotic fluid volume:",
+    "options": [
+      "800–1000 ml",
+      "100 ml",
+      "2000 ml",
+      "50 ml"
+    ],
+    "answer": "800–1000 ml",
+    "difficulty": "medium",
+    "explanation": "Normal range at term.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_058",
+    "question": "Polyhydramnios means:",
+    "options": [
+      "Excess amniotic fluid",
+      "Low fluid",
+      "No fluid",
+      "Blood in fluid"
+    ],
+    "answer": "Excess amniotic fluid",
+    "difficulty": "medium",
+    "explanation": "Increased fluid volume.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_059",
+    "question": "Oligohydramnios means:",
+    "options": [
+      "Low amniotic fluid",
+      "High fluid",
+      "No pregnancy",
+      "Bleeding"
+    ],
+    "answer": "Low amniotic fluid",
+    "difficulty": "medium",
+    "explanation": "Decreased fluid.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_060",
+    "question": "Final goal of obstetric nursing:",
+    "options": [
+      "Healthy mother and baby",
+      "Hospital stay",
+      "Medication use",
+      "Surgery only"
+    ],
+    "answer": "Healthy mother and baby",
+    "difficulty": "easy",
+    "explanation": "Safe pregnancy outcome.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_061",
+    "question": "Most common cause of maternal mortality worldwide is:",
+    "options": [
+      "Hemorrhage",
+      "Cancer",
+      "Asthma",
+      "Diabetes"
+    ],
+    "answer": "Hemorrhage",
+    "difficulty": "medium",
+    "explanation": "Postpartum hemorrhage is leading cause.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_062",
+    "question": "Most common cause of postpartum hemorrhage is:",
+    "options": [
+      "Uterine atony",
+      "Infection",
+      "Placenta previa",
+      "Eclampsia"
+    ],
+    "answer": "Uterine atony",
+    "difficulty": "medium",
+    "explanation": "Poor uterine contraction after delivery.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_063",
+    "question": "Uterotonic drug used to prevent PPH is:",
+    "options": [
+      "Oxytocin",
+      "Adrenaline",
+      "Insulin",
+      "Heparin"
+    ],
+    "answer": "Oxytocin",
+    "difficulty": "easy",
+    "explanation": "Stimulates uterine contraction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_064",
+    "question": "Most important nursing action in PPH:",
+    "options": [
+      "Uterine massage",
+      "Fasting",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Uterine massage",
+    "difficulty": "medium",
+    "explanation": "Helps contract uterus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_065",
+    "question": "Shock in PPH is mainly due to:",
+    "options": [
+      "Blood loss",
+      "Fever",
+      "Pain",
+      "Anxiety"
+    ],
+    "answer": "Blood loss",
+    "difficulty": "easy",
+    "explanation": "Hypovolemic shock.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_066",
+    "question": "Most important sign of hypovolemic shock:",
+    "options": [
+      "Low BP",
+      "High BP",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Low BP",
+    "difficulty": "easy",
+    "explanation": "Reduced blood pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_067",
+    "question": "Best position in shock:",
+    "options": [
+      "Supine with legs elevated",
+      "Sitting",
+      "Standing",
+      "Prone"
+    ],
+    "answer": "Supine with legs elevated",
+    "difficulty": "medium",
+    "explanation": "Improves venous return.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_068",
+    "question": "Most common cause of antenatal bleeding:",
+    "options": [
+      "Placenta previa",
+      "Asthma",
+      "Diabetes",
+      "Fever"
+    ],
+    "answer": "Placenta previa",
+    "difficulty": "medium",
+    "explanation": "Painless bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_069",
+    "question": "Abruptio placenta is characterized by:",
+    "options": [
+      "Painful bleeding",
+      "No bleeding",
+      "Cough",
+      "Fever"
+    ],
+    "answer": "Painful bleeding",
+    "difficulty": "medium",
+    "explanation": "Abdominal pain present.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_070",
+    "question": "Most dangerous complication of abruptio placenta:",
+    "options": [
+      "DIC",
+      "Cough",
+      "Cold",
+      "Rash"
+    ],
+    "answer": "DIC",
+    "difficulty": "hard",
+    "explanation": "Clotting disorder.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_071",
+    "question": "DIC stands for:",
+    "options": [
+      "Disseminated intravascular coagulation",
+      "Diabetes",
+      "Disease infection control",
+      "None"
+    ],
+    "answer": "Disseminated intravascular coagulation",
+    "difficulty": "hard",
+    "explanation": "Severe clotting disorder.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_072",
+    "question": "Most important sign of placenta previa:",
+    "options": [
+      "Painless bleeding",
+      "Painful bleeding",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Painless bleeding",
+    "difficulty": "medium",
+    "explanation": "No abdominal pain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_073",
+    "question": "Ectopic pregnancy rupture causes:",
+    "options": [
+      "Severe abdominal pain",
+      "Hair loss",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Severe abdominal pain",
+    "difficulty": "medium",
+    "explanation": "Emergency condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_074",
+    "question": "Most common sign of ruptured ectopic pregnancy:",
+    "options": [
+      "Shock",
+      "Hair growth",
+      "Weight gain",
+      "Rash"
+    ],
+    "answer": "Shock",
+    "difficulty": "medium",
+    "explanation": "Internal bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_075",
+    "question": "Most important management of ectopic pregnancy:",
+    "options": [
+      "Surgery",
+      "Exercise",
+      "Diet",
+      "Rest only"
+    ],
+    "answer": "Surgery",
+    "difficulty": "medium",
+    "explanation": "Remove ectopic tissue.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_076",
+    "question": "Most common site of implantation in ectopic pregnancy:",
+    "options": [
+      "Fallopian tube",
+      "Uterus",
+      "Ovary",
+      "Cervix"
+    ],
+    "answer": "Fallopian tube",
+    "difficulty": "easy",
+    "explanation": "Tubal pregnancy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_077",
+    "question": "Most common symptom of ectopic pregnancy:",
+    "options": [
+      "Abdominal pain",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Abdominal pain",
+    "difficulty": "easy",
+    "explanation": "Pelvic pain common.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_078",
+    "question": "Gestational diabetes occurs in:",
+    "options": [
+      "Pregnancy",
+      "Children",
+      "Men",
+      "Elderly"
+    ],
+    "answer": "Pregnancy",
+    "difficulty": "easy",
+    "explanation": "Pregnancy induced diabetes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_079",
+    "question": "Most important test for diabetes in pregnancy:",
+    "options": [
+      "OGTT",
+      "BP",
+      "Pulse",
+      "X-ray"
+    ],
+    "answer": "OGTT",
+    "difficulty": "medium",
+    "explanation": "Glucose tolerance test.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_080",
+    "question": "Most common complication of gestational diabetes:",
+    "options": [
+      "Macrosomia",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Macrosomia",
+    "difficulty": "medium",
+    "explanation": "Large baby.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_081",
+    "question": "Normal amniotic fluid color is:",
+    "options": [
+      "Clear",
+      "Green",
+      "Red",
+      "Black"
+    ],
+    "answer": "Clear",
+    "difficulty": "easy",
+    "explanation": "Healthy fluid.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_082",
+    "question": "Meconium-stained liquor indicates:",
+    "options": [
+      "Fetal distress",
+      "Normal condition",
+      "Mother infection",
+      "None"
+    ],
+    "answer": "Fetal distress",
+    "difficulty": "medium",
+    "explanation": "Hypoxia sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_083",
+    "question": "Most important fetal monitoring method:",
+    "options": [
+      "CTG",
+      "BP",
+      "Pulse",
+      "Temp"
+    ],
+    "answer": "CTG",
+    "difficulty": "medium",
+    "explanation": "Cardiotocography.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_084",
+    "question": "Normal uterine contraction interval:",
+    "options": [
+      "2–3 min",
+      "10–15 min",
+      "1 hour",
+      "No pattern"
+    ],
+    "answer": "2–3 min",
+    "difficulty": "medium",
+    "explanation": "Active labour phase.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_085",
+    "question": "Episiotomy is:",
+    "options": [
+      "Surgical cut in perineum",
+      "Injection",
+      "Tablet",
+      "Scan"
+    ],
+    "answer": "Surgical cut in perineum",
+    "difficulty": "easy",
+    "explanation": "Assists delivery.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_086",
+    "question": "Most important care after episiotomy:",
+    "options": [
+      "Hygiene",
+      "Fasting",
+      "Exercise",
+      "No care"
+    ],
+    "answer": "Hygiene",
+    "difficulty": "easy",
+    "explanation": "Prevents infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_087",
+    "question": "Most common postpartum infection:",
+    "options": [
+      "Endometritis",
+      "Cold",
+      "Cough",
+      "Headache"
+    ],
+    "answer": "Endometritis",
+    "difficulty": "medium",
+    "explanation": "Uterine infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_088",
+    "question": "Most important sign of infection:",
+    "options": [
+      "Fever",
+      "Hair growth",
+      "Weight gain",
+      "Sleep"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "explanation": "Body response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_089",
+    "question": "Most important postpartum care:",
+    "options": [
+      "Uterine contraction monitoring",
+      "Exercise",
+      "Diet only",
+      "Rest only"
+    ],
+    "answer": "Uterine contraction monitoring",
+    "difficulty": "medium",
+    "explanation": "Prevents hemorrhage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_090",
+    "question": "Involution means:",
+    "options": [
+      "Uterus returns to normal size",
+      "Pregnancy",
+      "Delivery",
+      "Growth"
+    ],
+    "answer": "Uterus returns to normal size",
+    "difficulty": "easy",
+    "explanation": "Postpartum change.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_091",
+    "question": "Most important postpartum discharge:",
+    "options": [
+      "Lochia",
+      "Urine",
+      "Blood pressure",
+      "Sweat"
+    ],
+    "answer": "Lochia",
+    "difficulty": "easy",
+    "explanation": "Uterine discharge.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_092",
+    "question": "Foul smelling lochia indicates:",
+    "options": [
+      "Infection",
+      "Normal healing",
+      "Pregnancy",
+      "None"
+    ],
+    "answer": "Infection",
+    "difficulty": "medium",
+    "explanation": "Sepsis risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_093",
+    "question": "Most important breastfeeding hormone:",
+    "options": [
+      "Prolactin",
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine"
+    ],
+    "answer": "Prolactin",
+    "difficulty": "medium",
+    "explanation": "Milk production.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_094",
+    "question": "Oxytocin helps in:",
+    "options": [
+      "Milk ejection",
+      "Hair growth",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Milk ejection",
+    "difficulty": "medium",
+    "explanation": "Let-down reflex.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_095",
+    "question": "Most important contraceptive counseling time:",
+    "options": [
+      "Postpartum",
+      "Childhood",
+      "Elderly",
+      "None"
+    ],
+    "answer": "Postpartum",
+    "difficulty": "medium",
+    "explanation": "Birth spacing advice.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_096",
+    "question": "Most common contraceptive method in India:",
+    "options": [
+      "Sterilization",
+      "Pills",
+      "IUCD",
+      "None"
+    ],
+    "answer": "Sterilization",
+    "difficulty": "medium",
+    "explanation": "Permanent method.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_097",
+    "question": "Male sterilization is called:",
+    "options": [
+      "Vasectomy",
+      "Tubectomy",
+      "Hysterectomy",
+      "None"
+    ],
+    "answer": "Vasectomy",
+    "difficulty": "easy",
+    "explanation": "Sperm duct cut.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_098",
+    "question": "Female sterilization is:",
+    "options": [
+      "Tubectomy",
+      "Vasectomy",
+      "IVF",
+      "IUCD"
+    ],
+    "answer": "Tubectomy",
+    "difficulty": "easy",
+    "explanation": "Fallopian tube cut.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_099",
+    "question": "Most important complication of IUCD:",
+    "options": [
+      "Bleeding",
+      "Fever",
+      "Cough",
+      "Pain only"
+    ],
+    "answer": "Bleeding",
+    "difficulty": "medium",
+    "explanation": "Irregular bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_100",
+    "question": "Most important goal of obstetric nursing:",
+    "options": [
+      "Safe mother and baby",
+      "Hospital stay",
+      "Medication use",
+      "Surgery only"
+    ],
+    "answer": "Safe mother and baby",
+    "difficulty": "easy",
+    "explanation": "Healthy outcome.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_101",
+    "question": "Normal hemoglobin in pregnancy is:",
+    "options": [
+      "11 g/dL",
+      "5 g/dL",
+      "15 g/dL",
+      "20 g/dL"
+    ],
+    "answer": "11 g/dL",
+    "difficulty": "medium",
+    "explanation": "Minimum acceptable level.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_102",
+    "question": "Most important supplement in pregnancy:",
+    "options": [
+      "Iron & folic acid",
+      "Calcium only",
+      "Vitamin C",
+      "Protein only"
+    ],
+    "answer": "Iron & folic acid",
+    "difficulty": "easy",
+    "explanation": "Prevents anemia and defects.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_103",
+    "question": "Most important fetal position:",
+    "options": [
+      "Left occipito anterior",
+      "Right hand",
+      "Prone",
+      "Supine"
+    ],
+    "answer": "Left occipito anterior",
+    "difficulty": "hard",
+    "explanation": "Most common delivery position.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_104",
+    "question": "Normal cervical dilation for delivery:",
+    "options": [
+      "10 cm",
+      "2 cm",
+      "5 cm",
+      "15 cm"
+    ],
+    "answer": "10 cm",
+    "difficulty": "medium",
+    "explanation": "Full dilation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_105",
+    "question": "Most important labour pain relief:",
+    "options": [
+      "Epidural",
+      "Antibiotics",
+      "Fever control",
+      "Massage only"
+    ],
+    "answer": "Epidural",
+    "difficulty": "medium",
+    "explanation": "Regional anesthesia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_106",
+    "question": "Most important fetal distress sign:",
+    "options": [
+      "Abnormal FHR",
+      "Hair growth",
+      "Weight gain",
+      "Sleep"
+    ],
+    "answer": "Abnormal FHR",
+    "difficulty": "medium",
+    "explanation": "Heart rate changes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_107",
+    "question": "Meconium aspiration risk occurs in:",
+    "options": [
+      "Fetal distress",
+      "Healthy fetus",
+      "Mother only",
+      "None"
+    ],
+    "answer": "Fetal distress",
+    "difficulty": "medium",
+    "explanation": "Inhalation of meconium.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_108",
+    "question": "Most important neonatal complication:",
+    "options": [
+      "Asphyxia",
+      "Hair growth",
+      "Weight gain",
+      "Cold"
+    ],
+    "answer": "Asphyxia",
+    "difficulty": "medium",
+    "explanation": "Oxygen deprivation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_109",
+    "question": "APGAR score assesses:",
+    "options": [
+      "Newborn condition",
+      "Mother BP",
+      "Weight",
+      "Temperature"
+    ],
+    "answer": "Newborn condition",
+    "difficulty": "medium",
+    "explanation": "Vital assessment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_110",
+    "question": "APGAR is assessed at:",
+    "options": [
+      "1 and 5 minutes",
+      "10 minutes",
+      "1 hour",
+      "24 hours"
+    ],
+    "answer": "1 and 5 minutes",
+    "difficulty": "easy",
+    "explanation": "Standard timing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_111",
+    "question": "Most important newborn care:",
+    "options": [
+      "Thermoregulation",
+      "Exercise",
+      "Diet only",
+      "Sleep only"
+    ],
+    "answer": "Thermoregulation",
+    "difficulty": "medium",
+    "explanation": "Prevent hypothermia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_112",
+    "question": "Kangaroo mother care is used for:",
+    "options": [
+      "Preterm baby",
+      "Adult",
+      "Elderly",
+      "Teen"
+    ],
+    "answer": "Preterm baby",
+    "difficulty": "medium",
+    "explanation": "Skin-to-skin care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_113",
+    "question": "Most important breastfeeding time:",
+    "options": [
+      "Within 1 hour",
+      "After 1 week",
+      "After 1 month",
+      "Anytime"
+    ],
+    "answer": "Within 1 hour",
+    "difficulty": "easy",
+    "explanation": "Early initiation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_114",
+    "question": "Colostrum is:",
+    "options": [
+      "First milk",
+      "Water",
+      "Blood",
+      "None"
+    ],
+    "answer": "First milk",
+    "difficulty": "easy",
+    "explanation": "Antibody-rich milk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_115",
+    "question": "Most important benefit of breastfeeding:",
+    "options": [
+      "Immunity",
+      "Hair growth",
+      "Sleep",
+      "Weight gain"
+    ],
+    "answer": "Immunity",
+    "difficulty": "easy",
+    "explanation": "Protects newborn.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_116",
+    "question": "Most common postpartum mood disorder:",
+    "options": [
+      "Postpartum blues",
+      "Schizophrenia",
+      "Cancer",
+      "Diabetes"
+    ],
+    "answer": "Postpartum blues",
+    "difficulty": "medium",
+    "explanation": "Temporary mood changes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_117",
+    "question": "Most important cause of infertility:",
+    "options": [
+      "Ovulation failure",
+      "Cold",
+      "Cough",
+      "Fever"
+    ],
+    "answer": "Ovulation failure",
+    "difficulty": "medium",
+    "explanation": "Hormonal issue.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_118",
+    "question": "HCG hormone confirms:",
+    "options": [
+      "Pregnancy",
+      "Infection",
+      "Cancer",
+      "Fever"
+    ],
+    "answer": "Pregnancy",
+    "difficulty": "easy",
+    "explanation": "Detected in urine/blood.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_119",
+    "question": "Most important antenatal care component:",
+    "options": [
+      "Regular checkups",
+      "Exercise only",
+      "Sleep only",
+      "Diet only"
+    ],
+    "answer": "Regular checkups",
+    "difficulty": "easy",
+    "explanation": "Monitoring pregnancy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_120",
+    "question": "Final goal of obstetric nursing is:",
+    "options": [
+      "Healthy mother and baby",
+      "Hospital stay",
+      "Medication only",
+      "Surgery"
+    ],
+    "answer": "Healthy mother and baby",
+    "difficulty": "easy",
+    "explanation": "Safe delivery outcome.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_121",
+    "question": "Most important cause of infertility in females is:",
+    "options": [
+      "Ovulatory dysfunction",
+      "Cold",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Ovulatory dysfunction",
+    "difficulty": "medium",
+    "explanation": "Hormonal imbalance leads to failure of ovulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_122",
+    "question": "Polycystic ovarian syndrome (PCOS) is mainly associated with:",
+    "options": [
+      "Anovulation",
+      "Fever",
+      "Pain",
+      "Cough"
+    ],
+    "answer": "Anovulation",
+    "difficulty": "medium",
+    "explanation": "No egg release due to hormonal imbalance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_123",
+    "question": "Most common symptom of PCOS:",
+    "options": [
+      "Irregular periods",
+      "Cough",
+      "Fever",
+      "Hair loss only"
+    ],
+    "answer": "Irregular periods",
+    "difficulty": "easy",
+    "explanation": "Menstrual cycle disturbance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_124",
+    "question": "Hysterectomy means:",
+    "options": [
+      "Removal of uterus",
+      "Removal of ovaries",
+      "Removal of tube",
+      "Appendix removal"
+    ],
+    "answer": "Removal of uterus",
+    "difficulty": "easy",
+    "explanation": "Surgical removal of uterus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_125",
+    "question": "Most common indication for hysterectomy:",
+    "options": [
+      "Fibroids",
+      "Cold",
+      "Cough",
+      "Fever"
+    ],
+    "answer": "Fibroids",
+    "difficulty": "medium",
+    "explanation": "Benign uterine tumors.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_126",
+    "question": "Menopause means:",
+    "options": [
+      "Permanent cessation of menstruation",
+      "Pregnancy",
+      "Ovulation",
+      "Bleeding"
+    ],
+    "answer": "Permanent cessation of menstruation",
+    "difficulty": "easy",
+    "explanation": "End of reproductive phase.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_127",
+    "question": "Average age of menopause is:",
+    "options": [
+      "45–55 years",
+      "20 years",
+      "70 years",
+      "10 years"
+    ],
+    "answer": "45–55 years",
+    "difficulty": "easy",
+    "explanation": "Natural hormonal decline.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_128",
+    "question": "Most common symptom of menopause:",
+    "options": [
+      "Hot flashes",
+      "Cough",
+      "Fever",
+      "Headache only"
+    ],
+    "answer": "Hot flashes",
+    "difficulty": "medium",
+    "explanation": "Vasomotor symptoms.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_129",
+    "question": "Postmenopausal bleeding is:",
+    "options": [
+      "Abnormal",
+      "Normal",
+      "Pregnancy sign",
+      "None"
+    ],
+    "answer": "Abnormal",
+    "difficulty": "medium",
+    "explanation": "Needs evaluation for cancer.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_130",
+    "question": "Most important cause of cervical cancer:",
+    "options": [
+      "HPV infection",
+      "Cold",
+      "Fever",
+      "Diet"
+    ],
+    "answer": "HPV infection",
+    "difficulty": "medium",
+    "explanation": "Human papilloma virus.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_131",
+    "question": "Pap smear is used for:",
+    "options": [
+      "Cervical cancer screening",
+      "Pregnancy test",
+      "Blood test",
+      "Fever"
+    ],
+    "answer": "Cervical cancer screening",
+    "difficulty": "easy",
+    "explanation": "Detects early cancer changes.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_132",
+    "question": "Most common gynecological cancer:",
+    "options": [
+      "Cervical cancer",
+      "Lung cancer",
+      "Brain tumor",
+      "Heart cancer"
+    ],
+    "answer": "Cervical cancer",
+    "difficulty": "medium",
+    "explanation": "Very common in India.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_133",
+    "question": "HPV vaccine is given to prevent:",
+    "options": [
+      "Cervical cancer",
+      "Diabetes",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Cervical cancer",
+    "difficulty": "easy",
+    "explanation": "Prevents HPV infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_134",
+    "question": "Most common symptom of cervical cancer:",
+    "options": [
+      "Vaginal bleeding",
+      "Cough",
+      "Fever",
+      "Headache"
+    ],
+    "answer": "Vaginal bleeding",
+    "difficulty": "medium",
+    "explanation": "Especially post-coital bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_135",
+    "question": "Leukorrhea means:",
+    "options": [
+      "White vaginal discharge",
+      "Bleeding",
+      "Pain",
+      "Fever"
+    ],
+    "answer": "White vaginal discharge",
+    "difficulty": "easy",
+    "explanation": "Normal or infection sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_136",
+    "question": "Most common cause of leukorrhea:",
+    "options": [
+      "Infection",
+      "Pregnancy",
+      "Exercise",
+      "Diet"
+    ],
+    "answer": "Infection",
+    "difficulty": "medium",
+    "explanation": "Vaginal infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_137",
+    "question": "Most common STI in females:",
+    "options": [
+      "Chlamydia",
+      "Malaria",
+      "TB",
+      "Cold"
+    ],
+    "answer": "Chlamydia",
+    "difficulty": "medium",
+    "explanation": "Sexually transmitted infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_138",
+    "question": "Most dangerous complication of untreated STI:",
+    "options": [
+      "Infertility",
+      "Hair growth",
+      "Weight gain",
+      "Sleep"
+    ],
+    "answer": "Infertility",
+    "difficulty": "medium",
+    "explanation": "Tubal damage occurs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_139",
+    "question": "PID stands for:",
+    "options": [
+      "Pelvic inflammatory disease",
+      "Pregnancy induced diabetes",
+      "Pain infection disease",
+      "None"
+    ],
+    "answer": "Pelvic inflammatory disease",
+    "difficulty": "easy",
+    "explanation": "Infection of reproductive organs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_140",
+    "question": "Most common cause of PID:",
+    "options": [
+      "STI infection",
+      "Cold",
+      "Fever",
+      "Diet"
+    ],
+    "answer": "STI infection",
+    "difficulty": "medium",
+    "explanation": "Ascending infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_141",
+    "question": "Most important symptom of PID:",
+    "options": [
+      "Lower abdominal pain",
+      "Cough",
+      "Fever only",
+      "Hair loss"
+    ],
+    "answer": "Lower abdominal pain",
+    "difficulty": "easy",
+    "explanation": "Pelvic inflammation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_142",
+    "question": "Most important nursing care in PID:",
+    "options": [
+      "Antibiotics",
+      "Exercise",
+      "Diet only",
+      "Sleep"
+    ],
+    "answer": "Antibiotics",
+    "difficulty": "easy",
+    "explanation": "Treat infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_143",
+    "question": "Dysmenorrhea means:",
+    "options": [
+      "Painful menstruation",
+      "No menstruation",
+      "Pregnancy",
+      "Bleeding disorder"
+    ],
+    "answer": "Painful menstruation",
+    "difficulty": "easy",
+    "explanation": "Menstrual cramps.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_144",
+    "question": "Amenorrhea means:",
+    "options": [
+      "Absence of menstruation",
+      "Painful menstruation",
+      "Heavy bleeding",
+      "Pregnancy"
+    ],
+    "answer": "Absence of menstruation",
+    "difficulty": "easy",
+    "explanation": "No periods.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_145",
+    "question": "Menorrhagia means:",
+    "options": [
+      "Heavy menstrual bleeding",
+      "No bleeding",
+      "Pregnancy",
+      "Pain"
+    ],
+    "answer": "Heavy menstrual bleeding",
+    "difficulty": "medium",
+    "explanation": "Excessive flow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_146",
+    "question": "Oligomenorrhea means:",
+    "options": [
+      "Infrequent periods",
+      "Heavy bleeding",
+      "Pain",
+      "Pregnancy"
+    ],
+    "answer": "Infrequent periods",
+    "difficulty": "medium",
+    "explanation": "Delayed cycles.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_147",
+    "question": "Most common cause of amenorrhea:",
+    "options": [
+      "Pregnancy",
+      "Cold",
+      "Fever",
+      "Diet"
+    ],
+    "answer": "Pregnancy",
+    "difficulty": "easy",
+    "explanation": "First rule out pregnancy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_148",
+    "question": "Most important gynecological emergency:",
+    "options": [
+      "Ruptured ectopic pregnancy",
+      "Cold",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Ruptured ectopic pregnancy",
+    "difficulty": "hard",
+    "explanation": "Life-threatening bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_149",
+    "question": "Most important sign of ovarian torsion:",
+    "options": [
+      "Severe abdominal pain",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Severe abdominal pain",
+    "difficulty": "hard",
+    "explanation": "Twisting of ovary.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_150",
+    "question": "Most important treatment of ovarian torsion:",
+    "options": [
+      "Surgery",
+      "Antibiotics",
+      "Rest",
+      "Diet"
+    ],
+    "answer": "Surgery",
+    "difficulty": "medium",
+    "explanation": "Detorsion required.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_151",
+    "question": "Most important cause of infertility in males:",
+    "options": [
+      "Low sperm count",
+      "Cold",
+      "Fever",
+      "Diet"
+    ],
+    "answer": "Low sperm count",
+    "difficulty": "medium",
+    "explanation": "Oligospermia.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_152",
+    "question": "Semen analysis is used to check:",
+    "options": [
+      "Male fertility",
+      "Pregnancy",
+      "Blood pressure",
+      "Sugar"
+    ],
+    "answer": "Male fertility",
+    "difficulty": "easy",
+    "explanation": "Sperm count and quality.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_153",
+    "question": "IVF stands for:",
+    "options": [
+      "In vitro fertilization",
+      "Internal vaginal fluid",
+      "None",
+      "Injection therapy"
+    ],
+    "answer": "In vitro fertilization",
+    "difficulty": "easy",
+    "explanation": "Test tube baby technique.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_154",
+    "question": "Most important step in IVF:",
+    "options": [
+      "Egg fertilization outside body",
+      "Exercise",
+      "Diet",
+      "Rest"
+    ],
+    "answer": "Egg fertilization outside body",
+    "difficulty": "medium",
+    "explanation": "Lab fertilization.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_155",
+    "question": "Surrogacy means:",
+    "options": [
+      "Another woman carries baby",
+      "Normal pregnancy",
+      "Surgery",
+      "Medicine"
+    ],
+    "answer": "Another woman carries baby",
+    "difficulty": "easy",
+    "explanation": "Gestational carrier.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_156",
+    "question": "Most important ethical issue in surrogacy:",
+    "options": [
+      "Legal agreement",
+      "Fever",
+      "Cough",
+      "Diet"
+    ],
+    "answer": "Legal agreement",
+    "difficulty": "medium",
+    "explanation": "Contracts required.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_157",
+    "question": "Most important prenatal test:",
+    "options": [
+      "Ultrasound",
+      "X-ray",
+      "CT scan",
+      "MRI only"
+    ],
+    "answer": "Ultrasound",
+    "difficulty": "easy",
+    "explanation": "Fetal assessment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_158",
+    "question": "NT scan is done for:",
+    "options": [
+      "Down syndrome screening",
+      "Fever",
+      "Cough",
+      "Pain"
+    ],
+    "answer": "Down syndrome screening",
+    "difficulty": "medium",
+    "explanation": "Chromosomal abnormality.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_159",
+    "question": "Amniocentesis is used for:",
+    "options": [
+      "Genetic testing",
+      "BP check",
+      "Fever",
+      "Sugar"
+    ],
+    "answer": "Genetic testing",
+    "difficulty": "medium",
+    "explanation": "Fetal DNA test.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_160",
+    "question": "Most important risk of amniocentesis:",
+    "options": [
+      "Miscarriage",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Miscarriage",
+    "difficulty": "medium",
+    "explanation": "Invasive procedure risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_161",
+    "question": "Most important fetal presentation:",
+    "options": [
+      "Vertex",
+      "Breech",
+      "Transverse",
+      "Oblique"
+    ],
+    "answer": "Vertex",
+    "difficulty": "easy",
+    "explanation": "Head first presentation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_162",
+    "question": "Breech presentation means:",
+    "options": [
+      "Buttocks first",
+      "Head first",
+      "Hand first",
+      "None"
+    ],
+    "answer": "Buttocks first",
+    "difficulty": "medium",
+    "explanation": "Abnormal presentation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_163",
+    "question": "Most important complication of breech delivery:",
+    "options": [
+      "Birth asphyxia",
+      "Cough",
+      "Fever",
+      "Rash"
+    ],
+    "answer": "Birth asphyxia",
+    "difficulty": "medium",
+    "explanation": "Oxygen deprivation risk.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_164",
+    "question": "Cesarean section is:",
+    "options": [
+      "Surgical delivery",
+      "Normal delivery",
+      "Injection",
+      "Tablet"
+    ],
+    "answer": "Surgical delivery",
+    "difficulty": "easy",
+    "explanation": "Abdominal operation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_165",
+    "question": "Most common indication of C-section:",
+    "options": [
+      "Fetal distress",
+      "Cold",
+      "Cough",
+      "Fever"
+    ],
+    "answer": "Fetal distress",
+    "difficulty": "medium",
+    "explanation": "Emergency delivery.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_166",
+    "question": "Normal recovery time after C-section:",
+    "options": [
+      "6 weeks",
+      "1 day",
+      "1 month",
+      "1 year"
+    ],
+    "answer": "6 weeks",
+    "difficulty": "medium",
+    "explanation": "Post-surgical healing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_167",
+    "question": "Most important postpartum complication:",
+    "options": [
+      "PPH",
+      "Cold",
+      "Cough",
+      "Fever"
+    ],
+    "answer": "PPH",
+    "difficulty": "easy",
+    "explanation": "Major cause of death.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_168",
+    "question": "Most important sign of puerperal sepsis:",
+    "options": [
+      "Fever",
+      "Hair growth",
+      "Weight gain",
+      "Sleep"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "explanation": "Postpartum infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_169",
+    "question": "Most important preventive measure in puerperal sepsis:",
+    "options": [
+      "Asepsis",
+      "Diet",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Asepsis",
+    "difficulty": "medium",
+    "explanation": "Infection control.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_170",
+    "question": "Most important newborn reflex:",
+    "options": [
+      "Sucking reflex",
+      "Knee reflex",
+      "Cough reflex",
+      "Blink only"
+    ],
+    "answer": "Sucking reflex",
+    "difficulty": "easy",
+    "explanation": "Feeding reflex.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_171",
+    "question": "Most important neonatal emergency:",
+    "options": [
+      "Asphyxia",
+      "Cold",
+      "Cough",
+      "Rash"
+    ],
+    "answer": "Asphyxia",
+    "difficulty": "medium",
+    "explanation": "Oxygen deprivation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_172",
+    "question": "Most important neonatal infection prevention:",
+    "options": [
+      "Hygiene",
+      "Diet",
+      "Sleep",
+      "Exercise"
+    ],
+    "answer": "Hygiene",
+    "difficulty": "easy",
+    "explanation": "Prevents sepsis.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_173",
+    "question": "Most important maternal education:",
+    "options": [
+      "Antenatal care",
+      "Diet only",
+      "Sleep only",
+      "Exercise only"
+    ],
+    "answer": "Antenatal care",
+    "difficulty": "easy",
+    "explanation": "Regular monitoring.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_174",
+    "question": "Most important danger sign in pregnancy:",
+    "options": [
+      "Bleeding",
+      "Hair growth",
+      "Weight gain",
+      "Sleep"
+    ],
+    "answer": "Bleeding",
+    "difficulty": "easy",
+    "explanation": "Emergency sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_175",
+    "question": "Most important cause of stillbirth:",
+    "options": [
+      "Fetal distress",
+      "Cold",
+      "Cough",
+      "Fever"
+    ],
+    "answer": "Fetal distress",
+    "difficulty": "medium",
+    "explanation": "Oxygen deprivation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_176",
+    "question": "Stillbirth means:",
+    "options": [
+      "Baby born dead",
+      "Live birth",
+      "Pregnancy",
+      "Abortion"
+    ],
+    "answer": "Baby born dead",
+    "difficulty": "easy",
+    "explanation": "Fetal death before birth.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_177",
+    "question": "Most important fetal assessment tool:",
+    "options": [
+      "Ultrasound",
+      "BP",
+      "Pulse",
+      "Temp"
+    ],
+    "answer": "Ultrasound",
+    "difficulty": "easy",
+    "explanation": "Fetal imaging.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_178",
+    "question": "Most important pregnancy hormone:",
+    "options": [
+      "hCG",
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine"
+    ],
+    "answer": "hCG",
+    "difficulty": "easy",
+    "explanation": "Maintains pregnancy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_179",
+    "question": "Most important outcome of safe motherhood:",
+    "options": [
+      "Healthy mother & baby",
+      "Hospital stay",
+      "Medication use",
+      "Surgery"
+    ],
+    "answer": "Healthy mother & baby",
+    "difficulty": "easy",
+    "explanation": "Final goal of care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  },
+  {
+    "id": "OBG_180",
+    "question": "Final objective of obstetric nursing is:",
+    "options": [
+      "Safe delivery",
+      "Disease treatment",
+      "Hospitalization",
+      "Medication only"
+    ],
+    "answer": "Safe delivery",
+    "difficulty": "easy",
+    "explanation": "Healthy mother and newborn outcome.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "OBSTETRICS_GYNAECOLOGY"
+  }
+]

@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "VS_001",
+    "question": "Normal oral temperature in adults is:",
+    "options": [
+      "35.5°C",
+      "36.5°C",
+      "37°C",
+      "38.5°C"
+    ],
+    "answer": "37°C",
+    "difficulty": "easy",
+    "explanation": "Normal oral temperature is approximately 37°C.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_002",
+    "question": "Normal range of body temperature in adults is:",
+    "options": [
+      "34–35°C",
+      "36–37.5°C",
+      "37–38°C",
+      "38–40°C"
+    ],
+    "answer": "36–37.5°C",
+    "difficulty": "easy",
+    "explanation": "Normal body temperature ranges from 36–37.5°C.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_003",
+    "question": "Most accurate site for measuring core body temperature is:",
+    "options": [
+      "Axillary",
+      "Oral",
+      "Rectal",
+      "Forehead"
+    ],
+    "answer": "Rectal",
+    "difficulty": "medium",
+    "explanation": "Rectal temperature best reflects core body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_004",
+    "question": "Pulse is produced by:",
+    "options": [
+      "Venous flow",
+      "Arterial expansion",
+      "Respiration",
+      "Muscle contraction"
+    ],
+    "answer": "Arterial expansion",
+    "difficulty": "easy",
+    "explanation": "Pulse is due to expansion of arterial walls with each heartbeat.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_005",
+    "question": "Normal adult pulse rate is:",
+    "options": [
+      "40–60/min",
+      "60–100/min",
+      "100–120/min",
+      "120–140/min"
+    ],
+    "answer": "60–100/min",
+    "difficulty": "easy",
+    "explanation": "Normal pulse rate is 60–100 beats per minute.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_006",
+    "question": "Pulse site commonly used in emergency situations is:",
+    "options": [
+      "Radial",
+      "Carotid",
+      "Femoral",
+      "Popliteal"
+    ],
+    "answer": "Carotid",
+    "difficulty": "easy",
+    "explanation": "Carotid pulse is used in emergencies for quick assessment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_007",
+    "question": "Normal respiratory rate in adults is:",
+    "options": [
+      "8–10/min",
+      "12–20/min",
+      "20–30/min",
+      "30–40/min"
+    ],
+    "answer": "12–20/min",
+    "difficulty": "easy",
+    "explanation": "Normal adult respiration rate is 12–20/min.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_008",
+    "question": "Normal blood pressure in adults is:",
+    "options": [
+      "90/60 mmHg",
+      "120/80 mmHg",
+      "140/90 mmHg",
+      "160/100 mmHg"
+    ],
+    "answer": "120/80 mmHg",
+    "difficulty": "easy",
+    "explanation": "Normal BP is approximately 120/80 mmHg.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_009",
+    "question": "Which condition can increase body temperature?",
+    "options": [
+      "Sleep",
+      "Infection",
+      "Cold environment",
+      "Rest"
+    ],
+    "answer": "Infection",
+    "difficulty": "medium",
+    "explanation": "Infection increases metabolic rate causing fever.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_010",
+    "question": "Best position for blood pressure measurement is:",
+    "options": [
+      "Standing",
+      "Sitting or supine",
+      "Prone",
+      "Kneeling"
+    ],
+    "answer": "Sitting or supine",
+    "difficulty": "easy",
+    "explanation": "Arm should be at heart level during measurement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_011",
+    "question": "Pulse deficit refers to:",
+    "options": [
+      "Weak pulse",
+      "Difference between apical and radial pulse",
+      "Slow pulse",
+      "Absent pulse"
+    ],
+    "answer": "Difference between apical and radial pulse",
+    "difficulty": "medium",
+    "explanation": "Difference between apical and radial pulse rates.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_012",
+    "question": "Tachycardia means:",
+    "options": [
+      "Slow pulse",
+      "Fast pulse",
+      "Irregular pulse",
+      "Absent pulse"
+    ],
+    "answer": "Fast pulse",
+    "difficulty": "easy",
+    "explanation": "Heart rate above 100/min.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_013",
+    "question": "Bradycardia means:",
+    "options": [
+      "Fast pulse",
+      "Slow pulse",
+      "Normal pulse",
+      "Irregular pulse"
+    ],
+    "answer": "Slow pulse",
+    "difficulty": "easy",
+    "explanation": "Heart rate below 60/min.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_014",
+    "question": "Bradypnea means:",
+    "options": [
+      "Fast breathing",
+      "Slow breathing",
+      "No breathing",
+      "Deep breathing"
+    ],
+    "answer": "Slow breathing",
+    "difficulty": "medium",
+    "explanation": "Abnormally slow respiration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_015",
+    "question": "Apnea means:",
+    "options": [
+      "Fast breathing",
+      "No breathing",
+      "Slow breathing",
+      "Deep breathing"
+    ],
+    "answer": "No breathing",
+    "difficulty": "easy",
+    "explanation": "Temporary cessation of breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_016",
+    "question": "Hypertension means:",
+    "options": [
+      "Low BP",
+      "High BP",
+      "Normal BP",
+      "No BP"
+    ],
+    "answer": "High BP",
+    "difficulty": "easy",
+    "explanation": "Elevated blood pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_017",
+    "question": "Hypotension means:",
+    "options": [
+      "High BP",
+      "Low BP",
+      "Normal BP",
+      "Irregular pulse"
+    ],
+    "answer": "Low BP",
+    "difficulty": "easy",
+    "explanation": "Low blood pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_018",
+    "question": "Pulse is measured in:",
+    "options": [
+      "mmHg",
+      "Beats/min",
+      "Breaths/min",
+      "%"
+    ],
+    "answer": "Beats/min",
+    "difficulty": "easy",
+    "explanation": "Pulse is measured in beats per minute.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_019",
+    "question": "Respiration includes:",
+    "options": [
+      "Inspiration only",
+      "Expiration only",
+      "Both inspiration and expiration",
+      "None"
+    ],
+    "answer": "Both inspiration and expiration",
+    "difficulty": "easy",
+    "explanation": "Respiration includes both phases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_020",
+    "question": "Pulse is best felt in:",
+    "options": [
+      "Veins",
+      "Arteries",
+      "Capillaries",
+      "Lymphatics"
+    ],
+    "answer": "Arteries",
+    "difficulty": "easy",
+    "explanation": "Pulse is arterial expansion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_021",
+    "question": "Pulse rate above 100/min is called:",
+    "options": [
+      "Bradycardia",
+      "Tachycardia",
+      "Apnea",
+      "Hypotension"
+    ],
+    "answer": "Tachycardia",
+    "difficulty": "easy",
+    "explanation": "Tachycardia means increased heart rate above 100/min.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_022",
+    "question": "Pulse rate below 60/min is called:",
+    "options": [
+      "Tachycardia",
+      "Bradycardia",
+      "Bradypnea",
+      "Hypertension"
+    ],
+    "answer": "Bradycardia",
+    "difficulty": "easy",
+    "explanation": "Bradycardia means slow heart rate below 60/min.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_023",
+    "question": "Which pulse is best for infants?",
+    "options": [
+      "Radial",
+      "Carotid",
+      "Apical",
+      "Femoral"
+    ],
+    "answer": "Apical",
+    "difficulty": "medium",
+    "explanation": "Apical pulse is most accurate in infants.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_024",
+    "question": "Apical pulse is located at:",
+    "options": [
+      "Wrist",
+      "Chest apex",
+      "Neck",
+      "Groin"
+    ],
+    "answer": "Chest apex",
+    "difficulty": "easy",
+    "explanation": "Apical pulse is heard at heart apex.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_025",
+    "question": "Irregular breathing with periods of apnea is:",
+    "options": [
+      "Kussmaul",
+      "Cheyne-Stokes",
+      "Biot’s",
+      "Dyspnea"
+    ],
+    "answer": "Cheyne-Stokes",
+    "difficulty": "hard",
+    "explanation": "Cheyne-Stokes shows cyclic breathing with apnea periods.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_026",
+    "question": "Pulse rhythm in normal person is:",
+    "options": [
+      "Irregular",
+      "Regular",
+      "Absent",
+      "Weak"
+    ],
+    "answer": "Regular",
+    "difficulty": "easy",
+    "explanation": "Normal pulse rhythm is regular.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_027",
+    "question": "Which cuff size causes falsely high BP?",
+    "options": [
+      "Large cuff",
+      "Small cuff",
+      "Correct cuff",
+      "None"
+    ],
+    "answer": "Small cuff",
+    "difficulty": "medium",
+    "explanation": "Small cuff gives falsely high BP readings.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_028",
+    "question": "Hypothermia means:",
+    "options": [
+      "High temperature",
+      "Low temperature",
+      "Normal temperature",
+      "Fever"
+    ],
+    "answer": "Low temperature",
+    "difficulty": "easy",
+    "explanation": "Body temperature below normal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_029",
+    "question": "Hyperthermia means:",
+    "options": [
+      "Low temperature",
+      "High temperature",
+      "Normal temperature",
+      "Cold body"
+    ],
+    "answer": "High temperature",
+    "difficulty": "easy",
+    "explanation": "Body temperature above normal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_030",
+    "question": "Pulse oximeter measures:",
+    "options": [
+      "BP",
+      "Pulse",
+      "SpO₂",
+      "Temperature"
+    ],
+    "answer": "SpO₂",
+    "difficulty": "easy",
+    "explanation": "Measures oxygen saturation in blood.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_031",
+    "question": "Normal oxygen saturation is:",
+    "options": [
+      "80–85%",
+      "85–90%",
+      "95–100%",
+      "100–110%"
+    ],
+    "answer": "95–100%",
+    "difficulty": "easy",
+    "explanation": "Normal SpO₂ is 95–100%.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_032",
+    "question": "Respiratory center is located in:",
+    "options": [
+      "Heart",
+      "Brain stem",
+      "Liver",
+      "Kidney"
+    ],
+    "answer": "Brain stem",
+    "difficulty": "medium",
+    "explanation": "Respiration is controlled by medulla in brain stem.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_033",
+    "question": "Pulse volume refers to:",
+    "options": [
+      "Rate",
+      "Strength",
+      "Rhythm",
+      "Interval"
+    ],
+    "answer": "Strength",
+    "difficulty": "medium",
+    "explanation": "Pulse volume is strength of pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_034",
+    "question": "Which artery is NOT used for BP measurement?",
+    "options": [
+      "Brachial",
+      "Radial",
+      "Femoral",
+      "Carotid"
+    ],
+    "answer": "Carotid",
+    "difficulty": "hard",
+    "explanation": "Carotid artery is not used for BP measurement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_035",
+    "question": "Normal temperature range in adults is:",
+    "options": [
+      "34–35°C",
+      "36–37.5°C",
+      "37–38°C",
+      "38–40°C"
+    ],
+    "answer": "36–37.5°C",
+    "difficulty": "easy",
+    "explanation": "Normal range is 36–37.5°C.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_036",
+    "question": "Bradypnea is commonly seen in:",
+    "options": [
+      "Fever",
+      "Head injury",
+      "Asthma",
+      "Anxiety"
+    ],
+    "answer": "Head injury",
+    "difficulty": "hard",
+    "explanation": "Brain injury can depress respiratory center.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_037",
+    "question": "Pulse should be counted for:",
+    "options": [
+      "15 sec",
+      "30 sec",
+      "60 sec",
+      "120 sec"
+    ],
+    "answer": "60 sec",
+    "difficulty": "medium",
+    "explanation": "Full minute gives accurate reading.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_038",
+    "question": "First step in BP measurement is:",
+    "options": [
+      "Inflate cuff",
+      "Select cuff size",
+      "Place stethoscope",
+      "Record reading"
+    ],
+    "answer": "Select cuff size",
+    "difficulty": "easy",
+    "explanation": "Correct cuff selection is essential first step.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_039",
+    "question": "Pulse is measured in:",
+    "options": [
+      "mmHg",
+      "Beats/min",
+      "Breaths/min",
+      "%"
+    ],
+    "answer": "Beats/min",
+    "difficulty": "easy",
+    "explanation": "Pulse is measured in beats per minute.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_040",
+    "question": "Respiration includes:",
+    "options": [
+      "Inspiration only",
+      "Expiration only",
+      "Both",
+      "None"
+    ],
+    "answer": "Both",
+    "difficulty": "easy",
+    "explanation": "Respiration includes inspiration and expiration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_041",
+    "question": "Apnea means:",
+    "options": [
+      "Fast breathing",
+      "No breathing",
+      "Slow breathing",
+      "Deep breathing"
+    ],
+    "answer": "No breathing",
+    "difficulty": "easy",
+    "explanation": "Apnea is temporary cessation of breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_042",
+    "question": "Normal pulse rhythm in a healthy adult is:",
+    "options": [
+      "Irregular",
+      "Regular",
+      "Absent",
+      "Weak"
+    ],
+    "answer": "Regular",
+    "difficulty": "easy",
+    "explanation": "Normal pulse rhythm is regular and consistent.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_043",
+    "question": "Pulse strength is also called:",
+    "options": [
+      "Rate",
+      "Volume",
+      "Rhythm",
+      "Interval"
+    ],
+    "answer": "Volume",
+    "difficulty": "medium",
+    "explanation": "Pulse volume refers to strength of pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_044",
+    "question": "Which factor can falsely increase blood pressure reading?",
+    "options": [
+      "Correct cuff size",
+      "Small cuff size",
+      "Proper position",
+      "Rest before measurement"
+    ],
+    "answer": "Small cuff size",
+    "difficulty": "medium",
+    "explanation": "Small cuff overestimates BP values.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_045",
+    "question": "Best artery for measuring pulse in adults is:",
+    "options": [
+      "Carotid",
+      "Radial",
+      "Femoral",
+      "Brachial"
+    ],
+    "answer": "Radial",
+    "difficulty": "easy",
+    "explanation": "Radial pulse is most commonly used site.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_046",
+    "question": "Which temperature site is most invasive?",
+    "options": [
+      "Axillary",
+      "Oral",
+      "Rectal",
+      "Tympanic"
+    ],
+    "answer": "Rectal",
+    "difficulty": "medium",
+    "explanation": "Rectal measurement is most invasive but accurate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_047",
+    "question": "Cheyne-Stokes respiration is characterized by:",
+    "options": [
+      "Constant breathing",
+      "Irregular breathing with apnea",
+      "Fast breathing only",
+      "No breathing"
+    ],
+    "answer": "Irregular breathing with apnea",
+    "difficulty": "hard",
+    "explanation": "Cyclic breathing pattern with apnea periods.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_048",
+    "question": "Which is NOT a vital sign?",
+    "options": [
+      "Pulse",
+      "Respiration",
+      "Height",
+      "Blood pressure"
+    ],
+    "answer": "Height",
+    "difficulty": "easy",
+    "explanation": "Height is not a vital sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_049",
+    "question": "Normal adult respiratory pattern is:",
+    "options": [
+      "Irregular",
+      "Regular and effortless",
+      "Labored",
+      "Apneic"
+    ],
+    "answer": "Regular and effortless",
+    "difficulty": "easy",
+    "explanation": "Normal breathing is smooth and regular.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_050",
+    "question": "Pulse is measured for how long in irregular rhythm?",
+    "options": [
+      "15 seconds",
+      "30 seconds",
+      "60 seconds",
+      "120 seconds"
+    ],
+    "answer": "60 seconds",
+    "difficulty": "medium",
+    "explanation": "Full minute is required for accuracy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_051",
+    "question": "Normal SpO₂ level is:",
+    "options": [
+      "70–80%",
+      "80–90%",
+      "95–100%",
+      "100–110%"
+    ],
+    "answer": "95–100%",
+    "difficulty": "easy",
+    "explanation": "Normal oxygen saturation is 95–100%.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_052",
+    "question": "Pulse is best assessed in:",
+    "options": [
+      "Veins",
+      "Arteries",
+      "Capillaries",
+      "Lymph nodes"
+    ],
+    "answer": "Arteries",
+    "difficulty": "easy",
+    "explanation": "Pulse is arterial in origin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_053",
+    "question": "Normal adult blood pressure is:",
+    "options": [
+      "100/60 mmHg",
+      "120/80 mmHg",
+      "140/90 mmHg",
+      "160/100 mmHg"
+    ],
+    "answer": "120/80 mmHg",
+    "difficulty": "easy",
+    "explanation": "Normal BP is around 120/80 mmHg.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_054",
+    "question": "Pulse becomes weak in:",
+    "options": [
+      "Fever",
+      "Shock",
+      "Exercise",
+      "Anxiety"
+    ],
+    "answer": "Shock",
+    "difficulty": "medium",
+    "explanation": "Shock reduces circulation strength.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_055",
+    "question": "Which pulse is located at wrist?",
+    "options": [
+      "Carotid",
+      "Radial",
+      "Femoral",
+      "Temporal"
+    ],
+    "answer": "Radial",
+    "difficulty": "easy",
+    "explanation": "Radial pulse is at wrist.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_056",
+    "question": "Normal respiration rate in newborn is:",
+    "options": [
+      "12–20/min",
+      "20–30/min",
+      "30–60/min",
+      "60–80/min"
+    ],
+    "answer": "30–60/min",
+    "difficulty": "medium",
+    "explanation": "Newborns have higher respiratory rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_057",
+    "question": "Pulse rhythm means:",
+    "options": [
+      "Speed",
+      "Regularity",
+      "Strength",
+      "Pressure"
+    ],
+    "answer": "Regularity",
+    "difficulty": "medium",
+    "explanation": "Rhythm refers to pattern of pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_058",
+    "question": "Tympanic temperature is measured using:",
+    "options": [
+      "Mouth",
+      "Ear",
+      "Rectum",
+      "Axilla"
+    ],
+    "answer": "Ear",
+    "difficulty": "easy",
+    "explanation": "Tympanic thermometer is used in ear.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_059",
+    "question": "Pulse becomes bounding in:",
+    "options": [
+      "Shock",
+      "Fever",
+      "Dehydration",
+      "Blood loss"
+    ],
+    "answer": "Fever",
+    "difficulty": "medium",
+    "explanation": "Fever increases pulse strength.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_060",
+    "question": "Orthostatic hypotension means:",
+    "options": [
+      "Increase BP on standing",
+      "Drop BP on standing",
+      "No change in BP",
+      "Irregular pulse"
+    ],
+    "answer": "Drop BP on standing",
+    "difficulty": "hard",
+    "explanation": "Blood pressure falls when standing up.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_061",
+    "question": "Which vital sign is most affected first in deterioration?",
+    "options": [
+      "Blood pressure",
+      "Pulse",
+      "Temperature",
+      "Height"
+    ],
+    "answer": "Pulse",
+    "difficulty": "medium",
+    "explanation": "Pulse changes early in physiological deterioration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_062",
+    "question": "Pulse pressure is the difference between:",
+    "options": [
+      "Systolic and diastolic BP",
+      "Heart rate and respiration",
+      "BP and temperature",
+      "SpO₂ and pulse"
+    ],
+    "answer": "Systolic and diastolic BP",
+    "difficulty": "medium",
+    "explanation": "Pulse pressure = systolic − diastolic pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_063",
+    "question": "Normal pulse pressure is:",
+    "options": [
+      "10–20 mmHg",
+      "20–30 mmHg",
+      "30–40 mmHg",
+      "40–60 mmHg"
+    ],
+    "answer": "30–40 mmHg",
+    "difficulty": "medium",
+    "explanation": "Normal pulse pressure is about 30–40 mmHg.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_064",
+    "question": "Which condition causes wide pulse pressure?",
+    "options": [
+      "Shock",
+      "Fever",
+      "Aortic regurgitation",
+      "Dehydration"
+    ],
+    "answer": "Aortic regurgitation",
+    "difficulty": "hard",
+    "explanation": "Aortic regurgitation increases pulse pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_065",
+    "question": "Narrow pulse pressure is seen in:",
+    "options": [
+      "Fever",
+      "Shock",
+      "Exercise",
+      "Anxiety"
+    ],
+    "answer": "Shock",
+    "difficulty": "hard",
+    "explanation": "Shock reduces systolic-diastolic difference.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_066",
+    "question": "Which artery is commonly used for BP measurement?",
+    "options": [
+      "Radial",
+      "Brachial",
+      "Carotid",
+      "Femoral"
+    ],
+    "answer": "Brachial",
+    "difficulty": "easy",
+    "explanation": "Brachial artery is standard for BP measurement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_067",
+    "question": "Pulse is assessed using:",
+    "options": [
+      "Stethoscope",
+      "Fingers",
+      "Thermometer",
+      "Oximeter"
+    ],
+    "answer": "Fingers",
+    "difficulty": "easy",
+    "explanation": "Pulse is felt using fingertips.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_068",
+    "question": "Which finger is NOT used for pulse checking?",
+    "options": [
+      "Index",
+      "Middle",
+      "Thumb",
+      "Ring"
+    ],
+    "answer": "Thumb",
+    "difficulty": "medium",
+    "explanation": "Thumb has its own pulse, so not used.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_069",
+    "question": "Normal respiratory rhythm is:",
+    "options": [
+      "Irregular",
+      "Regular",
+      "Interrupted",
+      "Absent"
+    ],
+    "answer": "Regular",
+    "difficulty": "easy",
+    "explanation": "Normal breathing is regular.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_070",
+    "question": "Which condition increases respiratory rate?",
+    "options": [
+      "Sleep",
+      "Fever",
+      "Rest",
+      "Cold exposure"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "explanation": "Fever increases metabolic demand.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_071",
+    "question": "Bradypnea is common in:",
+    "options": [
+      "Fever",
+      "Head injury",
+      "Exercise",
+      "Anxiety"
+    ],
+    "answer": "Head injury",
+    "difficulty": "hard",
+    "explanation": "Brain injury suppresses respiration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_072",
+    "question": "Which device measures SpO₂?",
+    "options": [
+      "Thermometer",
+      "Sphygmomanometer",
+      "Pulse oximeter",
+      "ECG machine"
+    ],
+    "answer": "Pulse oximeter",
+    "difficulty": "easy",
+    "explanation": "Pulse oximeter measures oxygen saturation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_073",
+    "question": "Normal SpO₂ level is:",
+    "options": [
+      "70–80%",
+      "80–90%",
+      "95–100%",
+      "100–110%"
+    ],
+    "answer": "95–100%",
+    "difficulty": "easy",
+    "explanation": "Normal oxygen saturation is 95–100%.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_074",
+    "question": "Pulse rhythm means:",
+    "options": [
+      "Strength",
+      "Regularity",
+      "Speed",
+      "Pressure"
+    ],
+    "answer": "Regularity",
+    "difficulty": "easy",
+    "explanation": "Rhythm refers to regularity of pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_075",
+    "question": "Which is NOT a vital sign?",
+    "options": [
+      "Pulse",
+      "Respiration",
+      "Height",
+      "Blood pressure"
+    ],
+    "answer": "Height",
+    "difficulty": "easy",
+    "explanation": "Height is not a vital sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_076",
+    "question": "Pulse becomes weak in:",
+    "options": [
+      "Fever",
+      "Shock",
+      "Exercise",
+      "Anxiety"
+    ],
+    "answer": "Shock",
+    "difficulty": "medium",
+    "explanation": "Shock reduces blood circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_077",
+    "question": "Which pulse site is at wrist?",
+    "options": [
+      "Carotid",
+      "Radial",
+      "Femoral",
+      "Temporal"
+    ],
+    "answer": "Radial",
+    "difficulty": "easy",
+    "explanation": "Radial pulse is at wrist.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_078",
+    "question": "Temperature is regulated by:",
+    "options": [
+      "Heart",
+      "Hypothalamus",
+      "Lungs",
+      "Kidney"
+    ],
+    "answer": "Hypothalamus",
+    "difficulty": "medium",
+    "explanation": "Hypothalamus regulates body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_079",
+    "question": "Pulse is measured in:",
+    "options": [
+      "mmHg",
+      "beats/min",
+      "breaths/min",
+      "%"
+    ],
+    "answer": "beats/min",
+    "difficulty": "easy",
+    "explanation": "Pulse is measured in beats per minute.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_080",
+    "question": "Normal adult temperature site is:",
+    "options": [
+      "Rectal",
+      "Oral",
+      "Axillary",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "difficulty": "medium",
+    "explanation": "Temperature can be measured at multiple sites.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_081",
+    "question": "Cheyne-Stokes respiration includes:",
+    "options": [
+      "Constant breathing",
+      "Apnea periods",
+      "No breathing",
+      "Fast only"
+    ],
+    "answer": "Apnea periods",
+    "difficulty": "hard",
+    "explanation": "Cyclic breathing with apnea phases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_082",
+    "question": "Pulse is strongest in:",
+    "options": [
+      "Veins",
+      "Arteries",
+      "Capillaries",
+      "Lymph"
+    ],
+    "answer": "Arteries",
+    "difficulty": "easy",
+    "explanation": "Pulse originates from arterial flow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_083",
+    "question": "Pulse is absent in:",
+    "options": [
+      "Shock",
+      "Normal condition",
+      "Fever",
+      "Exercise"
+    ],
+    "answer": "Shock",
+    "difficulty": "medium",
+    "explanation": "Severe shock can cause weak/absent pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_084",
+    "question": "Which is first step in vital signs assessment?",
+    "options": [
+      "Measure BP",
+      "Check pulse",
+      "Observe patient",
+      "Take temperature"
+    ],
+    "answer": "Observe patient",
+    "difficulty": "medium",
+    "explanation": "General observation is first step.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_085",
+    "question": "Normal respiration in newborn is:",
+    "options": [
+      "12–20/min",
+      "20–30/min",
+      "30–60/min",
+      "60–80/min"
+    ],
+    "answer": "30–60/min",
+    "difficulty": "medium",
+    "explanation": "Newborns have higher respiratory rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_086",
+    "question": "Pulse should be counted for:",
+    "options": [
+      "15 sec",
+      "30 sec",
+      "60 sec",
+      "2 min"
+    ],
+    "answer": "60 sec",
+    "difficulty": "easy",
+    "explanation": "Full minute ensures accuracy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_087",
+    "question": "Hypothermia means:",
+    "options": [
+      "High temp",
+      "Low temp",
+      "Normal temp",
+      "Fever"
+    ],
+    "answer": "Low temp",
+    "difficulty": "easy",
+    "explanation": "Body temperature below normal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_088",
+    "question": "Hyperthermia means:",
+    "options": [
+      "Low temp",
+      "High temp",
+      "Normal temp",
+      "Cold body"
+    ],
+    "answer": "High temp",
+    "difficulty": "easy",
+    "explanation": "Elevated body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_089",
+    "question": "Pulse becomes bounding in:",
+    "options": [
+      "Shock",
+      "Fever",
+      "Bleeding",
+      "Dehydration"
+    ],
+    "answer": "Fever",
+    "difficulty": "medium",
+    "explanation": "Fever increases pulse strength.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_090",
+    "question": "Orthostatic hypotension means:",
+    "options": [
+      "BP rise on standing",
+      "BP fall on standing",
+      "No change",
+      "Pulse irregular"
+    ],
+    "answer": "BP fall on standing",
+    "difficulty": "hard",
+    "explanation": "Drop in BP on standing position.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_091",
+    "question": "Pulse is checked using:",
+    "options": [
+      "Stethoscope",
+      "Fingers",
+      "Oximeter",
+      "Thermometer"
+    ],
+    "answer": "Fingers",
+    "difficulty": "easy",
+    "explanation": "Pulse is felt using fingertips.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_092",
+    "question": "Normal pulse rhythm is:",
+    "options": [
+      "Irregular",
+      "Regular",
+      "Absent",
+      "Weak"
+    ],
+    "answer": "Regular",
+    "difficulty": "easy",
+    "explanation": "Normal rhythm is regular.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_093",
+    "question": "Pulse deficit is seen in:",
+    "options": [
+      "Arrhythmia",
+      "Fever",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Arrhythmia",
+    "difficulty": "hard",
+    "explanation": "Irregular heartbeat causes mismatch.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_094",
+    "question": "Pulse pressure equals:",
+    "options": [
+      "Systolic + diastolic",
+      "Systolic - diastolic",
+      "Heart rate",
+      "Respiration rate"
+    ],
+    "answer": "Systolic - diastolic",
+    "difficulty": "medium",
+    "explanation": "Difference between systolic and diastolic BP.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_095",
+    "question": "Normal pulse pressure is:",
+    "options": [
+      "10–20 mmHg",
+      "30–40 mmHg",
+      "50–60 mmHg",
+      "70–80 mmHg"
+    ],
+    "answer": "30–40 mmHg",
+    "difficulty": "medium",
+    "explanation": "Normal range is 30–40 mmHg.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_096",
+    "question": "Pulse is absent in:",
+    "options": [
+      "Death",
+      "Fever",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Death",
+    "difficulty": "easy",
+    "explanation": "No circulation means no pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_097",
+    "question": "Pulse becomes fast in:",
+    "options": [
+      "Fever",
+      "Sleep",
+      "Rest",
+      "Cold"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "explanation": "Fever increases heart rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_098",
+    "question": "Respiration is controlled by:",
+    "options": [
+      "Heart",
+      "Brain stem",
+      "Kidney",
+      "Liver"
+    ],
+    "answer": "Brain stem",
+    "difficulty": "medium",
+    "explanation": "Medulla controls breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_099",
+    "question": "Normal pulse site in emergency:",
+    "options": [
+      "Radial",
+      "Carotid",
+      "Femoral",
+      "Popliteal"
+    ],
+    "answer": "Carotid",
+    "difficulty": "easy",
+    "explanation": "Carotid is used in emergencies.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_100",
+    "question": "Vital signs include:",
+    "options": [
+      "Pulse, BP, Temp, Respiration",
+      "Height only",
+      "Weight only",
+      "BMI only"
+    ],
+    "answer": "Pulse, BP, Temp, Respiration",
+    "difficulty": "easy",
+    "explanation": "These are core vital signs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_101",
+    "question": "Which vital sign is most sensitive to changes in oxygenation?",
+    "options": [
+      "Blood pressure",
+      "Pulse",
+      "Temperature",
+      "Height"
+    ],
+    "answer": "Pulse",
+    "difficulty": "medium",
+    "explanation": "Pulse changes early in hypoxia and oxygen imbalance.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_102",
+    "question": "Normal adult heart rate range is:",
+    "options": [
+      "40–60/min",
+      "60–100/min",
+      "100–120/min",
+      "120–140/min"
+    ],
+    "answer": "60–100/min",
+    "difficulty": "easy",
+    "explanation": "Normal adult pulse is 60–100 beats per minute.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_103",
+    "question": "Pulse deficit is commonly seen in:",
+    "options": [
+      "Fever",
+      "Arrhythmia",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Arrhythmia",
+    "difficulty": "hard",
+    "explanation": "Irregular heartbeats cause pulse mismatch.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_104",
+    "question": "Normal respiratory rate in adults is:",
+    "options": [
+      "8–10/min",
+      "12–20/min",
+      "20–30/min",
+      "30–40/min"
+    ],
+    "answer": "12–20/min",
+    "difficulty": "easy",
+    "explanation": "Normal adult respiration is 12–20/min.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_105",
+    "question": "Apnea means:",
+    "options": [
+      "Fast breathing",
+      "No breathing",
+      "Slow breathing",
+      "Deep breathing"
+    ],
+    "answer": "No breathing",
+    "difficulty": "easy",
+    "explanation": "Apnea is temporary cessation of breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_106",
+    "question": "Pulse site most used in infants is:",
+    "options": [
+      "Radial",
+      "Carotid",
+      "Apical",
+      "Femoral"
+    ],
+    "answer": "Apical",
+    "difficulty": "medium",
+    "explanation": "Apical pulse is most accurate in infants.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_107",
+    "question": "Normal oxygen saturation is:",
+    "options": [
+      "80–85%",
+      "85–90%",
+      "95–100%",
+      "100–110%"
+    ],
+    "answer": "95–100%",
+    "difficulty": "easy",
+    "explanation": "Normal SpO₂ is 95–100%.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_108",
+    "question": "Hypotension means:",
+    "options": [
+      "High BP",
+      "Low BP",
+      "Normal BP",
+      "Irregular pulse"
+    ],
+    "answer": "Low BP",
+    "difficulty": "easy",
+    "explanation": "Blood pressure below normal range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_109",
+    "question": "Hypertension means:",
+    "options": [
+      "Low BP",
+      "High BP",
+      "Normal BP",
+      "No BP"
+    ],
+    "answer": "High BP",
+    "difficulty": "easy",
+    "explanation": "Elevated blood pressure above normal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_110",
+    "question": "Pulse is best felt in:",
+    "options": [
+      "Veins",
+      "Arteries",
+      "Capillaries",
+      "Lymph"
+    ],
+    "answer": "Arteries",
+    "difficulty": "easy",
+    "explanation": "Pulse originates from arterial wall expansion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_111",
+    "question": "Pulse becomes weak in:",
+    "options": [
+      "Fever",
+      "Shock",
+      "Exercise",
+      "Anxiety"
+    ],
+    "answer": "Shock",
+    "difficulty": "medium",
+    "explanation": "Shock reduces blood flow strength.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_112",
+    "question": "Normal pulse rhythm is:",
+    "options": [
+      "Irregular",
+      "Regular",
+      "Absent",
+      "Weak"
+    ],
+    "answer": "Regular",
+    "difficulty": "easy",
+    "explanation": "Normal pulse is regular and steady.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_113",
+    "question": "Pulse pressure is difference between:",
+    "options": [
+      "Heart rate and respiration",
+      "Systolic and diastolic BP",
+      "Temp and BP",
+      "SpO₂ and pulse"
+    ],
+    "answer": "Systolic and diastolic BP",
+    "difficulty": "medium",
+    "explanation": "Pulse pressure = systolic − diastolic.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_114",
+    "question": "Normal pulse pressure is:",
+    "options": [
+      "10–20 mmHg",
+      "30–40 mmHg",
+      "50–60 mmHg",
+      "70–80 mmHg"
+    ],
+    "answer": "30–40 mmHg",
+    "difficulty": "medium",
+    "explanation": "Normal range is 30–40 mmHg.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_115",
+    "question": "Which artery is used for BP measurement?",
+    "options": [
+      "Radial",
+      "Brachial",
+      "Carotid",
+      "Femoral"
+    ],
+    "answer": "Brachial",
+    "difficulty": "easy",
+    "explanation": "Brachial artery is standard site for BP.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_116",
+    "question": "Cheyne-Stokes respiration includes:",
+    "options": [
+      "Constant breathing",
+      "Apnea periods",
+      "Fast breathing only",
+      "No breathing"
+    ],
+    "answer": "Apnea periods",
+    "difficulty": "hard",
+    "explanation": "Cyclic breathing with apnea phases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_117",
+    "question": "Bradypnea is:",
+    "options": [
+      "Fast breathing",
+      "Slow breathing",
+      "No breathing",
+      "Deep breathing"
+    ],
+    "answer": "Slow breathing",
+    "difficulty": "medium",
+    "explanation": "Abnormally slow respiration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_118",
+    "question": "Tachypnea means:",
+    "options": [
+      "Slow breathing",
+      "Fast breathing",
+      "No breathing",
+      "Irregular breathing"
+    ],
+    "answer": "Fast breathing",
+    "difficulty": "medium",
+    "explanation": "Increased respiratory rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_119",
+    "question": "Hypothermia means:",
+    "options": [
+      "High temperature",
+      "Low temperature",
+      "Normal temperature",
+      "Fever"
+    ],
+    "answer": "Low temperature",
+    "difficulty": "easy",
+    "explanation": "Body temperature below normal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_120",
+    "question": "Hyperthermia means:",
+    "options": [
+      "Low temperature",
+      "High temperature",
+      "Normal temperature",
+      "Cold body"
+    ],
+    "answer": "High temperature",
+    "difficulty": "easy",
+    "explanation": "Body temperature above normal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_121",
+    "question": "Pulse is measured in:",
+    "options": [
+      "mmHg",
+      "beats/min",
+      "breaths/min",
+      "%"
+    ],
+    "answer": "beats/min",
+    "difficulty": "easy",
+    "explanation": "Pulse is measured in beats per minute.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_122",
+    "question": "Respiration is controlled by:",
+    "options": [
+      "Heart",
+      "Brain stem",
+      "Kidney",
+      "Liver"
+    ],
+    "answer": "Brain stem",
+    "difficulty": "medium",
+    "explanation": "Medulla in brain stem controls respiration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_123",
+    "question": "Pulse becomes bounding in:",
+    "options": [
+      "Shock",
+      "Fever",
+      "Bleeding",
+      "Dehydration"
+    ],
+    "answer": "Fever",
+    "difficulty": "medium",
+    "explanation": "Fever increases pulse strength.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_124",
+    "question": "Pulse should be counted for:",
+    "options": [
+      "15 sec",
+      "30 sec",
+      "60 sec",
+      "2 min"
+    ],
+    "answer": "60 sec",
+    "difficulty": "easy",
+    "explanation": "Full minute ensures accuracy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_125",
+    "question": "Pulse is checked using:",
+    "options": [
+      "Stethoscope",
+      "Fingers",
+      "Oximeter",
+      "Thermometer"
+    ],
+    "answer": "Fingers",
+    "difficulty": "easy",
+    "explanation": "Pulse is felt using fingertips.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_126",
+    "question": "Normal temperature range is:",
+    "options": [
+      "34–35°C",
+      "36–37.5°C",
+      "37–38°C",
+      "38–40°C"
+    ],
+    "answer": "36–37.5°C",
+    "difficulty": "easy",
+    "explanation": "Normal body temperature range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_127",
+    "question": "Pulse deficit is seen in:",
+    "options": [
+      "Arrhythmia",
+      "Fever",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Arrhythmia",
+    "difficulty": "hard",
+    "explanation": "Irregular heartbeats cause mismatch.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_128",
+    "question": "Apical pulse is located at:",
+    "options": [
+      "Wrist",
+      "Chest apex",
+      "Neck",
+      "Groin"
+    ],
+    "answer": "Chest apex",
+    "difficulty": "easy",
+    "explanation": "Heart apex location.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_129",
+    "question": "Pulse rhythm means:",
+    "options": [
+      "Strength",
+      "Regularity",
+      "Speed",
+      "Pressure"
+    ],
+    "answer": "Regularity",
+    "difficulty": "easy",
+    "explanation": "Pattern of pulse beats.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_130",
+    "question": "Normal respiration is:",
+    "options": [
+      "Irregular",
+      "Regular and effortless",
+      "Labored",
+      "Apneic"
+    ],
+    "answer": "Regular and effortless",
+    "difficulty": "easy",
+    "explanation": "Normal breathing pattern.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_131",
+    "question": "Pulse site at wrist is:",
+    "options": [
+      "Carotid",
+      "Radial",
+      "Femoral",
+      "Temporal"
+    ],
+    "answer": "Radial",
+    "difficulty": "easy",
+    "explanation": "Radial artery is at wrist.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_132",
+    "question": "Tympanic temperature is measured in:",
+    "options": [
+      "Mouth",
+      "Ear",
+      "Rectum",
+      "Axilla"
+    ],
+    "answer": "Ear",
+    "difficulty": "easy",
+    "explanation": "Ear canal measurement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_133",
+    "question": "Pulse becomes fast in:",
+    "options": [
+      "Fever",
+      "Sleep",
+      "Rest",
+      "Cold"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "explanation": "Fever increases heart rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_134",
+    "question": "Which is NOT a vital sign?",
+    "options": [
+      "Pulse",
+      "Respiration",
+      "Height",
+      "Blood pressure"
+    ],
+    "answer": "Height",
+    "difficulty": "easy",
+    "explanation": "Height is not a vital sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_135",
+    "question": "Normal oxygen saturation is:",
+    "options": [
+      "80–85%",
+      "85–90%",
+      "95–100%",
+      "100–110%"
+    ],
+    "answer": "95–100%",
+    "difficulty": "easy",
+    "explanation": "Normal SpO₂ range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_136",
+    "question": "Pulse is absent in:",
+    "options": [
+      "Death",
+      "Fever",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Death",
+    "difficulty": "easy",
+    "explanation": "No circulation means no pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_137",
+    "question": "Pulse is strongest in:",
+    "options": [
+      "Veins",
+      "Arteries",
+      "Capillaries",
+      "Lymph"
+    ],
+    "answer": "Arteries",
+    "difficulty": "easy",
+    "explanation": "Arterial origin of pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_138",
+    "question": "First step in vital signs is:",
+    "options": [
+      "BP measurement",
+      "Pulse check",
+      "Observation",
+      "Temperature"
+    ],
+    "answer": "Observation",
+    "difficulty": "medium",
+    "explanation": "General observation first.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_139",
+    "question": "Pulse is best checked for:",
+    "options": [
+      "15 sec",
+      "30 sec",
+      "60 sec",
+      "120 sec"
+    ],
+    "answer": "60 sec",
+    "difficulty": "easy",
+    "explanation": "Full minute ensures accuracy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_140",
+    "question": "Vital signs include:",
+    "options": [
+      "Pulse, BP, Temp, Respiration",
+      "Height only",
+      "Weight only",
+      "BMI only"
+    ],
+    "answer": "Pulse, BP, Temp, Respiration",
+    "difficulty": "easy",
+    "explanation": "Core vital signs set.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_141",
+    "question": "Which vital sign is most affected during shock?",
+    "options": [
+      "Temperature",
+      "Blood pressure",
+      "Height",
+      "Weight"
+    ],
+    "answer": "Blood pressure",
+    "difficulty": "easy",
+    "explanation": "BP drops significantly in shock.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_142",
+    "question": "Normal adult blood pressure is:",
+    "options": [
+      "90/60 mmHg",
+      "120/80 mmHg",
+      "140/90 mmHg",
+      "160/100 mmHg"
+    ],
+    "answer": "120/80 mmHg",
+    "difficulty": "easy",
+    "explanation": "Standard normal BP value.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_143",
+    "question": "Pulse is an indicator of:",
+    "options": [
+      "Liver function",
+      "Cardiac function",
+      "Kidney function",
+      "Lung capacity"
+    ],
+    "answer": "Cardiac function",
+    "difficulty": "easy",
+    "explanation": "Pulse reflects heart activity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_144",
+    "question": "Which condition causes tachycardia?",
+    "options": [
+      "Sleep",
+      "Fever",
+      "Rest",
+      "Cold exposure"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "explanation": "Fever increases heart rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_145",
+    "question": "Normal respiratory rate in adults is:",
+    "options": [
+      "8–10/min",
+      "12–20/min",
+      "20–30/min",
+      "30–40/min"
+    ],
+    "answer": "12–20/min",
+    "difficulty": "easy",
+    "explanation": "Normal adult respiration range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_146",
+    "question": "Bradypnea means:",
+    "options": [
+      "Fast breathing",
+      "Slow breathing",
+      "No breathing",
+      "Deep breathing"
+    ],
+    "answer": "Slow breathing",
+    "difficulty": "easy",
+    "explanation": "Reduced respiratory rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_147",
+    "question": "Tachypnea means:",
+    "options": [
+      "Slow breathing",
+      "Fast breathing",
+      "No breathing",
+      "Irregular breathing"
+    ],
+    "answer": "Fast breathing",
+    "difficulty": "easy",
+    "explanation": "Increased respiratory rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_148",
+    "question": "Apnea refers to:",
+    "options": [
+      "Fast breathing",
+      "No breathing",
+      "Slow breathing",
+      "Deep breathing"
+    ],
+    "answer": "No breathing",
+    "difficulty": "easy",
+    "explanation": "Temporary cessation of breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_149",
+    "question": "Normal oxygen saturation (SpO₂) is:",
+    "options": [
+      "70–80%",
+      "80–90%",
+      "95–100%",
+      "100–110%"
+    ],
+    "answer": "95–100%",
+    "difficulty": "easy",
+    "explanation": "Normal oxygen saturation range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_150",
+    "question": "Pulse is measured in:",
+    "options": [
+      "mmHg",
+      "beats/min",
+      "breaths/min",
+      "%"
+    ],
+    "answer": "beats/min",
+    "difficulty": "easy",
+    "explanation": "Pulse is counted per minute.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_151",
+    "question": "Which artery is used for BP measurement?",
+    "options": [
+      "Radial",
+      "Brachial",
+      "Carotid",
+      "Femoral"
+    ],
+    "answer": "Brachial",
+    "difficulty": "easy",
+    "explanation": "Brachial artery is standard site.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_152",
+    "question": "Pulse deficit is seen in:",
+    "options": [
+      "Arrhythmia",
+      "Fever",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Arrhythmia",
+    "difficulty": "hard",
+    "explanation": "Mismatch between apical and radial pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_153",
+    "question": "Pulse becomes weak in:",
+    "options": [
+      "Fever",
+      "Shock",
+      "Exercise",
+      "Anxiety"
+    ],
+    "answer": "Shock",
+    "difficulty": "medium",
+    "explanation": "Poor circulation in shock.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_154",
+    "question": "Normal pulse rhythm is:",
+    "options": [
+      "Irregular",
+      "Regular",
+      "Absent",
+      "Weak"
+    ],
+    "answer": "Regular",
+    "difficulty": "easy",
+    "explanation": "Normal rhythm is steady.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_155",
+    "question": "Pulse pressure equals:",
+    "options": [
+      "Systolic + diastolic",
+      "Systolic - diastolic",
+      "Heart rate",
+      "Respiration"
+    ],
+    "answer": "Systolic - diastolic",
+    "difficulty": "medium",
+    "explanation": "Difference between BP values.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_156",
+    "question": "Normal pulse pressure is:",
+    "options": [
+      "10–20 mmHg",
+      "30–40 mmHg",
+      "50–60 mmHg",
+      "70–80 mmHg"
+    ],
+    "answer": "30–40 mmHg",
+    "difficulty": "medium",
+    "explanation": "Normal range of pulse pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_157",
+    "question": "Pulse is strongest in:",
+    "options": [
+      "Veins",
+      "Arteries",
+      "Capillaries",
+      "Lymph"
+    ],
+    "answer": "Arteries",
+    "difficulty": "easy",
+    "explanation": "Pulse originates in arteries.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_158",
+    "question": "Pulse is checked using:",
+    "options": [
+      "Stethoscope",
+      "Fingers",
+      "Oximeter",
+      "Thermometer"
+    ],
+    "answer": "Fingers",
+    "difficulty": "easy",
+    "explanation": "Pulse is felt manually.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_159",
+    "question": "Normal temperature range is:",
+    "options": [
+      "34–35°C",
+      "36–37.5°C",
+      "37–38°C",
+      "38–40°C"
+    ],
+    "answer": "36–37.5°C",
+    "difficulty": "easy",
+    "explanation": "Normal body temperature range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_160",
+    "question": "Hypothermia means:",
+    "options": [
+      "High temperature",
+      "Low temperature",
+      "Normal temperature",
+      "Fever"
+    ],
+    "answer": "Low temperature",
+    "difficulty": "easy",
+    "explanation": "Body temperature below normal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_161",
+    "question": "Hyperthermia means:",
+    "options": [
+      "Low temperature",
+      "High temperature",
+      "Normal temperature",
+      "Cold body"
+    ],
+    "answer": "High temperature",
+    "difficulty": "easy",
+    "explanation": "Elevated body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_162",
+    "question": "Pulse is absent in:",
+    "options": [
+      "Death",
+      "Fever",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Death",
+    "difficulty": "easy",
+    "explanation": "No circulation means no pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_163",
+    "question": "Respiration is controlled by:",
+    "options": [
+      "Heart",
+      "Brain stem",
+      "Kidney",
+      "Liver"
+    ],
+    "answer": "Brain stem",
+    "difficulty": "medium",
+    "explanation": "Medulla controls breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_164",
+    "question": "Pulse becomes bounding in:",
+    "options": [
+      "Shock",
+      "Fever",
+      "Bleeding",
+      "Dehydration"
+    ],
+    "answer": "Fever",
+    "difficulty": "medium",
+    "explanation": "Fever increases pulse strength.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_165",
+    "question": "Pulse should be counted for:",
+    "options": [
+      "15 sec",
+      "30 sec",
+      "60 sec",
+      "2 min"
+    ],
+    "answer": "60 sec",
+    "difficulty": "easy",
+    "explanation": "Full minute ensures accuracy.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_166",
+    "question": "Pulse rhythm means:",
+    "options": [
+      "Strength",
+      "Regularity",
+      "Speed",
+      "Pressure"
+    ],
+    "answer": "Regularity",
+    "difficulty": "easy",
+    "explanation": "Pattern of pulse beats.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_167",
+    "question": "Tympanic temperature is measured in:",
+    "options": [
+      "Mouth",
+      "Ear",
+      "Rectum",
+      "Axilla"
+    ],
+    "answer": "Ear",
+    "difficulty": "easy",
+    "explanation": "Ear canal measurement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_168",
+    "question": "Normal respiration in newborn is:",
+    "options": [
+      "12–20/min",
+      "20–30/min",
+      "30–60/min",
+      "60–80/min"
+    ],
+    "answer": "30–60/min",
+    "difficulty": "medium",
+    "explanation": "Newborns breathe faster.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_169",
+    "question": "Pulse site at wrist is:",
+    "options": [
+      "Carotid",
+      "Radial",
+      "Femoral",
+      "Temporal"
+    ],
+    "answer": "Radial",
+    "difficulty": "easy",
+    "explanation": "Radial artery at wrist.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_170",
+    "question": "First step in vital signs is:",
+    "options": [
+      "BP check",
+      "Pulse check",
+      "Observation",
+      "Temperature"
+    ],
+    "answer": "Observation",
+    "difficulty": "medium",
+    "explanation": "General assessment first.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_171",
+    "question": "Pulse is measured in:",
+    "options": [
+      "mmHg",
+      "beats/min",
+      "breaths/min",
+      "%"
+    ],
+    "answer": "beats/min",
+    "difficulty": "easy",
+    "explanation": "Pulse rate per minute.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_172",
+    "question": "Normal oxygen saturation is:",
+    "options": [
+      "80–85%",
+      "85–90%",
+      "95–100%",
+      "100–110%"
+    ],
+    "answer": "95–100%",
+    "difficulty": "easy",
+    "explanation": "Normal SpO₂ range.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_173",
+    "question": "Pulse becomes fast in:",
+    "options": [
+      "Fever",
+      "Sleep",
+      "Rest",
+      "Cold"
+    ],
+    "answer": "Fever",
+    "difficulty": "easy",
+    "explanation": "Fever increases heart rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_174",
+    "question": "Which is NOT a vital sign?",
+    "options": [
+      "Pulse",
+      "Respiration",
+      "Height",
+      "Blood pressure"
+    ],
+    "answer": "Height",
+    "difficulty": "easy",
+    "explanation": "Height is not a vital sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_175",
+    "question": "Pulse is best felt in:",
+    "options": [
+      "Veins",
+      "Arteries",
+      "Capillaries",
+      "Lymph"
+    ],
+    "answer": "Arteries",
+    "difficulty": "easy",
+    "explanation": "Arterial origin of pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_176",
+    "question": "Pulse is absent in:",
+    "options": [
+      "Death",
+      "Fever",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Death",
+    "difficulty": "easy",
+    "explanation": "No circulation means no pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_177",
+    "question": "Normal pulse rhythm is:",
+    "options": [
+      "Irregular",
+      "Regular",
+      "Absent",
+      "Weak"
+    ],
+    "answer": "Regular",
+    "difficulty": "easy",
+    "explanation": "Steady heartbeat pattern.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_178",
+    "question": "Pulse deficit is seen in:",
+    "options": [
+      "Arrhythmia",
+      "Fever",
+      "Exercise",
+      "Sleep"
+    ],
+    "answer": "Arrhythmia",
+    "difficulty": "hard",
+    "explanation": "Mismatch between apical and radial pulse.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_179",
+    "question": "Normal blood pressure is:",
+    "options": [
+      "90/60",
+      "120/80",
+      "140/90",
+      "160/100"
+    ],
+    "answer": "120/80",
+    "difficulty": "easy",
+    "explanation": "Standard normal BP.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  },
+  {
+    "id": "VS_180",
+    "question": "Vital signs include:",
+    "options": [
+      "Pulse, BP, Temp, Respiration",
+      "Height only",
+      "Weight only",
+      "BMI only"
+    ],
+    "answer": "Pulse, BP, Temp, Respiration",
+    "difficulty": "easy",
+    "explanation": "Core vital signs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "VITAL_SIGNS"
+  }
+]

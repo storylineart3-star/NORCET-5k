@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "FA_001",
+    "question": "First aid is defined as:",
+    "options": [
+      "Definitive hospital treatment",
+      "Immediate care given at scene of accident",
+      "Surgical treatment",
+      "Long-term care"
+    ],
+    "answer": "Immediate care given at scene of accident",
+    "difficulty": "easy",
+    "explanation": "First aid is immediate temporary care before medical help.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_002",
+    "question": "Primary aim of first aid is:",
+    "options": [
+      "Cure disease",
+      "Preserve life",
+      "Increase pain",
+      "Delay treatment"
+    ],
+    "answer": "Preserve life",
+    "difficulty": "easy",
+    "explanation": "Main goal is to save life and prevent deterioration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_003",
+    "question": "ABC of CPR stands for:",
+    "options": [
+      "Airway, Breathing, Circulation",
+      "Air, Blood, Care",
+      "Alert, Breathing, Circulation",
+      "Airway, Bleeding, Care"
+    ],
+    "answer": "Airway, Breathing, Circulation",
+    "difficulty": "easy",
+    "explanation": "Basic life support sequence.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_004",
+    "question": "First step in CPR is:",
+    "options": [
+      "Chest compressions",
+      "Check responsiveness",
+      "Give oxygen",
+      "Start IV"
+    ],
+    "answer": "Check responsiveness",
+    "difficulty": "easy",
+    "explanation": "Assess patient before intervention.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_005",
+    "question": "Normal compression rate in CPR is:",
+    "options": [
+      "40–60/min",
+      "60–80/min",
+      "100–120/min",
+      "140–160/min"
+    ],
+    "answer": "100–120/min",
+    "difficulty": "medium",
+    "explanation": "Recommended chest compression rate.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_006",
+    "question": "Chest compression depth in adults is:",
+    "options": [
+      "1 cm",
+      "2 cm",
+      "5–6 cm",
+      "10 cm"
+    ],
+    "answer": "5–6 cm",
+    "difficulty": "medium",
+    "explanation": "Adequate depth ensures circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_007",
+    "question": "Most important in cardiac arrest is:",
+    "options": [
+      "Oxygen",
+      "Chest compressions",
+      "Food",
+      "Antibiotics"
+    ],
+    "answer": "Chest compressions",
+    "difficulty": "easy",
+    "explanation": "Maintains blood circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_008",
+    "question": "Shock is defined as:",
+    "options": [
+      "High BP",
+      "Low tissue perfusion",
+      "High fever",
+      "Pain condition"
+    ],
+    "answer": "Low tissue perfusion",
+    "difficulty": "medium",
+    "explanation": "Inadequate blood supply to organs.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_009",
+    "question": "First position in shock is:",
+    "options": [
+      "Sitting",
+      "Trendelenburg position",
+      "Prone",
+      "Standing"
+    ],
+    "answer": "Trendelenburg position",
+    "difficulty": "medium",
+    "explanation": "Improves venous return.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_010",
+    "question": "Most common type of shock is:",
+    "options": [
+      "Cardiogenic",
+      "Hypovolemic",
+      "Neurogenic",
+      "Septic"
+    ],
+    "answer": "Hypovolemic",
+    "difficulty": "medium",
+    "explanation": "Due to blood/fluid loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_011",
+    "question": "Bleeding control method is:",
+    "options": [
+      "Massage",
+      "Direct pressure",
+      "Heat application",
+      "Cold drinks"
+    ],
+    "answer": "Direct pressure",
+    "difficulty": "easy",
+    "explanation": "Most effective way to stop bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_012",
+    "question": "Tourniquet is used for:",
+    "options": [
+      "Minor bleeding",
+      "Severe limb bleeding",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Severe limb bleeding",
+    "difficulty": "medium",
+    "explanation": "Used only in life-threatening bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_013",
+    "question": "Burn depth affecting epidermis only is:",
+    "options": [
+      "First degree",
+      "Second degree",
+      "Third degree",
+      "Fourth degree"
+    ],
+    "answer": "First degree",
+    "difficulty": "medium",
+    "explanation": "Superficial burn (redness only).",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_014",
+    "question": "Most severe burn is:",
+    "options": [
+      "First degree",
+      "Second degree",
+      "Third degree",
+      "Minor burn"
+    ],
+    "answer": "Third degree",
+    "difficulty": "easy",
+    "explanation": "Full thickness tissue damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_015",
+    "question": "First aid in burns is:",
+    "options": [
+      "Apply ice directly",
+      "Cool running water",
+      "Apply oil",
+      "Massage"
+    ],
+    "answer": "Cool running water",
+    "difficulty": "easy",
+    "explanation": "Reduces tissue damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_016",
+    "question": "Fracture is:",
+    "options": [
+      "Muscle injury",
+      "Bone break",
+      "Skin injury",
+      "Nerve damage"
+    ],
+    "answer": "Bone break",
+    "difficulty": "easy",
+    "explanation": "Discontinuity of bone.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_017",
+    "question": "First aid for fracture is:",
+    "options": [
+      "Massage",
+      "Immobilization",
+      "Heat application",
+      "Exercise"
+    ],
+    "answer": "Immobilization",
+    "difficulty": "easy",
+    "explanation": "Prevents further injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_018",
+    "question": "Splint is used for:",
+    "options": [
+      "Bleeding",
+      "Immobilization",
+      "Burns",
+      "Shock"
+    ],
+    "answer": "Immobilization",
+    "difficulty": "easy",
+    "explanation": "Supports injured limb.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_019",
+    "question": "Most dangerous airway obstruction is:",
+    "options": [
+      "Cough",
+      "Choking",
+      "Fever",
+      "Cold"
+    ],
+    "answer": "Choking",
+    "difficulty": "easy",
+    "explanation": "Blocks breathing passage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_020",
+    "question": "Heimlich maneuver is used for:",
+    "options": [
+      "Fever",
+      "Choking",
+      "Bleeding",
+      "Burns"
+    ],
+    "answer": "Choking",
+    "difficulty": "medium",
+    "explanation": "Dislodges airway obstruction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_021",
+    "question": "Poisoning first aid includes:",
+    "options": [
+      "Induce vomiting always",
+      "Call emergency help",
+      "Give alcohol",
+      "Ignore symptoms"
+    ],
+    "answer": "Call emergency help",
+    "difficulty": "medium",
+    "explanation": "Immediate medical support is essential.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_022",
+    "question": "Snake bite first aid is:",
+    "options": [
+      "Cut wound",
+      "Immobilize limb",
+      "Suck poison",
+      "Apply heat"
+    ],
+    "answer": "Immobilize limb",
+    "difficulty": "medium",
+    "explanation": "Prevents toxin spread.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_023",
+    "question": "Heat stroke is treated by:",
+    "options": [
+      "Heating patient",
+      "Cooling body",
+      "Hot drinks",
+      "Massage"
+    ],
+    "answer": "Cooling body",
+    "difficulty": "easy",
+    "explanation": "Reduces high body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_024",
+    "question": "Normal body temperature is:",
+    "options": [
+      "35°C",
+      "37°C",
+      "39°C",
+      "41°C"
+    ],
+    "answer": "37°C",
+    "difficulty": "easy",
+    "explanation": "Normal human temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_025",
+    "question": "Fainting is also called:",
+    "options": [
+      "Seizure",
+      "Syncope",
+      "Shock",
+      "Coma"
+    ],
+    "answer": "Syncope",
+    "difficulty": "medium",
+    "explanation": "Temporary loss of consciousness.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_026",
+    "question": "Most important in emergency is:",
+    "options": [
+      "Documentation",
+      "Airway",
+      "Food",
+      "Sleep"
+    ],
+    "answer": "Airway",
+    "difficulty": "easy",
+    "explanation": "Airway comes first in ABC.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_027",
+    "question": "Recovery position is used for:",
+    "options": [
+      "Unconscious breathing patient",
+      "Dead patient",
+      "Fracture",
+      "Bleeding"
+    ],
+    "answer": "Unconscious breathing patient",
+    "difficulty": "medium",
+    "explanation": "Prevents airway obstruction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_028",
+    "question": "CPR should be started when:",
+    "options": [
+      "Patient is sleeping",
+      "No breathing/pulse",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "No breathing/pulse",
+    "difficulty": "easy",
+    "explanation": "Cardiac arrest condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_029",
+    "question": "Ratio of chest compressions to breaths is:",
+    "options": [
+      "15:2",
+      "30:2",
+      "20:2",
+      "10:2"
+    ],
+    "answer": "30:2",
+    "difficulty": "medium",
+    "explanation": "Standard adult CPR ratio.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_030",
+    "question": "Defibrillator is used for:",
+    "options": [
+      "Fever",
+      "Cardiac arrest rhythm correction",
+      "Bleeding",
+      "Burns"
+    ],
+    "answer": "Cardiac arrest rhythm correction",
+    "difficulty": "hard",
+    "explanation": "Restores normal heart rhythm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_031",
+    "question": "AED stands for:",
+    "options": [
+      "Automatic External Defibrillator",
+      "Advanced Emergency Device",
+      "Airway Emergency Device",
+      "Artificial Electrical Device"
+    ],
+    "answer": "Automatic External Defibrillator",
+    "difficulty": "medium",
+    "explanation": "Used in cardiac arrest.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_032",
+    "question": "Primary survey in emergency is:",
+    "options": [
+      "ABCDE approach",
+      "XYZ approach",
+      "123 method",
+      "Vital check only"
+    ],
+    "answer": "ABCDE approach",
+    "difficulty": "hard",
+    "explanation": "Airway, Breathing, Circulation, Disability, Exposure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_033",
+    "question": "Severe bleeding first aid is:",
+    "options": [
+      "Elevate limb",
+      "Direct pressure",
+      "Massage",
+      "Heat"
+    ],
+    "answer": "Direct pressure",
+    "difficulty": "easy",
+    "explanation": "Stops blood loss effectively.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_034",
+    "question": "Shock skin appears:",
+    "options": [
+      "Warm and dry",
+      "Cold and clammy",
+      "Red and hot",
+      "Normal"
+    ],
+    "answer": "Cold and clammy",
+    "difficulty": "easy",
+    "explanation": "Poor perfusion sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_035",
+    "question": "Anaphylaxis is treated with:",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Paracetamol",
+      "Aspirin"
+    ],
+    "answer": "Adrenaline",
+    "difficulty": "medium",
+    "explanation": "Life-saving in allergic shock.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_036",
+    "question": "Most important in burns is:",
+    "options": [
+      "Pain relief",
+      "Stop burning process",
+      "Massage",
+      "Heat"
+    ],
+    "answer": "Stop burning process",
+    "difficulty": "easy",
+    "explanation": "Remove source immediately.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_037",
+    "question": "Electrical burn first aid is:",
+    "options": [
+      "Touch patient immediately",
+      "Switch off power",
+      "Apply oil",
+      "Massage"
+    ],
+    "answer": "Switch off power",
+    "difficulty": "easy",
+    "explanation": "Ensure safety first.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_038",
+    "question": "Seizure first aid includes:",
+    "options": [
+      "Restrict movements",
+      "Protect head",
+      "Give water",
+      "Hold tightly"
+    ],
+    "answer": "Protect head",
+    "difficulty": "medium",
+    "explanation": "Prevents injury during seizure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_039",
+    "question": "Best position in unconscious patient is:",
+    "options": [
+      "Supine",
+      "Recovery position",
+      "Standing",
+      "Sitting"
+    ],
+    "answer": "Recovery position",
+    "difficulty": "medium",
+    "explanation": "Keeps airway open.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_040",
+    "question": "Emergency call number in India is:",
+    "options": [
+      "100",
+      "102",
+      "112",
+      "108"
+    ],
+    "answer": "112",
+    "difficulty": "easy",
+    "explanation": "Unified emergency response number.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_041",
+    "question": "Triage means:",
+    "options": [
+      "Treatment",
+      "Prioritizing patients",
+      "Surgery",
+      "Diagnosis"
+    ],
+    "answer": "Prioritizing patients",
+    "difficulty": "medium",
+    "explanation": "Sorting based on severity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_042",
+    "question": "Red tag in triage means:",
+    "options": [
+      "Minor injury",
+      "Immediate treatment needed",
+      "Dead",
+      "Delayed care"
+    ],
+    "answer": "Immediate treatment needed",
+    "difficulty": "medium",
+    "explanation": "Life-threatening condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_043",
+    "question": "Yellow tag means:",
+    "options": [
+      "Minor injury",
+      "Delayed treatment",
+      "Immediate death",
+      "No injury"
+    ],
+    "answer": "Delayed treatment",
+    "difficulty": "medium",
+    "explanation": "Stable but injured.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_044",
+    "question": "Green tag means:",
+    "options": [
+      "Critical",
+      "Minor injury",
+      "Dead",
+      "Emergency"
+    ],
+    "answer": "Minor injury",
+    "difficulty": "easy",
+    "explanation": "Walking wounded.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_045",
+    "question": "Black tag means:",
+    "options": [
+      "Alive",
+      "Dead",
+      "Minor injury",
+      "Stable"
+    ],
+    "answer": "Dead",
+    "difficulty": "easy",
+    "explanation": "No chance of survival.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_046",
+    "question": "Most important emergency principle is:",
+    "options": [
+      "Delay care",
+      "Do no harm",
+      "Ignore patient",
+      "Wait"
+    ],
+    "answer": "Do no harm",
+    "difficulty": "easy",
+    "explanation": "First aid must avoid worsening condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_047",
+    "question": "Bleeding from artery is:",
+    "options": [
+      "Dark and slow",
+      "Bright red and spurting",
+      "No bleeding",
+      "Oozing"
+    ],
+    "answer": "Bright red and spurting",
+    "difficulty": "medium",
+    "explanation": "High pressure blood flow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_048",
+    "question": "Venous bleeding is:",
+    "options": [
+      "Bright red spurting",
+      "Dark and steady flow",
+      "No bleeding",
+      "Dry wound"
+    ],
+    "answer": "Dark and steady flow",
+    "difficulty": "medium",
+    "explanation": "Lower pressure blood.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_049",
+    "question": "Most important in emergency kit is:",
+    "options": [
+      "Food",
+      "Gloves",
+      "Clothes",
+      "Books"
+    ],
+    "answer": "Gloves",
+    "difficulty": "easy",
+    "explanation": "Prevents infection transmission.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_050",
+    "question": "Golden hour in trauma means:",
+    "options": [
+      "First 24 hours",
+      "First 1 hour after injury",
+      "First week",
+      "First minute only"
+    ],
+    "answer": "First 1 hour after injury",
+    "difficulty": "hard",
+    "explanation": "Critical time for survival.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_051",
+    "question": "Hypoglycemia first aid includes:",
+    "options": [
+      "Insulin injection",
+      "Give sugar/glucose",
+      "Restrict food",
+      "Cold compress"
+    ],
+    "answer": "Give sugar/glucose",
+    "difficulty": "easy",
+    "explanation": "Immediate sugar raises blood glucose.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_052",
+    "question": "Hyperglycemia is treated with:",
+    "options": [
+      "Sugar",
+      "Insulin",
+      "Water only",
+      "Painkillers"
+    ],
+    "answer": "Insulin",
+    "difficulty": "easy",
+    "explanation": "Insulin lowers blood glucose.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_053",
+    "question": "Stroke FAST test stands for:",
+    "options": [
+      "Face, Arms, Speech, Time",
+      "Fever, Airway, Sugar, Temperature",
+      "Flow, Artery, Stroke, Treatment",
+      "Fast Action Support Therapy"
+    ],
+    "answer": "Face, Arms, Speech, Time",
+    "difficulty": "medium",
+    "explanation": "Used for stroke recognition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_054",
+    "question": "Stroke is caused by:",
+    "options": [
+      "Lung infection",
+      "Brain blood supply disruption",
+      "Kidney failure",
+      "Liver disease"
+    ],
+    "answer": "Brain blood supply disruption",
+    "difficulty": "easy",
+    "explanation": "Due to blockage or bleeding in brain.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_055",
+    "question": "Best position in stroke patient is:",
+    "options": [
+      "Supine flat",
+      "Head elevated 30°",
+      "Prone",
+      "Standing"
+    ],
+    "answer": "Head elevated 30°",
+    "difficulty": "medium",
+    "explanation": "Reduces intracranial pressure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_056",
+    "question": "Heat exhaustion occurs due to:",
+    "options": [
+      "Cold exposure",
+      "Excess heat loss",
+      "Dehydration in heat",
+      "Infection"
+    ],
+    "answer": "Dehydration in heat",
+    "difficulty": "medium",
+    "explanation": "Fluid loss due to sweating.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_057",
+    "question": "Heat stroke is:",
+    "options": [
+      "Mild fever",
+      "Medical emergency",
+      "Cold condition",
+      "Skin allergy"
+    ],
+    "answer": "Medical emergency",
+    "difficulty": "easy",
+    "explanation": "Life-threatening high temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_058",
+    "question": "Cold compress is used in:",
+    "options": [
+      "Fever only",
+      "Injury/swelling",
+      "Fracture healing",
+      "Burning only"
+    ],
+    "answer": "Injury/swelling",
+    "difficulty": "easy",
+    "explanation": "Reduces inflammation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_059",
+    "question": "Most important in poisoning is:",
+    "options": [
+      "Delay treatment",
+      "Identify poison",
+      "Ignore symptoms",
+      "Give food"
+    ],
+    "answer": "Identify poison",
+    "difficulty": "medium",
+    "explanation": "Helps correct treatment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_060",
+    "question": "Activated charcoal is used in:",
+    "options": [
+      "Burns",
+      "Poisoning",
+      "Fracture",
+      "Shock"
+    ],
+    "answer": "Poisoning",
+    "difficulty": "medium",
+    "explanation": "Absorbs toxins in stomach.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_061",
+    "question": "Most dangerous bleeding is:",
+    "options": [
+      "Capillary",
+      "Venous",
+      "Arterial",
+      "Skin scratch"
+    ],
+    "answer": "Arterial",
+    "difficulty": "easy",
+    "explanation": "High pressure bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_062",
+    "question": "Capillary bleeding is:",
+    "options": [
+      "Spurting",
+      "Oozing",
+      "No bleeding",
+      "Severe bleeding"
+    ],
+    "answer": "Oozing",
+    "difficulty": "easy",
+    "explanation": "Slow surface bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_063",
+    "question": "First aid for nosebleed is:",
+    "options": [
+      "Lie flat",
+      "Lean forward and pinch nose",
+      "Tilt head backward",
+      "Massage nose"
+    ],
+    "answer": "Lean forward and pinch nose",
+    "difficulty": "medium",
+    "explanation": "Prevents swallowing blood.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_064",
+    "question": "Most common fracture complication is:",
+    "options": [
+      "Fever",
+      "Shock",
+      "Infection",
+      "Cold"
+    ],
+    "answer": "Shock",
+    "difficulty": "medium",
+    "explanation": "Due to pain and blood loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_065",
+    "question": "Splinting prevents:",
+    "options": [
+      "Bleeding",
+      "Movement",
+      "Fever",
+      "Pain only"
+    ],
+    "answer": "Movement",
+    "difficulty": "easy",
+    "explanation": "Prevents further injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_066",
+    "question": "Most important in trauma is:",
+    "options": [
+      "Food",
+      "Airway management",
+      "Sleep",
+      "Exercise"
+    ],
+    "answer": "Airway management",
+    "difficulty": "easy",
+    "explanation": "Airway first in emergency.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_067",
+    "question": "Head injury patient should be:",
+    "options": [
+      "Flat position",
+      "Head elevated",
+      "Prone",
+      "Standing"
+    ],
+    "answer": "Head elevated",
+    "difficulty": "medium",
+    "explanation": "Reduces brain swelling.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_068",
+    "question": "Most common sign of shock:",
+    "options": [
+      "Warm skin",
+      "Cold clammy skin",
+      "Red skin",
+      "Dry skin only"
+    ],
+    "answer": "Cold clammy skin",
+    "difficulty": "easy",
+    "explanation": "Poor circulation sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_069",
+    "question": "Oxygen is given in:",
+    "options": [
+      "Fever",
+      "Breathing difficulty",
+      "Headache",
+      "Cold"
+    ],
+    "answer": "Breathing difficulty",
+    "difficulty": "easy",
+    "explanation": "Improves oxygen supply.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_070",
+    "question": "CPR is performed in:",
+    "options": [
+      "Fever",
+      "Cardiac arrest",
+      "Cold",
+      "Pain"
+    ],
+    "answer": "Cardiac arrest",
+    "difficulty": "easy",
+    "explanation": "No pulse or breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_071",
+    "question": "Best emergency response is:",
+    "options": [
+      "Delay",
+      "Quick action",
+      "Ignore",
+      "Wait"
+    ],
+    "answer": "Quick action",
+    "difficulty": "easy",
+    "explanation": "Early intervention saves life.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_072",
+    "question": "Most important in burns is:",
+    "options": [
+      "Ice immediately",
+      "Stop burning source",
+      "Massage",
+      "Cover tightly only"
+    ],
+    "answer": "Stop burning source",
+    "difficulty": "easy",
+    "explanation": "First priority in burns.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_073",
+    "question": "Chemical burn first aid is:",
+    "options": [
+      "Water irrigation",
+      "Oil application",
+      "Heat",
+      "Massage"
+    ],
+    "answer": "Water irrigation",
+    "difficulty": "medium",
+    "explanation": "Removes chemical agent.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_074",
+    "question": "Electric shock first step:",
+    "options": [
+      "Touch patient",
+      "Disconnect power",
+      "Water application",
+      "Massage"
+    ],
+    "answer": "Disconnect power",
+    "difficulty": "easy",
+    "explanation": "Ensure safety first.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_075",
+    "question": "Seizure patient should be:",
+    "options": [
+      "Restrained strongly",
+      "Protected from injury",
+      "Given water",
+      "Shaken"
+    ],
+    "answer": "Protected from injury",
+    "difficulty": "medium",
+    "explanation": "Avoid injury during fits.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_076",
+    "question": "Emergency priority is:",
+    "options": [
+      "Breathing",
+      "Airway",
+      "Circulation",
+      "All ABC"
+    ],
+    "answer": "All ABC",
+    "difficulty": "easy",
+    "explanation": "ABC approach is standard.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_077",
+    "question": "Bleeding control priority is:",
+    "options": [
+      "Heat",
+      "Direct pressure",
+      "Cold drinks",
+      "Exercise"
+    ],
+    "answer": "Direct pressure",
+    "difficulty": "easy",
+    "explanation": "Stops bleeding effectively.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_078",
+    "question": "Most important emergency skill is:",
+    "options": [
+      "CPR",
+      "Writing",
+      "Walking",
+      "Cooking"
+    ],
+    "answer": "CPR",
+    "difficulty": "easy",
+    "explanation": "Life-saving skill.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_079",
+    "question": "Shock management includes:",
+    "options": [
+      "Warmth",
+      "Fluid replacement",
+      "Oxygen",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "difficulty": "medium",
+    "explanation": "Comprehensive treatment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_080",
+    "question": "Most important emergency principle:",
+    "options": [
+      "Delay care",
+      "Preserve life",
+      "Ignore patient",
+      "Wait"
+    ],
+    "answer": "Preserve life",
+    "difficulty": "easy",
+    "explanation": "Main goal of first aid.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_081",
+    "question": "Airway obstruction sign is:",
+    "options": [
+      "Talking normally",
+      "Unable to speak",
+      "Eating",
+      "Walking"
+    ],
+    "answer": "Unable to speak",
+    "difficulty": "medium",
+    "explanation": "Indicates choking.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_082",
+    "question": "Most common cause of choking is:",
+    "options": [
+      "Water",
+      "Food",
+      "Air",
+      "Medicine"
+    ],
+    "answer": "Food",
+    "difficulty": "easy",
+    "explanation": "Food blocks airway.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_083",
+    "question": "Recovery position keeps:",
+    "options": [
+      "Heart rate high",
+      "Airway open",
+      "BP high",
+      "Pain increased"
+    ],
+    "answer": "Airway open",
+    "difficulty": "easy",
+    "explanation": "Prevents aspiration.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_084",
+    "question": "Most important in emergency kit:",
+    "options": [
+      "Gloves",
+      "Food",
+      "Books",
+      "Clothes"
+    ],
+    "answer": "Gloves",
+    "difficulty": "easy",
+    "explanation": "Prevents infection spread.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_085",
+    "question": "Bandage is used for:",
+    "options": [
+      "Nutrition",
+      "Wound protection",
+      "Fever",
+      "Exercise"
+    ],
+    "answer": "Wound protection",
+    "difficulty": "easy",
+    "explanation": "Covers and supports injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_086",
+    "question": "Cold exposure leads to:",
+    "options": [
+      "Heat stroke",
+      "Hypothermia",
+      "Fever",
+      "Shock"
+    ],
+    "answer": "Hypothermia",
+    "difficulty": "medium",
+    "explanation": "Low body temperature condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_087",
+    "question": "Hypothermia treatment is:",
+    "options": [
+      "Cooling",
+      "Warming",
+      "Massage only",
+      "Exercise"
+    ],
+    "answer": "Warming",
+    "difficulty": "easy",
+    "explanation": "Restores body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_088",
+    "question": "Most dangerous emergency condition:",
+    "options": [
+      "Cold",
+      "Cardiac arrest",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Cardiac arrest",
+    "difficulty": "easy",
+    "explanation": "Immediate life threat.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_089",
+    "question": "Emergency oxygen is given via:",
+    "options": [
+      "IV line",
+      "Mask",
+      "Oral tablet",
+      "Injection"
+    ],
+    "answer": "Mask",
+    "difficulty": "easy",
+    "explanation": "Supports breathing.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_090",
+    "question": "Shock position is:",
+    "options": [
+      "Head high",
+      "Feet elevated",
+      "Prone",
+      "Standing"
+    ],
+    "answer": "Feet elevated",
+    "difficulty": "medium",
+    "explanation": "Improves circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_091",
+    "question": "Most important in trauma care:",
+    "options": [
+      "Airway",
+      "Food",
+      "Sleep",
+      "Exercise"
+    ],
+    "answer": "Airway",
+    "difficulty": "easy",
+    "explanation": "First priority in trauma.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_092",
+    "question": "Bleeding from vein is:",
+    "options": [
+      "Bright red spurting",
+      "Dark steady flow",
+      "No bleeding",
+      "Oozing only"
+    ],
+    "answer": "Dark steady flow",
+    "difficulty": "medium",
+    "explanation": "Low pressure bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_093",
+    "question": "Most important in burns:",
+    "options": [
+      "Painkiller first",
+      "Stop heat source",
+      "Massage",
+      "Oil application"
+    ],
+    "answer": "Stop heat source",
+    "difficulty": "easy",
+    "explanation": "Prevents further damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_094",
+    "question": "Most important in CPR:",
+    "options": [
+      "Chest compressions",
+      "Food",
+      "Water",
+      "Sleep"
+    ],
+    "answer": "Chest compressions",
+    "difficulty": "easy",
+    "explanation": "Maintains circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_095",
+    "question": "Emergency response number in India:",
+    "options": [
+      "100",
+      "101",
+      "112",
+      "108"
+    ],
+    "answer": "112",
+    "difficulty": "easy",
+    "explanation": "Unified emergency number.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_096",
+    "question": "First aid means:",
+    "options": [
+      "Definitive treatment",
+      "Immediate temporary care",
+      "Surgery",
+      "Diagnosis"
+    ],
+    "answer": "Immediate temporary care",
+    "difficulty": "easy",
+    "explanation": "Before hospital care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_097",
+    "question": "Golden hour refers to:",
+    "options": [
+      "First minute",
+      "First hour after injury",
+      "First day",
+      "First week"
+    ],
+    "answer": "First hour after injury",
+    "difficulty": "hard",
+    "explanation": "Critical survival period.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_098",
+    "question": "Shock leads to:",
+    "options": [
+      "Good perfusion",
+      "Organ failure",
+      "Increased immunity",
+      "Weight gain"
+    ],
+    "answer": "Organ failure",
+    "difficulty": "medium",
+    "explanation": "Due to low oxygen supply.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_099",
+    "question": "Most important in emergency:",
+    "options": [
+      "Documentation",
+      "Life saving care",
+      "Delay",
+      "Waiting"
+    ],
+    "answer": "Life saving care",
+    "difficulty": "easy",
+    "explanation": "Priority is survival.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_100",
+    "question": "Emergency principle is:",
+    "options": [
+      "Do no harm",
+      "Delay care",
+      "Ignore",
+      "Wait"
+    ],
+    "answer": "Do no harm",
+    "difficulty": "easy",
+    "explanation": "First aid must be safe.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_101",
+    "question": "Most important goal of emergency care is:",
+    "options": [
+      "Delay treatment",
+      "Preserve life",
+      "Increase pain",
+      "Ignore symptoms"
+    ],
+    "answer": "Preserve life",
+    "difficulty": "easy",
+    "explanation": "Saving life is the first priority in emergencies.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_102",
+    "question": "Primary survey in emergency includes:",
+    "options": [
+      "ABCDE approach",
+      "XYZ approach",
+      "Only breathing check",
+      "Only pulse check"
+    ],
+    "answer": "ABCDE approach",
+    "difficulty": "medium",
+    "explanation": "Airway, Breathing, Circulation, Disability, Exposure.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_103",
+    "question": "Secondary survey means:",
+    "options": [
+      "Detailed head-to-toe examination",
+      "CPR",
+      "Only vitals check",
+      "Surgery"
+    ],
+    "answer": "Detailed head-to-toe examination",
+    "difficulty": "medium",
+    "explanation": "Performed after stabilization.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_104",
+    "question": "Most important in airway obstruction:",
+    "options": [
+      "Give water",
+      "Clear airway immediately",
+      "Massage",
+      "Wait"
+    ],
+    "answer": "Clear airway immediately",
+    "difficulty": "easy",
+    "explanation": "Airway is first priority.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_105",
+    "question": "Choking victim should be treated with:",
+    "options": [
+      "Heimlich maneuver",
+      "CPR only",
+      "Massage",
+      "Ice"
+    ],
+    "answer": "Heimlich maneuver",
+    "difficulty": "medium",
+    "explanation": "Used to remove airway blockage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_106",
+    "question": "Most common sign of hypoxia is:",
+    "options": [
+      "Cyanosis",
+      "Red skin",
+      "Fever",
+      "Cold hands only"
+    ],
+    "answer": "Cyanosis",
+    "difficulty": "medium",
+    "explanation": "Blue discoloration due to low oxygen.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_107",
+    "question": "Oxygen therapy is given to:",
+    "options": [
+      "Fever patients",
+      "Hypoxic patients",
+      "Fracture patients only",
+      "Headache"
+    ],
+    "answer": "Hypoxic patients",
+    "difficulty": "easy",
+    "explanation": "Improves oxygen levels.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_108",
+    "question": "Most important in CPR quality is:",
+    "options": [
+      "Slow compressions",
+      "Deep and fast compressions",
+      "No compressions",
+      "Only breaths"
+    ],
+    "answer": "Deep and fast compressions",
+    "difficulty": "medium",
+    "explanation": "Ensures blood circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_109",
+    "question": "CPR should be stopped when:",
+    "options": [
+      "Patient wakes up",
+      "Medical help arrives",
+      "Both A and B",
+      "Never stop"
+    ],
+    "answer": "Both A and B",
+    "difficulty": "medium",
+    "explanation": "Stop if recovery or advanced help arrives.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_110",
+    "question": "Defibrillation is used in:",
+    "options": [
+      "Fever",
+      "Ventricular fibrillation",
+      "Fracture",
+      "Burn"
+    ],
+    "answer": "Ventricular fibrillation",
+    "difficulty": "hard",
+    "explanation": "Shockable cardiac rhythm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_111",
+    "question": "Shock is characterized by:",
+    "options": [
+      "High BP",
+      "Low tissue perfusion",
+      "High fever",
+      "Pain only"
+    ],
+    "answer": "Low tissue perfusion",
+    "difficulty": "easy",
+    "explanation": "Insufficient blood flow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_112",
+    "question": "First sign of shock is:",
+    "options": [
+      "Warm skin",
+      "Restlessness",
+      "High fever",
+      "Redness"
+    ],
+    "answer": "Restlessness",
+    "difficulty": "medium",
+    "explanation": "Early hypoxia sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_113",
+    "question": "Hypovolemic shock is caused by:",
+    "options": [
+      "Heart failure",
+      "Blood loss",
+      "Brain injury",
+      "Infection"
+    ],
+    "answer": "Blood loss",
+    "difficulty": "medium",
+    "explanation": "Loss of circulating volume.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_114",
+    "question": "Septic shock is due to:",
+    "options": [
+      "Allergy",
+      "Severe infection",
+      "Fracture",
+      "Burn only"
+    ],
+    "answer": "Severe infection",
+    "difficulty": "medium",
+    "explanation": "Systemic infection response.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_115",
+    "question": "Cardiogenic shock is caused by:",
+    "options": [
+      "Heart failure",
+      "Lung infection",
+      "Burn",
+      "Fever"
+    ],
+    "answer": "Heart failure",
+    "difficulty": "medium",
+    "explanation": "Heart cannot pump blood.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_116",
+    "question": "Burn shock is mainly due to:",
+    "options": [
+      "Pain only",
+      "Fluid loss",
+      "Fever",
+      "Cold exposure"
+    ],
+    "answer": "Fluid loss",
+    "difficulty": "medium",
+    "explanation": "Plasma loss from burns.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_117",
+    "question": "Burn patient initial management is:",
+    "options": [
+      "Apply ice",
+      "Stop burning process",
+      "Massage",
+      "Cover tightly"
+    ],
+    "answer": "Stop burning process",
+    "difficulty": "easy",
+    "explanation": "First priority in burns.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_118",
+    "question": "Most effective burn cooling method:",
+    "options": [
+      "Ice directly",
+      "Cool running water",
+      "Oil application",
+      "Heat"
+    ],
+    "answer": "Cool running water",
+    "difficulty": "easy",
+    "explanation": "Reduces tissue damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_119",
+    "question": "Chemical burn is treated by:",
+    "options": [
+      "Water irrigation",
+      "Oil",
+      "Heat",
+      "Massage"
+    ],
+    "answer": "Water irrigation",
+    "difficulty": "medium",
+    "explanation": "Removes chemical agent.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_120",
+    "question": "Electrical burn first action:",
+    "options": [
+      "Touch patient",
+      "Disconnect power",
+      "Massage",
+      "Water"
+    ],
+    "answer": "Disconnect power",
+    "difficulty": "easy",
+    "explanation": "Ensure safety first.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_121",
+    "question": "Fracture first aid includes:",
+    "options": [
+      "Massage",
+      "Immobilization",
+      "Heat",
+      "Exercise"
+    ],
+    "answer": "Immobilization",
+    "difficulty": "easy",
+    "explanation": "Prevents further injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_122",
+    "question": "Open fracture means:",
+    "options": [
+      "Bone exposed",
+      "Skin intact",
+      "No injury",
+      "Only pain"
+    ],
+    "answer": "Bone exposed",
+    "difficulty": "medium",
+    "explanation": "Bone breaks through skin.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_123",
+    "question": "Splint purpose is:",
+    "options": [
+      "Reduce fever",
+      "Prevent movement",
+      "Increase pain",
+      "Massage"
+    ],
+    "answer": "Prevent movement",
+    "difficulty": "easy",
+    "explanation": "Stabilizes injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_124",
+    "question": "Sprain affects:",
+    "options": [
+      "Bone",
+      "Ligament",
+      "Muscle only",
+      "Skin"
+    ],
+    "answer": "Ligament",
+    "difficulty": "easy",
+    "explanation": "Stretching of ligaments.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_125",
+    "question": "Strain affects:",
+    "options": [
+      "Ligament",
+      "Muscle",
+      "Bone",
+      "Skin"
+    ],
+    "answer": "Muscle",
+    "difficulty": "easy",
+    "explanation": "Muscle injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_126",
+    "question": "Fainting is called:",
+    "options": [
+      "Coma",
+      "Syncope",
+      "Seizure",
+      "Shock"
+    ],
+    "answer": "Syncope",
+    "difficulty": "easy",
+    "explanation": "Temporary loss of consciousness.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_127",
+    "question": "Most common cause of fainting:",
+    "options": [
+      "High BP",
+      "Low BP",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Low BP",
+    "difficulty": "medium",
+    "explanation": "Reduced brain perfusion.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_128",
+    "question": "Seizure first aid includes:",
+    "options": [
+      "Hold tightly",
+      "Protect head",
+      "Give food",
+      "Restrict breathing"
+    ],
+    "answer": "Protect head",
+    "difficulty": "medium",
+    "explanation": "Prevents injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_129",
+    "question": "Most important in poisoning:",
+    "options": [
+      "Delay care",
+      "Identify substance",
+      "Ignore",
+      "Food intake"
+    ],
+    "answer": "Identify substance",
+    "difficulty": "medium",
+    "explanation": "Guides treatment.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_130",
+    "question": "Activated charcoal is used for:",
+    "options": [
+      "Burns",
+      "Poisoning",
+      "Fracture",
+      "Shock"
+    ],
+    "answer": "Poisoning",
+    "difficulty": "medium",
+    "explanation": "Absorbs toxins.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_131",
+    "question": "Most important emergency step:",
+    "options": [
+      "Delay",
+      "Airway",
+      "Food",
+      "Sleep"
+    ],
+    "answer": "Airway",
+    "difficulty": "easy",
+    "explanation": "Airway first priority.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_132",
+    "question": "Golden hour means:",
+    "options": [
+      "First 10 min",
+      "First hour after injury",
+      "First day",
+      "First week"
+    ],
+    "answer": "First hour after injury",
+    "difficulty": "hard",
+    "explanation": "Critical survival period.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_133",
+    "question": "Tourniquet is used in:",
+    "options": [
+      "Minor cuts",
+      "Severe bleeding",
+      "Burns",
+      "Fever"
+    ],
+    "answer": "Severe bleeding",
+    "difficulty": "medium",
+    "explanation": "Only for life-threatening bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_134",
+    "question": "CPR ratio in adults:",
+    "options": [
+      "15:2",
+      "30:2",
+      "20:2",
+      "10:2"
+    ],
+    "answer": "30:2",
+    "difficulty": "medium",
+    "explanation": "Standard guideline.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_135",
+    "question": "AED is used for:",
+    "options": [
+      "Fever",
+      "Cardiac arrest",
+      "Fracture",
+      "Burn"
+    ],
+    "answer": "Cardiac arrest",
+    "difficulty": "medium",
+    "explanation": "Restores heart rhythm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_136",
+    "question": "Shock position is:",
+    "options": [
+      "Head elevated",
+      "Feet elevated",
+      "Prone",
+      "Sitting"
+    ],
+    "answer": "Feet elevated",
+    "difficulty": "medium",
+    "explanation": "Improves circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_137",
+    "question": "Most dangerous shock type:",
+    "options": [
+      "Hypovolemic",
+      "Septic",
+      "All are dangerous",
+      "Neurogenic"
+    ],
+    "answer": "All are dangerous",
+    "difficulty": "medium",
+    "explanation": "All can be fatal.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_138",
+    "question": "Burn classification is based on:",
+    "options": [
+      "Color",
+      "Depth",
+      "Age",
+      "Weight"
+    ],
+    "answer": "Depth",
+    "difficulty": "easy",
+    "explanation": "Depth defines severity.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_139",
+    "question": "Most important in emergency kit:",
+    "options": [
+      "Food",
+      "Gloves",
+      "Clothes",
+      "Books"
+    ],
+    "answer": "Gloves",
+    "difficulty": "easy",
+    "explanation": "Prevents infection.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_140",
+    "question": "Primary goal of first aid:",
+    "options": [
+      "Cure disease",
+      "Save life",
+      "Delay care",
+      "Ignore symptoms"
+    ],
+    "answer": "Save life",
+    "difficulty": "easy",
+    "explanation": "Immediate survival priority.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_141",
+    "question": "Most important emergency principle:",
+    "options": [
+      "Do no harm",
+      "Delay care",
+      "Ignore patient",
+      "Wait"
+    ],
+    "answer": "Do no harm",
+    "difficulty": "easy",
+    "explanation": "Avoid worsening condition.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_142",
+    "question": "Venous bleeding is:",
+    "options": [
+      "Bright spurting",
+      "Dark steady flow",
+      "No bleeding",
+      "Oozing only"
+    ],
+    "answer": "Dark steady flow",
+    "difficulty": "medium",
+    "explanation": "Low pressure flow.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_143",
+    "question": "Arterial bleeding is:",
+    "options": [
+      "Dark slow",
+      "Bright spurting",
+      "No bleeding",
+      "Oozing"
+    ],
+    "answer": "Bright spurting",
+    "difficulty": "medium",
+    "explanation": "High pressure blood loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_144",
+    "question": "Capillary bleeding is:",
+    "options": [
+      "Spurting",
+      "Oozing",
+      "No bleeding",
+      "Severe"
+    ],
+    "answer": "Oozing",
+    "difficulty": "easy",
+    "explanation": "Slow surface bleeding.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_145",
+    "question": "Best first aid for bleeding:",
+    "options": [
+      "Heat",
+      "Direct pressure",
+      "Massage",
+      "Cold drinks"
+    ],
+    "answer": "Direct pressure",
+    "difficulty": "easy",
+    "explanation": "Stops blood loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_146",
+    "question": "Emergency oxygen improves:",
+    "options": [
+      "Pain",
+      "Breathing",
+      "Fracture",
+      "Burn"
+    ],
+    "answer": "Breathing",
+    "difficulty": "easy",
+    "explanation": "Increases oxygen supply.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_147",
+    "question": "Most important in seizure:",
+    "options": [
+      "Restrict tightly",
+      "Protect head",
+      "Give water",
+      "Shake patient"
+    ],
+    "answer": "Protect head",
+    "difficulty": "medium",
+    "explanation": "Prevents injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_148",
+    "question": "Emergency airway priority:",
+    "options": [
+      "Low priority",
+      "First priority",
+      "Last priority",
+      "Optional"
+    ],
+    "answer": "First priority",
+    "difficulty": "easy",
+    "explanation": "Airway is always first.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_149",
+    "question": "Shock leads to:",
+    "options": [
+      "Good perfusion",
+      "Organ failure",
+      "Improved immunity",
+      "Healing"
+    ],
+    "answer": "Organ failure",
+    "difficulty": "medium",
+    "explanation": "Due to poor circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_150",
+    "question": "First aid main principle:",
+    "options": [
+      "Delay treatment",
+      "Preserve life",
+      "Ignore injury",
+      "Wait"
+    ],
+    "answer": "Preserve life",
+    "difficulty": "easy",
+    "explanation": "Core objective of emergency care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_151",
+    "question": "Most important step in emergency assessment is:",
+    "options": [
+      "History taking",
+      "Airway assessment",
+      "Medication",
+      "X-ray"
+    ],
+    "answer": "Airway assessment",
+    "difficulty": "easy",
+    "explanation": "Airway is the first priority in all emergencies.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_152",
+    "question": "BLS stands for:",
+    "options": [
+      "Basic Life Support",
+      "Better Life System",
+      "Basic Lung Support",
+      "Body Life Safety"
+    ],
+    "answer": "Basic Life Support",
+    "difficulty": "easy",
+    "explanation": "Fundamental emergency life-saving care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_153",
+    "question": "ALS stands for:",
+    "options": [
+      "Advanced Life Support",
+      "Active Life System",
+      "Acute Life Support",
+      "Airway Life Safety"
+    ],
+    "answer": "Advanced Life Support",
+    "difficulty": "medium",
+    "explanation": "Advanced resuscitation techniques.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_154",
+    "question": "Most important CPR component is:",
+    "options": [
+      "Breaths only",
+      "Chest compressions",
+      "Food",
+      "IV fluids"
+    ],
+    "answer": "Chest compressions",
+    "difficulty": "easy",
+    "explanation": "Maintains circulation.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_155",
+    "question": "Airway opening technique in unconscious patient:",
+    "options": [
+      "Head tilt-chin lift",
+      "Leg elevation",
+      "Massage",
+      "Cold compress"
+    ],
+    "answer": "Head tilt-chin lift",
+    "difficulty": "medium",
+    "explanation": "Opens airway in non-trauma cases.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_156",
+    "question": "If spinal injury suspected, airway is opened by:",
+    "options": [
+      "Head tilt only",
+      "Jaw thrust",
+      "Neck rotation",
+      "Abdominal pressure"
+    ],
+    "answer": "Jaw thrust",
+    "difficulty": "hard",
+    "explanation": "Avoids neck movement.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_157",
+    "question": "Pulse check site in emergency is:",
+    "options": [
+      "Radial artery",
+      "Carotid artery",
+      "Femoral vein",
+      "Capillary bed"
+    ],
+    "answer": "Carotid artery",
+    "difficulty": "easy",
+    "explanation": "Reliable in emergencies.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_158",
+    "question": "Normal CPR compression rate:",
+    "options": [
+      "50–70/min",
+      "80–90/min",
+      "100–120/min",
+      "140–160/min"
+    ],
+    "answer": "100–120/min",
+    "difficulty": "medium",
+    "explanation": "Recommended guideline.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_159",
+    "question": "Compression to ventilation ratio:",
+    "options": [
+      "15:2",
+      "30:2",
+      "20:2",
+      "10:2"
+    ],
+    "answer": "30:2",
+    "difficulty": "medium",
+    "explanation": "Standard adult CPR ratio.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_160",
+    "question": "Defibrillator delivers:",
+    "options": [
+      "Medicine",
+      "Electric shock",
+      "Oxygen",
+      "Fluids"
+    ],
+    "answer": "Electric shock",
+    "difficulty": "easy",
+    "explanation": "Restores heart rhythm.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_161",
+    "question": "Most common shock type:",
+    "options": [
+      "Cardiogenic",
+      "Hypovolemic",
+      "Neurogenic",
+      "Allergic"
+    ],
+    "answer": "Hypovolemic",
+    "difficulty": "medium",
+    "explanation": "Due to blood/fluid loss.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_162",
+    "question": "First sign of hypoxia:",
+    "options": [
+      "Cyanosis",
+      "Hypertension",
+      "Fever",
+      "Pain"
+    ],
+    "answer": "Cyanosis",
+    "difficulty": "medium",
+    "explanation": "Low oxygen symptom.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_163",
+    "question": "Shock skin is:",
+    "options": [
+      "Warm",
+      "Cold clammy",
+      "Red hot",
+      "Dry only"
+    ],
+    "answer": "Cold clammy",
+    "difficulty": "easy",
+    "explanation": "Poor circulation sign.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_164",
+    "question": "Anaphylaxis treatment drug:",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Paracetamol",
+      "Aspirin"
+    ],
+    "answer": "Adrenaline",
+    "difficulty": "medium",
+    "explanation": "Life-saving allergic shock drug.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_165",
+    "question": "Most important in burns:",
+    "options": [
+      "Apply ice directly",
+      "Stop burning process",
+      "Massage",
+      "Cover tightly"
+    ],
+    "answer": "Stop burning process",
+    "difficulty": "easy",
+    "explanation": "Prevents further damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_166",
+    "question": "Burn cooling method:",
+    "options": [
+      "Hot water",
+      "Cool running water",
+      "Oil",
+      "Massage"
+    ],
+    "answer": "Cool running water",
+    "difficulty": "easy",
+    "explanation": "Reduces tissue damage.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_167",
+    "question": "Chemical burn first aid:",
+    "options": [
+      "Oil application",
+      "Water irrigation",
+      "Heat",
+      "Massage"
+    ],
+    "answer": "Water irrigation",
+    "difficulty": "medium",
+    "explanation": "Removes chemical agent.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_168",
+    "question": "Electrical injury first step:",
+    "options": [
+      "Touch patient",
+      "Disconnect power",
+      "Massage",
+      "Water"
+    ],
+    "answer": "Disconnect power",
+    "difficulty": "easy",
+    "explanation": "Ensure scene safety.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_169",
+    "question": "Fracture management includes:",
+    "options": [
+      "Exercise",
+      "Immobilization",
+      "Heat",
+      "Massage"
+    ],
+    "answer": "Immobilization",
+    "difficulty": "easy",
+    "explanation": "Prevents further injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_170",
+    "question": "Open fracture means:",
+    "options": [
+      "Bone exposed",
+      "No injury",
+      "Skin intact",
+      "Bruise only"
+    ],
+    "answer": "Bone exposed",
+    "difficulty": "medium",
+    "explanation": "Bone breaks skin barrier.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_171",
+    "question": "Most important in trauma:",
+    "options": [
+      "Airway",
+      "Food",
+      "Sleep",
+      "Exercise"
+    ],
+    "answer": "Airway",
+    "difficulty": "easy",
+    "explanation": "First priority in trauma care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_172",
+    "question": "Stroke FAST test checks:",
+    "options": [
+      "Face, Arms, Speech, Time",
+      "Fever, Airway, Sugar, Temp",
+      "Flow, Artery, Stroke, Therapy",
+      "Fast Action Safety Test"
+    ],
+    "answer": "Face, Arms, Speech, Time",
+    "difficulty": "medium",
+    "explanation": "Stroke identification tool.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_173",
+    "question": "Most dangerous emergency:",
+    "options": [
+      "Cold",
+      "Cardiac arrest",
+      "Fever",
+      "Cough"
+    ],
+    "answer": "Cardiac arrest",
+    "difficulty": "easy",
+    "explanation": "Immediate life threat.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_174",
+    "question": "Recovery position is used for:",
+    "options": [
+      "Unconscious breathing patient",
+      "Dead patient",
+      "Fracture",
+      "Bleeding"
+    ],
+    "answer": "Unconscious breathing patient",
+    "difficulty": "medium",
+    "explanation": "Keeps airway open.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_175",
+    "question": "Choking emergency treatment:",
+    "options": [
+      "CPR only",
+      "Heimlich maneuver",
+      "Massage",
+      "Cold water"
+    ],
+    "answer": "Heimlich maneuver",
+    "difficulty": "medium",
+    "explanation": "Removes airway obstruction.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_176",
+    "question": "Most important emergency kit item:",
+    "options": [
+      "Food",
+      "Gloves",
+      "Books",
+      "Clothes"
+    ],
+    "answer": "Gloves",
+    "difficulty": "easy",
+    "explanation": "Prevents infection spread.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_177",
+    "question": "Seizure first aid includes:",
+    "options": [
+      "Restrict tightly",
+      "Protect head",
+      "Give water",
+      "Shake patient"
+    ],
+    "answer": "Protect head",
+    "difficulty": "medium",
+    "explanation": "Prevents injury.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_178",
+    "question": "Hypothermia treatment is:",
+    "options": [
+      "Cooling",
+      "Warming",
+      "Massage",
+      "Exercise"
+    ],
+    "answer": "Warming",
+    "difficulty": "easy",
+    "explanation": "Restores body temperature.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_179",
+    "question": "Golden hour refers to:",
+    "options": [
+      "First hour after injury",
+      "First day",
+      "First week",
+      "First minute"
+    ],
+    "answer": "First hour after injury",
+    "difficulty": "hard",
+    "explanation": "Critical survival period.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  },
+  {
+    "id": "FA_180",
+    "question": "Primary goal of first aid:",
+    "options": [
+      "Cure disease",
+      "Preserve life",
+      "Delay care",
+      "Ignore symptoms"
+    ],
+    "answer": "Preserve life",
+    "difficulty": "easy",
+    "explanation": "Main objective of emergency care.",
+    "exam": [
+      "NORCET",
+      "AIIMS",
+      "Staff Nurse"
+    ],
+    "chapter": "FIRST_AID_EMERGENCY"
+  }
+]
